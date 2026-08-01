@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972218541379293184",
+        "3_1972218541396127744"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1972218590863798593",
+    "created_at": "2025-09-28T08:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972218590863798593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dzXRP6lfhb",
+          "end": 37,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1972218590863798593/photo/1",
+          "media_key": "3_1972218541379293184",
+          "start": 14,
+          "url": "https://t.co/dzXRP6lfhb"
+        },
+        {
+          "display_url": "pic.x.com/dzXRP6lfhb",
+          "end": 37,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1972218590863798593/photo/1",
+          "media_key": "3_1972218541396127744",
+          "start": 14,
+          "url": "https://t.co/dzXRP6lfhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972218590863798593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实体卡拿到了，相当有质感🤯 https://t.co/dzXRP6lfhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3512,
+        "media_key": "3_1972218541379293184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G166UGpaEAAyZEP.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3512,
+        "media_key": "3_1972218541396127744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G166UGta8AAxWeU.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972218541379293184",
+            "3_1972218541396127744"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1972218590863798593",
+        "created_at": "2025-09-28T08:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972218590863798593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzXRP6lfhb",
+              "end": 37,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1972218590863798593/photo/1",
+              "media_key": "3_1972218541379293184",
+              "start": 14,
+              "url": "https://t.co/dzXRP6lfhb"
+            },
+            {
+              "display_url": "pic.x.com/dzXRP6lfhb",
+              "end": 37,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1972218590863798593/photo/1",
+              "media_key": "3_1972218541396127744",
+              "start": 14,
+              "url": "https://t.co/dzXRP6lfhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972218590863798593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实体卡拿到了，相当有质感🤯 https://t.co/dzXRP6lfhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 1296,
+          "like_count": 5749,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

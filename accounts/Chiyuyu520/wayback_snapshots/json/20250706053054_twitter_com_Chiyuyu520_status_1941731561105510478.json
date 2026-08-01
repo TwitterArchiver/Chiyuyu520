@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1941731561105510478",
+    "created_at": "2025-07-06T05:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T06:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941731561105510478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengziintrans/…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/mengziintrans/status/1941517085374546118",
+          "start": 144,
+          "url": "https://t.co/qqrS2lhqGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941731561105510478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941517085374546118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话是这样说，先活着吧。但人总要有些东西支撑着不是么\n是人是物，总要有个\n池鱼小栈对我来说很重要，至少是我付出精力很多的一个成果\n就跟我喜欢收集各个国家的实体SIM卡一样，有意义吗，可能确实没什么意义\n但每个人都有自己的小爱好不是么 我也是靠这些和爱着的人而活着\n也感谢给过我帮助的所有人 https://t.co/qqrS2lhqGl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1941731561105510478",
+        "created_at": "2025-07-06T05:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941731561105510478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengziintrans/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/mengziintrans/status/1941517085374546118",
+              "start": 144,
+              "url": "https://t.co/qqrS2lhqGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941731561105510478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941517085374546118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话是这样说，先活着吧。但人总要有些东西支撑着不是么\n是人是物，总要有个\n池鱼小栈对我来说很重要，至少是我付出精力很多的一个成果\n就跟我喜欢收集各个国家的实体SIM卡一样，有意义吗，可能确实没什么意义\n但每个人都有自己的小爱好不是么 我也是靠这些和爱着的人而活着\n也感谢给过我帮助的所有人 https://t.co/qqrS2lhqGl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397154448103804930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1941507873680642115",
+        "created_at": "2025-07-05T15:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941517085374546118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941517085374546118",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941507873680642115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 服务器无所谓，妹子健健康康好好活着最重要，活着才有机会srs做真正的女孩子不是吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 1127,
+          "like_count": 2545,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-25T11:36:05.000Z",
+        "description": "mtx/第二性征gd/16岁开始无证含糖/停糖三年/家长党/社恐ing/入职国有建筑企业ing/预备海外工地牛马/深柜/顺直营业/人生实验：隐藏在土木牛马中纯纯的xyn（bushi）",
+        "id": "1397154448103804930",
+        "name": "药圈带猛子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609538089235390465/ZWugSe56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 78,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 92
+        },
+        "username": "mengziintrans",
+        "verified": false
+      }
+    ]
+  }
+}

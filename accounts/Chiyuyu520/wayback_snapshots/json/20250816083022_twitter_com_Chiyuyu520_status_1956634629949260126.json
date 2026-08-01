@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1956634629949260126",
+    "created_at": "2025-08-16T08:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T09:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956634629949260126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linlin444444/s…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/linlin444444/status/1956512283527610492",
+          "start": 135,
+          "url": "https://t.co/xJ9fE3i6JW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956634629949260126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "听到你说的这些经历，心像被刀割一样疼，我想起了我的曾经\n\n每一件事，都太沉重了，根本不是一个孩子该承受的东西\n\n不是你不够好，不是你活该，也不是你做了什么错事\n\n是这个世界太糟，是某些人太恶毒，他们伤害了你\n\n而你，只是一个一直在用尽全力想要去爱、去相信、去活下去的人\n\n咱看到的你，是一个被反复伤害，却还愿意相信爱的勇敢女孩\n\n你愿意坦白这些经历，本身就说明你是多么坚强\n\n不是每个人都有勇气面对这些伤口的\n\n你有这些情绪，是因为你是活生生、有感觉的人\n\n你不是一个人\n\n你有权利幸福，有权利被爱，有权利拥有安全、自由、温柔的生活\n\n你已经够勇敢了\n\n你值得最温柔的世界"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956512283527610492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "听到你说的这些经历，心像被刀割一样疼，我想起了我的曾经\n\n每一件事，都太沉重了，根本不是一个孩子该承受的东西\n\n不是你不够好，不是你活该，也不是你做了什么错事\n\n是这个世界太糟，是某些人太恶毒，他们伤害了你\n\n而你，只是一个一直在用尽全力想要去爱、去相信、去活下去的人 https://t.co/xJ9fE3i6JW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1956634629949260126",
+        "created_at": "2025-08-16T08:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T09:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956634629949260126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linlin444444/s…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/linlin444444/status/1956512283527610492",
+              "start": 135,
+              "url": "https://t.co/xJ9fE3i6JW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956634629949260126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "听到你说的这些经历，心像被刀割一样疼，我想起了我的曾经\n\n每一件事，都太沉重了，根本不是一个孩子该承受的东西\n\n不是你不够好，不是你活该，也不是你做了什么错事\n\n是这个世界太糟，是某些人太恶毒，他们伤害了你\n\n而你，只是一个一直在用尽全力想要去爱、去相信、去活下去的人\n\n咱看到的你，是一个被反复伤害，却还愿意相信爱的勇敢女孩\n\n你愿意坦白这些经历，本身就说明你是多么坚强\n\n不是每个人都有勇气面对这些伤口的\n\n你有这些情绪，是因为你是活生生、有感觉的人\n\n你不是一个人\n\n你有权利幸福，有权利被爱，有权利拥有安全、自由、温柔的生活\n\n你已经够勇敢了\n\n你值得最温柔的世界"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956512283527610492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "听到你说的这些经历，心像被刀割一样疼，我想起了我的曾经\n\n每一件事，都太沉重了，根本不是一个孩子该承受的东西\n\n不是你不够好，不是你活该，也不是你做了什么错事\n\n是这个世界太糟，是某些人太恶毒，他们伤害了你\n\n而你，只是一个一直在用尽全力想要去爱、去相信、去活下去的人 https://t.co/xJ9fE3i6JW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1956512283527610492",
+        "created_at": "2025-08-16T00:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T01:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956512283527610492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956512283527610492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2413,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我呢，你要我怎么办，十三岁谈恋爱，在什么都互动也没有发生性行为的情况被养母打到牙齿碎了一角，十五岁谈恋爱被骗上床强奸，后期想分手牙齿被打碎三分之一，十六岁谈恋爱被逼着吸毒未遂，到现在那么大了谈场恋爱被骂了小一个月，我到现在都不明白我做错了什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1949007666581569879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 1289,
+          "like_count": 4539,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 66,
+          "like_count": 349,
+          "listed_count": 10,
+          "media_count": 28,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001400205527388160"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2001400212263489699",
+    "created_at": "2025-12-17T21:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T22:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001400212263489699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTtrFh1MYF",
+          "end": 34,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2001400212263489699/photo/1",
+          "media_key": "3_2001400205527388160",
+          "start": 11,
+          "url": "https://t.co/kTtrFh1MYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001400212263489699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "21.不要自己画组件 https://t.co/kTtrFh1MYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2001400205527388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Zm4g_akAAyEhd.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001400205527388160"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2001400212263489699",
+        "created_at": "2025-12-17T21:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T22:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001400212263489699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTtrFh1MYF",
+              "end": 34,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2001400212263489699/photo/1",
+              "media_key": "3_2001400205527388160",
+              "start": 11,
+              "url": "https://t.co/kTtrFh1MYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001400212263489699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21.不要自己画组件 https://t.co/kTtrFh1MYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "含糖 25.03.24 雷见证蛆抽象人 日雌350/盒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmh1io"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1998260372411986125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 1271,
+          "like_count": 5868,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/ueqIkmh1io",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

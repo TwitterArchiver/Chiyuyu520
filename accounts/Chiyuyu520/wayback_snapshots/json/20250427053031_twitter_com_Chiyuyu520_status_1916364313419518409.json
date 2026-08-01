@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916302884679127299",
+    "created_at": "2025-04-27T05:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T06:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916364313419518409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793377526542245888",
+          "start": 0,
+          "username": "CT726D_sky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916364313419518409",
+    "in_reply_to_user_id": "793377526542245888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916358767131689437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CT726D_sky 已经结束啦🥺可以看新帖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916302884679127299",
+        "created_at": "2025-04-27T05:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916364313419518409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793377526542245888",
+              "start": 0,
+              "username": "CT726D_sky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916364313419518409",
+        "in_reply_to_user_id": "793377526542245888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916358767131689437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CT726D_sky 已经结束啦🥺可以看新帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793377526542245888",
+        "conversation_id": "1916302884679127299",
+        "created_at": "2025-04-27T05:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916358767131689437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916358767131689437",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916302884679127299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 自行打針風險高，如果沒有相關知識盡量不要，真的要打記得確實消毒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 202,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 127
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-01T09:01:57.000Z",
+        "description": "",
+        "id": "793377526542245888",
+        "location": "Tainan City, Taiwan",
+        "name": "把悲傷留給自己",
+        "pinned_tweet_id": "1910151225905238058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/793381048943980544/94P_ztMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1855,
+          "like_count": 14614,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 530
+        },
+        "username": "CT726D_sky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2053072347276685679",
+    "created_at": "2026-05-10T03:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053323103049224294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721003883579748352",
+          "start": 0,
+          "username": "tushanhonghong9"
+        },
+        {
+          "end": 29,
+          "id": "1754494415152766976",
+          "start": 17,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053323103049224294",
+    "in_reply_to_user_id": "1721003883579748352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053306831888654482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@tushanhonghong9 @NagiExpress 没有，我走的那天晚上你哭的最大声了🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2053072347276685679",
+        "created_at": "2026-05-10T03:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053323103049224294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721003883579748352",
+              "start": 0,
+              "username": "tushanhonghong9"
+            },
+            {
+              "end": 29,
+              "id": "1754494415152766976",
+              "start": 17,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053323103049224294",
+        "in_reply_to_user_id": "1721003883579748352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053306831888654482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@tushanhonghong9 @NagiExpress 没有，我走的那天晚上你哭的最大声了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721003883579748352",
+        "conversation_id": "2053072347276685679",
+        "created_at": "2026-05-10T02:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053306831888654482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 24,
+              "id": "1904873292366036992",
+              "start": 13,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053306831888654482",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053145204664770692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@NagiExpress @Chiyuyu520 没有的事喵😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3931,
+          "following_count": 1290,
+          "like_count": 6611,
+          "listed_count": 9,
+          "media_count": 367,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 547,
+          "like_count": 63106,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 2463
+        },
+        "username": "tushanhonghong9",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "ねぇ もしも",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "感觉不如沙坪坝",
+        "name": "Nagi想舔你喉结",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053273167678828553/m1eEnnhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5580,
+          "following_count": 2354,
+          "like_count": 27679,
+          "listed_count": 9,
+          "media_count": 2420,
+          "tweet_count": 23566
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

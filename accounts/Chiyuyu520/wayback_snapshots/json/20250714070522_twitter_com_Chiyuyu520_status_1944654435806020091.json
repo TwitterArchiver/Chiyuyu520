@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944654433486340097"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1944654435806020091",
+    "created_at": "2025-07-14T07:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944654435806020091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们更好地了解自己，并以实际行动支持她们走出困境，获得长期发展的机会，迈向更安全、更有尊严的生活。",
+          "display_url": "MtF.Report",
+          "end": 23,
+          "expanded_url": "http://MtF.Report",
+          "start": 0,
+          "status": 200,
+          "title": "MtF.Report",
+          "unwound_url": "https://mtf.report/",
+          "url": "https://t.co/K2oJ9kpauU"
+        },
+        {
+          "display_url": "pic.x.com/mAAQYsUujY",
+          "end": 148,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1944654435806020091/photo/1",
+          "media_key": "3_1944654433486340097",
+          "start": 125,
+          "url": "https://t.co/mAAQYsUujY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944654435806020091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/K2oJ9kpauU接受各位的投稿\n欢迎各位把自己的经历整理成来信/文档等内容进行投稿\n任何人都是独一无二的，你可以讲述自己的历程，与我们分享相关的看法\n投稿方式：\n推特私信我 或者发邮件：\nmail@mtf.report https://t.co/mAAQYsUujY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_1944654433486340097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzM527XgAEjlKE.png",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944654433486340097"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1944654435806020091",
+        "created_at": "2025-07-14T07:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944654435806020091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们更好地了解自己，并以实际行动支持她们走出困境，获得长期发展的机会，迈向更安全、更有尊严的生活。",
+              "display_url": "MtF.Report",
+              "end": 23,
+              "expanded_url": "http://MtF.Report",
+              "start": 0,
+              "status": 200,
+              "title": "MtF.Report",
+              "unwound_url": "https://mtf.report/",
+              "url": "https://t.co/K2oJ9kpauU"
+            },
+            {
+              "display_url": "pic.x.com/mAAQYsUujY",
+              "end": 148,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1944654435806020091/photo/1",
+              "media_key": "3_1944654433486340097",
+              "start": 125,
+              "url": "https://t.co/mAAQYsUujY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944654435806020091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K2oJ9kpauU接受各位的投稿\n欢迎各位把自己的经历整理成来信/文档等内容进行投稿\n任何人都是独一无二的，你可以讲述自己的历程，与我们分享相关的看法\n投稿方式：\n推特私信我 或者发邮件：\nmail@mtf.report https://t.co/mAAQYsUujY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1143,
+          "like_count": 2797,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

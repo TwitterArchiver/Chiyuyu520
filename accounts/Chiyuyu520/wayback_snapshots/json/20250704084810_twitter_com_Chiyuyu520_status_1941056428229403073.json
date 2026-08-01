@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1937488264895824389",
+    "created_at": "2025-07-04T08:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941056428229403073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1860683308897796096",
+          "start": 0,
+          "username": "Aloyd0359"
+        },
+        {
+          "end": 20,
+          "id": "1513794140508631041",
+          "start": 11,
+          "username": "hoshroin"
+        },
+        {
+          "end": 29,
+          "id": "1574926726895108096",
+          "start": 21,
+          "username": "crooes2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941056428229403073",
+    "in_reply_to_user_id": "1860683308897796096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941053803215966583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloyd0359 @hoshroin @crooes2 因为这顿是家长请的，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1937488264895824389",
+        "created_at": "2025-07-04T08:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941056428229403073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1860683308897796096",
+              "start": 0,
+              "username": "Aloyd0359"
+            },
+            {
+              "end": 20,
+              "id": "1513794140508631041",
+              "start": 11,
+              "username": "hoshroin"
+            },
+            {
+              "end": 29,
+              "id": "1574926726895108096",
+              "start": 21,
+              "username": "crooes2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941056428229403073",
+        "in_reply_to_user_id": "1860683308897796096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941053803215966583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloyd0359 @hoshroin @crooes2 因为这顿是家长请的，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860683308897796096",
+        "conversation_id": "1937488264895824389",
+        "created_at": "2025-07-04T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941053803215966583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 21,
+              "id": "1513794140508631041",
+              "start": 12,
+              "username": "hoshroin"
+            },
+            {
+              "end": 30,
+              "id": "1574926726895108096",
+              "start": 22,
+              "username": "crooes2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941053803215966583",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937488264895824389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @hoshroin @crooes2 礼貌问问吃这么好还没钱啊？(无恶意就是好奇，因为我真的没有见过，小县城里这一顿保底有二百块吧？村里是不可能出现这些的)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 1122,
+          "like_count": 2334,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T13:54:11.000Z",
+        "description": "",
+        "id": "1860683308897796096",
+        "name": "Aloyd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860683702151593984/NTdn-YM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Aloyd0359",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T08:20:36.000Z",
+        "description": "喜欢猫猫 | she/her | 生活清水推 | feminist | 不常上线 有时会发疯乱b人 谨慎关注 | 挚爱是 @crooes2 ❤ | 无意义日记发疯里号 @dacros4real",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "crooes2"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "dacros4real"
+              }
+            ]
+          }
+        },
+        "id": "1513794140508631041",
+        "location": "your cerebral cortex",
+        "name": "HoshRoin🍥",
+        "pinned_tweet_id": "1917925203977658636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839233363279806465/jfe-vP8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 685,
+          "like_count": 14551,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 2862
+        },
+        "username": "hoshroin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T00:59:51.000Z",
+        "description": "hrt 2023.1.31｜mtf｜手术攒钱中｜分享有趣推文｜可能是地雷女？｜轻微严男｜中文母语者｜挚爱是@hoshroin❤️｜现实生活幸福，淡推～｜可爱小动物喜爱｜备用帐号是@TianzunWarlord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "hoshroin"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "TianzunWarlord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+LY-e4e-sYawxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+LY-e4e-sYawxMWE1",
+                "start": 0,
+                "url": "https://t.co/1Uh3oxRWwT"
+              }
+            ]
+          }
+        },
+        "id": "1574926726895108096",
+        "location": "克克屯",
+        "name": "克洛兹crooes🏳️‍⚧️",
+        "pinned_tweet_id": "1886330201610879132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925665833394610176/I9_N9d9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 395,
+          "like_count": 7687,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 6412
+        },
+        "url": "https://t.co/1Uh3oxRWwT",
+        "username": "crooes2",
+        "verified": false
+      }
+    ]
+  }
+}

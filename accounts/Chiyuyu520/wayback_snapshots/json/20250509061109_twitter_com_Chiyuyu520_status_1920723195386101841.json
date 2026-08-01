@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1920257230944846076",
+    "created_at": "2025-05-09T06:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T07:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920723195386101841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854512599700029440",
+          "start": 0,
+          "username": "brokensensai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920723195386101841",
+    "in_reply_to_user_id": "1854512599700029440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920652509053436007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brokensensai mtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1920257230944846076",
+        "created_at": "2025-05-09T06:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T07:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920723195386101841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854512599700029440",
+              "start": 0,
+              "username": "brokensensai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920723195386101841",
+        "in_reply_to_user_id": "1854512599700029440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920652509053436007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brokensensai mtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854512599700029440",
+        "conversation_id": "1920257230944846076",
+        "created_at": "2025-05-09T01:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T02:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920652509053436007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920652509053436007",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920388345135575438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 男娘？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 263,
+          "like_count": 183,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 162
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T13:14:39.000Z",
+        "description": "",
+        "id": "1854512599700029440",
+        "location": "ᴱᵃʳᵗʰ",
+        "name": "𝒮ℯ𝓃𝓈ℯ🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854515802042773504/cq4YnLFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 84,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 108
+        },
+        "username": "brokensensai",
+        "verified": false
+      }
+    ]
+  }
+}

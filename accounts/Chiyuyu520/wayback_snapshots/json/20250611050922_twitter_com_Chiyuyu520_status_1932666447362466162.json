@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1932666444531314690"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1932666447362466162",
+    "created_at": "2025-06-11T05:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T06:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932666447362466162"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932666447362466162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🎉🎉🎉千fo节点达成！！\n1000fo祝贺🎉🎉🎉\n由于抽奖帖才发没多久，按照帖子内容，会延迟开奖直到帖子热度下去\n咱会根据投票结束的比例来确定是继续等参与的人更多还是开始直接抽～"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-06-12T05:09:22.000Z",
+        "id": "1932666444531314690",
+        "options": [
+          {
+            "label": "已参与快开奖",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "没看见去参与",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "来吃瓜的不参与",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1932666444531314690"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1932666447362466162",
+        "created_at": "2025-06-11T05:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932666447362466162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932666447362466162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉🎉🎉千fo节点达成！！\n1000fo祝贺🎉🎉🎉\n由于抽奖帖才发没多久，按照帖子内容，会延迟开奖直到帖子热度下去\n咱会根据投票结束的比例来确定是继续等参与的人更多还是开始直接抽～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 761,
+          "like_count": 983,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

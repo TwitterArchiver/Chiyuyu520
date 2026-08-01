@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1915338007101759878",
+    "created_at": "2025-04-25T19:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T20:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915855487897374771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1364559713967439872",
+          "start": 0,
+          "username": "hzy926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915855487897374771",
+    "in_reply_to_user_id": "1364559713967439872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915338007101759878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzy926 怎么啦？抱抱你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1915338007101759878",
+        "created_at": "2025-04-25T19:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T20:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915855487897374771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1364559713967439872",
+              "start": 0,
+              "username": "hzy926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915855487897374771",
+        "in_reply_to_user_id": "1364559713967439872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915338007101759878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzy926 怎么啦？抱抱你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364559713967439872",
+        "conversation_id": "1915338007101759878",
+        "created_at": "2025-04-24T09:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T10:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915338007101759878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915338007101759878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好抑郁好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 161,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 98
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T12:56:11.000Z",
+        "description": "一只03年的xyn🍥希望可以被喜欢可以被爱 粥/ba/cs（笨蛋）想要关注，会互fo🥺 欢迎私聊 如果想加qq也可以（坐标西安）门槛50r 私聊可以要🐧（比较m接受私信骚扰呀） 随机伪街 欢迎抓我",
+        "id": "1364559713967439872",
+        "location": "你身后",
+        "name": "roselya🏳️‍⚧️",
+        "pinned_tweet_id": "1840043776397717596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898698831078051840/T0HkPK2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 1755,
+          "like_count": 4609,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "hzy926",
+        "verified": false
+      }
+    ]
+  }
+}

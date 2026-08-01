@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1947144608137547825",
+    "created_at": "2025-07-21T04:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T05:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947159555760328972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632740969136406528",
+          "start": 0,
+          "username": "Greator1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947159555760328972",
+    "in_reply_to_user_id": "1632740969136406528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947158859170320664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greator1227 错误"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_1947158849477390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWyqDhbsAAdS7R.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1947144608137547825",
+        "created_at": "2025-07-21T04:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947159555760328972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632740969136406528",
+              "start": 0,
+              "username": "Greator1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947159555760328972",
+        "in_reply_to_user_id": "1632740969136406528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947158859170320664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greator1227 错误"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947158849477390336"
+          ]
+        },
+        "author_id": "1632740969136406528",
+        "conversation_id": "1947144608137547825",
+        "created_at": "2025-07-21T04:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947158859170320664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TVDSws469",
+              "end": 49,
+              "expanded_url": "https://x.com/Greator1227/status/1947158859170320664/photo/1",
+              "media_key": "3_1947158849477390336",
+              "start": 26,
+              "url": "https://t.co/8TVDSws469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947158859170320664",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947144608137547825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 和4月10日的帖子有关？🤔 https://t.co/8TVDSws469"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947144608137547825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 1209,
+          "like_count": 3550,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-06T13:52:52.000Z",
+        "description": "",
+        "id": "1632740969136406528",
+        "name": "Greator1227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944550806960652288/kkI1kjIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 46,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "Greator1227",
+        "verified": false
+      }
+    ]
+  }
+}

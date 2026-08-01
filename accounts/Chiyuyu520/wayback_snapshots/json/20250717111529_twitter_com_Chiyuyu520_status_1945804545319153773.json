@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1945804545319153773",
+    "created_at": "2025-07-17T11:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:14:00.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945804171308839223",
+      "1945804545319153773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SteveXian11451…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/SteveXian114514/status/1945799632736657849",
+          "start": 78,
+          "url": "https://t.co/mgbGjDZ2Qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945804545319153773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945799632736657849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "池鱼当一次大好人吧\n大概看了眼你的帖子，没干我雷点上，甚至之前还转发过我的帖\n那么，你也不必抽奖了，我已经私聊发送了你联系方式，联系我获取你的新SIM卡吧 https://t.co/mgbGjDZ2Qq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1945804171308839223",
+        "created_at": "2025-07-17T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:14:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945804171308839223",
+          "1945804545319153773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SteveXian11451…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/SteveXian114514/status/1945799632736657849",
+              "start": 68,
+              "url": "https://t.co/mgbGjDZ2Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945804171308839223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945799632736657849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概看了眼你的帖子，没干我雷点上，甚至之前还转发过我的帖\n那么，你也不必抽奖了，我已经私聊发送了你联系方式，联系我获取你的新SIM卡吧 https://t.co/mgbGjDZ2Qq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1945804545319153773",
+        "created_at": "2025-07-17T11:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:14:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945804171308839223",
+          "1945804545319153773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SteveXian11451…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/SteveXian114514/status/1945799632736657849",
+              "start": 78,
+              "url": "https://t.co/mgbGjDZ2Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945804545319153773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945799632736657849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "池鱼当一次大好人吧\n大概看了眼你的帖子，没干我雷点上，甚至之前还转发过我的帖\n那么，你也不必抽奖了，我已经私聊发送了你联系方式，联系我获取你的新SIM卡吧 https://t.co/mgbGjDZ2Qq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634807884268855297",
+        "conversation_id": "1945759756121210958",
+        "created_at": "2025-07-17T10:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945799632736657849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945799632736657849",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945790224690503952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 或者新西兰那个卡..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1164,
+          "like_count": 3078,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,Just a middle school student,also is a mtf,like to play Chunithm!   hrt:2025/6/13 \nMy best sister: @zhi_cheng233  \nHope you have a nice day!😋🥰🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 109,
+                "username": "zhi_cheng233"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "name": "Alex_Steve🍥",
+        "pinned_tweet_id": "1943668348111180235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934959692100587520/3Q5udlze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 163,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 155
+        },
+        "username": "SteveXian114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1933508150457741354",
+    "created_at": "2025-06-13T12:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933508150457741354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1932784250539102481",
+          "start": 22,
+          "url": "https://t.co/0EF64xUfcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933508150457741354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932784250539102481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续：已被家长带回，可以使用凝胶进行HRT https://t.co/0EF64xUfcz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1933508150457741354",
+        "created_at": "2025-06-13T12:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933508150457741354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1932784250539102481",
+              "start": 22,
+              "url": "https://t.co/0EF64xUfcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933508150457741354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932784250539102481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续：已被家长带回，可以使用凝胶进行HRT https://t.co/0EF64xUfcz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1932784250539102481",
+        "created_at": "2025-06-11T12:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932784250539102481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1932760622200205337",
+              "start": 33,
+              "url": "https://t.co/rLPIZFexvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932784250539102481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9355,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932760622200205337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新：在杭州东站派出所，要被家人带回去了🥺\n感觉一场大事要来了… https://t.co/rLPIZFexvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 837,
+          "like_count": 1167,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

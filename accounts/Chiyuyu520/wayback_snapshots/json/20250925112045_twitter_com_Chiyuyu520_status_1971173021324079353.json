@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1971173021324079353",
+    "created_at": "2025-09-25T11:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T12:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971173021324079353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daimo12138/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/daimo12138/status/1971157039662629336",
+          "start": 40,
+          "url": "https://t.co/QNnpsXttIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971173021324079353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971157039662629336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢支持。\n我们得日雌，370/盒 \n京东包邮包邮到家\n不收您快递费\n欢迎购买 https://t.co/QNnpsXttIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971157029411786752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1r03-aakAAyOsY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1971173021324079353",
+        "created_at": "2025-09-25T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971173021324079353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daimo12138/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/daimo12138/status/1971157039662629336",
+              "start": 40,
+              "url": "https://t.co/QNnpsXttIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971173021324079353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971157039662629336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢支持。\n我们得日雌，370/盒 \n京东包邮包邮到家\n不收您快递费\n欢迎购买 https://t.co/QNnpsXttIx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971157029411786752"
+          ]
+        },
+        "author_id": "1711823629560819712",
+        "conversation_id": "1971157039662629336",
+        "created_at": "2025-09-25T10:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971157039662629336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1904873292366036992",
+              "start": 9,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5H9Pj6eVp",
+              "end": 73,
+              "expanded_url": "https://x.com/daimo12138/status/1971157039662629336/photo/1",
+              "media_key": "3_1971157029411786752",
+              "start": 50,
+              "url": "https://t.co/o5H9Pj6eVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971157039662629336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌到啦，是在鱼鱼@Chiyuyu520那里买的，物流很快！包装也一点事也没有，有包大大一圈泡泡纸 https://t.co/o5H9Pj6eVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 1298,
+          "like_count": 5739,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-10T19:19:01.000Z",
+        "description": "09年の小小一只身高不足165的小药娘🏳️‍⚧️ 喜欢和同类贴贴❤️ 重度社恐INFP-t🤕 吃下😋第一粒糖糖🍥的日期是8.5 暂未炸柜深柜  同类互关🥰好闺闺:@xiaoxunjiang520 小号:@bronya_momo                   QQ小群：712586872",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "xiaoxunjiang520"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "bronya_momo"
+              }
+            ]
+          }
+        },
+        "id": "1711823629560819712",
+        "location": "圣芙蕾雅学园",
+        "name": "布朗尼·莫🍥",
+        "pinned_tweet_id": "1967753483114946897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967395853951434752/JQ50IvpJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 662,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 473
+        },
+        "username": "daimo12138",
+        "verified": false
+      }
+    ]
+  }
+}

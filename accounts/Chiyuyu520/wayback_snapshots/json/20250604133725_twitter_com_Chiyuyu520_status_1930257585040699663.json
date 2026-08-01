@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T13:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930257585040699663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632943664497324034",
+          "start": 0,
+          "username": "WDAFZ001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930257585040699663",
+    "in_reply_to_user_id": "1632943664497324034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930256373347950722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WDAFZ001 这个可以长期用，但是澳门的话国内不少网站会拉黑名单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930256361524473865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsml7xIasAkXfjm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930257585040699663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632943664497324034",
+              "start": 0,
+              "username": "WDAFZ001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930257585040699663",
+        "in_reply_to_user_id": "1632943664497324034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930256373347950722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WDAFZ001 这个可以长期用，但是澳门的话国内不少网站会拉黑名单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930256361524473865"
+          ]
+        },
+        "author_id": "1632943664497324034",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930256373347950722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uN4EH6HBwg",
+              "end": 37,
+              "expanded_url": "https://x.com/WDAFZ001/status/1930256373347950722/photo/1",
+              "media_key": "3_1930256361524473865",
+              "start": 14,
+              "url": "https://t.co/uN4EH6HBwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930256373347950722",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 🤓 https://t.co/uN4EH6HBwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 489,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T03:18:28.000Z",
+        "description": "一般路过巧克力🍫，心脏应为幸福跳动！            \n\n me(눈‸눈)@IseriNina1\n@Andechs_\nAono🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "IseriNina1"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Andechs_"
+              }
+            ]
+          }
+        },
+        "id": "1632943664497324034",
+        "location": "WDAFZ-CH",
+        "name": "ℬ𝒶𝓉𝑒𝓁 𝓋𝑜𝓃 𝒜𝓃𝒹𝒶𝓍",
+        "pinned_tweet_id": "1765800459170619673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929791776757633024/WOY7RlkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 935,
+          "like_count": 9049,
+          "listed_count": 6,
+          "media_count": 2562,
+          "tweet_count": 7576
+        },
+        "username": "WDAFZ001",
+        "verified": false
+      }
+    ]
+  }
+}

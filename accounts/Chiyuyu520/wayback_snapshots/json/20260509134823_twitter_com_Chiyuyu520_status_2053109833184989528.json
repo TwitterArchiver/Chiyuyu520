@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053109820585390081"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053109833184989528",
+    "created_at": "2026-05-09T13:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053109833184989528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956044419549007872",
+          "start": 5,
+          "username": "qitide"
+        },
+        {
+          "end": 25,
+          "id": "1517405741644398598",
+          "start": 13,
+          "username": "ggd2xiaojie"
+        },
+        {
+          "end": 40,
+          "id": "1947564512984567808",
+          "start": 26,
+          "username": "LINKINGMadoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tSDCMwWXMC",
+          "end": 64,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2053109833184989528/photo/1",
+          "media_key": "3_2053109820585390081",
+          "start": 41,
+          "url": "https://t.co/tSDCMwWXMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053109833184989528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面 泰州\n@qitide @ggd2xiaojie @LINKINGMadoka https://t.co/tSDCMwWXMC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053109820585390081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4cgQTbsAEjf7P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053109820585390081"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053109833184989528",
+        "created_at": "2026-05-09T13:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053109833184989528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956044419549007872",
+              "start": 5,
+              "username": "qitide"
+            },
+            {
+              "end": 25,
+              "id": "1517405741644398598",
+              "start": 13,
+              "username": "ggd2xiaojie"
+            },
+            {
+              "end": 40,
+              "id": "1947564512984567808",
+              "start": 26,
+              "username": "LINKINGMadoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSDCMwWXMC",
+              "end": 64,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2053109833184989528/photo/1",
+              "media_key": "3_2053109820585390081",
+              "start": 41,
+              "url": "https://t.co/tSDCMwWXMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053109833184989528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面 泰州\n@qitide @ggd2xiaojie @LINKINGMadoka https://t.co/tSDCMwWXMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 1291,
+          "like_count": 6610,
+          "listed_count": 9,
+          "media_count": 365,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T17:25:43.000Z",
+        "description": "苦与甜的一体二面。未来的人类顶流。杭州/南京/上海/青岛/泰州。ADHD&各类重度赛博精神病。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QitidesArticle",
+                "end": 23,
+                "expanded_url": "https://t.me/QitidesArticle",
+                "start": 0,
+                "url": "https://t.co/wCQtUY5n7f"
+              }
+            ]
+          }
+        },
+        "id": "1956044419549007872",
+        "name": "亓月",
+        "pinned_tweet_id": "2004752878200914130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974392217184976896/Zw0EL69a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 71,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/wCQtUY5n7f",
+        "username": "qitide",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T07:31:59.000Z",
+        "description": "В мире, где ты и я.\nПадают с неба звезды,\nРушатся города,",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@meiun_block?_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@meiun_block?_t=ZS-906MiFlO3qK&_r=1",
+                "start": 0,
+                "url": "https://t.co/EWFoe5ng8U"
+              }
+            ]
+          }
+        },
+        "id": "1517405741644398598",
+        "location": "地獄",
+        "name": "⁎ ꒰ঌ ⁺⋆☆命運_Block☆⋆⁺໒꒱ ⁎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948002554983710720/tN6rezA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 188,
+          "like_count": 23952,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/EWFoe5ng8U",
+        "username": "ggd2xiaojie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "02年mtx&泛性恋｜hrt in 2025.6｜od｜家长党｜ADHD｜同类互fo｜坐标江苏泰州｜亲爱的@ashasw114514｜脑残  患有did和癔症｜厌男 郭蛆退散｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "ashasw114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sz6i6N60Epo3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sz6i6N60Epo3NmE1",
+                "start": 0,
+                "url": "https://t.co/WpZdDzPSRA"
+              }
+            ]
+          }
+        },
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "LinKing阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1254,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/WpZdDzPSRA",
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

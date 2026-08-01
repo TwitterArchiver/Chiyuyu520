@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2044098177574547486",
+    "created_at": "2026-04-16T21:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T22:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044895590551875656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "732062385695940609",
+          "start": 0,
+          "username": "Takaranoao"
+        },
+        {
+          "end": 25,
+          "id": "1424779836938022913",
+          "start": 12,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 42,
+          "id": "2035882965671215104",
+          "start": 26,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044895590551875656",
+    "in_reply_to_user_id": "732062385695940609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044098177574547486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takaranoao @amber_toffee @amber_medusozoa fofo 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2044098177574547486",
+        "created_at": "2026-04-16T21:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T22:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044895590551875656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "732062385695940609",
+              "start": 0,
+              "username": "Takaranoao"
+            },
+            {
+              "end": 25,
+              "id": "1424779836938022913",
+              "start": 12,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 42,
+              "id": "2035882965671215104",
+              "start": 26,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044895590551875656",
+        "in_reply_to_user_id": "732062385695940609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044098177574547486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takaranoao @amber_toffee @amber_medusozoa fofo 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732062385695940609",
+        "conversation_id": "2044098177574547486",
+        "created_at": "2026-04-14T16:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044098177574547486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1424779836938022913",
+              "start": 6,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 37,
+              "id": "2035882965671215104",
+              "start": 21,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044098177574547486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1741,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从fo了 @amber_toffee  @amber_medusozoa  然后我TL上莫名其妙跨性别相关的东西比之前多了114514倍。（虽然之前也不少\n一不小心又捅了药娘窝了（xxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 1257,
+          "like_count": 6068,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-16T04:17:28.000Z",
+        "description": "国家级退堂鼓大湿🥁/老要凉🏳️‍⚧️/jvav中级糕手☕️/全沾工程师💩/ display:none🥬/计蒜鸽学爱好者🕊️/赛博臭要饭的🐱/日本語本当锤子🔨/乌蒙吃🐻",
+        "id": "732062385695940609",
+        "name": "宝蓝 🐺 @发电bot",
+        "pinned_tweet_id": "1014288784874065922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391300852204269574/w0mDSk-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3703,
+          "following_count": 579,
+          "like_count": 11038,
+          "listed_count": 15,
+          "media_count": 84,
+          "tweet_count": 1204
+        },
+        "username": "Takaranoao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25369,
+          "following_count": 2748,
+          "like_count": 40898,
+          "listed_count": 13,
+          "media_count": 619,
+          "tweet_count": 21814
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 790,
+          "like_count": 2327,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1665
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

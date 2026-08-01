@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934260295163371769",
+    "created_at": "2025-06-16T07:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934512249496105106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1555110213153275905",
+          "start": 0,
+          "username": "liwenka1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934512249496105106",
+    "in_reply_to_user_id": "1555110213153275905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934510627386687652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwenka1 加tg讨论组，欢迎你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934260295163371769",
+        "created_at": "2025-06-16T07:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934512249496105106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1555110213153275905",
+              "start": 0,
+              "username": "liwenka1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934512249496105106",
+        "in_reply_to_user_id": "1555110213153275905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934510627386687652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwenka1 加tg讨论组，欢迎你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555110213153275905",
+        "conversation_id": "1934260295163371769",
+        "created_at": "2025-06-16T07:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934510627386687652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934510627386687652",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934260295163371769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 开源吗？我可以贡献前端代码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 889,
+          "like_count": 1226,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T08:36:07.000Z",
+        "description": "Internet Person | INTP × ADHD | 抑郁 | 焦虑 | 人格分裂 | 爱写代码 | 个人主页是 https://t.co/Xkl01sJi8y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "liwenkai.fun",
+                "end": 85,
+                "expanded_url": "http://liwenkai.fun",
+                "start": 62,
+                "url": "https://t.co/Xkl01sJi8y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liwenka1",
+                "end": 23,
+                "expanded_url": "https://github.com/liwenka1",
+                "start": 0,
+                "url": "https://t.co/25f8r8zYVG"
+              }
+            ]
+          }
+        },
+        "id": "1555110213153275905",
+        "location": "在你身后",
+        "name": "VVenKAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638934156972552192/Sl9F11Vw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 33,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/25f8r8zYVG",
+        "username": "liwenka1",
+        "verified": false
+      }
+    ]
+  }
+}

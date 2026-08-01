@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932407830864404480"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1932407834991571169",
+    "created_at": "2025-06-10T12:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T13:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932407834991571169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V0d8Mr7WHV",
+          "end": 50,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1932407834991571169/photo/1",
+          "media_key": "3_1932407830864404480",
+          "start": 27,
+          "url": "https://t.co/V0d8Mr7WHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932407834991571169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵喵喵？\n（给推油们看喵喵头喵喵喵喵喵）\n🥵🥰🥰 https://t.co/V0d8Mr7WHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1932407830864404480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFKrw_bIAAmePP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932407830864404480"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1932407834991571169",
+        "created_at": "2025-06-10T12:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932407834991571169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0d8Mr7WHV",
+              "end": 50,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1932407834991571169/photo/1",
+              "media_key": "3_1932407830864404480",
+              "start": 27,
+              "url": "https://t.co/V0d8Mr7WHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932407834991571169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵喵？\n（给推油们看喵喵头喵喵喵喵喵）\n🥵🥰🥰 https://t.co/V0d8Mr7WHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 680,
+          "like_count": 819,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

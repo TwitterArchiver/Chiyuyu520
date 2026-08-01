@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1947144608137547825",
+    "created_at": "2025-07-21T04:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T05:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947152981847335037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "DrEffie_Mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947152981847335037",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947152359509115103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrEffie_Mtf 错误的 我已经在文章里写明 第一层是16进制编码 空格分隔符 你应该先把16进制转换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1947144608137547825",
+        "created_at": "2025-07-21T04:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947152981847335037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "DrEffie_Mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947152981847335037",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947152359509115103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrEffie_Mtf 错误的 我已经在文章里写明 第一层是16进制编码 空格分隔符 你应该先把16进制转换"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429405137198452736",
+        "conversation_id": "1947144608137547825",
+        "created_at": "2025-07-21T04:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947152359509115103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947152359509115103",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "若第一層為凱撒密碼，那麽...\n2B 27 2B 2B 2D 29 27 5B 2A 58 2E 2F 2A 5B 2A 58 2E 2E 27 2A 58 2A 2A 2A 5C 2A 27 2A 29 29 2B 5B 2A 58 2E 2F 2C 2B 2D 29 26 2B 2D 5B 2A 58 2E 2F 27 2A 59 2A 28 29 26 2B 27 29 28 29 2A 2A 2D 5B 2A 58 2E 2E 5C 5C 2A 58 2E 2E 2A 2A 58 2A 57 2D 29 29 28 29 2F 2A 29 5B 2A 58 2E 2E 2C 2A 5A 29 2A 2A 28 5B 2A 58 2E 2E 5B 5B 2A 58 2E 2E 2B 2A 5A 29 2A 2A 28 5B 2A 58 2E 2E 5B 5B 2A 58 2E 2E 2B 2A 5A 37 30 5B 2A 58 2E 2E 2C 2B 2D 29 26 2A 2B 5B 2A 58 2E 2E 29 2B 57 2B 2C 29 2B 2B 27 29 28 2B 29 29 28 5B 2A 58 2E 2E 5C 2B 2C 2A 58 2A 2F 5B 2A 58 2E 2E 28 2A 5C 2B 26 29 27 2A 2E 5B 2A 58 2E 2E 26 29 26 2A 29 5B 2A 58 2E 2E 58 29 28 5B 2A 58 2E 2E 2A 29 29 2D 2D 5B 2A 58 2E 2E 2A 29 2B 2B 2A 5B 2A 58 2E 2F 2A 5B 2A 58 2E 2E 57 29 2A 29 29 2A 5A 2A 58 2A 2F 2A 2E 2A 2D 5B 2A 58 2E 2E 2E 29 5A 29 5A"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947144608137547825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 若第一層為凱撒密碼，那麽...\n2B 27 2B 2B 2D 29 27 5B 2A 58 2E 2F 2A 5B 2A 58 2E 2E 27 2A 58 2A 2A 2A 5C 2A 27 2A 29 29 2B 5B 2A 58 2E 2F 2C 2B 2D 29 26 2B 2D 5B 2A 58 2E 2F 27 2A 59 2A 28 29 26 2B 27 29 28 29 2A 2A 2D 5B 2A 58 2E 2E 5C 5C 2A 58 2E 2E 2A 2A 58 2A 57 2D 29 29 28 29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947144608137547825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 1209,
+          "like_count": 3549,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "Effie Lingley Dorm/15.yo/Mtx/🍥hrt23.12.23/173cm 62kg/药娘圈合约战神/常驻重庆-深圳-惠州/两年实盘半年模拟/曾出席某知名币圈福利姬晚宴并以mtf身份发表演讲/回忆录随机掉落/部分推文可能会触发神经症/现任橘猫电子科技名誉CTO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+TnEoktkrHQMzN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+TnEoktkrHQMzNDdk",
+                "start": 0,
+                "url": "https://t.co/s9ZUgLDLf4"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "找到你认为的我→",
+        "name": "Dr.Effie #参宿四🏳️‍⚧️🕯️",
+        "pinned_tweet_id": "1939172739853824485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945716383582420992/oRAOzt92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8236,
+          "following_count": 1053,
+          "like_count": 124014,
+          "listed_count": 36,
+          "media_count": 3341,
+          "tweet_count": 19650
+        },
+        "url": "https://t.co/s9ZUgLDLf4",
+        "username": "DrEffie_Mtf",
+        "verified": true
+      }
+    ]
+  }
+}

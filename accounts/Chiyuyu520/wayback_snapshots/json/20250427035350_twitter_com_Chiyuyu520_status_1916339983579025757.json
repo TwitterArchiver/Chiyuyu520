@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916176782497354200",
+    "created_at": "2025-04-27T03:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T04:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916339983579025757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450365861345202177",
+          "start": 0,
+          "username": "MayISeeUAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916339983579025757",
+    "in_reply_to_user_id": "1450365861345202177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916176782497354200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MayISeeUAgain 🥺真的恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916176782497354200",
+        "created_at": "2025-04-27T03:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916339983579025757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450365861345202177",
+              "start": 0,
+              "username": "MayISeeUAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916339983579025757",
+        "in_reply_to_user_id": "1450365861345202177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916176782497354200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MayISeeUAgain 🥺真的恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450365861345202177",
+        "conversation_id": "1916176782497354200",
+        "created_at": "2025-04-26T17:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T18:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916176782497354200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiuSuK7777/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/LiuSuK7777/status/1916050822355431578",
+              "start": 142,
+              "url": "https://t.co/ayRZzrrSGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916176782497354200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916050822355431578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对啊，不要说自己上手了，就那种自发的生理反应都会下意识讨厌，觉得恶心。吃糖之前那段时间一直没有⭐🐟，本来还觉得挺好的不用做那么恶心的事情了，结果那天一觉醒来发现流的到处都是，就直接整个人大脑一片空白绝望地瘫在床上了，缓过来就下定决心吃糖了。真的接受不了这样的事情发生在自己身上... https://t.co/ayRZzrrSGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 201,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 125
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T07:39:19.000Z",
+        "description": "补药时间我 (哭脸)｜暂时还没有什么想说的呢...｜查成分 / 了解我可以看置顶｜视情况回 fo｜小笨蛋😋: @Chiyuyu520 (逃)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "windysummer.cloud",
+                "end": 23,
+                "expanded_url": "http://windysummer.cloud",
+                "start": 0,
+                "url": "https://t.co/AqAAX99ZWz"
+              }
+            ]
+          }
+        },
+        "id": "1450365861345202177",
+        "location": "Where Heart Belongs",
+        "name": "这是一只占位符",
+        "pinned_tweet_id": "1914767099769315634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907824442899939328/TXgjowT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 302,
+          "like_count": 7965,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/AqAAX99ZWz",
+        "username": "MayISeeUAgain",
+        "verified": false
+      }
+    ]
+  }
+}

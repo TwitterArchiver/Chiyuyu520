@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063505670633345024"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063505679785263311",
+    "created_at": "2026-06-07T06:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063505679785263311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/70sLqoFrUh",
+          "end": 86,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2063505679785263311/photo/1",
+          "media_key": "3_2063505670633345024",
+          "start": 63,
+          "url": "https://t.co/70sLqoFrUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063505679785263311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那个麦当劳的服务员说\n看我们俩都熟了\n能认出来\n我让那个大阿姨去给我薯条又炸了会\n我说我喜欢吃脆的烤的\n\n然后二次回锅了一下 https://t.co/70sLqoFrUh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063505670633345024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMLeXoa0AA1Tqr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063505670633345024"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063505679785263311",
+        "created_at": "2026-06-07T06:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063505679785263311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70sLqoFrUh",
+              "end": 86,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2063505679785263311/photo/1",
+              "media_key": "3_2063505670633345024",
+              "start": 63,
+              "url": "https://t.co/70sLqoFrUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063505679785263311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个麦当劳的服务员说\n看我们俩都熟了\n能认出来\n我让那个大阿姨去给我薯条又炸了会\n我说我喜欢吃脆的烤的\n\n然后二次回锅了一下 https://t.co/70sLqoFrUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4063,
+          "following_count": 1288,
+          "like_count": 6849,
+          "listed_count": 5,
+          "media_count": 419,
+          "tweet_count": 1527
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1944945533984157873",
+    "created_at": "2025-07-15T02:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T03:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944945533984157873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kyouka_charmin…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kyouka_charming/status/1944750767077786028",
+          "start": 14,
+          "url": "https://t.co/7pTt1mMwX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944945533984157873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944750767077786028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您别死了 最新情况看我推文 https://t.co/7pTt1mMwX3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1944945533984157873",
+        "created_at": "2025-07-15T02:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944945533984157873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kyouka_charmin…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kyouka_charming/status/1944750767077786028",
+              "start": 14,
+              "url": "https://t.co/7pTt1mMwX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944945533984157873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944750767077786028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您别死了 最新情况看我推文 https://t.co/7pTt1mMwX3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540315386931204098",
+        "conversation_id": "1944750767077786028",
+        "created_at": "2025-07-14T13:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944750767077786028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiguangji2019…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/shiguangji2019/status/1944747344588853257",
+              "start": 42,
+              "url": "https://t.co/vwJRNPufbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944750767077786028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944747344588853257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要自杀？\n\n时光鸡给我转了一万说死了钱就是我的了，有人关注一下么？\n\n感觉真的要死 https://t.co/vwJRNPufbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 1144,
+          "like_count": 2826,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "物知らずの悪役令嬢です、日本語/華语OK。元日本高校生、トランスジェンダー。爱着@HojLAabqpoB 。在北京。若有需要或者想要交流请お気軽DM我。#恋人募集中。小号@noir_cake_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "恋人募集中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "HojLAabqpoB"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "noir_cake_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "繭の部屋",
+        "name": "西園寺🪞京香🌸🤍❄️",
+        "pinned_tweet_id": "1897988161843945674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944197227691540480/KMANRNqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 974,
+          "like_count": 8613,
+          "listed_count": 0,
+          "media_count": 702,
+          "tweet_count": 6583
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

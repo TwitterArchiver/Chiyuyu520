@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T16:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930295616363753808"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "ping0",
+          "probability": 0.4908,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "969075350725677056",
+          "start": 0,
+          "username": "orenoaima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930295616363753808",
+    "in_reply_to_user_id": "969075350725677056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930295419399221695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orenoaima ping0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T16:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930295616363753808"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "ping0",
+              "probability": 0.4908,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "969075350725677056",
+              "start": 0,
+              "username": "orenoaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930295616363753808",
+        "in_reply_to_user_id": "969075350725677056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930295419399221695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orenoaima ping0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "969075350725677056",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T16:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930295419399221695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930295419399221695",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 怎么看的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 505,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-01T05:02:22.000Z",
+        "description": "观察世界，记录世界，探索世界，改造世界。",
+        "id": "969075350725677056",
+        "location": "Vex网络",
+        "name": "Chicken man",
+        "pinned_tweet_id": "1876481406181990647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586997674166951936/izX8S45U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1196,
+          "like_count": 240,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1405
+        },
+        "username": "orenoaima",
+        "verified": false
+      }
+    ]
+  }
+}

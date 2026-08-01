@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1919434982910570539",
+    "created_at": "2025-05-06T10:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T11:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919708378525213100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1171414629400158208",
+          "start": 0,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919708378525213100",
+    "in_reply_to_user_id": "1171414629400158208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919695949607186601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zknmoe 我给你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1919434982910570539",
+        "created_at": "2025-05-06T10:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919708378525213100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1171414629400158208",
+              "start": 0,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919708378525213100",
+        "in_reply_to_user_id": "1171414629400158208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919695949607186601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zknmoe 我给你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171414629400158208",
+        "conversation_id": "1919434982910570539",
+        "created_at": "2025-05-06T10:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919695949607186601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919695949607186601",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919676830669312260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 买不到（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 234,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 155
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "🇨🇳/🇮🇹 一个编程爱好者，偶尔分享日常生活 （都是个人观点）  https://t.co/yL5I6j80za",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zknmoe",
+                "end": 56,
+                "expanded_url": "https://t.me/zknmoe",
+                "start": 33,
+                "url": "https://t.co/yL5I6j80za"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zkn.moe",
+                "end": 23,
+                "expanded_url": "http://zkn.moe",
+                "start": 0,
+                "url": "https://t.co/vqx4aNEp2A"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, Salerno",
+        "name": "Kave酱 (aka 1zkn)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902492527204159488/wmzQuL4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 197,
+          "like_count": 964,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/vqx4aNEp2A",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926240564187414528"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1389326551435538435",
+          "name": "Apple AirTags"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1926240567052099701",
+    "created_at": "2025-05-24T11:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T12:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926240567052099701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1791377262668926976",
+          "start": 3,
+          "username": "YueHua0_0"
+        },
+        {
+          "end": 49,
+          "id": "1843201902550634496",
+          "start": 33,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3TWJmO9MgW",
+          "end": 93,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1926240567052099701/photo/1",
+          "media_key": "3_1926240564187414528",
+          "start": 70,
+          "url": "https://t.co/3TWJmO9MgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926240567052099701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢 @YueHua0_0 帮助联系救助资源，目前暂时安全\n收到 @LwrDHYyuxR22499 寄来的AirTag  希望永远用不到😢 https://t.co/3TWJmO9MgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926240564187414528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrthlmRWwAAXjBC.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926240564187414528"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1389326551435538435",
+              "name": "Apple AirTags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1926240567052099701",
+        "created_at": "2025-05-24T11:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926240567052099701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1791377262668926976",
+              "start": 3,
+              "username": "YueHua0_0"
+            },
+            {
+              "end": 49,
+              "id": "1843201902550634496",
+              "start": 33,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TWJmO9MgW",
+              "end": 93,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1926240567052099701/photo/1",
+              "media_key": "3_1926240564187414528",
+              "start": 70,
+              "url": "https://t.co/3TWJmO9MgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926240567052099701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢 @YueHua0_0 帮助联系救助资源，目前暂时安全\n收到 @LwrDHYyuxR22499 寄来的AirTag  希望永远用不到😢 https://t.co/3TWJmO9MgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 🥰❤️: @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 375,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T07:56:50.000Z",
+        "description": "🏳️‍⚧️🍥06|180+|60kg|HRT24.08.19|INFP\n（还不是女生啊……生理性别男…）|同类互fo啦…😘 FOREVER：@Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuehua0_0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuehua0_0",
+                "start": 0,
+                "url": "https://t.co/a0gpcGWjdU"
+              }
+            ]
+          }
+        },
+        "id": "1791377262668926976",
+        "name": "月华🍥",
+        "pinned_tweet_id": "1924716477283979266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909499539192774656/hLnbJ_8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 349,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/a0gpcGWjdU",
+        "username": "YueHua0_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 330,
+          "like_count": 322,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 483
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

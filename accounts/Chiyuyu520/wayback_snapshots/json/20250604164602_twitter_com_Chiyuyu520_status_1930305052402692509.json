@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T16:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930305052402692509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865678648986185728",
+          "start": 0,
+          "username": "g20UyZKNjK21957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930305052402692509",
+    "in_reply_to_user_id": "1865678648986185728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930304425236803605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g20UyZKNjK21957 很棒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2245,
+        "media_key": "3_1930304422091075585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnRpQsasAEzh9e.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T16:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930305052402692509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865678648986185728",
+              "start": 0,
+              "username": "g20UyZKNjK21957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930305052402692509",
+        "in_reply_to_user_id": "1865678648986185728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930304425236803605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g20UyZKNjK21957 很棒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930304422091075585"
+          ]
+        },
+        "author_id": "1865678648986185728",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T16:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930304425236803605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJ8HaPS9km",
+              "end": 35,
+              "expanded_url": "https://x.com/g20UyZKNjK21957/status/1930304425236803605/photo/1",
+              "media_key": "3_1930304422091075585",
+              "start": 12,
+              "url": "https://t.co/VJ8HaPS9km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930304425236803605",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 https://t.co/VJ8HaPS9km"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 507,
+          "like_count": 444,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T08:44:01.000Z",
+        "description": "",
+        "id": "1865678648986185728",
+        "name": "我也不知道取什么",
+        "pinned_tweet_id": "1904521313093341473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429421779251200/j-omQNWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 190,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 189
+        },
+        "username": "g20UyZKNjK21957",
+        "verified": false
+      }
+    ]
+  }
+}

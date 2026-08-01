@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1939728580105445794",
+    "created_at": "2025-07-01T11:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940013898092224846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1654502434385850370",
+          "start": 0,
+          "username": "chiyu7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940013898092224846",
+    "in_reply_to_user_id": "1654502434385850370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940004668861808841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyu7799 可以给我吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1939728580105445794",
+        "created_at": "2025-07-01T11:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940013898092224846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1654502434385850370",
+              "start": 0,
+              "username": "chiyu7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940013898092224846",
+        "in_reply_to_user_id": "1654502434385850370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940004668861808841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyu7799 可以给我吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654502434385850370",
+        "conversation_id": "1939728580105445794",
+        "created_at": "2025-07-01T11:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940004668861808841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "chiyu.ink",
+              "end": 39,
+              "expanded_url": "http://chiyu.ink",
+              "start": 16,
+              "unwound_url": "http://chiyu.ink",
+              "url": "https://t.co/SCPkElnkoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940004668861808841",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939728580105445794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我的域名https://t.co/SCPkElnkoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 1102,
+          "like_count": 2090,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T15:05:01.000Z",
+        "description": "🏳️‍⚧️🍥 不玩推. tg 联系 同类互fo 转帖 ✈️:https://t.co/3cQ4xNGSI6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chiyu7799",
+                "end": 53,
+                "expanded_url": "http://t.me/chiyu7799",
+                "start": 30,
+                "url": "https://t.co/3cQ4xNGSI6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chiyu7799",
+                "end": 23,
+                "expanded_url": "http://t.me/chiyu7799",
+                "start": 0,
+                "url": "https://t.co/3cQ4xNGSI6"
+              }
+            ]
+          }
+        },
+        "id": "1654502434385850370",
+        "name": "千郁花月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858805919976742912/l-JY1IKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 99,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/3cQ4xNGSI6",
+        "username": "chiyu7799",
+        "verified": false
+      }
+    ]
+  }
+}

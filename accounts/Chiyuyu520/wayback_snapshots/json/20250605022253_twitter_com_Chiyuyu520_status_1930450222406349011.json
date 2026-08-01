@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T02:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930450222406349011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776506115112718336",
+          "start": 0,
+          "username": "xiaosanjiu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930450222406349011",
+    "in_reply_to_user_id": "1776506115112718336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930423632314151144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosanjiu520 风控通关了，IDC机房类型容易被当机器人对待"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1930423630019866626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gso-EE1asAI4Qw3.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T02:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930450222406349011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776506115112718336",
+              "start": 0,
+              "username": "xiaosanjiu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930450222406349011",
+        "in_reply_to_user_id": "1776506115112718336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930423632314151144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosanjiu520 风控通关了，IDC机房类型容易被当机器人对待"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930423630019866626"
+          ]
+        },
+        "author_id": "1776506115112718336",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T00:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T01:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930423632314151144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dk6VYGI277",
+              "end": 38,
+              "expanded_url": "https://x.com/xiaosanjiu520/status/1930423632314151144/photo/1",
+              "media_key": "3_1930423630019866626",
+              "start": 15,
+              "url": "https://t.co/dk6VYGI277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930423632314151144",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 不错 https://t.co/dk6VYGI277"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 469,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T07:04:09.000Z",
+        "description": "这里是三玖，不重要|亲爱的：@yueyan2459           谢谢关注，这里不键政 | 🌟怒：@sun1392241 @hotcat9269_ @hachineko1208 @MikuMiku3648 @charming_natsu @Eris37298 @SuperShrimp9000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yueyan2459"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "sun1392241"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "hotcat9269_"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "hachineko1208"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "MikuMiku3648"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "charming_natsu"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Eris37298"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "SuperShrimp9000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/0EdBzt12ku"
+              }
+            ]
+          }
+        },
+        "id": "1776506115112718336",
+        "location": "Tokyo Japan",
+        "name": "迷人の 三玖 ☃️🤍（🌟怒：胡锦桃",
+        "pinned_tweet_id": "1846478802035372259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886038886817869824/2BLu-Qc7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 733,
+          "like_count": 51689,
+          "listed_count": 3,
+          "media_count": 1156,
+          "tweet_count": 13700
+        },
+        "url": "https://t.co/0EdBzt12ku",
+        "username": "xiaosanjiu520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962191256605569024",
+        "3_1962191259940032512"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1962190527220342803",
+    "created_at": "2025-08-31T16:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962191262980972568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251467416263000064",
+          "start": 0,
+          "username": "792123a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XVEuvN3ExT",
+          "end": 60,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1962191262980972568/photo/1",
+          "media_key": "3_1962191256605569024",
+          "start": 37,
+          "url": "https://t.co/XVEuvN3ExT"
+        },
+        {
+          "display_url": "pic.x.com/XVEuvN3ExT",
+          "end": 60,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1962191262980972568/photo/1",
+          "media_key": "3_1962191259940032512",
+          "start": 37,
+          "url": "https://t.co/XVEuvN3ExT"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1962191262980972568",
+    "in_reply_to_user_id": "1251467416263000064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962190527220342803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@792123a 看我视频帖的最后，有详细证明\n换算汇率可得知几乎无损耗 https://t.co/XVEuvN3ExT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962191256605569024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsajT9aMAA8zix.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962191259940032512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsajgYaEAAtCL-.jpg",
+        "width": 931
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962191256605569024",
+            "3_1962191259940032512"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1962190527220342803",
+        "created_at": "2025-08-31T16:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962191262980972568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251467416263000064",
+              "start": 0,
+              "username": "792123a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVEuvN3ExT",
+              "end": 60,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1962191262980972568/photo/1",
+              "media_key": "3_1962191256605569024",
+              "start": 37,
+              "url": "https://t.co/XVEuvN3ExT"
+            },
+            {
+              "display_url": "pic.x.com/XVEuvN3ExT",
+              "end": 60,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1962191262980972568/photo/1",
+              "media_key": "3_1962191259940032512",
+              "start": 37,
+              "url": "https://t.co/XVEuvN3ExT"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1962191262980972568",
+        "in_reply_to_user_id": "1251467416263000064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962190527220342803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@792123a 看我视频帖的最后，有详细证明\n换算汇率可得知几乎无损耗 https://t.co/XVEuvN3ExT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251467416263000064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1962190527220342803",
+        "created_at": "2025-08-31T16:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962190527220342803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1961906546281263250",
+              "start": 65,
+              "url": "https://t.co/osJS0YDaJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962190527220342803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961906546281263250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人民币的卡我就没见过google wallet支持的，最起码也得是港币，国内付款太麻烦了，只能用外汇或者离岸人民币去付这可太贵了 https://t.co/osJS0YDaJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 1291,
+          "like_count": 4811,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-18T11:07:45.000Z",
+        "description": "让我草一下先\n\n数码和各种各样的东西分流: @just_wuming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "just_wuming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com",
+                "end": 23,
+                "expanded_url": "https://twitter.com",
+                "start": 0,
+                "url": "https://t.co/En3y1IPTQZ"
+              }
+            ]
+          }
+        },
+        "id": "1251467416263000064",
+        "location": "你的心里",
+        "name": "草",
+        "pinned_tweet_id": "1900881636096700449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881581220049682433/RFly6fHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 259,
+          "like_count": 2898,
+          "listed_count": 4,
+          "media_count": 1110,
+          "tweet_count": 14340
+        },
+        "url": "https://t.co/En3y1IPTQZ",
+        "username": "792123a",
+        "verified": true
+      }
+    ]
+  }
+}

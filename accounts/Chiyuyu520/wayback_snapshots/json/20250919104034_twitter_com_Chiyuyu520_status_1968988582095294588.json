@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1968988582095294588",
+    "created_at": "2025-09-19T10:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968988582095294588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmbb111222333/…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/mmbb111222333/status/1968985510266765346",
+          "start": 63,
+          "url": "https://t.co/NV1Wgng95B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968988582095294588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968985510266765346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日雌370一盒好处多多欢迎来买嘞\n（大声逼逼）\n京东快递包邮到家嘞\n（哐哐哐）\n经济困难可以私聊问低价嘞\n（哇啊啊啊啊啊啊） https://t.co/NV1Wgng95B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1968985499852582912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1M94UabsAArz9o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968988582095294588",
+        "created_at": "2025-09-19T10:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968988582095294588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmbb111222333/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/mmbb111222333/status/1968985510266765346",
+              "start": 63,
+              "url": "https://t.co/NV1Wgng95B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968988582095294588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968985510266765346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日雌370一盒好处多多欢迎来买嘞\n（大声逼逼）\n京东快递包邮到家嘞\n（哐哐哐）\n经济困难可以私聊问低价嘞\n（哇啊啊啊啊啊啊） https://t.co/NV1Wgng95B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968985499852582912"
+          ]
+        },
+        "author_id": "1830270049967611904",
+        "conversation_id": "1968985510266765346",
+        "created_at": "2025-09-19T10:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968985510266765346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904873292366036992",
+              "start": 5,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sfb6wcr0xZ",
+              "end": 73,
+              "expanded_url": "https://x.com/mmbb111222333/status/1968985510266765346/photo/1",
+              "media_key": "3_1968985499852582912",
+              "start": 50,
+              "url": "https://t.co/Sfb6wcr0xZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968985510266765346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是收到了@Chiyuyu520家的😁\n发货速度：很快\n态度：好\n价格：太可以了\n评价：🌟🌟🌟🌟🌟 https://t.co/Sfb6wcr0xZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3446,
+          "following_count": 1300,
+          "like_count": 5616,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T15:43:23.000Z",
+        "description": "09｜163｜84｜🏳️‍⚧️｜hrt24.6.8｜很友好｜心烦的时候喜欢删帖｜7.21｜诡秘：@FengJIn2781｜姐姐：@yido021｜小号@mmbb111222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "FengJIn2781"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "yido021"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "mmbb111222"
+              }
+            ]
+          }
+        },
+        "id": "1830270049967611904",
+        "location": "遇境",
+        "name": "沫汁🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913452632460701696/AVEv06q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4761,
+          "following_count": 744,
+          "like_count": 2299,
+          "listed_count": 10,
+          "media_count": 14,
+          "tweet_count": 608
+        },
+        "username": "mmbb111222333",
+        "verified": false
+      }
+    ]
+  }
+}

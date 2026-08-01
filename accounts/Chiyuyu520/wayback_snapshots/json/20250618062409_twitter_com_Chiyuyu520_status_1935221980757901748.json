@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935221975473070080",
+        "3_1935221977347997696"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935221980757901748",
+    "created_at": "2025-06-18T06:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T07:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935221980757901748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 92,
+          "id": "1461017973599186944",
+          "start": 79,
+          "username": "xiaoyinyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpNsqHTf1A",
+          "end": 144,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1935221980757901748/photo/1",
+          "media_key": "3_1935221975473070080",
+          "start": 121,
+          "url": "https://t.co/dpNsqHTf1A"
+        },
+        {
+          "display_url": "pic.x.com/dpNsqHTf1A",
+          "end": 144,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1935221980757901748/photo/1",
+          "media_key": "3_1935221977347997696",
+          "start": 121,
+          "url": "https://t.co/dpNsqHTf1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935221980757901748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 92,
+            "id": "1461017973599186944",
+            "start": 79,
+            "username": "xiaoyinyu520"
+          }
+        ]
+      },
+      "text": "这边说一些打日雌的器材选择＆误区＆要注意的事项\n1.不会打针别瞎鸡巴打，日雌有门槛\n2.打日雌不需要吃抗雄！\n    高剂量的雌二醇本身会压低你的睾酮，通过 @xiaoyinyu520 的实践来看，不需要抗雄！（图一为7天单用日雌激素结果）\n3.打日雌一定要回抽！避开血管神经！会血栓！感觉到不适不舒服立刻拔针！\n器材选择\n注射器：2ml注射器配0.5x20mm针头。如果你肉多用0.6x25mm也是可以的（怕痛老老实实0.5）\n针头：1.2mm18G针头（拿来抽日雌）日雌是油性物体，粗针头抽的快，买最粗的就行\n消毒：碘伏棉签\n其他：棉签，敷贴（敷贴是用来盖住伤口的，防止细菌感染什么的）\n可以按照图二来买\n（我的话是可孚医疗买的，也可以选择其他品牌）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这边说一些打日雌的器材选择＆误区＆要注意的事项\n1.不会打针别瞎鸡巴打，日雌有门槛\n2.打日雌不需要吃抗雄！\n    高剂量的雌二醇本身会压低你的睾酮，通过 @xiaoyinyu520 的实践来看，不需要抗雄！（图一为7天单用日雌激素结果） https://t.co/dpNsqHTf1A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_1935221975473070080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttKIimaIAAPXWx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935221977347997696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttKIplbQAA336P.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935221975473070080",
+            "3_1935221977347997696"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935221980757901748",
+        "created_at": "2025-06-18T06:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T07:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935221980757901748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1461017973599186944",
+              "start": 79,
+              "username": "xiaoyinyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpNsqHTf1A",
+              "end": 144,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935221980757901748/photo/1",
+              "media_key": "3_1935221975473070080",
+              "start": 121,
+              "url": "https://t.co/dpNsqHTf1A"
+            },
+            {
+              "display_url": "pic.x.com/dpNsqHTf1A",
+              "end": 144,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935221980757901748/photo/1",
+              "media_key": "3_1935221977347997696",
+              "start": 121,
+              "url": "https://t.co/dpNsqHTf1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935221980757901748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 92,
+                "id": "1461017973599186944",
+                "start": 79,
+                "username": "xiaoyinyu520"
+              }
+            ]
+          },
+          "text": "这边说一些打日雌的器材选择＆误区＆要注意的事项\n1.不会打针别瞎鸡巴打，日雌有门槛\n2.打日雌不需要吃抗雄！\n    高剂量的雌二醇本身会压低你的睾酮，通过 @xiaoyinyu520 的实践来看，不需要抗雄！（图一为7天单用日雌激素结果）\n3.打日雌一定要回抽！避开血管神经！会血栓！感觉到不适不舒服立刻拔针！\n器材选择\n注射器：2ml注射器配0.5x20mm针头。如果你肉多用0.6x25mm也是可以的（怕痛老老实实0.5）\n针头：1.2mm18G针头（拿来抽日雌）日雌是油性物体，粗针头抽的快，买最粗的就行\n消毒：碘伏棉签\n其他：棉签，敷贴（敷贴是用来盖住伤口的，防止细菌感染什么的）\n可以按照图二来买\n（我的话是可孚医疗买的，也可以选择其他品牌）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这边说一些打日雌的器材选择＆误区＆要注意的事项\n1.不会打针别瞎鸡巴打，日雌有门槛\n2.打日雌不需要吃抗雄！\n    高剂量的雌二醇本身会压低你的睾酮，通过 @xiaoyinyu520 的实践来看，不需要抗雄！（图一为7天单用日雌激素结果） https://t.co/dpNsqHTf1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 982,
+          "like_count": 1441,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年在校大学生，不od割手，不抽烟不喝酒，重度社恐不擅长说话，没有精神疾病（没去看医生没确诊就是没有），2025.3.13开始hrt，深柜中",
+        "id": "1461017973599186944",
+        "name": "小银鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 95,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 249
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      }
+    ]
+  }
+}

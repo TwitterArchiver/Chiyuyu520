@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1929498552893428217",
+    "created_at": "2025-06-02T14:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T15:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929552999099036025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1904971795205353472",
+          "start": 0,
+          "username": "imcuupa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929552999099036025",
+    "in_reply_to_user_id": "1904971795205353472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929549765017997538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imcuupa 我会被打死的。真正的被打死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1929498552893428217",
+        "created_at": "2025-06-02T14:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T15:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929552999099036025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1904971795205353472",
+              "start": 0,
+              "username": "imcuupa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929552999099036025",
+        "in_reply_to_user_id": "1904971795205353472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929549765017997538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imcuupa 我会被打死的。真正的被打死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904971795205353472",
+        "conversation_id": "1929498552893428217",
+        "created_at": "2025-06-02T14:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929549765017997538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929549765017997538",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929498552893428217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 搞个降噪孤立一下全家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 爱一辈子的恋人: @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 427,
+          "like_count": 350,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T19:01:00.000Z",
+        "description": "芝士改变命运，所以我要了双层的。\n\n双层好吃还是炸鸡好吃，\n我感觉板骚鸡好吃😋\n\n性别沃尔玛塑料袋",
+        "id": "1904971795205353472",
+        "name": "im",
+        "pinned_tweet_id": "1918204482581872807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925150131802030080/NELxt1jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 139
+        },
+        "username": "imcuupa",
+        "verified": false
+      }
+    ]
+  }
+}

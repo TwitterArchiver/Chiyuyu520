@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1940173169400455458",
+    "created_at": "2025-07-02T15:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T16:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940426268568412177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897600575329722368",
+          "start": 0,
+          "username": "liangchanddx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940426268568412177",
+    "in_reply_to_user_id": "1897600575329722368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940424504129491425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangchanddx 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1940173169400455458",
+        "created_at": "2025-07-02T15:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T16:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940426268568412177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897600575329722368",
+              "start": 0,
+              "username": "liangchanddx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940426268568412177",
+        "in_reply_to_user_id": "1897600575329722368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940424504129491425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangchanddx 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897600575329722368",
+        "conversation_id": "1940173169400455458",
+        "created_at": "2025-07-02T14:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940424504129491425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940424504129491425",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940173169400455458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 只能提供一些微薄的帮助，希望你能好起来，别想着这么年轻就和这个世界说拜拜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 1102,
+          "like_count": 2209,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-06T10:50:18.000Z",
+        "description": "微死微活，反复无常。",
+        "id": "1897600575329722368",
+        "name": "无声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939718613998698496/4y8JtGht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "liangchanddx",
+        "verified": false
+      }
+    ]
+  }
+}

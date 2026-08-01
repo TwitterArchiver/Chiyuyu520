@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1938590111987646774",
+    "created_at": "2025-06-28T08:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T09:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938872287346004004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1397154448103804930",
+          "start": 0,
+          "username": "mengziintrans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938872287346004004",
+    "in_reply_to_user_id": "1397154448103804930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938857605725897102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengziintrans 包装上都写了 常温放就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1938590111987646774",
+        "created_at": "2025-06-28T08:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938872287346004004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1397154448103804930",
+              "start": 0,
+              "username": "mengziintrans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938872287346004004",
+        "in_reply_to_user_id": "1397154448103804930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938857605725897102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengziintrans 包装上都写了 常温放就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397154448103804930",
+        "conversation_id": "1938590111987646774",
+        "created_at": "2025-06-28T07:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938857605725897102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938857605725897102",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938590111987646774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 小鱼豪，日雌这玩意需要冰箱冷藏吗，好像在哪里听过这种说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1082,
+          "like_count": 1923,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-25T11:36:05.000Z",
+        "description": "mtx/第二性征gd/16岁开始无证含糖/停糖三年/家长党/社恐ing/入职国有建筑企业ing/预备海外工地牛马/深柜/顺直营业/人生实验：隐藏在土木牛马中纯纯的xyn（bushi）",
+        "id": "1397154448103804930",
+        "name": "药圈带猛子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609538089235390465/ZWugSe56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 67,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "mengziintrans",
+        "verified": false
+      }
+    ]
+  }
+}

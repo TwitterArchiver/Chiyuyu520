@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941224356807573504"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1941224359278018654",
+    "created_at": "2025-07-04T19:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T20:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941224359278018654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BC8fooay7T",
+          "end": 71,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1941224359278018654/photo/1",
+          "media_key": "3_1941224356807573504",
+          "start": 48,
+          "url": "https://t.co/BC8fooay7T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941224359278018654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是一夜未眠 在回去之前最后和姐姐待在一起呐 和同类贴贴的机会真的好少 我会努力珍惜所有的关系 https://t.co/BC8fooay7T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_1941224356807573504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvCdRHjaAAAvDKc.jpg",
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941224356807573504"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1941224359278018654",
+        "created_at": "2025-07-04T19:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T20:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941224359278018654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BC8fooay7T",
+              "end": 71,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1941224359278018654/photo/1",
+              "media_key": "3_1941224356807573504",
+              "start": 48,
+              "url": "https://t.co/BC8fooay7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941224359278018654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是一夜未眠 在回去之前最后和姐姐待在一起呐 和同类贴贴的机会真的好少 我会努力珍惜所有的关系 https://t.co/BC8fooay7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 1122,
+          "like_count": 2393,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

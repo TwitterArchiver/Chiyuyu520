@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929753553985556481"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1929753557345227167",
+    "created_at": "2025-06-03T04:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T05:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929753557345227167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1798017061131874304",
+          "start": 22,
+          "username": "cupric_oxide_"
+        },
+        {
+          "end": 51,
+          "id": "1890699652003209216",
+          "start": 37,
+          "username": "gura201189578"
+        },
+        {
+          "end": 66,
+          "id": "1904971795205353472",
+          "start": 58,
+          "username": "imcuupa"
+        },
+        {
+          "end": 89,
+          "id": "1862517303969292288",
+          "start": 73,
+          "username": "P6IswDXF6698546"
+        },
+        {
+          "end": 102,
+          "id": "1908466480485961728",
+          "start": 90,
+          "username": "ratbbit3000"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinityweet.me/family-tree?la…",
+          "end": 130,
+          "expanded_url": "https://infinityweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1927715987446722560/X7pHj17f?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1927715987446722560/X7pHj17f?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 107,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinityweet.me/family-tree?lang=zh",
+          "url": "https://t.co/55GBChpaYu"
+        },
+        {
+          "display_url": "pic.x.com/9ZtjPBHOGo",
+          "end": 154,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1929753557345227167/photo/1",
+          "media_key": "3_1929753553985556481",
+          "start": 131,
+          "url": "https://t.co/9ZtjPBHOGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929753557345227167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @cupric_oxide_ @gura201189578\n👰 配偶: @imcuupa\n👶 孩子: @P6IswDXF6698546 @ratbbit3000\n\n➡️ https://t.co/55GBChpaYu https://t.co/9ZtjPBHOGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1929753553985556481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsfcohFbUAErrgU.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929753553985556481"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1929753557345227167",
+        "created_at": "2025-06-03T04:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929753557345227167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1798017061131874304",
+              "start": 22,
+              "username": "cupric_oxide_"
+            },
+            {
+              "end": 51,
+              "id": "1890699652003209216",
+              "start": 37,
+              "username": "gura201189578"
+            },
+            {
+              "end": 66,
+              "id": "1904971795205353472",
+              "start": 58,
+              "username": "imcuupa"
+            },
+            {
+              "end": 89,
+              "id": "1862517303969292288",
+              "start": 73,
+              "username": "P6IswDXF6698546"
+            },
+            {
+              "end": 102,
+              "id": "1908466480485961728",
+              "start": 90,
+              "username": "ratbbit3000"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree?la…",
+              "end": 130,
+              "expanded_url": "https://infinityweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1927715987446722560/X7pHj17f?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1927715987446722560/X7pHj17f?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree?lang=zh",
+              "url": "https://t.co/55GBChpaYu"
+            },
+            {
+              "display_url": "pic.x.com/9ZtjPBHOGo",
+              "end": 154,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1929753557345227167/photo/1",
+              "media_key": "3_1929753553985556481",
+              "start": 131,
+              "url": "https://t.co/9ZtjPBHOGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929753557345227167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @cupric_oxide_ @gura201189578\n👰 配偶: @imcuupa\n👶 孩子: @P6IswDXF6698546 @ratbbit3000\n\n➡️ https://t.co/55GBChpaYu https://t.co/9ZtjPBHOGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 爱一辈子的恋人: @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 451,
+          "like_count": 353,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "事你铜\n穹璃：@Qiongli_BAKA\n此方： @ci_shang85157\n提问 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "Qiongli_BAKA"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cupric_oxide/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cupric_oxide/",
+                "start": 0,
+                "url": "https://t.co/KPi3tnq69a"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1911043718855213290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1372,
+          "like_count": 26757,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 4701
+        },
+        "url": "https://t.co/KPi3tnq69a",
+        "username": "cupric_oxide_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T09:48:31.000Z",
+        "description": "13周岁顺直精神祖国亚特兰蒂斯（政治立场通吃反mc和极端粉红极端支黑极端神神极端网左极端反贼还有nc😋）",
+        "id": "1890699652003209216",
+        "location": "上海黄金海岸大厦",
+        "name": "Gawrgura2011",
+        "pinned_tweet_id": "1909038185386303660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890699836674215936/6i5nX5oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 257,
+          "like_count": 1405,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 890
+        },
+        "username": "gura201189578",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T19:01:00.000Z",
+        "description": "芝士改变命运，所以我要了双层的。\n\n双层好吃还是炸鸡好吃，\n我感觉板骚鸡好吃😋\n\n性别沃尔玛塑料袋",
+        "id": "1904971795205353472",
+        "name": "im",
+        "pinned_tweet_id": "1918204482581872807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925150131802030080/NELxt1jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 151
+        },
+        "username": "imcuupa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T15:21:59.000Z",
+        "description": "",
+        "id": "1862517303969292288",
+        "name": "汉家男儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894654112429408256/At9w5Dj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "P6IswDXF6698546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T10:27:30.000Z",
+        "description": "即使身处不见光的角落，我们也要向阳而生。\n2009.07.22/双相休学中/INFP-T/不常在线/",
+        "id": "1908466480485961728",
+        "name": "兔鼠煲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915112162714120192/clFXjeSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 265,
+          "like_count": 5070,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 457
+        },
+        "username": "ratbbit3000",
+        "verified": false
+      }
+    ]
+  }
+}

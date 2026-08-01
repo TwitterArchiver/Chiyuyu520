@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065069006504263680",
+        "13_2065069006500057088",
+        "13_2065069006516817920",
+        "3_2065069006491615232"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2065069301003129285",
+    "created_at": "2026-06-11T13:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065069301003129285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008278731782320129",
+          "start": 0,
+          "username": "TxtText404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PM42p7yty1",
+          "end": 43,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+          "media_key": "13_2065069006504263680",
+          "start": 20,
+          "url": "https://t.co/PM42p7yty1"
+        },
+        {
+          "display_url": "pic.x.com/PM42p7yty1",
+          "end": 43,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+          "media_key": "13_2065069006500057088",
+          "start": 20,
+          "url": "https://t.co/PM42p7yty1"
+        },
+        {
+          "display_url": "pic.x.com/PM42p7yty1",
+          "end": 43,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+          "media_key": "13_2065069006516817920",
+          "start": 20,
+          "url": "https://t.co/PM42p7yty1"
+        },
+        {
+          "display_url": "pic.x.com/PM42p7yty1",
+          "end": 43,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+          "media_key": "3_2065069006491615232",
+          "start": 20,
+          "url": "https://t.co/PM42p7yty1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065069301003129285",
+    "in_reply_to_user_id": "2008278731782320129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@TxtText404 的高三结业典礼 https://t.co/PM42p7yty1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23243,
+        "height": 1080,
+        "media_key": "13_2065069006504263680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065069006504263680/img/fgvZJnss4Sm1o8CK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065069006504263680/pl/jtPE-9UNFroQsJn_.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006504263680/vid/avc1/1920x1080/wcfrQ-HNhrrmN5XC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006504263680/vid/avc1/640x360/uVhUYzPRs1P1v8pF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006504263680/vid/avc1/480x270/L5kXZbqv9xq4pI0B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006504263680/vid/avc1/1280x720/G9oQy_8MjSi_AhPx.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 70845,
+        "height": 1920,
+        "media_key": "13_2065069006500057088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065069006500057088/img/nHnDhf1aoGaQ77PB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065069006500057088/pl/FBqwgqrJ5QIFKZbD.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006500057088/vid/avc1/320x568/hUK4iUwS7S2499Su.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006500057088/vid/avc1/720x1280/4L_EzElxFb92jWMO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006500057088/vid/avc1/1080x1920/mecOL10WynGDtZuc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006500057088/vid/avc1/480x852/LzPvaL0tW6eHoj3n.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 11805,
+        "height": 1920,
+        "media_key": "13_2065069006516817920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065069006516817920/img/XWXgqMIzQAYZdltR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006516817920/vid/avc1/480x852/cLB1FJndcexfBvY_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006516817920/vid/avc1/720x1280/41W6iKKzZNPJ1Ef9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006516817920/vid/avc1/320x568/2h2UhqFdKZELGFpi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065069006516817920/pl/7hurwAtplraBNrkx.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065069006516817920/vid/avc1/1080x1920/9fy8oAH3GQhvEUyD.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 576,
+        "media_key": "3_2065069006491615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiZUfiaAAAEpKX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065069006504263680",
+            "13_2065069006500057088",
+            "13_2065069006516817920",
+            "3_2065069006491615232"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2065069301003129285",
+        "created_at": "2026-06-11T13:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065069301003129285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008278731782320129",
+              "start": 0,
+              "username": "TxtText404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PM42p7yty1",
+              "end": 43,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+              "media_key": "13_2065069006504263680",
+              "start": 20,
+              "url": "https://t.co/PM42p7yty1"
+            },
+            {
+              "display_url": "pic.x.com/PM42p7yty1",
+              "end": 43,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+              "media_key": "13_2065069006500057088",
+              "start": 20,
+              "url": "https://t.co/PM42p7yty1"
+            },
+            {
+              "display_url": "pic.x.com/PM42p7yty1",
+              "end": 43,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+              "media_key": "13_2065069006516817920",
+              "start": 20,
+              "url": "https://t.co/PM42p7yty1"
+            },
+            {
+              "display_url": "pic.x.com/PM42p7yty1",
+              "end": 43,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065069301003129285/video/1",
+              "media_key": "3_2065069006491615232",
+              "start": 20,
+              "url": "https://t.co/PM42p7yty1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065069301003129285",
+        "in_reply_to_user_id": "2008278731782320129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@TxtText404 的高三结业典礼 https://t.co/PM42p7yty1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 1288,
+          "like_count": 6898,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T20:45:52.000Z",
+        "description": "业余 C 艹 Java 开发者\n友跨 | LGBT+友好 | 不谈政治\n大号@Puimlnk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Puimlnk"
+              }
+            ]
+          }
+        },
+        "id": "2008278731782320129",
+        "name": "Txt-Text",
+        "pinned_tweet_id": "2056232761749393693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037526310801874944/yFe9G3Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 14,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 98
+        },
+        "username": "TxtText404",
+        "verified": false
+      }
+    ]
+  }
+}

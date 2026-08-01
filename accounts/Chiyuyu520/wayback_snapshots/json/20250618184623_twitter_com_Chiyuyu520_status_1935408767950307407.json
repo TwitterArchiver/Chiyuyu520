@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935408751009480708",
+        "3_1935408751252582401"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1935408767950307407",
+    "created_at": "2025-06-18T18:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T19:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935408767950307407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513794140508631041",
+          "start": 3,
+          "username": "hoshroin"
+        },
+        {
+          "end": 21,
+          "id": "1574926726895108096",
+          "start": 13,
+          "username": "crooes2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FSH3MfzsRo",
+          "end": 61,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1935408767950307407/photo/1",
+          "media_key": "3_1935408751009480708",
+          "start": 38,
+          "url": "https://t.co/FSH3MfzsRo"
+        },
+        {
+          "display_url": "pic.x.com/FSH3MfzsRo",
+          "end": 61,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1935408767950307407/photo/1",
+          "media_key": "3_1935408751252582401",
+          "start": 38,
+          "url": "https://t.co/FSH3MfzsRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935408767950307407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢 @hoshroin @crooes2 愿意让我在你们家里躲着谢谢啦🥰 https://t.co/FSH3MfzsRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1935408751009480708",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtv0ATsaQAQPQiT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2260,
+        "media_key": "3_1935408751252582401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtv0AUmXsAESzL6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935408751009480708",
+            "3_1935408751252582401"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935408767950307407",
+        "created_at": "2025-06-18T18:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T19:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935408767950307407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513794140508631041",
+              "start": 3,
+              "username": "hoshroin"
+            },
+            {
+              "end": 21,
+              "id": "1574926726895108096",
+              "start": 13,
+              "username": "crooes2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSH3MfzsRo",
+              "end": 61,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935408767950307407/photo/1",
+              "media_key": "3_1935408751009480708",
+              "start": 38,
+              "url": "https://t.co/FSH3MfzsRo"
+            },
+            {
+              "display_url": "pic.x.com/FSH3MfzsRo",
+              "end": 61,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935408767950307407/photo/1",
+              "media_key": "3_1935408751252582401",
+              "start": 38,
+              "url": "https://t.co/FSH3MfzsRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935408767950307407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢 @hoshroin @crooes2 愿意让我在你们家里躲着谢谢啦🥰 https://t.co/FSH3MfzsRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 1003,
+          "like_count": 1537,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T08:20:36.000Z",
+        "description": "喜欢猫猫 | she/her | 生活清水推 | feminist | 不常上线 有时会发疯乱b人 谨慎关注 | 挚爱是 @crooes2 ❤ | 无意义日记发疯里号 @dacros4real",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "crooes2"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "dacros4real"
+              }
+            ]
+          }
+        },
+        "id": "1513794140508631041",
+        "location": "your cerebral cortex",
+        "name": "HoshRoin🍥",
+        "pinned_tweet_id": "1917925203977658636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839233363279806465/jfe-vP8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 686,
+          "like_count": 14544,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 2854
+        },
+        "username": "hoshroin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T00:59:51.000Z",
+        "description": "hrt 2023.1.31｜mtf｜手术攒钱中｜分享有趣推文｜可能是地雷女？｜轻微严男｜中文母语者｜挚爱是@hoshroin❤️｜现实生活幸福，淡推～｜可爱小动物喜爱｜备用帐号是@TianzunWarlord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "hoshroin"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "TianzunWarlord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+LY-e4e-sYawxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+LY-e4e-sYawxMWE1",
+                "start": 0,
+                "url": "https://t.co/1Uh3oxRWwT"
+              }
+            ]
+          }
+        },
+        "id": "1574926726895108096",
+        "location": "克克屯",
+        "name": "克洛兹crooes🏳️‍⚧️",
+        "pinned_tweet_id": "1886330201610879132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925665833394610176/I9_N9d9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 386,
+          "like_count": 7658,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 6404
+        },
+        "url": "https://t.co/1Uh3oxRWwT",
+        "username": "crooes2",
+        "verified": false
+      }
+    ]
+  }
+}

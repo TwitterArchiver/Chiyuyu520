@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1933597853576016098",
+    "created_at": "2025-06-14T04:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T05:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933740590027715063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "46529201",
+          "start": 0,
+          "username": "y4006948_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933740590027715063",
+    "in_reply_to_user_id": "46529201",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933682775531630842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4006948_3 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1933597853576016098",
+        "created_at": "2025-06-14T04:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933740590027715063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "46529201",
+              "start": 0,
+              "username": "y4006948_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933740590027715063",
+        "in_reply_to_user_id": "46529201",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933682775531630842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4006948_3 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46529201",
+        "conversation_id": "1933597853576016098",
+        "created_at": "2025-06-14T00:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T01:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933682775531630842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933682775531630842",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933597853576016098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 127.0.0.1是吧🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 837,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-12T00:07:57.000Z",
+        "description": "09年xyn（2009.10.2）🏳️‍⚧️｜无证含糖🍥｜167cm 52kg｜HRT2025.1.12｜天赋（不足）党+深柜党+中国国民党🇹🇼｜性取向随意｜日常推｜精神状态良好｜常驻粤港澳大湾区｜深圳初三牲｜门槛42🚪（仅线上聊天免过门）｜提问箱👇，联系方式看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y4006948",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y4006948",
+                "start": 0,
+                "url": "https://t.co/lDbig9xDOo"
+              }
+            ]
+          }
+        },
+        "id": "46529201",
+        "location": "中华民国大陆沦陷区",
+        "name": "(ᇂ_ᇂ|||)🍥",
+        "pinned_tweet_id": "1922306604575424852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921923825224024064/pOQ8Mvt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 246,
+          "like_count": 12168,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/lDbig9xDOo",
+        "username": "y4006948_3",
+        "verified": false
+      }
+    ]
+  }
+}

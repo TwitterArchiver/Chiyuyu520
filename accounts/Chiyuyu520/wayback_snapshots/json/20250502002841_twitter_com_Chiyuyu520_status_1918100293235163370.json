@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1918047981971836956",
+    "created_at": "2025-05-02T00:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T01:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918100293235163370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1171414629400158208",
+          "start": 0,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918100293235163370",
+    "in_reply_to_user_id": "1171414629400158208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918047981971836956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zknmoe 因为只坑富人😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 479,
+        "media_key": "3_1918047975999262720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp5GeM-X0AAwBz5.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1918047981971836956",
+        "created_at": "2025-05-02T00:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T01:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918100293235163370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1171414629400158208",
+              "start": 0,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918100293235163370",
+        "in_reply_to_user_id": "1171414629400158208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918047981971836956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zknmoe 因为只坑富人😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918047975999262720"
+          ]
+        },
+        "author_id": "1171414629400158208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027014509",
+              "name": "Go Daddy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "1918047981971836956",
+        "created_at": "2025-05-01T21:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T22:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918047981971836956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5egEAprYn",
+              "end": 58,
+              "expanded_url": "https://x.com/zknmoe/status/1918047981971836956/photo/1",
+              "media_key": "3_1918047975999262720",
+              "start": 35,
+              "url": "https://t.co/v5egEAprYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918047981971836956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GoDaddy 凭什么你就这么贵？同个域名，别的注册商比你便宜一半！ https://t.co/v5egEAprYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 228,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 146
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "🇨🇳/🇮🇹 一个编程爱好者，偶尔分享日常生活         （都是个人观点）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zkn.moe",
+                "end": 23,
+                "expanded_url": "http://zkn.moe",
+                "start": 0,
+                "url": "https://t.co/vqx4aNEp2A"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, Salerno",
+        "name": "Kave酱 (aka 1zkn)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902492527204159488/wmzQuL4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 190,
+          "like_count": 905,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/vqx4aNEp2A",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944036678080884736"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1944036682933973377",
+    "created_at": "2025-07-12T14:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T15:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944036682933973377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P3YYzTJ71a",
+          "end": 161,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1944036682933973377/photo/1",
+          "media_key": "3_1944036678080884736",
+          "start": 138,
+          "url": "https://t.co/P3YYzTJ71a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944036682933973377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "目前库里面可以玩的：\n生化危机4重置\n生化危机7、8\n最后生还者 P1\n寂静岭2\n死亡搁浅导演剪辑版\n下一个打算买来玩的：\n最后生还者 P2\n\n突然想还有好多游戏开了坑没填\n包括但并不限于：\n赛博朋克、双影奇境、地铁三部曲系列等\n好多游戏都要玩还得填坑（真是苦了我这小电脑了 https://t.co/P3YYzTJ71a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944036678080884736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqbDwtXcAAM_mn.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944036678080884736"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1944036682933973377",
+        "created_at": "2025-07-12T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944036682933973377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3YYzTJ71a",
+              "end": 161,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1944036682933973377/photo/1",
+              "media_key": "3_1944036678080884736",
+              "start": 138,
+              "url": "https://t.co/P3YYzTJ71a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944036682933973377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前库里面可以玩的：\n生化危机4重置\n生化危机7、8\n最后生还者 P1\n寂静岭2\n死亡搁浅导演剪辑版\n下一个打算买来玩的：\n最后生还者 P2\n\n突然想还有好多游戏开了坑没填\n包括但并不限于：\n赛博朋克、双影奇境、地铁三部曲系列等\n好多游戏都要玩还得填坑（真是苦了我这小电脑了 https://t.co/P3YYzTJ71a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939728580105445794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 1138,
+          "like_count": 2763,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934907503495811072",
+        "3_1934907502996672513",
+        "3_1934907503378374656",
+        "3_1934907503567097859"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934907516951068733",
+    "created_at": "2025-06-17T09:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T10:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934907516951068733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xIUP00H4RW",
+          "end": 157,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+          "media_key": "3_1934907503495811072",
+          "start": 134,
+          "url": "https://t.co/xIUP00H4RW"
+        },
+        {
+          "display_url": "pic.x.com/xIUP00H4RW",
+          "end": 157,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+          "media_key": "3_1934907502996672513",
+          "start": 134,
+          "url": "https://t.co/xIUP00H4RW"
+        },
+        {
+          "display_url": "pic.x.com/xIUP00H4RW",
+          "end": 157,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+          "media_key": "3_1934907503378374656",
+          "start": 134,
+          "url": "https://t.co/xIUP00H4RW"
+        },
+        {
+          "display_url": "pic.x.com/xIUP00H4RW",
+          "end": 157,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+          "media_key": "3_1934907503567097859",
+          "start": 134,
+          "url": "https://t.co/xIUP00H4RW"
+        },
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1934905540582453411",
+          "start": 158,
+          "url": "https://t.co/PvVaD3Cskv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934907516951068733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 324,
+            "id": "1898210174810419200",
+            "start": 313,
+            "username": "Anohana_39"
+          }
+        ]
+      },
+      "text": "你把我开了也无所谓，我实名上网而已。正好你急了，说明我这段话成功戳到你痛处了，你活该od，活该被抛弃，这是你应得的。你也只配嫉妒别人，only Berry can do\n\n而你从3月开始套皮御园花铃等自残自杀假死卖惨到现在，您是否应该对真正担心你的人说一声对不起呢？\n那天去现场看你的人，他们的时间精力就不是时间了吗？\n\n你就是很恶心，恶心到极致，说真的首页到处卖惨挂收款码的你是唯一一个\n\n至于我为什么会发这个帖子，我看不下去你假死换名套皮卖惨圈钱的样子。\n\n你从御园花铃到现在的Berry，你想想你套皮假死博取流量眼球了多少次，\n\n你主页到处挂着的收款码无处不在体现你的恶心\n\n关于套皮的事情，现在他御园花铃时期的小号\n\n@Anohana_39\n\n还死着呢，你们可以去古遗迹参观一下他所发的发疯内容，遇到事情就换名字换号，套皮出来继续圈钱，你和李保兴有啥区别呢\n\n讲真的，你可以证明，我也可以证明出来你卖惨自残圈钱，你害怕你吗？推友自有定论。\n\n我就是看不惯你整篇文章都是收款码挂着要圈钱的样子，有问题？\n\n看不惯就要挂你。你挂过我多少次我也没追责。毕竟你整篇文章到处都是乞讨挂收款码真的足够恶心"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934905540582453411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你把我开了也无所谓，我实名上网而已。正好你急了，说明我这段话成功戳到你痛处了，你活该od，活该被抛弃，这是你应得的。你也只配嫉妒别人，only Berry can do\n\n而你从3月开始套皮御园花铃等自残自杀假死卖惨到现在，您是否应该对真正担心你的人说一声对不起呢？ https://t.co/xIUP00H4RW https://t.co/PvVaD3Cskv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934907503495811072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtosH3MbEAAQ4b7.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934907502996672513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtosH1Va0AEjSZA.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934907503378374656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtosH2wbIAAyfRf.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934907503567097859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtosH3da0AMFWiZ.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934905526527381505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUyaa0AEa9mE.jpg",
+        "width": 1109
+      },
+      {
+        "height": 782,
+        "media_key": "3_1934905526237990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUxVbEAA71wN.jpg",
+        "width": 698
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1934905526367997956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUx0a0AQKFfN.jpg",
+        "width": 860
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934905526191845376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUxKa8AAxg-S.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934907503495811072",
+            "3_1934907502996672513",
+            "3_1934907503378374656",
+            "3_1934907503567097859"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934907516951068733",
+        "created_at": "2025-06-17T09:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934907516951068733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIUP00H4RW",
+              "end": 157,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+              "media_key": "3_1934907503495811072",
+              "start": 134,
+              "url": "https://t.co/xIUP00H4RW"
+            },
+            {
+              "display_url": "pic.x.com/xIUP00H4RW",
+              "end": 157,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+              "media_key": "3_1934907502996672513",
+              "start": 134,
+              "url": "https://t.co/xIUP00H4RW"
+            },
+            {
+              "display_url": "pic.x.com/xIUP00H4RW",
+              "end": 157,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+              "media_key": "3_1934907503378374656",
+              "start": 134,
+              "url": "https://t.co/xIUP00H4RW"
+            },
+            {
+              "display_url": "pic.x.com/xIUP00H4RW",
+              "end": 157,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934907516951068733/photo/1",
+              "media_key": "3_1934907503567097859",
+              "start": 134,
+              "url": "https://t.co/xIUP00H4RW"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1934905540582453411",
+              "start": 158,
+              "url": "https://t.co/PvVaD3Cskv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934907516951068733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 324,
+                "id": "1898210174810419200",
+                "start": 313,
+                "username": "Anohana_39"
+              }
+            ]
+          },
+          "text": "你把我开了也无所谓，我实名上网而已。正好你急了，说明我这段话成功戳到你痛处了，你活该od，活该被抛弃，这是你应得的。你也只配嫉妒别人，only Berry can do\n\n而你从3月开始套皮御园花铃等自残自杀假死卖惨到现在，您是否应该对真正担心你的人说一声对不起呢？\n那天去现场看你的人，他们的时间精力就不是时间了吗？\n\n你就是很恶心，恶心到极致，说真的首页到处卖惨挂收款码的你是唯一一个\n\n至于我为什么会发这个帖子，我看不下去你假死换名套皮卖惨圈钱的样子。\n\n你从御园花铃到现在的Berry，你想想你套皮假死博取流量眼球了多少次，\n\n你主页到处挂着的收款码无处不在体现你的恶心\n\n关于套皮的事情，现在他御园花铃时期的小号\n\n@Anohana_39\n\n还死着呢，你们可以去古遗迹参观一下他所发的发疯内容，遇到事情就换名字换号，套皮出来继续圈钱，你和李保兴有啥区别呢\n\n讲真的，你可以证明，我也可以证明出来你卖惨自残圈钱，你害怕你吗？推友自有定论。\n\n我就是看不惯你整篇文章都是收款码挂着要圈钱的样子，有问题？\n\n看不惯就要挂你。你挂过我多少次我也没追责。毕竟你整篇文章到处都是乞讨挂收款码真的足够恶心"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934905540582453411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你把我开了也无所谓，我实名上网而已。正好你急了，说明我这段话成功戳到你痛处了，你活该od，活该被抛弃，这是你应得的。你也只配嫉妒别人，only Berry can do\n\n而你从3月开始套皮御园花铃等自残自杀假死卖惨到现在，您是否应该对真正担心你的人说一声对不起呢？ https://t.co/xIUP00H4RW https://t.co/PvVaD3Cskv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934905526527381505",
+            "3_1934905526237990912",
+            "3_1934905526367997956",
+            "3_1934905526191845376"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934905540582453411",
+        "created_at": "2025-06-17T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934905540582453411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526527381505",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            },
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526237990912",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            },
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526367997956",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            },
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526191845376",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934905540582453411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这大概是我第一次挂人\n\n其实你也挺可怜的，靠自杀、自残、炒作假死来获取流量。\n\n你这次自杀的原因是为了让别人给你钱买watch吧，我看你在小米商城的订单都买了。 另外，有人去现场看了，你没有自杀。\n\n你是不是浪费了一个人的时间呢？你是否需要跟那位真正担心你的人道个歉呢？ 总是会有人在意你担心你的，但是他们不希望看见你每日自残自杀流很多的血od上瘾。别人看见不好受。\n\n我知道你这样如此炒作的原因是为了让别人更关心你更在意你，但是不要伤害自己好吗？有什么事可以跟我说说，我们都在，我们都在。\n\n别人给你钱的话，你拿出一半来，吃一顿饭，让自己吃饱。把吃饭的照片发给给你钱的人，他会开心的，以后还会给你经济上的帮助的。而你发血图只会让别人渐渐疏远你。\n\n我确实是14岁，年龄小，身边照顾着我的人也多。我承认，我被照顾着，每一顿饭都有人付钱，但至少，让本两三天一顿饭厌食的我，每天都好好吃饭了。\n\n你说过，你想改变，改变经常发疯的你，改变支离破碎的你，改变那个碎在地上碎了一地的你，我知道你曾经贩毒被抓，你的生活并不好过，但是我愿意做你的朋友。愿意跟你一起玩。\n\n你接游戏代打说明你愿意靠自己的劳动挣钱，虽然很不容易，但是你已经开始改变了，这很棒，我希望你会变得更好\n\n你说你看见别人都有watch嫉妒眼红，我理解。我想安慰你，抱抱你。你会通过你自己的劳动得到任何你想要的东西的。我相信你可以的\n\n我看见你用自残割腕流血的方式写血书跟我道歉，我很心疼，我心疼你，割出血需要很大的力气。但是以后不要这么做了好吗？我会原谅你，但总是会有人认为你是疯子逐渐远离你。\n\n我希望你：好好吃饭，每一顿饭都吃饱。朋友之间不需要用自残自己写血书的形式交流的，这样是错的。我们都会包容你，至少你愿意和我们做朋友哪怕不道歉我们也会接纳你的。自杀炒作这种事情不要做了，其实你每一次炒作痕迹都很明显，其实真正要死的人都是悄无声息的离开。\n\n祝你生活愉快，附上我很喜欢的一句话：\n\n跨过晨昏线，便是永夜。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这大概是我第一次挂人\n\n其实你也挺可怜的，靠自杀、自残、炒作假死来获取流量。\n\n你这次自杀的原因是为了让别人给你钱买watch吧，我看你在小米商城的订单都买了。 另外，有人去现场看了，你没有自杀。\n\n你是不是浪费了一个人的时间呢？你是否需要跟那位真正担心你的人道个歉呢？ https://t.co/QxiL6k0J1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 951,
+          "like_count": 1332,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-08T03:13:22.000Z",
+        "description": "证据留存频道 https://t.co/oLDQcOzh8l，牵扯到贩毒案受害者，被药贩“Spring風 沈宇扬”和“溺水长和 李奇一”诱导诬陷做牺牲品替罪羊人肉挡箭牌，请法律不要冤枉我，可能随时会自杀，珍爱生命远离OD/精一精二、增强法律意识、别相信任何“帮我做xxx 我带你赚钱”之类的话",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Unknown9yz",
+                "end": 30,
+                "expanded_url": "https://t.me/Unknown9yz",
+                "start": 7,
+                "url": "https://t.co/oLDQcOzh8l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anohana39",
+                "end": 23,
+                "expanded_url": "http://t.me/anohana39",
+                "start": 0,
+                "url": "https://t.co/qPMA6kJirn"
+              }
+            ]
+          }
+        },
+        "id": "1898210174810419200",
+        "location": "我没吸毒也没贩毒",
+        "name": "Anohana🏳️‍⚧️重度精神病发疯",
+        "pinned_tweet_id": "1914296374419767427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914180924440465408/QIZnvulM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 320,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/qPMA6kJirn",
+        "username": "Anohana_39",
+        "verified": false
+      }
+    ]
+  }
+}

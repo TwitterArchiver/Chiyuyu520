@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1940772528441774585",
+    "created_at": "2025-07-03T17:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T18:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940824356558721048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636637151919218689",
+          "start": 0,
+          "username": "GetSomeNoodles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940824356558721048",
+    "in_reply_to_user_id": "1636637151919218689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940823767959458057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GetSomeNoodles 其实喜欢用qq的人更多一些。tg也有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1940772528441774585",
+        "created_at": "2025-07-03T17:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T18:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940824356558721048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636637151919218689",
+              "start": 0,
+              "username": "GetSomeNoodles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940824356558721048",
+        "in_reply_to_user_id": "1636637151919218689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940823767959458057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GetSomeNoodles 其实喜欢用qq的人更多一些。tg也有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636637151919218689",
+        "conversation_id": "1940772528441774585",
+        "created_at": "2025-07-03T17:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T18:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940823767959458057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940823767959458057",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940772528441774585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 为什么都喜欢建qq群，不建tg群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 1117,
+          "like_count": 2277,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-17T07:54:46.000Z",
+        "description": "nothing",
+        "id": "1636637151919218689",
+        "location": "海の底",
+        "name": "整点面条",
+        "pinned_tweet_id": "1819751726800605384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836349831562039296/KWCnT0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 202,
+          "like_count": 575,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 209
+        },
+        "username": "GetSomeNoodles",
+        "verified": false
+      }
+    ]
+  }
+}

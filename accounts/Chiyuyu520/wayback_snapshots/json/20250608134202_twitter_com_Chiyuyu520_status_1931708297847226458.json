@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1931681890722779399",
+    "created_at": "2025-06-08T13:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T14:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931708297847226458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804072081623285760",
+          "start": 0,
+          "username": "realiSanae"
+        },
+        {
+          "end": 25,
+          "id": "1915068314377953281",
+          "start": 12,
+          "username": "Yu2057152546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931708297847226458",
+    "in_reply_to_user_id": "1804072081623285760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931705216719814825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realiSanae @Yu2057152546 就是保号用的 10港元太便宜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1931681890722779399",
+        "created_at": "2025-06-08T13:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931708297847226458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804072081623285760",
+              "start": 0,
+              "username": "realiSanae"
+            },
+            {
+              "end": 25,
+              "id": "1915068314377953281",
+              "start": 12,
+              "username": "Yu2057152546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931708297847226458",
+        "in_reply_to_user_id": "1804072081623285760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931705216719814825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realiSanae @Yu2057152546 就是保号用的 10港元太便宜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804072081623285760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1931681890722779399",
+        "created_at": "2025-06-08T13:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931705216719814825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915068314377953281",
+              "start": 0,
+              "username": "Yu2057152546"
+            },
+            {
+              "end": 25,
+              "id": "1904873292366036992",
+              "start": 14,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "description": "由即日至3月31日，haha SIM 推出多重優惠，亞洲10地低至$12/日，再加上每增值$100送$10儲值額，立即上嚟入手haha SIM啦！",
+              "display_url": "fortress.com.hk/zh-hk/promotio…",
+              "end": 100,
+              "expanded_url": "https://www.fortress.com.hk/zh-hk/promotion/hahasim",
+              "start": 77,
+              "status": 200,
+              "title": "全新豐澤外遊上網卡 haha SIM | Fortress 豐澤",
+              "unwound_url": "https://www.fortress.com.hk/zh-hk/promotion/hahasim",
+              "url": "https://t.co/xNkZWLyuBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931705216719814825",
+        "in_reply_to_user_id": "1915068314377953281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931686927662793002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu2057152546 @Chiyuyu520 丰泽的 haha SIM 卡介绍页面有详细说明\n跟 CTM 相比这卡话费都贵上天了\n具体费率自己看吧 https://t.co/xNkZWLyuBZ\n\n这卡优势是保号便宜（一年 10 HKD）且大陆地区使用无需实名\n而且外版 iPhone 设备可将实体卡转换为 eSIM（需要花费 28 HKD，价格同 3HK）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 627,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-21T08:42:07.000Z",
+        "description": "希望是可爱 Sanae 姐姐🏳️‍⚧️ | Non-binary（She/Her）\n希望大家都能变成想要的样子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sanae_daily",
+                "end": 23,
+                "expanded_url": "https://t.me/sanae_daily",
+                "start": 0,
+                "url": "https://t.co/8kp1D1REoC"
+              }
+            ]
+          }
+        },
+        "id": "1804072081623285760",
+        "location": "江城市 孱陵路 33 号",
+        "name": "Sanae🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804072431918944262/_Omm2z_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/8kp1D1REoC",
+        "username": "realiSanae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T15:40:58.000Z",
+        "description": "也是药娘\n想做一个公众号\n希望做一个树洞倾听故事\n告诉我你们怎么来到这\n怎么变成这样\n🚪",
+        "id": "1915068314377953281",
+        "name": "二次元重生泥头车驾驶员",
+        "pinned_tweet_id": "1930842839258210385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916170849989906432/uiiEVbvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 54,
+          "like_count": 2565,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 762
+        },
+        "username": "Yu2057152546",
+        "verified": false
+      }
+    ]
+  }
+}

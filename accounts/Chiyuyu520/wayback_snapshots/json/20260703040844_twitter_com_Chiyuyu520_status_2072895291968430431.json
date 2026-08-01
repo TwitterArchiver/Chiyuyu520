@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2072895291968430431",
+    "created_at": "2026-07-03T04:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072895291968430431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2072894159032398267",
+          "start": 23,
+          "url": "https://t.co/jZZALwHKPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072895291968430431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072894159032398267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个凉粉吃起来跟胡辣汤一样\n荷兰人可以过来了 https://t.co/jZZALwHKPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072894141693100032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRmPTybAAAbAWI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072894145442766848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRmPhwaYAAtC2H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072894141693059072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRmPTyaYAAictu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072894145434411008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRmPhua4AA72Gf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2072895291968430431",
+        "created_at": "2026-07-03T04:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072895291968430431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2072894159032398267",
+              "start": 23,
+              "url": "https://t.co/jZZALwHKPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072895291968430431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072894159032398267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个凉粉吃起来跟胡辣汤一样\n荷兰人可以过来了 https://t.co/jZZALwHKPU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072894141693100032",
+            "3_2072894145442766848",
+            "3_2072894141693059072",
+            "3_2072894145434411008"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072894159032398267",
+        "created_at": "2026-07-03T04:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072894159032398267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kESSuaGHCS",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072894159032398267/photo/1",
+              "media_key": "3_2072894141693100032",
+              "start": 15,
+              "url": "https://t.co/kESSuaGHCS"
+            },
+            {
+              "display_url": "pic.x.com/kESSuaGHCS",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072894159032398267/photo/1",
+              "media_key": "3_2072894145442766848",
+              "start": 15,
+              "url": "https://t.co/kESSuaGHCS"
+            },
+            {
+              "display_url": "pic.x.com/kESSuaGHCS",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072894159032398267/photo/1",
+              "media_key": "3_2072894141693059072",
+              "start": 15,
+              "url": "https://t.co/kESSuaGHCS"
+            },
+            {
+              "display_url": "pic.x.com/kESSuaGHCS",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072894159032398267/photo/1",
+              "media_key": "3_2072894145434411008",
+              "start": 15,
+              "url": "https://t.co/kESSuaGHCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072894159032398267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午茶\n看起来很好吃\n13r https://t.co/kESSuaGHCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 1292,
+          "like_count": 7287,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

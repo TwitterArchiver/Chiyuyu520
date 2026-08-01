@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T13:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930260436286615682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799452729565200384",
+          "start": 0,
+          "username": "XiaLiu_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930260436286615682",
+    "in_reply_to_user_id": "1799452729565200384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930260233303015460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaLiu_6 广播IDC，尝试换别的哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1930260229905887233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsmpc7-asAEei73.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930260436286615682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799452729565200384",
+              "start": 0,
+              "username": "XiaLiu_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930260436286615682",
+        "in_reply_to_user_id": "1799452729565200384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930260233303015460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaLiu_6 广播IDC，尝试换别的哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930260229905887233"
+          ]
+        },
+        "author_id": "1799452729565200384",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930260233303015460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FT2vG1rAM4",
+              "end": 39,
+              "expanded_url": "https://x.com/XiaLiu_6/status/1930260233303015460/photo/1",
+              "media_key": "3_1930260229905887233",
+              "start": 16,
+              "url": "https://t.co/FT2vG1rAM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930260233303015460",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 那我这 https://t.co/FT2vG1rAM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 489,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T14:46:02.000Z",
+        "description": "一个普通不活跃的中国中学生🤓X不常看🤔国内平台包有号的👍",
+        "id": "1799452729565200384",
+        "location": "China,Heilongjiang",
+        "name": "WuMing_5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888973015284891648/BJwhWY34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 70,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 104
+        },
+        "username": "XiaLiu_6",
+        "verified": false
+      }
+    ]
+  }
+}

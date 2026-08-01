@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916406847885676577",
+    "created_at": "2025-04-27T11:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916455134848336357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450365861345202177",
+          "start": 0,
+          "username": "MayISeeUAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916455134848336357",
+    "in_reply_to_user_id": "1450365861345202177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916406847885676577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MayISeeUAgain 抱抱啦，🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916406834786930689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gphx3NibEAEamvy.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916406847885676577",
+        "created_at": "2025-04-27T11:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916455134848336357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450365861345202177",
+              "start": 0,
+              "username": "MayISeeUAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916455134848336357",
+        "in_reply_to_user_id": "1450365861345202177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916406847885676577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MayISeeUAgain 抱抱啦，🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916406834786930689"
+          ]
+        },
+        "author_id": "1450365861345202177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916406847885676577",
+        "created_at": "2025-04-27T08:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916406847885676577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rp0i334YOQ",
+              "end": 168,
+              "expanded_url": "https://x.com/MayISeeUAgain/status/1916406847885676577/photo/1",
+              "media_key": "3_1916406834786930689",
+              "start": 145,
+              "url": "https://t.co/rp0i334YOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916406847885676577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想看咱打舞萌的（）\n算下来也是含🍥三周了，好像发现除了莫名其妙不规律出现的体力下降以外并没有观察到水平的显著下降呢，也算是记录一下自己身体发生的变化？\n所以那个“在大水里面加雌二醇”的恶趣味笑话到底是怎么传开的（虽然加进去也溶不了就是了）...\n大概是最符合舞萌圈刻板印象的一条了） https://t.co/rp0i334YOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 206,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 133
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T07:39:19.000Z",
+        "description": "补药时间我 (哭脸)｜暂时还没有什么想说的呢...｜查成分 / 了解我可以看置顶｜视情况回 fo｜小笨蛋😋: @Chiyuyu520 (逃)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "windysummer.cloud",
+                "end": 23,
+                "expanded_url": "http://windysummer.cloud",
+                "start": 0,
+                "url": "https://t.co/AqAAX99ZWz"
+              }
+            ]
+          }
+        },
+        "id": "1450365861345202177",
+        "location": "Where Heart Belongs",
+        "name": "这是一只占位符",
+        "pinned_tweet_id": "1914767099769315634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907824442899939328/TXgjowT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 312,
+          "like_count": 8123,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/AqAAX99ZWz",
+        "username": "MayISeeUAgain",
+        "verified": false
+      }
+    ]
+  }
+}

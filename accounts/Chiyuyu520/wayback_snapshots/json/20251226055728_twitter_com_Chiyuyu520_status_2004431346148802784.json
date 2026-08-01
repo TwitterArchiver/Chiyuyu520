@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004431338850734080"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2004431346148802784",
+    "created_at": "2025-12-26T05:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T06:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004431346148802784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEbVcfVNGR",
+          "end": 30,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2004431346148802784/photo/1",
+          "media_key": "3_2004431338850734080",
+          "start": 7,
+          "url": "https://t.co/xEbVcfVNGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004431346148802784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "菠萝包…呜. https://t.co/xEbVcfVNGR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2004431338850734080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Errsjb0AA4Bua.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004431338850734080"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2004431346148802784",
+        "created_at": "2025-12-26T05:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004431346148802784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEbVcfVNGR",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2004431346148802784/photo/1",
+              "media_key": "3_2004431338850734080",
+              "start": 7,
+              "url": "https://t.co/xEbVcfVNGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004431346148802784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菠萝包…呜. https://t.co/xEbVcfVNGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "含糖 25.03.24 雷见证蛆抽象人 日雌350/盒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmh1io"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1998260372411986125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 1272,
+          "like_count": 5872,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/ueqIkmh1io",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

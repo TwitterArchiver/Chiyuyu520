@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2004431346148802784",
+    "created_at": "2025-12-27T01:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004722297861800248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1994228286667591681",
+          "start": 0,
+          "username": "Claudio1260783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004722297861800248",
+    "in_reply_to_user_id": "1994228286667591681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004539329646133448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claudio1260783 被家人管的惹 应该也没药了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2004431346148802784",
+        "created_at": "2025-12-27T01:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004722297861800248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1994228286667591681",
+              "start": 0,
+              "username": "Claudio1260783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004722297861800248",
+        "in_reply_to_user_id": "1994228286667591681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004539329646133448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claudio1260783 被家人管的惹 应该也没药了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994228286667591681",
+        "conversation_id": "2004431346148802784",
+        "created_at": "2025-12-26T13:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004539329646133448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004539329646133448",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6771,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004431346148802784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "含糖 25.03.24 雷见证蛆抽象人 日雌350/盒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmh1io"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1998260372411986125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3709,
+          "following_count": 1272,
+          "like_count": 5872,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/ueqIkmh1io",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T02:14:29.000Z",
+        "description": "薯薯一枚，平常的爱好是用枪榴弹捞其他薯薯，或者被pro用刺刀撅🥵🥵，喜欢卢关😋😋，皇帝上司：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1994228286667591681",
+        "location": "凡尔登",
+        "name": "Sanitäter",
+        "pinned_tweet_id": "1994765128143900868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003864009897054208/4lE_t7e5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 82,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 287
+        },
+        "username": "Claudio1260783",
+        "verified": false
+      }
+    ]
+  }
+}

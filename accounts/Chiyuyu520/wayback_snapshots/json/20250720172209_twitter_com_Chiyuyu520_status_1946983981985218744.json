@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1946983981985218744",
+    "created_at": "2025-07-20T17:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T18:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946983981985218744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "“我们已经没有什么不能失去的了。”",
+          "display_url": "chiyu.it/posts/end",
+          "end": 37,
+          "expanded_url": "https://chiyu.it/posts/end",
+          "images": [
+            {
+              "height": 3512,
+              "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=orig",
+              "width": 4096
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "遗书 | 池鱼小栈",
+          "unwound_url": "https://chiyu.it/posts/end",
+          "url": "https://t.co/JKZBAjKfMB"
+        },
+        {
+          "display_url": "x.com/Summitsky15984…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Summitsky159844/status/1946971204356813149",
+          "start": 61,
+          "url": "https://t.co/Am2y2QZK44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946983981985218744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946971204356813149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笨蛋，我困了，也累了。晚安\nhttps://t.co/JKZBAjKfMB\n遗书在这里了。如果还能醒来，我希望各位都在。 https://t.co/Am2y2QZK44"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1946983981985218744",
+        "created_at": "2025-07-20T17:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946983981985218744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“我们已经没有什么不能失去的了。”",
+              "display_url": "chiyu.it/posts/end",
+              "end": 37,
+              "expanded_url": "https://chiyu.it/posts/end",
+              "images": [
+                {
+                  "height": 3512,
+                  "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=orig",
+                  "width": 4096
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "遗书 | 池鱼小栈",
+              "unwound_url": "https://chiyu.it/posts/end",
+              "url": "https://t.co/JKZBAjKfMB"
+            },
+            {
+              "display_url": "x.com/Summitsky15984…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Summitsky159844/status/1946971204356813149",
+              "start": 61,
+              "url": "https://t.co/Am2y2QZK44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946983981985218744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946971204356813149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笨蛋，我困了，也累了。晚安\nhttps://t.co/JKZBAjKfMB\n遗书在这里了。如果还能醒来，我希望各位都在。 https://t.co/Am2y2QZK44"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682947013158277120",
+        "conversation_id": "1946971204356813149",
+        "created_at": "2025-07-20T16:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T17:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946971204356813149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904873292366036992",
+              "start": 5,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946971204356813149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 184,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "紧急通知\n@chiyuyu520 疑似存在自杀迹象\n如果可以，烦请所有与其熟识的人予以应答\n“打算吃很多降血压药物然后吃两片氯硝让自己睡过去 之后看天吧”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1946983981985218744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 1208,
+          "like_count": 3504,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T02:53:45.000Z",
+        "description": "Longing for the memorial days……",
+        "id": "1682947013158277120",
+        "name": "Summitsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682947705319084033/ETa_f7po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 1311,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 452
+        },
+        "username": "Summitsky159844",
+        "verified": false
+      }
+    ]
+  }
+}

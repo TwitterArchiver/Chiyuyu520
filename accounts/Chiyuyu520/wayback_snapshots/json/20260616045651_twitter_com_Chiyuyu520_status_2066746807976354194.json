@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066746802171482112"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2066746807976354194",
+    "created_at": "2026-06-16T04:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066746807976354194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9UUBPnZKw",
+          "end": 37,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2066746807976354194/photo/1",
+          "media_key": "3_2066746802171482112",
+          "start": 14,
+          "url": "https://t.co/L9UUBPnZKw"
+        },
+        {
+          "display_url": "x.com/luna4rzd/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/luna4rzd/status/2066542149089276277",
+          "start": 38,
+          "url": "https://t.co/u4UUlynUBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066746807976354194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066542149089276277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "硬座怎么你了我回来还硬座呢 https://t.co/L9UUBPnZKw https://t.co/u4UUlynUBB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2066746802171482112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6PRDgbEAAwKC-.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066746802171482112"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2066746807976354194",
+        "created_at": "2026-06-16T04:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066746807976354194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9UUBPnZKw",
+              "end": 37,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2066746807976354194/photo/1",
+              "media_key": "3_2066746802171482112",
+              "start": 14,
+              "url": "https://t.co/L9UUBPnZKw"
+            },
+            {
+              "display_url": "x.com/luna4rzd/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/luna4rzd/status/2066542149089276277",
+              "start": 38,
+              "url": "https://t.co/u4UUlynUBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066746807976354194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066542149089276277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "硬座怎么你了我回来还硬座呢 https://t.co/L9UUBPnZKw https://t.co/u4UUlynUBB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600929805515399168",
+        "conversation_id": "2066365073724182827",
+        "created_at": "2026-06-15T15:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066542149089276277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066542149089276277",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066365073724182827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 硬座？京沪？我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4075,
+          "following_count": 1291,
+          "like_count": 6953,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 1578
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-08T19:06:37.000Z",
+        "description": "不会写Bio喵",
+        "id": "1600929805515399168",
+        "name": "Luna 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019193525959569408/x__ZClBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 46,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 95
+        },
+        "username": "Luna4rzd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T17:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T18:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930309652794740926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "958587661240950785",
+          "start": 0,
+          "username": "lokesh4002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930309652794740926",
+    "in_reply_to_user_id": "958587661240950785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930309544674242808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lokesh4002 很棒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930309522884833280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnWSKoasAAmTAs.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930309522876444675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnWSKmasAMlin0.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930309522880638981",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnWSKnasAUhRLE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T17:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930309652794740926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "958587661240950785",
+              "start": 0,
+              "username": "lokesh4002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930309652794740926",
+        "in_reply_to_user_id": "958587661240950785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930309544674242808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lokesh4002 很棒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930309522884833280",
+            "3_1930309522876444675",
+            "3_1930309522880638981"
+          ]
+        },
+        "author_id": "958587661240950785",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T17:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930309544674242808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvnTaM22X2",
+              "end": 68,
+              "expanded_url": "https://x.com/lokesh4002/status/1930309544674242808/photo/1",
+              "media_key": "3_1930309522884833280",
+              "start": 45,
+              "url": "https://t.co/WvnTaM22X2"
+            },
+            {
+              "display_url": "pic.x.com/WvnTaM22X2",
+              "end": 68,
+              "expanded_url": "https://x.com/lokesh4002/status/1930309544674242808/photo/1",
+              "media_key": "3_1930309522876444675",
+              "start": 45,
+              "url": "https://t.co/WvnTaM22X2"
+            },
+            {
+              "display_url": "pic.x.com/WvnTaM22X2",
+              "end": 68,
+              "expanded_url": "https://x.com/lokesh4002/status/1930309544674242808/photo/1",
+              "media_key": "3_1930309522880638981",
+              "start": 45,
+              "url": "https://t.co/WvnTaM22X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930309544674242808",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 常用idc，但是也有一些很纯净的家宽，只是不常用，因为速度不太快 https://t.co/WvnTaM22X2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 508,
+          "like_count": 448,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T06:28:02.000Z",
+        "description": "不谈政治/福瑞控/简中/繁中👌English👌/地铁打工人/gay/是0/可约/可以扩列/需要回关可以私信/里推🔞：@jameshelen114 /telegram:https://t.co/t1D6lCHwHl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "jameshelen114"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jameshelen0324",
+                "end": 106,
+                "expanded_url": "http://t.me/jameshelen0324",
+                "start": 83,
+                "url": "https://t.co/t1D6lCHwHl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/pNjeo7lm9O"
+              }
+            ]
+          }
+        },
+        "id": "958587661240950785",
+        "location": "天津",
+        "name": "James Helen🔜 TRT",
+        "pinned_tweet_id": "1919927381222899969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894737836009783297/Z2tGBtkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8038,
+          "following_count": 3933,
+          "like_count": 40343,
+          "listed_count": 7,
+          "media_count": 1371,
+          "tweet_count": 17432
+        },
+        "url": "https://t.co/pNjeo7lm9O",
+        "username": "lokesh4002",
+        "verified": false
+      }
+    ]
+  }
+}

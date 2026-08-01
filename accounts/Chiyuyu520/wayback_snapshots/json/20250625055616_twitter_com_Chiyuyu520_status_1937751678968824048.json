@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937751663865176064",
+        "3_1937751664037085184"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1937751678968824048",
+    "created_at": "2025-06-25T05:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T06:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937751678968824048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HO5CfLSo4M",
+          "end": 170,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1937751678968824048/photo/1",
+          "media_key": "3_1937751663865176064",
+          "start": 147,
+          "url": "https://t.co/HO5CfLSo4M"
+        },
+        {
+          "display_url": "pic.x.com/HO5CfLSo4M",
+          "end": 170,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1937751678968824048/photo/1",
+          "media_key": "3_1937751664037085184",
+          "start": 147,
+          "url": "https://t.co/HO5CfLSo4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937751678968824048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "某14岁xyn-HRT94天第一次激素结果出来惹！！非常漂亮的结果\n日雌7天谷值262pg/ml！\n睾酮完全压制！！\n使用药物只有日雌，7天一次\n没有抗雄哦，通过我的报告就可以证明啦，日雌不需要抗雄辅助！\n我选用日雌的理由：\n1.便宜。我不使用自制药物，所以日雌是综合来讲成本最低的HRT药物\n2.安全。注射类剂型是几乎最安全的HRT药物了，相比于抗雄色谱龙等的巨大肝肾毒性，日雌这类天然激素对肝肾几乎没有伤害，我的肝肾功能都正常，没有问题。\n3.方便。只需要7天打一针，临时遇到一些事放小假期什么的不需要因为含糖被家长发现炸柜或忘记服药\n4.稳定。相比于口服补凝胶等不稳定的给药方法，日雌的直接注射相比来说更加的稳定，减少激素给药的不确定性可以缓解很多的性别焦虑。\n至少我今天的性别焦虑被这份报告治好了，我现在心情很棒。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "某14岁xyn-HRT94天第一次激素结果出来惹！！非常漂亮的结果\n日雌7天谷值262pg/ml！\n睾酮完全压制！！\n使用药物只有日雌，7天一次\n没有抗雄哦，通过我的报告就可以证明啦，日雌不需要抗雄辅助！\n我选用日雌的理由：\n1.便宜。我不使用自制药物，所以日雌是综合来讲成本最低的HRT药物 https://t.co/HO5CfLSo4M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_1937751663865176064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRG3yObIAAfH29.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1660,
+        "media_key": "3_1937751664037085184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRG3y3aQAAe9iR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937751663865176064",
+            "3_1937751664037085184"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1937751678968824048",
+        "created_at": "2025-06-25T05:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T06:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937751678968824048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HO5CfLSo4M",
+              "end": 170,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1937751678968824048/photo/1",
+              "media_key": "3_1937751663865176064",
+              "start": 147,
+              "url": "https://t.co/HO5CfLSo4M"
+            },
+            {
+              "display_url": "pic.x.com/HO5CfLSo4M",
+              "end": 170,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1937751678968824048/photo/1",
+              "media_key": "3_1937751664037085184",
+              "start": 147,
+              "url": "https://t.co/HO5CfLSo4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937751678968824048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "某14岁xyn-HRT94天第一次激素结果出来惹！！非常漂亮的结果\n日雌7天谷值262pg/ml！\n睾酮完全压制！！\n使用药物只有日雌，7天一次\n没有抗雄哦，通过我的报告就可以证明啦，日雌不需要抗雄辅助！\n我选用日雌的理由：\n1.便宜。我不使用自制药物，所以日雌是综合来讲成本最低的HRT药物\n2.安全。注射类剂型是几乎最安全的HRT药物了，相比于抗雄色谱龙等的巨大肝肾毒性，日雌这类天然激素对肝肾几乎没有伤害，我的肝肾功能都正常，没有问题。\n3.方便。只需要7天打一针，临时遇到一些事放小假期什么的不需要因为含糖被家长发现炸柜或忘记服药\n4.稳定。相比于口服补凝胶等不稳定的给药方法，日雌的直接注射相比来说更加的稳定，减少激素给药的不确定性可以缓解很多的性别焦虑。\n至少我今天的性别焦虑被这份报告治好了，我现在心情很棒。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某14岁xyn-HRT94天第一次激素结果出来惹！！非常漂亮的结果\n日雌7天谷值262pg/ml！\n睾酮完全压制！！\n使用药物只有日雌，7天一次\n没有抗雄哦，通过我的报告就可以证明啦，日雌不需要抗雄辅助！\n我选用日雌的理由：\n1.便宜。我不使用自制药物，所以日雌是综合来讲成本最低的HRT药物 https://t.co/HO5CfLSo4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1065,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1966469196256051391",
+    "created_at": "2025-09-12T15:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966517735468233045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1966517735468233045",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966516449482346689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 正常吃中国产补佳乐的价格才是很贵的\n和你算笔账\n一盒补佳乐 一天4mg 30/盒\n30/21 *4 一天1.4*4=5.6元\n抗雄算380一盒 一盒200天 380/200=1.9\n5.6+1.9=7.5元/天\n日雌一盒70天 不需要抗雄\n370/70≈5.28元/天\n你慢慢算吧 吃国补的真的富豪\n而且医生开的补佳乐剂量一般不够HRT所用 一盒让你吃一个月什么的"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1966469196256051391",
+        "created_at": "2025-09-12T15:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966517735468233045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1966517735468233045",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966516449482346689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 正常吃中国产补佳乐的价格才是很贵的\n和你算笔账\n一盒补佳乐 一天4mg 30/盒\n30/21 *4 一天1.4*4=5.6元\n抗雄算380一盒 一盒200天 380/200=1.9\n5.6+1.9=7.5元/天\n日雌一盒70天 不需要抗雄\n370/70≈5.28元/天\n你慢慢算吧 吃国补的真的富豪\n而且医生开的补佳乐剂量一般不够HRT所用 一盒让你吃一个月什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "1966469196256051391",
+        "created_at": "2025-09-12T14:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966516449482346689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966516449482346689",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966469196256051391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 ㄟ\n無證市場的價格這麼高喵?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3240,
+          "following_count": 1287,
+          "like_count": 5239,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "我想大聲說點甚麼，最後還是把嘴閉了回去。因為我知道我除了安慰甚麼也做不到 /已知50%反對黨、預計是100%反對黨/暫未含糖/日本留學準備中/半出櫃/Discord: https://t.co/ccn1U72HVa Website: https://t.co/uduZ2kuRiC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 107,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 84,
+                "url": "https://t.co/ccn1U72HVa"
+              },
+              {
+                "display_url": "hsnej.fun",
+                "end": 140,
+                "expanded_url": "https://www.hsnej.fun",
+                "start": 117,
+                "url": "https://t.co/uduZ2kuRiC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hsnej.fun",
+                "end": 23,
+                "expanded_url": "http://www.hsnej.fun",
+                "start": 0,
+                "url": "https://t.co/IsnYmbhijH"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "Taito-ku, Tokyo",
+        "name": "𝙷𝚘𝚜𝚒𝚗𝚘𝙴𝙹🏳️‍⚧️🍥 - 東京留学準備中（お互いフォローでき）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944072754229391363/Ez0-Gdww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 300,
+          "like_count": 2092,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/IsnYmbhijH",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

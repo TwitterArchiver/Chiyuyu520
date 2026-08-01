@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969651067173683204",
+        "3_1969651067135934469"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969651096932270324",
+    "created_at": "2025-09-21T06:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969651096932270324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xLDBMLJ3vj",
+          "end": 108,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1969651096932270324/photo/1",
+          "media_key": "3_1969651067173683204",
+          "start": 85,
+          "url": "https://t.co/xLDBMLJ3vj"
+        },
+        {
+          "display_url": "pic.x.com/xLDBMLJ3vj",
+          "end": 108,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1969651096932270324/photo/1",
+          "media_key": "3_1969651067135934469",
+          "start": 85,
+          "url": "https://t.co/xLDBMLJ3vj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969651096932270324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我首先说明 我不卖药 我也不发货\n我对接的是猫卷姐姐，我可以卖更便宜的药物，因为我有部分定价权。你举报我也没用啊 我不发货 下单的订单全部交给猫卷 钱也不是我收，有啥呢 https://t.co/xLDBMLJ3vj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1969651067173683204",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WbNb5bQAQrMJE.jpg",
+        "width": 1100
+      },
+      {
+        "height": 3168,
+        "media_key": "3_1969651067135934469",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WbNbwbQAUA85d.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969651067173683204",
+            "3_1969651067135934469"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969651096932270324",
+        "created_at": "2025-09-21T06:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969651096932270324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLDBMLJ3vj",
+              "end": 108,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1969651096932270324/photo/1",
+              "media_key": "3_1969651067173683204",
+              "start": 85,
+              "url": "https://t.co/xLDBMLJ3vj"
+            },
+            {
+              "display_url": "pic.x.com/xLDBMLJ3vj",
+              "end": 108,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1969651096932270324/photo/1",
+              "media_key": "3_1969651067135934469",
+              "start": 85,
+              "url": "https://t.co/xLDBMLJ3vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969651096932270324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我首先说明 我不卖药 我也不发货\n我对接的是猫卷姐姐，我可以卖更便宜的药物，因为我有部分定价权。你举报我也没用啊 我不发货 下单的订单全部交给猫卷 钱也不是我收，有啥呢 https://t.co/xLDBMLJ3vj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 1300,
+          "like_count": 5676,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

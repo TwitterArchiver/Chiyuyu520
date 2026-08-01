@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942543755342417920"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1942544801293033837",
+    "created_at": "2025-07-08T11:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T12:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942544801293033837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1635858721",
+          "start": 4,
+          "username": "Lam_staff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "“我们已经没有什么不能失去的了。”",
+          "display_url": "chiyu.it/posts/end",
+          "end": 111,
+          "expanded_url": "https://chiyu.it/posts/end",
+          "images": [
+            {
+              "height": 3512,
+              "url": "https://pbs.twimg.com/news_img/1939728598925193216/WyS7QNJu?format=jpg&name=orig",
+              "width": 4096
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1939728598925193216/WyS7QNJu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 88,
+          "status": 200,
+          "title": "遗书 | 池鱼小栈",
+          "unwound_url": "https://chiyu.it/posts/end",
+          "url": "https://t.co/JKZBAjKfMB"
+        },
+        {
+          "display_url": "pic.x.com/Iw9SBqSwrA",
+          "end": 135,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1942544801293033837/video/1",
+          "media_key": "13_1942543755342417920",
+          "start": 112,
+          "url": "https://t.co/Iw9SBqSwrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942544801293033837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很喜欢 @Lam_staff  所唱的这首歌\n喜欢三年了 到现在还在重复听\n所以我决定把这首歌放进遗书\n“谁他妈真以为这样的歌能治好你渗出的，堆积的痛苦”\n(视频有简中字幕)\nhttps://t.co/JKZBAjKfMB https://t.co/Iw9SBqSwrA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 260458,
+        "height": 1080,
+        "media_key": "13_1942543755342417920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942543755342417920/img/MIda3gqXeDtxfJtY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942543755342417920/vid/avc1/480x270/b-31xrs42jUvPi1I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942543755342417920/pl/KLZpJIiBzsr6xbEs.m3u8?v=554"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942543755342417920/vid/avc1/1280x720/Cq5MTfaON2qjG3vY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942543755342417920/vid/avc1/1920x1080/55qHUniD8bKA_jFy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942543755342417920/vid/avc1/640x360/qQyfrx1pwpz0gHOl.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942543755342417920"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1942544801293033837",
+        "created_at": "2025-07-08T11:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942544801293033837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1635858721",
+              "start": 4,
+              "username": "Lam_staff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "“我们已经没有什么不能失去的了。”",
+              "display_url": "chiyu.it/posts/end",
+              "end": 111,
+              "expanded_url": "https://chiyu.it/posts/end",
+              "images": [
+                {
+                  "height": 3512,
+                  "url": "https://pbs.twimg.com/news_img/1939728598925193216/WyS7QNJu?format=jpg&name=orig",
+                  "width": 4096
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1939728598925193216/WyS7QNJu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "遗书 | 池鱼小栈",
+              "unwound_url": "https://chiyu.it/posts/end",
+              "url": "https://t.co/JKZBAjKfMB"
+            },
+            {
+              "display_url": "pic.x.com/Iw9SBqSwrA",
+              "end": 135,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942544801293033837/video/1",
+              "media_key": "13_1942543755342417920",
+              "start": 112,
+              "url": "https://t.co/Iw9SBqSwrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942544801293033837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢 @Lam_staff  所唱的这首歌\n喜欢三年了 到现在还在重复听\n所以我决定把这首歌放进遗书\n“谁他妈真以为这样的歌能治好你渗出的，堆积的痛苦”\n(视频有简中字幕)\nhttps://t.co/JKZBAjKfMB https://t.co/Iw9SBqSwrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939728580105445794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 1125,
+          "like_count": 2702,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-31T16:13:07.000Z",
+        "description": "こはならむ(@Lam_dayo)のスタッフアカウントです🌷｜アルバム『Iam』▶︎ https://t.co/hoCUb1JV6b｜お仕事のご依頼はこちらまで▶︎ kohanalam_staff@utaite.co.jp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "Lam_dayo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kohanalam.lnk.to/Iam",
+                "end": 65,
+                "expanded_url": "https://kohanalam.lnk.to/Iam",
+                "start": 42,
+                "url": "https://t.co/hoCUb1JV6b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avex.jp/kohanalam/",
+                "end": 23,
+                "expanded_url": "https://avex.jp/kohanalam/",
+                "start": 0,
+                "url": "https://t.co/Et1w6x9kXp"
+              }
+            ]
+          }
+        },
+        "id": "1635858721",
+        "name": "こはならむ Staff",
+        "pinned_tweet_id": "1929738849988890873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854873462999072772/cnez_gAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8790,
+          "following_count": 1991,
+          "like_count": 21019,
+          "listed_count": 34,
+          "media_count": 456,
+          "tweet_count": 4002
+        },
+        "url": "https://t.co/Et1w6x9kXp",
+        "username": "Lam_staff",
+        "verified": false
+      }
+    ]
+  }
+}

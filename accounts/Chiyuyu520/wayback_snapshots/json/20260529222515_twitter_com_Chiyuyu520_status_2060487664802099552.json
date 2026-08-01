@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060487658783301632",
+        "3_2060487658774962176",
+        "3_2060487658774872064",
+        "3_2060487658770718720"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2060487664802099552",
+    "created_at": "2026-05-29T22:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060487664802099552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WxlQVgORmI",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+          "media_key": "3_2060487658783301632",
+          "start": 31,
+          "url": "https://t.co/WxlQVgORmI"
+        },
+        {
+          "display_url": "pic.x.com/WxlQVgORmI",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+          "media_key": "3_2060487658774962176",
+          "start": 31,
+          "url": "https://t.co/WxlQVgORmI"
+        },
+        {
+          "display_url": "pic.x.com/WxlQVgORmI",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+          "media_key": "3_2060487658774872064",
+          "start": 31,
+          "url": "https://t.co/WxlQVgORmI"
+        },
+        {
+          "display_url": "pic.x.com/WxlQVgORmI",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+          "media_key": "3_2060487658770718720",
+          "start": 31,
+          "url": "https://t.co/WxlQVgORmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060487664802099552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白嫖 xbox 之我将给你打钱\n客服给了第二次免费更改的机会 https://t.co/WxlQVgORmI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2060487658783301632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhSm9Xa4AACKPX.jpg",
+        "width": 1191
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060487658774962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhSm9VboAApT5u.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060487658774872064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhSm9VaQAAd1Na.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060487658770718720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhSm9Ua4AAEjaK.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060487658783301632",
+            "3_2060487658774962176",
+            "3_2060487658774872064",
+            "3_2060487658770718720"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2060487664802099552",
+        "created_at": "2026-05-29T22:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060487664802099552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WxlQVgORmI",
+              "end": 54,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+              "media_key": "3_2060487658783301632",
+              "start": 31,
+              "url": "https://t.co/WxlQVgORmI"
+            },
+            {
+              "display_url": "pic.x.com/WxlQVgORmI",
+              "end": 54,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+              "media_key": "3_2060487658774962176",
+              "start": 31,
+              "url": "https://t.co/WxlQVgORmI"
+            },
+            {
+              "display_url": "pic.x.com/WxlQVgORmI",
+              "end": 54,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+              "media_key": "3_2060487658774872064",
+              "start": 31,
+              "url": "https://t.co/WxlQVgORmI"
+            },
+            {
+              "display_url": "pic.x.com/WxlQVgORmI",
+              "end": 54,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2060487664802099552/photo/1",
+              "media_key": "3_2060487658770718720",
+              "start": 31,
+              "url": "https://t.co/WxlQVgORmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060487664802099552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白嫖 xbox 之我将给你打钱\n客服给了第二次免费更改的机会 https://t.co/WxlQVgORmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4033,
+          "following_count": 1286,
+          "like_count": 6805,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 1497
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

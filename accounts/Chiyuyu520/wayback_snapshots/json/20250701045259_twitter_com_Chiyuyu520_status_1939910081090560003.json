@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1939908476983206190",
+    "created_at": "2025-07-01T04:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T05:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939910081090560003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "DrEffie_Mtf"
+        }
+      ],
+      "urls": [
+        {
+          "description": "跨过晨昏线，便是永夜。",
+          "display_url": "backup.chiyu.it",
+          "end": 36,
+          "expanded_url": "http://backup.chiyu.it",
+          "start": 13,
+          "status": 200,
+          "title": "池鱼小栈",
+          "unwound_url": "https://backup.chiyu.it/",
+          "url": "https://t.co/wXGHUc0bCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939910081090560003",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939909762407440798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrEffie_Mtf https://t.co/wXGHUc0bCw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1939908476983206190",
+        "created_at": "2025-07-01T04:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939910081090560003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "DrEffie_Mtf"
+            }
+          ],
+          "urls": [
+            {
+              "description": "跨过晨昏线，便是永夜。",
+              "display_url": "backup.chiyu.it",
+              "end": 36,
+              "expanded_url": "http://backup.chiyu.it",
+              "start": 13,
+              "status": 200,
+              "title": "池鱼小栈",
+              "unwound_url": "https://backup.chiyu.it/",
+              "url": "https://t.co/wXGHUc0bCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939910081090560003",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939909762407440798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrEffie_Mtf https://t.co/wXGHUc0bCw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429405137198452736",
+        "conversation_id": "1939908476983206190",
+        "created_at": "2025-07-01T04:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939909762407440798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939909762407440798",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939908476983206190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 你给你博客打个备份不就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1095,
+          "like_count": 2044,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "Effie Lingley Dorm/15.yo/Mtx/🍥hrt23.12.23/173cm 62kg/药娘圈合约战神/常驻重庆-深圳-惠州/两年实盘半年模拟/曾出席某知名币圈福利姬晚宴并以mtf身份发表演讲/回忆录随机掉落/部分推文可能会触发神经症/现任橘猫电子科技名誉CTO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/PNj7EP…",
+                "end": 23,
+                "expanded_url": "http://t.me/addlist/PNj7EPU_XQo5ZTI0",
+                "start": 0,
+                "url": "https://t.co/QvJxGyEAz4"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "Non-Daily Department",
+        "name": "Dr.Effie #参宿四🏳️‍⚧️🕯️",
+        "pinned_tweet_id": "1939172739853824485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296769668124678/xSJKTnZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8752,
+          "following_count": 1032,
+          "like_count": 124304,
+          "listed_count": 36,
+          "media_count": 3459,
+          "tweet_count": 19979
+        },
+        "url": "https://t.co/QvJxGyEAz4",
+        "username": "DrEffie_Mtf",
+        "verified": true
+      }
+    ]
+  }
+}

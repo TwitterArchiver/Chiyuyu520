@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T15:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650776898277463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543975230703632386",
+          "start": 0,
+          "username": "reikaa0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650776898277463",
+    "in_reply_to_user_id": "1543975230703632386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930650679829237974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reikaa0721 很好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930650665451474944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssMjRubUAAdLO1.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T15:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930650776898277463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543975230703632386",
+              "start": 0,
+              "username": "reikaa0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930650776898277463",
+        "in_reply_to_user_id": "1543975230703632386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930650679829237974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reikaa0721 很好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930650665451474944"
+          ]
+        },
+        "author_id": "1543975230703632386",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T15:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930650679829237974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRJhrTqxLZ",
+              "end": 35,
+              "expanded_url": "https://x.com/reikaa0721/status/1930650679829237974/photo/1",
+              "media_key": "3_1930650665451474944",
+              "start": 12,
+              "url": "https://t.co/FRJhrTqxLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930650679829237974",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 https://t.co/FRJhrTqxLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 524,
+          "like_count": 591,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T15:09:26.000Z",
+        "description": "CN/EN&JP(勉强中)｜不键政｜🏳️‍🌈 友好 🏳️‍⚧️｜废萌｜术力口厨｜🇵🇸🇺🇦NO WAR",
+        "id": "1543975230703632386",
+        "name": "reikaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762894906950082561/R8-wVDpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 318,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "username": "reikaa0721",
+        "verified": false
+      }
+    ]
+  }
+}

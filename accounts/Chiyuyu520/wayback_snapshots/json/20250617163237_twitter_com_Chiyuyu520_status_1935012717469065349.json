@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935012715183079424"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935012717469065349",
+    "created_at": "2025-06-17T16:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T17:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935012717469065349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSIz8cv27Q",
+          "end": 92,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1935012717469065349/photo/1",
+          "media_key": "3_1935012715183079424",
+          "start": 69,
+          "url": "https://t.co/eSIz8cv27Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935012717469065349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是，私信约14岁的你是真敢啊？死郭楠寄吧的恋童癖是吧14岁顺女约不到约MtF当下位替代品了？\n真是你妈的小头代替思考，尿道连接大脑是吧 https://t.co/eSIz8cv27Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_1935012715183079424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqLz_RaAAAt0ja.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935012715183079424"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935012717469065349",
+        "created_at": "2025-06-17T16:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935012717469065349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSIz8cv27Q",
+              "end": 92,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935012717469065349/photo/1",
+              "media_key": "3_1935012715183079424",
+              "start": 69,
+              "url": "https://t.co/eSIz8cv27Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935012717469065349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，私信约14岁的你是真敢啊？死郭楠寄吧的恋童癖是吧14岁顺女约不到约MtF当下位替代品了？\n真是你妈的小头代替思考，尿道连接大脑是吧 https://t.co/eSIz8cv27Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 969,
+          "like_count": 1369,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

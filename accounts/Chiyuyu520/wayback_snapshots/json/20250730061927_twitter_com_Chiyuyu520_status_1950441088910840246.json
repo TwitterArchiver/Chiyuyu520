@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1950367626385134017",
+    "created_at": "2025-07-30T06:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950441088910840246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1461017973599186944",
+          "start": 0,
+          "username": "xiaoyinyu520"
+        },
+        {
+          "end": 23,
+          "id": "1847025525610762240",
+          "start": 14,
+          "username": "ALCheng_"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1950441088910840246",
+    "in_reply_to_user_id": "1461017973599186944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950420467598164170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyinyu520 @ALCheng_ 你羡慕你妈呢你8.3就来面我了😡"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1950367626385134017",
+        "created_at": "2025-07-30T06:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950441088910840246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1461017973599186944",
+              "start": 0,
+              "username": "xiaoyinyu520"
+            },
+            {
+              "end": 23,
+              "id": "1847025525610762240",
+              "start": 14,
+              "username": "ALCheng_"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1950441088910840246",
+        "in_reply_to_user_id": "1461017973599186944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950420467598164170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyinyu520 @ALCheng_ 你羡慕你妈呢你8.3就来面我了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461017973599186944",
+        "conversation_id": "1950367626385134017",
+        "created_at": "2025-07-30T04:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950420467598164170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 21,
+              "id": "1847025525610762240",
+              "start": 12,
+              "username": "ALCheng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950420467598164170",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950367626385134017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @ALCheng_ 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939963852235391150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 1241,
+          "like_count": 4191,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年在校大学生，不od割手，不抽烟不喝酒，重度社恐不擅长说话，没有精神疾病（看过医生了，只是焦虑抑郁状态，6月30：压力来源被解决掉了，我好了），2025.3.13开始hrt，深柜中",
+        "id": "1461017973599186944",
+        "name": "小银鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 132,
+          "like_count": 3800,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 444
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我河童或者荷取\n最爱 @Chiyuyu520 \n双相/ASD/不登校|\n左下自由社（其它倾向也很包容）/友跨顺男（HRT 250611）|\nBI9CJE/机械爱好者/火车迷/尼康/……（爱好广泛，但是都不精通QAQ）|\n东方/雷批/P社/少战/邦/……\n|\n成分非常复杂的说喵，很友善，欢迎来找我聊天喵～😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2mcys"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Shaanxi,China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 760,
+          "like_count": 4650,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/8rmha2mcys",
+        "username": "ALCheng_",
+        "verified": false
+      }
+    ]
+  }
+}

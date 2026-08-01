@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1931853342327595381",
+    "created_at": "2025-06-09T02:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T03:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931904728440442964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1171414629400158208",
+          "start": 0,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931904728440442964",
+    "in_reply_to_user_id": "1171414629400158208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931853342327595381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zknmoe 串的不像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_1931853036168622080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs9SGdsXMAAJsG7.jpg",
+        "width": 2824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1931853342327595381",
+        "created_at": "2025-06-09T02:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931904728440442964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1171414629400158208",
+              "start": 0,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931904728440442964",
+        "in_reply_to_user_id": "1171414629400158208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931853342327595381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zknmoe 串的不像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931853036168622080"
+          ]
+        },
+        "author_id": "1171414629400158208",
+        "conversation_id": "1931853342327595381",
+        "created_at": "2025-06-08T23:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T00:17:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931853081420976325",
+          "1931853342327595381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MNLHqksiz",
+              "end": 103,
+              "expanded_url": "https://x.com/zknmoe/status/1931853342327595381/photo/1",
+              "media_key": "3_1931853036168622080",
+              "start": 80,
+              "url": "https://t.co/0MNLHqksiz"
+            },
+            {
+              "display_url": "x.com/zknmoe/status/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/zknmoe/status/1930771192698282310",
+              "start": 104,
+              "url": "https://t.co/4iL4I1Cdnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931853342327595381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930771192698282310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别啊，我一个整后端的跑来整前端了。\n\n上次那个localhost可能给有些人用不了，这次试试ip吧：https://127.0.0.1:5500/zknmoe https://t.co/0MNLHqksiz https://t.co/4iL4I1Cdnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 小笨蛋 @feimiaonya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "feimiaonya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 637,
+          "like_count": 759,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "🇨🇳/🇮🇹 爱代码的结晶控 🧊｜我就是自治系统，自行建树、自行广播、自行闪光 🌲（观点是边缘缓存）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zkn.moe",
+                "end": 23,
+                "expanded_url": "http://zkn.moe",
+                "start": 0,
+                "url": "https://t.co/vqx4aNEp2A"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, SA ",
+        "name": "kɑːve/ (aka 1zkn)",
+        "pinned_tweet_id": "1929979640438755592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924757840050233344/f1BzjCa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 118,
+          "like_count": 1450,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/vqx4aNEp2A",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

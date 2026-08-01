@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934871889941500011",
+    "created_at": "2025-06-17T07:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T08:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934871889941500011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1934663581427224976",
+          "start": 90,
+          "url": "https://t.co/mkhNt4UTuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934871889941500011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934663581427224976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "望转贴扩散保护！！\n这个人急了到处开盒，骚扰我家人，这只能说明我这篇文章写的直接戳到他痛处！！反而说明我是对的！！\n这种卖惨圈钱靠假自杀假死博取流量的应该让更多人看见被曝光出来！ https://t.co/mkhNt4UTuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934663577845288960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtlORhVa0AAIzOs.jpg",
+        "width": 945
+      },
+      {
+        "height": 782,
+        "media_key": "3_1934663577299992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtlORfTaQAAVK4O.jpg",
+        "width": 698
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1934663578658975744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtlORkXasAAzWQb.jpg",
+        "width": 860
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934663577061003264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtlOReabkAAo-bQ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934871889941500011",
+        "created_at": "2025-06-17T07:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934871889941500011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1934663581427224976",
+              "start": 90,
+              "url": "https://t.co/mkhNt4UTuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934871889941500011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934663581427224976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "望转贴扩散保护！！\n这个人急了到处开盒，骚扰我家人，这只能说明我这篇文章写的直接戳到他痛处！！反而说明我是对的！！\n这种卖惨圈钱靠假自杀假死博取流量的应该让更多人看见被曝光出来！ https://t.co/mkhNt4UTuy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934663577845288960",
+            "3_1934663577299992576",
+            "3_1934663578658975744",
+            "3_1934663577061003264"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934663581427224976",
+        "created_at": "2025-06-16T17:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T18:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934663581427224976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KygdVnpwz2",
+              "end": 156,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934663581427224976/photo/1",
+              "media_key": "3_1934663577845288960",
+              "start": 133,
+              "url": "https://t.co/KygdVnpwz2"
+            },
+            {
+              "display_url": "pic.x.com/KygdVnpwz2",
+              "end": 156,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934663581427224976/photo/1",
+              "media_key": "3_1934663577299992576",
+              "start": 133,
+              "url": "https://t.co/KygdVnpwz2"
+            },
+            {
+              "display_url": "pic.x.com/KygdVnpwz2",
+              "end": 156,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934663581427224976/photo/1",
+              "media_key": "3_1934663578658975744",
+              "start": 133,
+              "url": "https://t.co/KygdVnpwz2"
+            },
+            {
+              "display_url": "pic.x.com/KygdVnpwz2",
+              "end": 156,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934663581427224976/photo/1",
+              "media_key": "3_1934663577061003264",
+              "start": 133,
+              "url": "https://t.co/KygdVnpwz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934663581427224976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这大概是我第一次挂人\n其实你也挺可怜的，靠自杀、自残、炒作假死来获取流量。\n你这次自杀的原因是为了让别人给你钱买watch吧，我看你在小米商城的订单都买了。\n另外，有人去现场看了，你没有自杀。\n你是不是浪费了一个人的时间呢？你是否需要跟那位真正担心你的人道个歉呢？\n总是会有人在意你担心你的，但是他们不希望看见你每日自残自杀流很多的血od上瘾。别人看见不好受。\n我知道你这样如此炒作的原因是为了让别人更关心你更在意你，但是不要伤害自己好吗？\n有什么事可以跟我说说，我们都在，我们都在。\n别人给你钱的话，你拿出一半来，吃一顿饭，让自己吃饱。把吃饭的照片发给给你钱的人，他会开心的，以后还会给你经济上的帮助的。而你发血图只会让别人渐渐疏远你。\n我确实是14岁，年龄小，身边照顾着我的人也多。我承认，我被照顾着，每一顿饭都有人付钱，但至少，让本两三天一顿饭厌食的我，每天都好好吃饭了。\n你说过，你想改变，改变经常发疯的你，改变支离破碎的你，改变那个碎在地上碎了一地的你，我知道你曾经贩毒被抓，你的生活并不好过，但是我愿意做你的朋友。愿意跟你一起玩。\n你接游戏代打说明你愿意靠自己的劳动挣钱，虽然很不容易，但是你已经开始改变了，这很棒，我希望你会变得更好\n你说你看见别人都有watch嫉妒眼红，我理解。我想安慰你，抱抱你。你会通过你自己的劳动得到任何你想要的东西的。我相信你可以的\n我看见你用自残割腕流血的方式写血书跟我道歉，我很心疼，我心疼你，割出血需要很大的力气。但是以后不要这么做了好吗？我会原谅你，但总是会有人认为你是疯子逐渐远离你。\n我希望你：好好吃饭，每一顿饭都吃饱。朋友之间不需要用自残自己写血书的形式交流的，这样是错的。我们都会包容你，至少你愿意和我们做朋友哪怕不道歉我们也会接纳你的。自杀炒作这种事情不要做了，其实你每一次炒作痕迹都很明显，其实真正要死的人都是悄无声息的离开。\n祝你生活愉快，附上我很喜欢的一句话：\n跨过晨昏线，便是永夜。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 41130,
+          "like_count": 202,
+          "quote_count": 9,
+          "reply_count": 53,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这大概是我第一次挂人\n其实你也挺可怜的，靠自杀、自残、炒作假死来获取流量。\n你这次自杀的原因是为了让别人给你钱买watch吧，我看你在小米商城的订单都买了。\n另外，有人去现场看了，你没有自杀。\n你是不是浪费了一个人的时间呢？你是否需要跟那位真正担心你的人道个歉呢？ https://t.co/KygdVnpwz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 950,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

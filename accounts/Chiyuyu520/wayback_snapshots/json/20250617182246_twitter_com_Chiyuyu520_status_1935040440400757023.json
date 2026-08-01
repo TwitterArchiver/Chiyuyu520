@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935040437447966721"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935040440400757023",
+    "created_at": "2025-06-17T18:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T19:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935040440400757023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVBEasL6L0",
+          "end": 34,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1935040440400757023/photo/1",
+          "media_key": "3_1935040437447966721",
+          "start": 11,
+          "url": "https://t.co/NVBEasL6L0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935040440400757023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "展示量破百万庆祝🎉🎉 https://t.co/NVBEasL6L0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2053,
+        "media_key": "3_1935040437447966721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqlBowaQAEOnen.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935040437447966721"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935040440400757023",
+        "created_at": "2025-06-17T18:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T19:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935040440400757023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVBEasL6L0",
+              "end": 34,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1935040440400757023/photo/1",
+              "media_key": "3_1935040437447966721",
+              "start": 11,
+              "url": "https://t.co/NVBEasL6L0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935040440400757023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示量破百万庆祝🎉🎉 https://t.co/NVBEasL6L0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 972,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

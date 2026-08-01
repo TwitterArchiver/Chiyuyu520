@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916364430276956161"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1916364433573744895",
+    "created_at": "2025-04-27T05:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T06:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916364433573744895"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "池鱼今天干什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pFQp9FAUpw",
+          "end": 42,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1916364433573744895/photo/1",
+          "media_key": "3_1916364430276956161",
+          "start": 19,
+          "url": "https://t.co/pFQp9FAUpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916364433573744895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#池鱼今天干什么 \n日雌结算画面🥺😰 https://t.co/pFQp9FAUpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_1916364430276956161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphLS8baEAE3QiC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916364430276956161"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916364433573744895",
+        "created_at": "2025-04-27T05:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916364433573744895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "池鱼今天干什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFQp9FAUpw",
+              "end": 42,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1916364433573744895/photo/1",
+              "media_key": "3_1916364430276956161",
+              "start": 19,
+              "url": "https://t.co/pFQp9FAUpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916364433573744895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#池鱼今天干什么 \n日雌结算画面🥺😰 https://t.co/pFQp9FAUpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 202,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 128
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

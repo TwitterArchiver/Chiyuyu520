@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968953094957654016"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1968953099176776075",
+    "created_at": "2025-09-19T08:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T09:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968953099176776075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pE2E9lhEZF",
+          "end": 50,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1968953099176776075/photo/1",
+          "media_key": "3_1968953094957654016",
+          "start": 27,
+          "url": "https://t.co/pE2E9lhEZF"
+        },
+        {
+          "display_url": "x.com/nekomakiQAQ/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/nekomakiQAQ/status/1968850403757617285",
+          "start": 51,
+          "url": "https://t.co/4rdFi9utM2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1968953099176776075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968850403757617285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发完了 各位下单购买的可以去京东快递小程序查询运单了 https://t.co/pE2E9lhEZF https://t.co/4rdFi9utM2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_1968953094957654016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MgaGxbYAA2Zug.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1968850225042460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LC2SeakAAM13Z.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968953094957654016"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968953099176776075",
+        "created_at": "2025-09-19T08:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968953099176776075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pE2E9lhEZF",
+              "end": 50,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1968953099176776075/photo/1",
+              "media_key": "3_1968953094957654016",
+              "start": 27,
+              "url": "https://t.co/pE2E9lhEZF"
+            },
+            {
+              "display_url": "x.com/nekomakiQAQ/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/nekomakiQAQ/status/1968850403757617285",
+              "start": 51,
+              "url": "https://t.co/4rdFi9utM2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1968953099176776075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968850403757617285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发完了 各位下单购买的可以去京东快递小程序查询运单了 https://t.co/pE2E9lhEZF https://t.co/4rdFi9utM2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968850225042460672"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1968850403757617285",
+        "created_at": "2025-09-19T01:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T02:30:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968850232243822739",
+          "1968850403757617285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDL7FCuWl0",
+              "end": 117,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968850403757617285/photo/1",
+              "media_key": "3_1968850225042460672",
+              "start": 94,
+              "url": "https://t.co/XDL7FCuWl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968850403757617285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日雌到了喵，还是AB25A货号最新保质期，还是380京东包邮，延迟发货了的可以找我领10元补偿。今天下午就发\n\n我会在稍晚时候发布一篇推文，解释一下：姐妹们给我的380块钱钱都去了哪里。\n\n内容会包括HRT药物的来源、我为什么这么定价、我赚了多少、以及其他的一些信息，我希望能在不损害其他药商利益的情况下能帮助到更多的人获得药物。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 810,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌到了喵，还是AB25A货号最新保质期，还是380京东包邮，延迟发货了的可以找我领10元补偿。今天下午就发\n\n我会在稍晚时候发布一篇推文，解释一下：姐妹们给我的380块钱钱都去了哪里。 https://t.co/XDL7FCuWl0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3444,
+          "following_count": 1299,
+          "like_count": 5613,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": ":: system booting... ~ root@Luminux ➤ org: @NUSingapore 💻 ➤ in love with: @HobartR6 💌 ➤ connected to: @_FurryFur_ 🐱 ➤ powered by: @Chiyuyu520 OS :: 言語体系構築中..",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "HobartR6"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/G1MwAq1wRu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ 猫卷（日雌380",
+        "pinned_tweet_id": "1968050536634257659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968524636435763200/Zgwh-TT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3196,
+          "following_count": 968,
+          "like_count": 28058,
+          "listed_count": 15,
+          "media_count": 1215,
+          "tweet_count": 14588
+        },
+        "url": "https://t.co/G1MwAq1wRu",
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

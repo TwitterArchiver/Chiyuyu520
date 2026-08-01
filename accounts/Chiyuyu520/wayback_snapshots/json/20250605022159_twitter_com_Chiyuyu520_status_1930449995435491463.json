@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930257353527488961",
+    "created_at": "2025-06-05T02:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930449995435491463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1365955107473383426",
+          "start": 0,
+          "username": "BaronZamo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930449995435491463",
+    "in_reply_to_user_id": "1365955107473383426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930410863212802274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaronZamo 先把内容做好，如果还是没流量的话去查账号问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930257353527488961",
+        "created_at": "2025-06-05T02:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930449995435491463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1365955107473383426",
+              "start": 0,
+              "username": "BaronZamo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930449995435491463",
+        "in_reply_to_user_id": "1365955107473383426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930410863212802274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaronZamo 先把内容做好，如果还是没流量的话去查账号问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365955107473383426",
+        "conversation_id": "1930257353527488961",
+        "created_at": "2025-06-04T23:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T00:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930410863212802274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930410863212802274",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930257353527488961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我还因为自己没流量内耗了挺久的（有点把推当成朋友圈了？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 465,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina(主)+Jimato(副)=Takijima｜Chinese & English｜ 07｜无证含糖MTF｜导播｜设计｜心理学｜INTJ｜精神状态: 极不稳定｜高功能解离｜没有业务｜分手快乐｜被抛弃的小孩｜HRT: 24.09.04-11.30 重启: 25.03.27",
+        "id": "1365955107473383426",
+        "location": "Pluto",
+        "name": "Takijima🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875006553067061248/HImokgVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 53,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 151
+        },
+        "username": "BaronZamo",
+        "verified": false
+      }
+    ]
+  }
+}

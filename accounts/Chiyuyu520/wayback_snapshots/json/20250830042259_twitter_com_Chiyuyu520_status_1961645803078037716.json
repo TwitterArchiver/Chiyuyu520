@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961645800095977472"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1961645803078037716",
+    "created_at": "2025-08-30T04:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T05:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961645803078037716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsClwHVlBi",
+          "end": 39,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1961645803078037716/photo/1",
+          "media_key": "3_1961645800095977472",
+          "start": 16,
+          "url": "https://t.co/JsClwHVlBi"
+        },
+        {
+          "display_url": "x.com/puddings00/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/puddings00/status/1961638467810791915",
+          "start": 40,
+          "url": "https://t.co/bf5ZkW3NN3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1961645803078037716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961638467810791915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家能连联通和电信的双5GA🐢 https://t.co/JsClwHVlBi https://t.co/bf5ZkW3NN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_1961645800095977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkqdkHbkAAUFQ_.jpg",
+        "width": 512
+      },
+      {
+        "height": 69,
+        "media_key": "3_1961638463725334528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkjyiAXcAAh2EH.jpg",
+        "width": 406
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961645800095977472"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1961645803078037716",
+        "created_at": "2025-08-30T04:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961645803078037716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsClwHVlBi",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961645803078037716/photo/1",
+              "media_key": "3_1961645800095977472",
+              "start": 16,
+              "url": "https://t.co/JsClwHVlBi"
+            },
+            {
+              "display_url": "x.com/puddings00/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/puddings00/status/1961638467810791915",
+              "start": 40,
+              "url": "https://t.co/bf5ZkW3NN3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1961645803078037716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961638467810791915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家能连联通和电信的双5GA🐢 https://t.co/JsClwHVlBi https://t.co/bf5ZkW3NN3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961638463725334528"
+          ]
+        },
+        "author_id": "1760890372585037824",
+        "conversation_id": "1961638467810791915",
+        "created_at": "2025-08-30T03:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T04:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961638467810791915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YRdRot5Wv",
+              "end": 35,
+              "expanded_url": "https://x.com/puddings00/status/1961638467810791915/photo/1",
+              "media_key": "3_1961638463725334528",
+              "start": 12,
+              "url": "https://t.co/9YRdRot5Wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961638467810791915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家里能连移动的5GA https://t.co/9YRdRot5Wv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 1291,
+          "like_count": 4770,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "🌈童话说雨后会有一道彩虹 我看见希望闪耀在虹之间/zh-CN&en-US/希望你可以喜欢我哦🍬/小只软妹🎀/变得越来越可爱啦🥰/158cm＆40kg/Lesbian🩷/she or her/infp-t/喜欢贴贴🌟/美食鉴赏家🤤/同频的小可爱欢迎互fo喵🐢♥️/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puddings0089987",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puddings0089987",
+                "start": 0,
+                "url": "https://t.co/RbExKvIL7v"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "In your heart♥️",
+        "name": "布丁喵呜🍮",
+        "pinned_tweet_id": "1948409462303117785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 596,
+          "like_count": 9394,
+          "listed_count": 7,
+          "media_count": 805,
+          "tweet_count": 5754
+        },
+        "url": "https://t.co/RbExKvIL7v",
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

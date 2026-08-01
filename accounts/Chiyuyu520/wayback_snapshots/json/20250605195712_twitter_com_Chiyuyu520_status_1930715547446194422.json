@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T19:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T20:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930715547446194422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883669403532693504",
+          "start": 0,
+          "username": "_Kochiya_X_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930715547446194422",
+    "in_reply_to_user_id": "1883669403532693504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930696495033905517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Kochiya_X_ 土著？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930696490642493440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gss2Op3W0AAa59m.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T19:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T20:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930715547446194422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883669403532693504",
+              "start": 0,
+              "username": "_Kochiya_X_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930715547446194422",
+        "in_reply_to_user_id": "1883669403532693504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930696495033905517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Kochiya_X_ 土著？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930696490642493440"
+          ]
+        },
+        "author_id": "1883669403532693504",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T18:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930696495033905517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjA3vHsC9N",
+              "end": 35,
+              "expanded_url": "https://x.com/_Kochiya_X_/status/1930696495033905517/photo/1",
+              "media_key": "3_1930696490642493440",
+              "start": 12,
+              "url": "https://t.co/HjA3vHsC9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930696495033905517",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 https://t.co/HjA3vHsC9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 529,
+          "like_count": 605,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T00:12:46.000Z",
+        "description": "住在加拿大、过着相对失败的人生的我... 姑且算是...? 大概在搞一些OC（孩子们）偶尔玩游戏 有种小学生写作文想不到字数的感觉 那就先这样吧 总之请和我做朋友请和我做朋友",
+        "id": "1883669403532693504",
+        "location": "定位失败",
+        "name": "悲剧少女唐唐子",
+        "pinned_tweet_id": "1883671731640185314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883671634017411072/ELR7uAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 83
+        },
+        "username": "_Kochiya_X_",
+        "verified": false
+      }
+    ]
+  }
+}

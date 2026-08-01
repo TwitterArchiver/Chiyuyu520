@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934906136895082499",
+        "3_1934906136882499587",
+        "3_1934906137062916096",
+        "3_1934906137285152768"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934906149943587199",
+    "created_at": "2025-06-17T09:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T10:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934906149943587199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqtTVH5s1r",
+          "end": 53,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+          "media_key": "3_1934906136895082499",
+          "start": 30,
+          "url": "https://t.co/SqtTVH5s1r"
+        },
+        {
+          "display_url": "pic.x.com/SqtTVH5s1r",
+          "end": 53,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+          "media_key": "3_1934906136882499587",
+          "start": 30,
+          "url": "https://t.co/SqtTVH5s1r"
+        },
+        {
+          "display_url": "pic.x.com/SqtTVH5s1r",
+          "end": 53,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+          "media_key": "3_1934906137062916096",
+          "start": 30,
+          "url": "https://t.co/SqtTVH5s1r"
+        },
+        {
+          "display_url": "pic.x.com/SqtTVH5s1r",
+          "end": 53,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+          "media_key": "3_1934906137285152768",
+          "start": 30,
+          "url": "https://t.co/SqtTVH5s1r"
+        },
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1934905540582453411",
+          "start": 54,
+          "url": "https://t.co/PvVaD3Cskv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934906149943587199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934905540582453411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外你17:05在b站发的抽奖帖子暴露了你根本没自杀的现实 https://t.co/SqtTVH5s1r https://t.co/PvVaD3Cskv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_1934906136895082499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtoq4UNa0AMfiOG.jpg",
+        "width": 1025
+      },
+      {
+        "height": 2129,
+        "media_key": "3_1934906136882499587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtoq4UKa0AMlC2u.jpg",
+        "width": 1247
+      },
+      {
+        "height": 1219,
+        "media_key": "3_1934906137062916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtoq4U1bwAAwDMh.jpg",
+        "width": 1074
+      },
+      {
+        "height": 2195,
+        "media_key": "3_1934906137285152768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtoq4Vqa0AAnM2E.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934905526527381505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUyaa0AEa9mE.jpg",
+        "width": 1109
+      },
+      {
+        "height": 782,
+        "media_key": "3_1934905526237990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUxVbEAA71wN.jpg",
+        "width": 698
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1934905526367997956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUx0a0AQKFfN.jpg",
+        "width": 860
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934905526191845376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoqUxKa8AAxg-S.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934906136895082499",
+            "3_1934906136882499587",
+            "3_1934906137062916096",
+            "3_1934906137285152768"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934906149943587199",
+        "created_at": "2025-06-17T09:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934906149943587199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqtTVH5s1r",
+              "end": 53,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+              "media_key": "3_1934906136895082499",
+              "start": 30,
+              "url": "https://t.co/SqtTVH5s1r"
+            },
+            {
+              "display_url": "pic.x.com/SqtTVH5s1r",
+              "end": 53,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+              "media_key": "3_1934906136882499587",
+              "start": 30,
+              "url": "https://t.co/SqtTVH5s1r"
+            },
+            {
+              "display_url": "pic.x.com/SqtTVH5s1r",
+              "end": 53,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+              "media_key": "3_1934906137062916096",
+              "start": 30,
+              "url": "https://t.co/SqtTVH5s1r"
+            },
+            {
+              "display_url": "pic.x.com/SqtTVH5s1r",
+              "end": 53,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934906149943587199/photo/1",
+              "media_key": "3_1934906137285152768",
+              "start": 30,
+              "url": "https://t.co/SqtTVH5s1r"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1934905540582453411",
+              "start": 54,
+              "url": "https://t.co/PvVaD3Cskv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934906149943587199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934905540582453411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外你17:05在b站发的抽奖帖子暴露了你根本没自杀的现实 https://t.co/SqtTVH5s1r https://t.co/PvVaD3Cskv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934905526527381505",
+            "3_1934905526237990912",
+            "3_1934905526367997956",
+            "3_1934905526191845376"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934905540582453411",
+        "created_at": "2025-06-17T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934905540582453411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526527381505",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            },
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526237990912",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            },
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526367997956",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            },
+            {
+              "display_url": "pic.x.com/QxiL6k0J1n",
+              "end": 159,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1934905540582453411/photo/1",
+              "media_key": "3_1934905526191845376",
+              "start": 136,
+              "url": "https://t.co/QxiL6k0J1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934905540582453411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这大概是我第一次挂人\n\n其实你也挺可怜的，靠自杀、自残、炒作假死来获取流量。\n\n你这次自杀的原因是为了让别人给你钱买watch吧，我看你在小米商城的订单都买了。 另外，有人去现场看了，你没有自杀。\n\n你是不是浪费了一个人的时间呢？你是否需要跟那位真正担心你的人道个歉呢？ 总是会有人在意你担心你的，但是他们不希望看见你每日自残自杀流很多的血od上瘾。别人看见不好受。\n\n我知道你这样如此炒作的原因是为了让别人更关心你更在意你，但是不要伤害自己好吗？有什么事可以跟我说说，我们都在，我们都在。\n\n别人给你钱的话，你拿出一半来，吃一顿饭，让自己吃饱。把吃饭的照片发给给你钱的人，他会开心的，以后还会给你经济上的帮助的。而你发血图只会让别人渐渐疏远你。\n\n我确实是14岁，年龄小，身边照顾着我的人也多。我承认，我被照顾着，每一顿饭都有人付钱，但至少，让本两三天一顿饭厌食的我，每天都好好吃饭了。\n\n你说过，你想改变，改变经常发疯的你，改变支离破碎的你，改变那个碎在地上碎了一地的你，我知道你曾经贩毒被抓，你的生活并不好过，但是我愿意做你的朋友。愿意跟你一起玩。\n\n你接游戏代打说明你愿意靠自己的劳动挣钱，虽然很不容易，但是你已经开始改变了，这很棒，我希望你会变得更好\n\n你说你看见别人都有watch嫉妒眼红，我理解。我想安慰你，抱抱你。你会通过你自己的劳动得到任何你想要的东西的。我相信你可以的\n\n我看见你用自残割腕流血的方式写血书跟我道歉，我很心疼，我心疼你，割出血需要很大的力气。但是以后不要这么做了好吗？我会原谅你，但总是会有人认为你是疯子逐渐远离你。\n\n我希望你：好好吃饭，每一顿饭都吃饱。朋友之间不需要用自残自己写血书的形式交流的，这样是错的。我们都会包容你，至少你愿意和我们做朋友哪怕不道歉我们也会接纳你的。自杀炒作这种事情不要做了，其实你每一次炒作痕迹都很明显，其实真正要死的人都是悄无声息的离开。\n\n祝你生活愉快，附上我很喜欢的一句话：\n\n跨过晨昏线，便是永夜。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这大概是我第一次挂人\n\n其实你也挺可怜的，靠自杀、自残、炒作假死来获取流量。\n\n你这次自杀的原因是为了让别人给你钱买watch吧，我看你在小米商城的订单都买了。 另外，有人去现场看了，你没有自杀。\n\n你是不是浪费了一个人的时间呢？你是否需要跟那位真正担心你的人道个歉呢？ https://t.co/QxiL6k0J1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 951,
+          "like_count": 1332,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944940859105140737"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1944940861823050069",
+    "created_at": "2025-07-15T02:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T03:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944940861823050069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hm9B7yAtXj",
+          "end": 38,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1944940861823050069/photo/1",
+          "media_key": "3_1944940859105140737",
+          "start": 15,
+          "url": "https://t.co/hm9B7yAtXj"
+        },
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1944765271262294260",
+          "start": 39,
+          "url": "https://t.co/vjzuEJiYZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944940861823050069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944765271262294260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "密码的周二能不能放过我这一次 https://t.co/hm9B7yAtXj https://t.co/vjzuEJiYZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944940859105140737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3RaBga4AEiZuH.jpg",
+        "width": 931
+      },
+      {
+        "height": 1322,
+        "media_key": "3_1944765260428390400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0xs1dasAAqWhf.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944765268317626368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0xtS2W4AARdze.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944940859105140737"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1944940861823050069",
+        "created_at": "2025-07-15T02:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944940861823050069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hm9B7yAtXj",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1944940861823050069/photo/1",
+              "media_key": "3_1944940859105140737",
+              "start": 15,
+              "url": "https://t.co/hm9B7yAtXj"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1944765271262294260",
+              "start": 39,
+              "url": "https://t.co/vjzuEJiYZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944940861823050069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944765271262294260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "密码的周二能不能放过我这一次 https://t.co/hm9B7yAtXj https://t.co/vjzuEJiYZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944765260428390400",
+            "3_1944765268317626368"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944765271262294260",
+        "created_at": "2025-07-14T14:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944765271262294260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eomgaGsthk",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1944765271262294260/photo/1",
+              "media_key": "3_1944765260428390400",
+              "start": 16,
+              "url": "https://t.co/eomgaGsthk"
+            },
+            {
+              "display_url": "pic.x.com/eomgaGsthk",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1944765271262294260/photo/1",
+              "media_key": "3_1944765268317626368",
+              "start": 16,
+              "url": "https://t.co/eomgaGsthk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944765271262294260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 944,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "您别死了\n你好我是成都市妖妖灵 https://t.co/eomgaGsthk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 1144,
+          "like_count": 2825,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

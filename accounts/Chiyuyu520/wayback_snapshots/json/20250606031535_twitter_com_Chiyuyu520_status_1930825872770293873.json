@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1929935542931861847",
+    "created_at": "2025-06-06T03:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T04:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930825872770293873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3081001745",
+          "start": 0,
+          "username": "moeSkyHigh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930825872770293873",
+    "in_reply_to_user_id": "3081001745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930755305333575901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeSkyHigh 可以不加上+64后面的0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1929935542931861847",
+        "created_at": "2025-06-06T03:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930825872770293873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3081001745",
+              "start": 0,
+              "username": "moeSkyHigh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930825872770293873",
+        "in_reply_to_user_id": "3081001745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930755305333575901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeSkyHigh 可以不加上+64后面的0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3081001745",
+        "conversation_id": "1929935542931861847",
+        "created_at": "2025-06-05T22:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T23:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930755305333575901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930755305333575901",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929935542931861847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 新西兰号码手机位数居然不一样，我这里比你少一位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 535,
+          "like_count": 614,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-09T04:57:18.000Z",
+        "description": "♨️一起喝茶吧🍵 ！🎯是生涯满腹！！不明白啊 不明白:-D",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "SkyHigh.MOE",
+                "end": 23,
+                "expanded_url": "http://SkyHigh.MOE",
+                "start": 0,
+                "url": "https://t.co/4Hr9ueuVlC"
+              }
+            ]
+          }
+        },
+        "id": "3081001745",
+        "location": "龙井路1号",
+        "name": "SkyHigh",
+        "pinned_tweet_id": "1865744235028475938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873408257043382272/VWiQBCt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 370,
+          "like_count": 18282,
+          "listed_count": 4,
+          "media_count": 940,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/4Hr9ueuVlC",
+        "username": "moeSkyHigh",
+        "verified": false
+      }
+    ]
+  }
+}

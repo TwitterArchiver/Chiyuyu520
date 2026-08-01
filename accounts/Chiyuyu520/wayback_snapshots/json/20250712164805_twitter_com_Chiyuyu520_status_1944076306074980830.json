@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944076303113617408"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1944076306074980830",
+    "created_at": "2025-07-12T16:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T17:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944076306074980830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U4bFJXxt7N",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1944076306074980830/photo/1",
+          "media_key": "3_1944076303113617408",
+          "start": 31,
+          "url": "https://t.co/U4bFJXxt7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944076306074980830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好累好痛苦\n帮别人不要自杀的同时自己也想死\n好神奇啊 唉 https://t.co/U4bFJXxt7N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944076303113617408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq_GPdXgAAbKZy.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944076303113617408"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1944076306074980830",
+        "created_at": "2025-07-12T16:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944076306074980830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4bFJXxt7N",
+              "end": 54,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1944076306074980830/photo/1",
+              "media_key": "3_1944076303113617408",
+              "start": 31,
+              "url": "https://t.co/U4bFJXxt7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944076306074980830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好累好痛苦\n帮别人不要自杀的同时自己也想死\n好神奇啊 唉 https://t.co/U4bFJXxt7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1944063316269445311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 1138,
+          "like_count": 2770,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

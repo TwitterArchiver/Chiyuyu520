@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1937698053127041281",
+    "created_at": "2025-06-25T03:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937709156913602664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937709156913602664",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937708678611894592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy 解释一下：跟家长去的，单独查太容易被发现了，让医生开了很多项目，混在里面不容易被发现，血常规什么的只是凑数，下面还有肝功能肾功能心电图等一堆凑数的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1937698053127041281",
+        "created_at": "2025-06-25T03:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937709156913602664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937709156913602664",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937708678611894592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 解释一下：跟家长去的，单独查太容易被发现了，让医生开了很多项目，混在里面不容易被发现，血常规什么的只是凑数，下面还有肝功能肾功能心电图等一堆凑数的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "1937698053127041281",
+        "created_at": "2025-06-25T03:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937708678611894592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937708678611894592",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937698053127041281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 要做的是凝血功能常规……不是血常规😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1065,
+          "like_count": 1825,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "人夫，Bambi音频洗脑，最终还是和老婆成了姐妹，遗憾 https://t.co/x21x9Duhkc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/canderyy",
+                "end": 51,
+                "expanded_url": "https://t.me/canderyy",
+                "start": 28,
+                "url": "https://t.co/x21x9Duhkc"
+              }
+            ]
+          }
+        },
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "Shanshan's Vile Pet🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927565455792779264/FJIaGwB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 93,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 152
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

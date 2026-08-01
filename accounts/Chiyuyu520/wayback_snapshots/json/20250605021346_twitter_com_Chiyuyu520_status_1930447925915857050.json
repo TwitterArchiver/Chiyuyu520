@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T02:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930447925915857050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918764463408197632",
+          "start": 0,
+          "username": "KujoTann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930447925915857050",
+    "in_reply_to_user_id": "1918764463408197632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930316473236369560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KujoTann IP被当成机器人批量创建账号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T02:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930447925915857050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918764463408197632",
+              "start": 0,
+              "username": "KujoTann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930447925915857050",
+        "in_reply_to_user_id": "1918764463408197632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930316473236369560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KujoTann IP被当成机器人批量创建账号了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918764463408197632",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T17:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930316473236369560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930316473236369560",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 难怪，我每次创新号一开始都会封我几次，后来不封了也没有流量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 450,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T20:28:21.000Z",
+        "description": "虽然头像是自家的猫，但本人是老鼠\n\n我的抖音号95143071677/给我发匿名消息：https://t.co/aU7qdZ7IEA\n\nIDOLSHIT7/VOCALOID\n\n♀成年",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ll3941276433938",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ll3941276433938",
+                "start": 43,
+                "url": "https://t.co/aU7qdZ7IEA"
+              }
+            ]
+          }
+        },
+        "id": "1918764463408197632",
+        "name": "打咩🖤🤍💜",
+        "pinned_tweet_id": "1928565841907364130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927708012610764800/VLucy3du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 82,
+          "like_count": 601,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1074
+        },
+        "username": "KujoTann",
+        "verified": false
+      }
+    ]
+  }
+}

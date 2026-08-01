@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996227863952101376",
+        "3_1996227864241598464",
+        "3_1996227864472199170",
+        "3_1996227863956406272"
+      ],
+      "media_source_tweet_id": [
+        "1996227915848045011",
+        "1996227915848045011",
+        "1996227915848045011",
+        "1996227915848045011"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997494910933413968",
+    "created_at": "2025-12-07T02:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997494910933413968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "7_1996227863952101376",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227864241598464",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227864472199170",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227863956406272",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997494910933413968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996227915848045011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81850,
+        "height": 640,
+        "media_key": "7_1996227863952101376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996227863952101376/pu/img/c4GQ0MDf7ncgvUCS.jpg",
+        "public_metrics": {
+          "view_count": 3184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/320x568/3UQB7KSHAlTi_hck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/360x640/nOcBPXUca7eayG96.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/pl/5V5yBcMr5QbWn4Qf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996227864241598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqoLbcAAl95Z.jpg",
+        "width": 917
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996227864472199170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqpCaIAIzoDM.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996227863956406272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqnHbwAAOJuX.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996227863952101376",
+            "3_1996227864241598464",
+            "3_1996227864472199170",
+            "3_1996227863956406272"
+          ],
+          "media_source_tweet_id": [
+            "1996227915848045011",
+            "1996227915848045011",
+            "1996227915848045011",
+            "1996227915848045011"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997494910933413968",
+        "created_at": "2025-12-07T02:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997494910933413968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "7_1996227863952101376",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864241598464",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864472199170",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227863956406272",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997494910933413968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996227915848045011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996227863952101376",
+            "3_1996227864241598464",
+            "3_1996227864472199170",
+            "3_1996227863956406272"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1996227915848045011",
+        "created_at": "2025-12-03T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996227915848045011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "7_1996227863952101376",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864241598464",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864472199170",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227863956406272",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996227915848045011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6389,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "「含糖2025.3.24  雷见证蛆抽象人\n跨过晨昏线，便是永夜。」\n账号我先拿去用了，反正放着也是放着；\n目前用于发送重要事项。",
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼#通知bot",
+        "pinned_tweet_id": "1982347631746847206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 1274,
+          "like_count": 5835,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 1130
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1134,
+          "like_count": 932,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 1502
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

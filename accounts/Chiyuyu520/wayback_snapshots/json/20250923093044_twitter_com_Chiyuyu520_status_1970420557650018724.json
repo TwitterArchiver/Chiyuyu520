@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970420542252662784"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1970379391164391728",
+    "created_at": "2025-09-23T09:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970420557650018724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "shuishuimao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XtQJHqZru5",
+          "end": 81,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1970420557650018724/photo/1",
+          "media_key": "3_1970420542252662784",
+          "start": 58,
+          "url": "https://t.co/XtQJHqZru5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970420557650018724",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970379391164391728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuishuimao8964 朋友送的我也没办法退…还要等一个月 不过既然0元购的话能开机我也不会嫌弃什么了🤧 https://t.co/XtQJHqZru5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1970420542252662784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hXCx8aQAA22A7.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2236,
+        "media_key": "3_1970376883935289346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1gvViCaoAIrdTv.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1970379382297632769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1gxm9KaoAEg9m6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970420542252662784"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1970379391164391728",
+        "created_at": "2025-09-23T09:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970420557650018724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "shuishuimao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtQJHqZru5",
+              "end": 81,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1970420557650018724/photo/1",
+              "media_key": "3_1970420542252662784",
+              "start": 58,
+              "url": "https://t.co/XtQJHqZru5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970420557650018724",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970379391164391728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuishuimao8964 朋友送的我也没办法退…还要等一个月 不过既然0元购的话能开机我也不会嫌弃什么了🤧 https://t.co/XtQJHqZru5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970376883935289346",
+            "3_1970379382297632769"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1970379391164391728",
+        "created_at": "2025-09-23T06:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T07:37:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970376893229932742",
+          "1970379391164391728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAmGiodx4w",
+              "end": 56,
+              "expanded_url": "https://x.com/shuishuimao8964/status/1970379391164391728/photo/1",
+              "media_key": "3_1970376883935289346",
+              "start": 33,
+              "url": "https://t.co/zAmGiodx4w"
+            },
+            {
+              "display_url": "pic.x.com/zAmGiodx4w",
+              "end": 56,
+              "expanded_url": "https://x.com/shuishuimao8964/status/1970379391164391728/photo/1",
+              "media_key": "3_1970379382297632769",
+              "start": 33,
+              "url": "https://t.co/zAmGiodx4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970379391164391728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 336,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去店里看的时候就知道，天线条一定会断\n果不其然今天就在网上看到了 https://t.co/zAmGiodx4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3557,
+          "following_count": 1298,
+          "like_count": 5707,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主義者｜永远14｜是豪貓不o不圓不割不死｜对象@mengqing5735和@saoweve｜健全人｜异装癖顺直男同｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "saoweve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1969778757973238171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 1070,
+          "like_count": 243,
+          "listed_count": 7,
+          "media_count": 1912,
+          "tweet_count": 9850
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "shuishuimao8964",
+        "verified": true
+      }
+    ]
+  }
+}

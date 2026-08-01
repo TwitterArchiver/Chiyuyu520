@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1994642719289839642",
+    "created_at": "2025-11-29T05:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994642719289839642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994642719289839642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994339487057383816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: 想起以前中推跨圈有一个用约会大作战里的那个白头发女生当头像，天天给别人高强度回复“贴贴”，id叫切成小块扔到海里喂鱼，好像是被家长囚禁起来的家暴党跨女，已经自杀好长时间了，当年还有很多人天天骂她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1994642719289839642",
+        "created_at": "2025-11-29T05:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994642719289839642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994642719289839642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994339487057383816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: 想起以前中推跨圈有一个用约会大作战里的那个白头发女生当头像，天天给别人高强度回复“贴贴”，id叫切成小块扔到海里喂鱼，好像是被家长囚禁起来的家暴党跨女，已经自杀好长时间了，当年还有很多人天天骂她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "1994339487057383816",
+        "created_at": "2025-11-28T09:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994339487057383816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994339487057383816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 15905,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想起以前中推跨圈有一个用约会大作战里的那个白头发女生当头像，天天给别人高强度回复“贴贴”，id叫切成小块扔到海里喂鱼，好像是被家长囚禁起来的家暴党跨女，已经自杀好长时间了，当年还有很多人天天骂她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "「含糖2025.3.24  雷见证蛆抽象人\n跨过晨昏线，便是永夜。」\n账号我先拿去用了，反正放着也是放着；\n目前用于发送重要事项。",
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼#通知bot",
+        "pinned_tweet_id": "1982347631746847206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 1272,
+          "like_count": 5832,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1110
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 289,
+          "like_count": 3575,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 8182
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074033159688404992",
+        "3_2074033159742926848"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2074033174850736158",
+    "created_at": "2026-07-06T07:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074033174850736158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/08UYeRhzhh",
+          "end": 27,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2074033174850736158/photo/1",
+          "media_key": "3_2074033159688404992",
+          "start": 4,
+          "url": "https://t.co/08UYeRhzhh"
+        },
+        {
+          "display_url": "pic.x.com/08UYeRhzhh",
+          "end": 27,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2074033174850736158/photo/1",
+          "media_key": "3_2074033159742926848",
+          "start": 4,
+          "url": "https://t.co/08UYeRhzhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074033174850736158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝顺利 https://t.co/08UYeRhzhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074033159688404992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhyK4ebwAAxNoo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074033159742926848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhyK4rbsAA8Zt_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074033159688404992",
+            "3_2074033159742926848"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2074033174850736158",
+        "created_at": "2026-07-06T07:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074033174850736158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08UYeRhzhh",
+              "end": 27,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2074033174850736158/photo/1",
+              "media_key": "3_2074033159688404992",
+              "start": 4,
+              "url": "https://t.co/08UYeRhzhh"
+            },
+            {
+              "display_url": "pic.x.com/08UYeRhzhh",
+              "end": 27,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2074033174850736158/photo/1",
+              "media_key": "3_2074033159742926848",
+              "start": 4,
+              "url": "https://t.co/08UYeRhzhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074033174850736158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝顺利 https://t.co/08UYeRhzhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 1289,
+          "like_count": 7336,
+          "listed_count": 6,
+          "media_count": 583,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

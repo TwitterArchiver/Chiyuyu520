@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T14:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T15:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930264252251771346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2961043582",
+          "start": 0,
+          "username": "troublexuan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930264252251771346",
+    "in_reply_to_user_id": "2961043582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930263943521427816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@troublexuan8964 自己作死当然容易，你就算用中国网新注册个qq到处加人不也是冻结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930264252251771346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2961043582",
+              "start": 0,
+              "username": "troublexuan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930264252251771346",
+        "in_reply_to_user_id": "2961043582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930263943521427816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@troublexuan8964 自己作死当然容易，你就算用中国网新注册个qq到处加人不也是冻结"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2961043582",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930263943521427816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930263943521427816",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我的ip是5%纯净 但是我依然经常被feng号…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 491,
+          "like_count": 399,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-04T21:57:15.000Z",
+        "description": "上海top985本硕|170 52kg 34c|性瘾双相|反差百人斩 做过陪酒出过台|🚪300永久好友位 福利量多优质 可文字闲聊 看多年朋友圈 🚪520福利更多可裸聊 🚪1314 给脸照学信网截图 看过照片都说我明星脸|只回过门私信|不线下|已过反骗先锋/big叔/日理万姬认证 @gorgeousxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 141,
+                "username": "gorgeousxuan"
+              }
+            ]
+          }
+        },
+        "id": "2961043582",
+        "location": "不定期锁推删推上图片视频 过门享完整无水印露点福利➕电子宠物",
+        "name": "小轩轩",
+        "pinned_tweet_id": "1913267560063140109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913230832128466944/l_HpRnJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9479,
+          "following_count": 785,
+          "like_count": 1034,
+          "listed_count": 7,
+          "media_count": 981,
+          "tweet_count": 5466
+        },
+        "username": "troublexuan8964",
+        "verified": false
+      }
+    ]
+  }
+}

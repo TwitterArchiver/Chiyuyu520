@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941227983919878144"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1941227987065766315",
+    "created_at": "2025-07-04T20:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T21:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941227987065766315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/06wPmfYSQZ",
+          "end": 101,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1941227987065766315/photo/1",
+          "media_key": "3_1941227983919878144",
+          "start": 78,
+          "url": "https://t.co/06wPmfYSQZ"
+        },
+        {
+          "display_url": "x.com/ccccw_iB/statu…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/ccccw_iB/status/1941059015527866686",
+          "start": 102,
+          "url": "https://t.co/rB7Xukxvps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941227987065766315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941059015527866686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想您大概是现实不太如意，在网上见到一个发表自己的帖子就点进去满口喷粪来一句，骂爽了就像是射精射出来了一样，鉴定为鸡巴怼键盘上狂操一顿然后意淫发出来的话语 https://t.co/06wPmfYSQZ https://t.co/rB7Xukxvps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1941227983919878144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvCgkPmXkAADybf.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941227983919878144"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1941227987065766315",
+        "created_at": "2025-07-04T20:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T21:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941227987065766315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06wPmfYSQZ",
+              "end": 101,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1941227987065766315/photo/1",
+              "media_key": "3_1941227983919878144",
+              "start": 78,
+              "url": "https://t.co/06wPmfYSQZ"
+            },
+            {
+              "display_url": "x.com/ccccw_iB/statu…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/ccccw_iB/status/1941059015527866686",
+              "start": 102,
+              "url": "https://t.co/rB7Xukxvps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941227987065766315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941059015527866686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想您大概是现实不太如意，在网上见到一个发表自己的帖子就点进去满口喷粪来一句，骂爽了就像是射精射出来了一样，鉴定为鸡巴怼键盘上狂操一顿然后意淫发出来的话语 https://t.co/06wPmfYSQZ https://t.co/rB7Xukxvps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754144377872793600",
+        "conversation_id": "1941043238150066682",
+        "created_at": "2025-07-04T08:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941059015527866686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941059015527866686",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941043238150066682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 傻屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 1122,
+          "like_count": 2394,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T14:06:35.000Z",
+        "description": "switch/双/不喜欢主动找我聊黄的/啥都沾点，欢迎和我聊哲学",
+        "id": "1754144377872793600",
+        "name": "sheia c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913245971875512320/B6fkbZjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 107,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 734
+        },
+        "username": "ccccw_iB",
+        "verified": false
+      }
+    ]
+  }
+}

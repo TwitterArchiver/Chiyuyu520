@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2048759581942181970",
+    "created_at": "2026-04-27T14:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048766178634629165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048003423384010752",
+          "start": 0,
+          "username": "Coxe_Pica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048766178634629165",
+    "in_reply_to_user_id": "2048003423384010752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048759581942181970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coxe_Pica 拟能不能回关一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2048759566134022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6n-HmaEAA4Z9t.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2048759581942181970",
+        "created_at": "2026-04-27T14:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048766178634629165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048003423384010752",
+              "start": 0,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048766178634629165",
+        "in_reply_to_user_id": "2048003423384010752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048759581942181970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica 拟能不能回关一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048759566134022144"
+          ]
+        },
+        "author_id": "2048003423384010752",
+        "conversation_id": "2048759581942181970",
+        "created_at": "2026-04-27T13:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048759581942181970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zawIYAKtrg",
+              "end": 48,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2048759581942181970/photo/1",
+              "media_key": "3_2048759566134022144",
+              "start": 25,
+              "url": "https://t.co/zawIYAKtrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048759581942181970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书又踏🐎99+了我感觉我有点不适合做X😭😭😭 https://t.co/zawIYAKtrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 1280,
+          "like_count": 6236,
+          "listed_count": 5,
+          "media_count": 326,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T11:39:20.000Z",
+        "description": "13岁/7年级/初二生/也许是泛性恋？/喜欢折腾Windows/不自残od/无任何心理问题/分享我的日常生活和技术/关注Coxe_Pica谢谢o！（目标100fo）-由芸光酱AuroraLight管理/“梦一切的开始….   ”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/NhkGW0omB6"
+              }
+            ]
+          }
+        },
+        "id": "2048003423384010752",
+        "location": "湖北潜江",
+        "name": "Coxe_Pica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048280614911057921/mYIe7s0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 11,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/NhkGW0omB6",
+        "username": "Coxe_Pica",
+        "verified": true
+      }
+    ]
+  }
+}

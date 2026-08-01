@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1947165552583254276",
+    "created_at": "2025-07-21T05:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947165552583254276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanbodaoba/sta…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/wanbodaoba/status/1947164599205400739",
+          "start": 120,
+          "url": "https://t.co/FD6R4msY4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947165552583254276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947164599205400739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那些叫嚷着“变态”“怪物”“你们怎么不去死”肆意攻击的“人”，你们真的什么都不懂，你们不知道你的话语对他人意味着什么。\n\n别忘了，你们这些人手上是沾了血的，那让我告诉你们为什么我们不去死。\n\n- 因为我们他妈不是为了我们自己一个人而活啊。 https://t.co/FD6R4msY4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1947165552583254276",
+        "created_at": "2025-07-21T05:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947165552583254276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanbodaoba/sta…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/wanbodaoba/status/1947164599205400739",
+              "start": 120,
+              "url": "https://t.co/FD6R4msY4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947165552583254276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947164599205400739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些叫嚷着“变态”“怪物”“你们怎么不去死”肆意攻击的“人”，你们真的什么都不懂，你们不知道你的话语对他人意味着什么。\n\n别忘了，你们这些人手上是沾了血的，那让我告诉你们为什么我们不去死。\n\n- 因为我们他妈不是为了我们自己一个人而活啊。 https://t.co/FD6R4msY4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882424383224029184",
+        "conversation_id": "1947128082609144005",
+        "created_at": "2025-07-21T05:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947164599205400739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947164599205400739",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947128082609144005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 打赢复活赛了，下次想死直接找个楼跳吧，防止复活，或者死之前先割几个手给大伙看看，手都割不明白，还想死呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947144608137547825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 1209,
+          "like_count": 3556,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "波波",
+        "id": "1882424383224029184",
+        "name": "哥萨克",
+        "pinned_tweet_id": "1941759755199914075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947162127535329280/EJysv3TA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "wanbodaoba",
+        "verified": false
+      }
+    ]
+  }
+}

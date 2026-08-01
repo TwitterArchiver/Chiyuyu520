@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1965739946595205325",
+    "created_at": "2025-09-10T11:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T12:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965739946595205325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/banzaixyg/stat…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/banzaixyg/status/1965517773460877692",
+          "start": 94,
+          "url": "https://t.co/YMj0YuMDw3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "1965739946595205325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965517773460877692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说真的我宁愿相信是别人恶意诽谤都不信寒涟漪能干出这种事情\n正如那句话“这五年真的是每过一段时间就要把寒涟漪的牛牛拉出来批判一番。”\n造黄谣是淹没一个人成本最低的方式，反正也不是一次两次了 https://t.co/YMj0YuMDw3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1965517770730471429",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0br_6wbgAUTbG2.jpg",
+        "width": 826
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1965739946595205325",
+        "created_at": "2025-09-10T11:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T12:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965739946595205325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/banzaixyg/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/banzaixyg/status/1965517773460877692",
+              "start": 94,
+              "url": "https://t.co/YMj0YuMDw3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1965739946595205325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965517773460877692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说真的我宁愿相信是别人恶意诽谤都不信寒涟漪能干出这种事情\n正如那句话“这五年真的是每过一段时间就要把寒涟漪的牛牛拉出来批判一番。”\n造黄谣是淹没一个人成本最低的方式，反正也不是一次两次了 https://t.co/YMj0YuMDw3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965517770730471429"
+          ]
+        },
+        "author_id": "1926307161480568832",
+        "conversation_id": "1965517773460877692",
+        "created_at": "2025-09-09T20:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T21:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965517773460877692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrccLcph8O",
+              "end": 54,
+              "expanded_url": "https://x.com/banzaixyg/status/1965517773460877692/photo/1",
+              "media_key": "3_1965517770730471429",
+              "start": 31,
+              "url": "https://t.co/wrccLcph8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965517773460877692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4434,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "寒➗地铁露出这一块\nps：长的这么丑就不要出来危害公共环境了 https://t.co/wrccLcph8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964891189427216384/hQ4Cdsy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3202,
+          "following_count": 1289,
+          "like_count": 5155,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477398863671296/NjWycX_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 352,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 729
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

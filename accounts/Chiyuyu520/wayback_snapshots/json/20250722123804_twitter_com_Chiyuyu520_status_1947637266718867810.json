@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947637042881695744",
+        "3_1947637258301149184"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1947637266718867810",
+    "created_at": "2025-07-22T12:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T13:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947637266718867810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ysRJ4O7kch",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1947637266718867810/photo/1",
+          "media_key": "3_1947637042881695744",
+          "start": 106,
+          "url": "https://t.co/ysRJ4O7kch"
+        },
+        {
+          "display_url": "pic.x.com/ysRJ4O7kch",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1947637266718867810/photo/1",
+          "media_key": "3_1947637258301149184",
+          "start": 106,
+          "url": "https://t.co/ysRJ4O7kch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947637266718867810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 4,
+      "impression_count": 4614,
+      "like_count": 56,
+      "quote_count": 0,
+      "reply_count": 6,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "1.我不希望我把Bot给出去别人拿来发习近平图片\n2.不要私聊滥用问诸如：你是豆包吗？你是哪个模型？发一长串傻逼英文的，滥用傻逼给我滚\n你的每一次发送都意味着我需要付0.04-0.1元的费用，这样滥用真的好吗？ https://t.co/ysRJ4O7kch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1947637042881695744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdlkkxbEAA0z9E.jpg",
+        "width": 1352
+      },
+      {
+        "height": 815,
+        "media_key": "3_1947637258301149184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdlxHRbEAAf3K2.jpg",
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947637042881695744",
+            "3_1947637258301149184"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1947637266718867810",
+        "created_at": "2025-07-22T12:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947637266718867810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysRJ4O7kch",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1947637266718867810/photo/1",
+              "media_key": "3_1947637042881695744",
+              "start": 106,
+              "url": "https://t.co/ysRJ4O7kch"
+            },
+            {
+              "display_url": "pic.x.com/ysRJ4O7kch",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1947637266718867810/photo/1",
+              "media_key": "3_1947637258301149184",
+              "start": 106,
+              "url": "https://t.co/ysRJ4O7kch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947637266718867810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4614,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1.我不希望我把Bot给出去别人拿来发习近平图片\n2.不要私聊滥用问诸如：你是豆包吗？你是哪个模型？发一长串傻逼英文的，滥用傻逼给我滚\n你的每一次发送都意味着我需要付0.04-0.1元的费用，这样滥用真的好吗？ https://t.co/ysRJ4O7kch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947726595684503627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 1245,
+          "like_count": 3764,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

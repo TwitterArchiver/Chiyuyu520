@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937488247917281280"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937488264895824389",
+    "created_at": "2025-06-24T12:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T13:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937488264895824389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513794140508631041",
+          "start": 2,
+          "username": "hoshroin"
+        },
+        {
+          "end": 24,
+          "id": "1574926726895108096",
+          "start": 16,
+          "username": "crooes2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XWuCsZx03Z",
+          "end": 72,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1937488264895824389/photo/1",
+          "media_key": "3_1937488247917281280",
+          "start": 49,
+          "url": "https://t.co/XWuCsZx03Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937488264895824389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和 @hoshroin  以及 @crooes2 \n凌晨犯精分被小希抱着睡+喂药\n在此感谢一下（ https://t.co/XWuCsZx03Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1937488247917281280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNXS9WagAAS--S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937488247917281280"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937488264895824389",
+        "created_at": "2025-06-24T12:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937488264895824389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513794140508631041",
+              "start": 2,
+              "username": "hoshroin"
+            },
+            {
+              "end": 24,
+              "id": "1574926726895108096",
+              "start": 16,
+              "username": "crooes2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWuCsZx03Z",
+              "end": 72,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1937488264895824389/photo/1",
+              "media_key": "3_1937488247917281280",
+              "start": 49,
+              "url": "https://t.co/XWuCsZx03Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937488264895824389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和 @hoshroin  以及 @crooes2 \n凌晨犯精分被小希抱着睡+喂药\n在此感谢一下（ https://t.co/XWuCsZx03Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 1063,
+          "like_count": 1806,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T08:20:36.000Z",
+        "description": "喜欢猫猫 | she/her | 生活清水推 | feminist | 不常上线 有时会发疯乱b人 谨慎关注 | 挚爱是 @crooes2 ❤ | 无意义日记发疯里号 @dacros4real",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "crooes2"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "dacros4real"
+              }
+            ]
+          }
+        },
+        "id": "1513794140508631041",
+        "location": "your cerebral cortex",
+        "name": "HoshRoin🍥",
+        "pinned_tweet_id": "1917925203977658636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839233363279806465/jfe-vP8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 683,
+          "like_count": 14546,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 2857
+        },
+        "username": "hoshroin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T00:59:51.000Z",
+        "description": "hrt 2023.1.31｜mtf｜手术攒钱中｜分享有趣推文｜可能是地雷女？｜轻微严男｜中文母语者｜挚爱是@hoshroin❤️｜现实生活幸福，淡推～｜可爱小动物喜爱｜备用帐号是@TianzunWarlord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "hoshroin"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "TianzunWarlord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+LY-e4e-sYawxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+LY-e4e-sYawxMWE1",
+                "start": 0,
+                "url": "https://t.co/1Uh3oxRWwT"
+              }
+            ]
+          }
+        },
+        "id": "1574926726895108096",
+        "location": "克克屯",
+        "name": "克洛兹crooes🏳️‍⚧️",
+        "pinned_tweet_id": "1886330201610879132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925665833394610176/I9_N9d9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 397,
+          "like_count": 7680,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 6408
+        },
+        "url": "https://t.co/1Uh3oxRWwT",
+        "username": "crooes2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053252833022222336",
+        "3_2053252833009672192"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053252842794938631",
+    "created_at": "2026-05-09T23:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053252842794938631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7IvqapSpA",
+          "end": 90,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2053252842794938631/photo/1",
+          "media_key": "3_2053252833022222336",
+          "start": 67,
+          "url": "https://t.co/Y7IvqapSpA"
+        },
+        {
+          "display_url": "pic.x.com/Y7IvqapSpA",
+          "end": 90,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2053252842794938631/photo/1",
+          "media_key": "3_2053252833009672192",
+          "start": 67,
+          "url": "https://t.co/Y7IvqapSpA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053252842794938631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着吃sns\n又睡不着又吃\n然后还是没睡意也不加量了\n玩到凌晨三四点睡着了\n欸我操嘎吧一下死了\n😭完了错过车了\n\n我闹钟怎么没响😭 https://t.co/Y7IvqapSpA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053252833022222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6ekrJaoAA0H0B.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053252833009672192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6ekrGbIAAuxHL.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053252833022222336",
+            "3_2053252833009672192"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053252842794938631",
+        "created_at": "2026-05-09T23:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053252842794938631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7IvqapSpA",
+              "end": 90,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2053252842794938631/photo/1",
+              "media_key": "3_2053252833022222336",
+              "start": 67,
+              "url": "https://t.co/Y7IvqapSpA"
+            },
+            {
+              "display_url": "pic.x.com/Y7IvqapSpA",
+              "end": 90,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2053252842794938631/photo/1",
+              "media_key": "3_2053252833009672192",
+              "start": 67,
+              "url": "https://t.co/Y7IvqapSpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053252842794938631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着吃sns\n又睡不着又吃\n然后还是没睡意也不加量了\n玩到凌晨三四点睡着了\n欸我操嘎吧一下死了\n😭完了错过车了\n\n我闹钟怎么没响😭 https://t.co/Y7IvqapSpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3932,
+          "following_count": 1290,
+          "like_count": 6609,
+          "listed_count": 9,
+          "media_count": 366,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

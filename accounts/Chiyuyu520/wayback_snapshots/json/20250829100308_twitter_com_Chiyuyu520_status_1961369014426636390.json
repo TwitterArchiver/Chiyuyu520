@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961369010345541632",
+        "3_1961369010794315776",
+        "3_1961369008835629057",
+        "3_1961369010785980417"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961369014426636390",
+    "created_at": "2025-08-29T10:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T11:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961369014426636390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBF8xFJRGY",
+          "end": 33,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+          "media_key": "3_1961369010345541632",
+          "start": 10,
+          "url": "https://t.co/bBF8xFJRGY"
+        },
+        {
+          "display_url": "pic.x.com/bBF8xFJRGY",
+          "end": 33,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+          "media_key": "3_1961369010794315776",
+          "start": 10,
+          "url": "https://t.co/bBF8xFJRGY"
+        },
+        {
+          "display_url": "pic.x.com/bBF8xFJRGY",
+          "end": 33,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+          "media_key": "3_1961369008835629057",
+          "start": 10,
+          "url": "https://t.co/bBF8xFJRGY"
+        },
+        {
+          "display_url": "pic.x.com/bBF8xFJRGY",
+          "end": 33,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+          "media_key": "3_1961369010785980417",
+          "start": 10,
+          "url": "https://t.co/bBF8xFJRGY"
+        },
+        {
+          "display_url": "x.com/QXY_WARD/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/QXY_WARD/status/1952288435081031703",
+          "start": 34,
+          "url": "https://t.co/3urlGxjs0W"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1961369014426636390",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952288435081031703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD https://t.co/bBF8xFJRGY https://t.co/3urlGxjs0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961369010345541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzguuR8bAAA9UST.jpg",
+        "width": 757
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961369010794315776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzguuTnawAAyzCz.jpg",
+        "width": 772
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961369008835629057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzguuMUbkAElHWz.jpg",
+        "width": 825
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961369010785980417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzguuTlbkAEBWcv.jpg",
+        "width": 931
+      },
+      {
+        "duration_ms": 25286,
+        "height": 1280,
+        "media_key": "7_1952288383004499968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952288383004499968/pu/img/BnQC9BY6xu_rzMH4.jpg",
+        "public_metrics": {
+          "view_count": 6471
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/vid/avc1/320x568/W9tcnHqjt1Nm-_Ky.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/vid/avc1/480x852/rXnNlnJL10tuwtVe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/vid/avc1/720x1280/kPm_ApKxhbPldt1I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952288383004499968/pu/pl/cq0OHjZksaMWOrvw.m3u8?tag=12&v=949"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952288386603245568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxfr8aabYAA2QcL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952288385604956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxfr8WsasAArsuD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 793,
+        "media_key": "3_1952288368949432320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxfr7YpbkAAugz-.jpg",
+        "width": 720
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961369010345541632",
+            "3_1961369010794315776",
+            "3_1961369008835629057",
+            "3_1961369010785980417"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961369014426636390",
+        "created_at": "2025-08-29T10:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961369014426636390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBF8xFJRGY",
+              "end": 33,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+              "media_key": "3_1961369010345541632",
+              "start": 10,
+              "url": "https://t.co/bBF8xFJRGY"
+            },
+            {
+              "display_url": "pic.x.com/bBF8xFJRGY",
+              "end": 33,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+              "media_key": "3_1961369010794315776",
+              "start": 10,
+              "url": "https://t.co/bBF8xFJRGY"
+            },
+            {
+              "display_url": "pic.x.com/bBF8xFJRGY",
+              "end": 33,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+              "media_key": "3_1961369008835629057",
+              "start": 10,
+              "url": "https://t.co/bBF8xFJRGY"
+            },
+            {
+              "display_url": "pic.x.com/bBF8xFJRGY",
+              "end": 33,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961369014426636390/photo/1",
+              "media_key": "3_1961369010785980417",
+              "start": 10,
+              "url": "https://t.co/bBF8xFJRGY"
+            },
+            {
+              "display_url": "x.com/QXY_WARD/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/QXY_WARD/status/1952288435081031703",
+              "start": 34,
+              "url": "https://t.co/3urlGxjs0W"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1961369014426636390",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952288435081031703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD https://t.co/bBF8xFJRGY https://t.co/3urlGxjs0W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952288383004499968",
+            "3_1952288386603245568",
+            "3_1952288385604956160",
+            "3_1952288368949432320"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "conversation_id": "1952288435081031703",
+        "created_at": "2025-08-04T08:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952288435081031703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "mtf"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "补佳乐"
+            },
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "coversong"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "唱歌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "7_1952288383004499968",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            },
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "3_1952288386603245568",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            },
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "3_1952288385604956160",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            },
+            {
+              "display_url": "pic.x.com/13Kgld58eh",
+              "end": 57,
+              "expanded_url": "https://x.com/QXY_WARD/status/1952288435081031703/video/1",
+              "media_key": "3_1952288368949432320",
+              "start": 34,
+              "url": "https://t.co/13Kgld58eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952288435081031703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21742,
+          "like_count": 43,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "也是来跟风了喵😊 #mtf #补佳乐 #coversong #唱歌 https://t.co/13Kgld58eh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1951910431993589789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 1291,
+          "like_count": 4749,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "我是小怡丨热爱音乐的翻唱歌手丨受ZARD坂井泉水影响，以“WARD UNLIMITED”为名，展开音乐旅程。\n用声音传递情感丨用旋律刻下梦想。\n0作品/私密用户丨婉拒点赞、评论、私信互动丨我们要交的是真人，而不是机器人丨🍥始于2025.8.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "日本",
+        "name": "是小怡呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952627286303457280/NxPmz-xV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 662,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

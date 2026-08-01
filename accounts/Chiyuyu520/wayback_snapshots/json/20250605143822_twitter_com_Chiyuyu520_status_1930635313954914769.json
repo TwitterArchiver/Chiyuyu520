@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930635310582714368"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930635313954914769",
+    "created_at": "2025-06-05T14:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T15:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930635313954914769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QxohAJU1Oz",
+          "end": 25,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1930635313954914769/photo/1",
+          "media_key": "3_1930635310582714368",
+          "start": 2,
+          "url": "https://t.co/QxohAJU1Oz"
+        },
+        {
+          "display_url": "x.com/zknmoe/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/zknmoe/status/1930630332337774839",
+          "start": 26,
+          "url": "https://t.co/Voz5DRFb5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930635313954914769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930630332337774839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓 https://t.co/QxohAJU1Oz https://t.co/Voz5DRFb5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_1930635310582714368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsr-lgYb0AAGmcM.jpg",
+        "width": 671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930635310582714368"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930635313954914769",
+        "created_at": "2025-06-05T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930635313954914769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxohAJU1Oz",
+              "end": 25,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930635313954914769/photo/1",
+              "media_key": "3_1930635310582714368",
+              "start": 2,
+              "url": "https://t.co/QxohAJU1Oz"
+            },
+            {
+              "display_url": "x.com/zknmoe/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/zknmoe/status/1930630332337774839",
+              "start": 26,
+              "url": "https://t.co/Voz5DRFb5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930635313954914769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930630332337774839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓 https://t.co/QxohAJU1Oz https://t.co/Voz5DRFb5P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171414629400158208",
+        "conversation_id": "1930274956346306785",
+        "created_at": "2025-06-05T14:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930630332337774839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930630332337774839",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930274956346306785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 也不是不行🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 519,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "🇨🇳/🇮🇹 爱代码的结晶控 🧊｜我就是自治系统，自行建树、自行广播、自行闪光 🌲（观点是边缘缓存）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zkn.moe",
+                "end": 23,
+                "expanded_url": "http://zkn.moe",
+                "start": 0,
+                "url": "https://t.co/vqx4aNEp2A"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, SA ",
+        "name": "kɑːve/ (aka 1zkn)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924757840050233344/f1BzjCa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 112,
+          "like_count": 1381,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/vqx4aNEp2A",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1963933921126793330",
+    "created_at": "2025-09-05T12:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963937252121219165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880766546370588672",
+          "start": 0,
+          "username": "sanfenairport"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1963937252121219165",
+    "in_reply_to_user_id": "1880766546370588672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963933921126793330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanfenairport 复活老直连"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1963933921126793330",
+        "created_at": "2025-09-05T12:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963937252121219165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880766546370588672",
+              "start": 0,
+              "username": "sanfenairport"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1963937252121219165",
+        "in_reply_to_user_id": "1880766546370588672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963933921126793330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanfenairport 复活老直连"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880766546370588672",
+        "conversation_id": "1963933921126793330",
+        "created_at": "2025-09-05T11:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963933921126793330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963933921126793330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 192,
+                "start": 187,
+                "tag": "优惠活动"
+              },
+              {
+                "end": 203,
+                "start": 193,
+                "tag": "三分机场开学季优惠"
+              },
+              {
+                "end": 209,
+                "start": 204,
+                "tag": "三分机场"
+              }
+            ]
+          },
+          "text": "三分机场 开学季 优惠活动：\n使用以下优惠码 可9折购买和续费季付及以上vip3套餐\n优惠码：\nhregtsto\n\n使用以下优惠码 可95折续费\n\"VIP3-300G每月-中转套餐-旧\"\"VIP3-600G每月-中转套餐-旧\"\"VIP3-1000G每月-中转套餐-旧\"\n优惠码：\nenxpnjhm\n\n优惠码有效期：2025.9.12 1:00（UTC+8）\n可进入官网查看\n#优惠活动 #三分机场开学季优惠 #三分机场"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三分机场 开学季 优惠活动：\n使用以下优惠码 可9折购买和续费季付及以上vip3套餐\n优惠码：\nhregtsto\n\n使用以下优惠码 可95折续费\n\"VIP3-300G每月-中转套餐-旧\"\"VIP3-600G每月-中转套餐-旧\"\"VIP3-1000G每月-中转套餐-旧\"\n优惠码：\nenxpnjhm\n\n优惠码有效期：2025.9.12 1:00（UTC+8）\n可进入官网查看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1292,
+          "like_count": 4858,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-18T23:57:47.000Z",
+        "description": "三分机场 稳定运营2年多的高性价比机场 已经升级为优质中转 中转套餐ip优质",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "panel.sanfen.icu",
+                "end": 23,
+                "expanded_url": "https://panel.sanfen.icu/",
+                "start": 0,
+                "url": "https://t.co/Ax9F0xKrKK"
+              }
+            ]
+          }
+        },
+        "id": "1880766546370588672",
+        "location": "Hong Kong",
+        "name": "三分机场｜VPN",
+        "pinned_tweet_id": "1880772321889464550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880767376716918784/nvmXpw6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 9,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/Ax9F0xKrKK",
+        "username": "sanfenairport",
+        "verified": true
+      }
+    ]
+  }
+}

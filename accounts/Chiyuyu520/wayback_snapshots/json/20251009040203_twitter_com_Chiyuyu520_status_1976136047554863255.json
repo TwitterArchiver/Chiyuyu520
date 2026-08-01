@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976136038558187521"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1976136047554863255",
+    "created_at": "2025-10-09T04:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T05:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976136047554863255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Xq0hmmsqK",
+          "end": 146,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1976136047554863255/photo/1",
+          "media_key": "3_1976136038558187521",
+          "start": 123,
+          "url": "https://t.co/5Xq0hmmsqK"
+        },
+        {
+          "display_url": "x.com/nekomakiqaq/st…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/nekomakiqaq/status/1976127910605144129",
+          "start": 147,
+          "url": "https://t.co/dtxycHAYWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976136047554863255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976127910605144129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男生超级扣分的行为:\r1.套牌/故意遮挡号牌\r2.限速路段超速\r3.闯红灯\r4.越线、压实线\r5.行经斑马线不减速不礼让行人\r6.酒驾、醉驾\r7.占用应急车道\r8.疲劳驾驶\r9.开车打电话\r10.坐前排不系安全带\n\r11.一脚油门踩进公安局大门 https://t.co/5Xq0hmmsqK https://t.co/dtxycHAYWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_1976136038558187521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ylQc4bwAE4KTl.jpg",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976136038558187521"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1976136047554863255",
+        "created_at": "2025-10-09T04:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976136047554863255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Xq0hmmsqK",
+              "end": 146,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1976136047554863255/photo/1",
+              "media_key": "3_1976136038558187521",
+              "start": 123,
+              "url": "https://t.co/5Xq0hmmsqK"
+            },
+            {
+              "display_url": "x.com/nekomakiqaq/st…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/nekomakiqaq/status/1976127910605144129",
+              "start": 147,
+              "url": "https://t.co/dtxycHAYWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976136047554863255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976127910605144129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男生超级扣分的行为:\r1.套牌/故意遮挡号牌\r2.限速路段超速\r3.闯红灯\r4.越线、压实线\r5.行经斑马线不减速不礼让行人\r6.酒驾、醉驾\r7.占用应急车道\r8.疲劳驾驶\r9.开车打电话\r10.坐前排不系安全带\n\r11.一脚油门踩进公安局大门 https://t.co/5Xq0hmmsqK https://t.co/dtxycHAYWN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1976127910605144129",
+        "created_at": "2025-10-09T03:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976127910605144129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976127910605144129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "行政拘留过的话还能开出来无犯罪记录证明吗😭😭\n就是酒驾啊吸毒啊那种拘留，不是看守所取保候审那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 1291,
+          "like_count": 5796,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💌@HobartR6/🐱@_FurryFur_/🐟@Chiyuyu520/🪼@m1zukiqaqaqaq |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "HobartR6"
+              },
+              {
+                "end": 23,
+                "start": 12,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "m1zukiqaqaqaq"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌380包邮",
+        "pinned_tweet_id": "1975556617048559754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973780420555927552/H4S6m_zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 16,
+          "media_count": 1262,
+          "tweet_count": 15410
+        },
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

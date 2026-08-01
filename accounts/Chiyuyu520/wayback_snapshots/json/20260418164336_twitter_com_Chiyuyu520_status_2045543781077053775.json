@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045543773720154112"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2045543781077053775",
+    "created_at": "2026-04-18T16:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045543781077053775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "“我们已经没有什么不能失去的了。”",
+          "display_url": "chiyu.rip",
+          "end": 81,
+          "expanded_url": "https://chiyu.rip",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "遗书 | 池鱼小栈",
+          "unwound_url": "https://chiyu.it/posts/end",
+          "url": "https://t.co/ywfq3Ok9Y3"
+        },
+        {
+          "display_url": "pic.x.com/AcUq4Le5KI",
+          "end": 105,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2045543781077053775/photo/1",
+          "media_key": "3_2045543773720154112",
+          "start": 82,
+          "url": "https://t.co/AcUq4Le5KI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045543781077053775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "写了一个给博客用的小播放器\n我实在受不了网易云的外链了 所以整了个这个\n支持lrc歌词 翻译之类的\n体验的话可以去 https://t.co/ywfq3Ok9Y3 https://t.co/AcUq4Le5KI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2045543773720154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM7OXUaEAAtXob.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543773720154112"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2045543781077053775",
+        "created_at": "2026-04-18T16:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045543781077053775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“我们已经没有什么不能失去的了。”",
+              "display_url": "chiyu.rip",
+              "end": 81,
+              "expanded_url": "https://chiyu.rip",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045543786500206592/PngBQLK0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "遗书 | 池鱼小栈",
+              "unwound_url": "https://chiyu.it/posts/end",
+              "url": "https://t.co/ywfq3Ok9Y3"
+            },
+            {
+              "display_url": "pic.x.com/AcUq4Le5KI",
+              "end": 105,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2045543781077053775/photo/1",
+              "media_key": "3_2045543773720154112",
+              "start": 82,
+              "url": "https://t.co/AcUq4Le5KI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543781077053775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写了一个给博客用的小播放器\n我实在受不了网易云的外链了 所以整了个这个\n支持lrc歌词 翻译之类的\n体验的话可以去 https://t.co/ywfq3Ok9Y3 https://t.co/AcUq4Le5KI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2045167544957595819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 1263,
+          "like_count": 6110,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

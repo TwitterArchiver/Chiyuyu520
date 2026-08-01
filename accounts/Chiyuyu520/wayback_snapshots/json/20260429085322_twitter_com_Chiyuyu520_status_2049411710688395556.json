@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2049398735294361766",
+    "created_at": "2026-04-29T08:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049411710688395556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1171414629400158208",
+          "start": 0,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049411710688395556",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049398735294361766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zknmoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_2049398375003639808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDs9sFa0AAh7SQ.jpg",
+        "width": 963
+      },
+      {
+        "height": 874,
+        "media_key": "3_2049398639253237761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDtNEfbsAEvFNq.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2049398735294361766",
+        "created_at": "2026-04-29T08:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049411710688395556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1171414629400158208",
+              "start": 0,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049411710688395556",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049398735294361766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zknmoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049398375003639808",
+            "3_2049398639253237761"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049398735294361766",
+        "created_at": "2026-04-29T08:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049398735294361766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgpXTv2i6o",
+              "end": 125,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2049398735294361766/photo/1",
+              "media_key": "3_2049398375003639808",
+              "start": 102,
+              "url": "https://t.co/OgpXTv2i6o"
+            },
+            {
+              "display_url": "pic.x.com/OgpXTv2i6o",
+              "end": 125,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2049398735294361766/photo/1",
+              "media_key": "3_2049398639253237761",
+              "start": 102,
+              "url": "https://t.co/OgpXTv2i6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049398735294361766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "池鱼it域名的续费在注册商那是2028，但是这个为什么是过期之后加autoRenewPeriod续费呢\nspaceship的做法是直接向whois续费有效期\n难道是.it的问题？有没有懂的人跟咱解释一下 https://t.co/OgpXTv2i6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3872,
+          "following_count": 1280,
+          "like_count": 6301,
+          "listed_count": 5,
+          "media_count": 334,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "誰かに認められたくて、今日も生きてる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zknmoe",
+                "end": 23,
+                "expanded_url": "http://t.me/zknmoe",
+                "start": 0,
+                "url": "https://t.co/napztrf6fW"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, PD",
+        "name": "kɑːve/ .k3n",
+        "pinned_tweet_id": "1937486628605280730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961220923853299712/6aEZ7s7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 116,
+          "like_count": 3469,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/napztrf6fW",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

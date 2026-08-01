@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941229016574246912",
+        "3_1941229018893684736"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1941229021779591590",
+    "created_at": "2025-07-04T20:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T21:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941229021779591590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1878681729407356928",
+          "start": 26,
+          "username": "HYuusui1999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VsfxNoJWRK",
+          "end": 99,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1941229021779591590/photo/1",
+          "media_key": "3_1941229016574246912",
+          "start": 76,
+          "url": "https://t.co/VsfxNoJWRK"
+        },
+        {
+          "display_url": "pic.x.com/VsfxNoJWRK",
+          "end": 99,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1941229021779591590/photo/1",
+          "media_key": "3_1941229018893684736",
+          "start": 76,
+          "url": "https://t.co/VsfxNoJWRK"
+        },
+        {
+          "display_url": "x.com/pp267528/statu…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/pp267528/status/1941196112939057321",
+          "start": 100,
+          "url": "https://t.co/QLedB931VA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941229021779591590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941196112939057321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您别说我还真因为经济原因近三天没有吃过一口饭 最后 @HYuusui1999 作为MtF的救助实在担心给我的身体状态帮我点的吃的 那么您觉得满意了吗？ https://t.co/VsfxNoJWRK https://t.co/QLedB931VA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_1941229016574246912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvChgWiWwAAsWwe.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941229018893684736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvChgfLWkAAp48h.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941229016574246912",
+            "3_1941229018893684736"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941229021779591590",
+        "created_at": "2025-07-04T20:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T21:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941229021779591590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1878681729407356928",
+              "start": 26,
+              "username": "HYuusui1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsfxNoJWRK",
+              "end": 99,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1941229021779591590/photo/1",
+              "media_key": "3_1941229016574246912",
+              "start": 76,
+              "url": "https://t.co/VsfxNoJWRK"
+            },
+            {
+              "display_url": "pic.x.com/VsfxNoJWRK",
+              "end": 99,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1941229021779591590/photo/1",
+              "media_key": "3_1941229018893684736",
+              "start": 76,
+              "url": "https://t.co/VsfxNoJWRK"
+            },
+            {
+              "display_url": "x.com/pp267528/statu…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/pp267528/status/1941196112939057321",
+              "start": 100,
+              "url": "https://t.co/QLedB931VA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941229021779591590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941196112939057321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您别说我还真因为经济原因近三天没有吃过一口饭 最后 @HYuusui1999 作为MtF的救助实在担心给我的身体状态帮我点的吃的 那么您觉得满意了吗？ https://t.co/VsfxNoJWRK https://t.co/QLedB931VA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905475978383839232",
+        "conversation_id": "1941043238150066682",
+        "created_at": "2025-07-04T18:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T19:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941196112939057321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941196112939057321",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941043238150066682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 那可不可以先真的坚持5天不吃一口饭再说这句话呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 1122,
+          "like_count": 2394,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1337,
+          "like_count": 24397,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5942
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T04:24:34.000Z",
+        "description": "魔怔人 摇摆不定 最近关心起了新闻时事       🚪188 双一流心理学本科 可以提供心理咨询服务",
+        "id": "1905475978383839232",
+        "location": "Funabashi-shi, Chiba",
+        "name": "泊言",
+        "pinned_tweet_id": "1917284686210163068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912121449587802112/kUXgtqJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 30,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 247
+        },
+        "username": "pp267528",
+        "verified": false
+      }
+    ]
+  }
+}

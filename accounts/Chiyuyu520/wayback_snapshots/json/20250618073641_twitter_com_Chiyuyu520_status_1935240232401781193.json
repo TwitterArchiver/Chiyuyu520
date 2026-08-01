@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934938911928983871",
+    "created_at": "2025-06-18T07:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T08:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935240232401781193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312002569988841472",
+          "start": 0,
+          "username": "zhishi_cook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935240232401781193",
+    "in_reply_to_user_id": "1312002569988841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934938911928983871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi_cook 我用的+852香港爽，没那么容易被ban"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934938909638836224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtpIr8MawAARDtn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934938911928983871",
+        "created_at": "2025-06-18T07:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935240232401781193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312002569988841472",
+              "start": 0,
+              "username": "zhishi_cook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935240232401781193",
+        "in_reply_to_user_id": "1312002569988841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934938911928983871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi_cook 我用的+852香港爽，没那么容易被ban"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934938909638836224"
+          ]
+        },
+        "author_id": "1312002569988841472",
+        "conversation_id": "1934938911928983871",
+        "created_at": "2025-06-17T11:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934938911928983871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iy3zaM0CdV",
+              "end": 36,
+              "expanded_url": "https://x.com/zhishi_cook/status/1934938911928983871/photo/1",
+              "media_key": "3_1934938909638836224",
+              "start": 13,
+              "url": "https://t.co/Iy3zaM0CdV"
+            },
+            {
+              "display_url": "x.com/zhishi_cook/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/zhishi_cook/status/1934829058652864622",
+              "start": 37,
+              "url": "https://t.co/MEviNQSbiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934938911928983871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 524,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934829058652864622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲讯给对象登号被ban了 https://t.co/Iy3zaM0CdV https://t.co/MEviNQSbiC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 982,
+          "like_count": 1450,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "申必mtf🏳️‍⚧️🤔🤔/家长不管(?/超级缺爱b🥵/头发没了想似喵😭😭/恶臭郭楠😥/ENFP-T/🤔提问:https://t.co/bDeKeMQNaN / 只会写php py的废物😭/生产日期:2009-03-07/小号:@TypezhiQwQ/同类回fo喵🤓/宝宝@qiu90827",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "TypezhiQwQ"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "qiu90827"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 54,
+                "url": "https://t.co/bDeKeMQNaN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZv0Pp"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "黄石市第二医院精神科住院楼",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1920328261478793373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 972,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/842XMZv0Pp",
+        "username": "zhishi_cook",
+        "verified": true
+      }
+    ]
+  }
+}

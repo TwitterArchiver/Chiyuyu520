@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1946909331183825253",
+    "created_at": "2025-07-20T12:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946909331183825253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "“我们已经没有什么不能失去的了。”",
+          "display_url": "chiyu.it/posts/end",
+          "end": 37,
+          "expanded_url": "https://chiyu.it/posts/end",
+          "images": [
+            {
+              "height": 3512,
+              "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=orig",
+              "width": 4096
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "遗书 | 池鱼小栈",
+          "unwound_url": "https://chiyu.it/posts/end",
+          "url": "https://t.co/JKZBAjKfMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946909331183825253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "chiyu.it/posts/end",
+            "end": 37,
+            "expanded_url": "https://chiyu.it/posts/end",
+            "start": 14,
+            "url": "https://t.co/00HERqQGsq"
+          }
+        ]
+      },
+      "text": "在遗书里又写了一些东西：\n\nhttps://t.co/00HERqQGsq\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只是 【无病呻吟】 的现状。\n\n世界上从来没有感同身受这回事，针不扎在你身上，你就永远不知道有多痛。\n\n所以，那些人只会认为这些是庸人自扰，是无病呻吟，是和自己过不去，是与自然相悖的不可行。\n\n没有人希望这一切会发生在自己身上，可它就是自然而然的发生了，就好像它是从我们降生与世就种植在我们体内的，只在某年某月的某一天等待一把魔法将它唤醒。\n\n我知道这样的比喻有些可笑，可它就是这样猝不及防毫无来由的，无法阻挡如同洪流一样的，切切实实的发生在了自己身上。\n\n不指望所有人认同，但希望别人给予起码的尊重。当然永远有人披着表面中立不反对的旗帜，而背地里却早已高人一等地将他人斥为怪物，贴以种种妖魔化的标签。\n\n不过这些外界的误解和偏见，纷扰与嘈杂，都与今天我想说的没关系，这篇文章是给自己写的，应该远离那些蒙尘污垢的东西，我想现在的池鱼只需要安静。\n\n那句话是这样写的：“这世界只有一个地狱，就是你我现在生活的世界。你以为你的善良是因你是天堂掉落的天使，其实你只是众鬼里最弱的一个。”\n\n未来的一切都不可知，也许你也不知道今天的现在，会为一个陌生人而泪流满面。\n\n那些叫嚷着“变态”“怪物”“你们怎么不去死”肆意攻击的“人”，你们真的什么都不懂，你们不知道你的话语对他人意味着什么。\n\n别忘了，你们这些人手上是沾了血的，那让我告诉你们为什么我们不去死。\n\n- 因为我们他妈不是为了我们自己一个人而活啊。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 7,
+      "impression_count": 2192,
+      "like_count": 43,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 2
+    },
+    "reply_settings": "everyone",
+    "text": "在遗书里又写了一些东西：\n\nhttps://t.co/JKZBAjKfMB\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只是 【无病呻吟】 的现状。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1946909331183825253",
+        "created_at": "2025-07-20T12:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946909331183825253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“我们已经没有什么不能失去的了。”",
+              "display_url": "chiyu.it/posts/end",
+              "end": 37,
+              "expanded_url": "https://chiyu.it/posts/end",
+              "images": [
+                {
+                  "height": 3512,
+                  "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=orig",
+                  "width": 4096
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1942544855030456325/rhYeDHgV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "遗书 | 池鱼小栈",
+              "unwound_url": "https://chiyu.it/posts/end",
+              "url": "https://t.co/JKZBAjKfMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946909331183825253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chiyu.it/posts/end",
+                "end": 37,
+                "expanded_url": "https://chiyu.it/posts/end",
+                "start": 14,
+                "url": "https://t.co/00HERqQGsq"
+              }
+            ]
+          },
+          "text": "在遗书里又写了一些东西：\n\nhttps://t.co/00HERqQGsq\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只是 【无病呻吟】 的现状。\n\n世界上从来没有感同身受这回事，针不扎在你身上，你就永远不知道有多痛。\n\n所以，那些人只会认为这些是庸人自扰，是无病呻吟，是和自己过不去，是与自然相悖的不可行。\n\n没有人希望这一切会发生在自己身上，可它就是自然而然的发生了，就好像它是从我们降生与世就种植在我们体内的，只在某年某月的某一天等待一把魔法将它唤醒。\n\n我知道这样的比喻有些可笑，可它就是这样猝不及防毫无来由的，无法阻挡如同洪流一样的，切切实实的发生在了自己身上。\n\n不指望所有人认同，但希望别人给予起码的尊重。当然永远有人披着表面中立不反对的旗帜，而背地里却早已高人一等地将他人斥为怪物，贴以种种妖魔化的标签。\n\n不过这些外界的误解和偏见，纷扰与嘈杂，都与今天我想说的没关系，这篇文章是给自己写的，应该远离那些蒙尘污垢的东西，我想现在的池鱼只需要安静。\n\n那句话是这样写的：“这世界只有一个地狱，就是你我现在生活的世界。你以为你的善良是因你是天堂掉落的天使，其实你只是众鬼里最弱的一个。”\n\n未来的一切都不可知，也许你也不知道今天的现在，会为一个陌生人而泪流满面。\n\n那些叫嚷着“变态”“怪物”“你们怎么不去死”肆意攻击的“人”，你们真的什么都不懂，你们不知道你的话语对他人意味着什么。\n\n别忘了，你们这些人手上是沾了血的，那让我告诉你们为什么我们不去死。\n\n- 因为我们他妈不是为了我们自己一个人而活啊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2192,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在遗书里又写了一些东西：\n\nhttps://t.co/JKZBAjKfMB\n\n我抑郁的缘由是什么，或许是性别焦虑，或许是家庭、环境的压力，更或许是他人的偏见与恶意。\n\n我不敢想，也没办法继续想下去。\n\n因为这是所有跨性别现在所经历的，在他人看来只是 【无病呻吟】 的现状。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1946983981985218744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 1208,
+          "like_count": 3505,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

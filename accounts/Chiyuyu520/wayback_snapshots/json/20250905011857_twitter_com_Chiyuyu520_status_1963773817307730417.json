@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963773813726052352",
+        "3_1963773813101076480",
+        "3_1963773813231112192",
+        "3_1963773814057377792"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963773817307730417",
+    "created_at": "2025-09-05T01:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T02:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963773817307730417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1908466480485961728",
+          "start": 3,
+          "username": "ratbbit3000qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AhZiaCBdQH",
+          "end": 46,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+          "media_key": "3_1963773813726052352",
+          "start": 23,
+          "url": "https://t.co/AhZiaCBdQH"
+        },
+        {
+          "display_url": "pic.x.com/AhZiaCBdQH",
+          "end": 46,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+          "media_key": "3_1963773813101076480",
+          "start": 23,
+          "url": "https://t.co/AhZiaCBdQH"
+        },
+        {
+          "display_url": "pic.x.com/AhZiaCBdQH",
+          "end": 46,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+          "media_key": "3_1963773813231112192",
+          "start": 23,
+          "url": "https://t.co/AhZiaCBdQH"
+        },
+        {
+          "display_url": "pic.x.com/AhZiaCBdQH",
+          "end": 46,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+          "media_key": "3_1963773814057377792",
+          "start": 23,
+          "url": "https://t.co/AhZiaCBdQH"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1963773817307730417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢 @ratbbit3000qwq \n喵～ https://t.co/AhZiaCBdQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_1963773813726052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0C54QpbAAAmLFx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1763,
+        "media_key": "3_1963773813101076480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0C54OUaoAABMq1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1763,
+        "media_key": "3_1963773813231112192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0C54Oza0AAWhPF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1763,
+        "media_key": "3_1963773814057377792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0C54R4aoAAgybG.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963773813726052352",
+            "3_1963773813101076480",
+            "3_1963773813231112192",
+            "3_1963773814057377792"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963773817307730417",
+        "created_at": "2025-09-05T01:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T02:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963773817307730417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1908466480485961728",
+              "start": 3,
+              "username": "ratbbit3000qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhZiaCBdQH",
+              "end": 46,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+              "media_key": "3_1963773813726052352",
+              "start": 23,
+              "url": "https://t.co/AhZiaCBdQH"
+            },
+            {
+              "display_url": "pic.x.com/AhZiaCBdQH",
+              "end": 46,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+              "media_key": "3_1963773813101076480",
+              "start": 23,
+              "url": "https://t.co/AhZiaCBdQH"
+            },
+            {
+              "display_url": "pic.x.com/AhZiaCBdQH",
+              "end": 46,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+              "media_key": "3_1963773813231112192",
+              "start": 23,
+              "url": "https://t.co/AhZiaCBdQH"
+            },
+            {
+              "display_url": "pic.x.com/AhZiaCBdQH",
+              "end": 46,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963773817307730417/photo/1",
+              "media_key": "3_1963773814057377792",
+              "start": 23,
+              "url": "https://t.co/AhZiaCBdQH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1963773817307730417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢 @ratbbit3000qwq \n喵～ https://t.co/AhZiaCBdQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 1288,
+          "like_count": 4851,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T10:27:30.000Z",
+        "description": "即使身处不见光的角落，我们也要向阳而生。\n2009.07.22/双相休学中/INFP-T/不常在线/做题蛆一条/",
+        "id": "1908466480485961728",
+        "name": "兔鼠煲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915112162714120192/clFXjeSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 355,
+          "like_count": 7907,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 584
+        },
+        "username": "ratbbit3000qwq",
+        "verified": false
+      }
+    ]
+  }
+}

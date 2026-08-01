@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1962091113462030336",
+        "3_1962091113424232448",
+        "3_1962091113457881088",
+        "3_1962091113415901184"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1962091588538282206",
+    "created_at": "2025-08-31T09:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T10:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962091588538282206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/blEEVzeWrm",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+          "media_key": "7_1962091113462030336",
+          "start": 106,
+          "url": "https://t.co/blEEVzeWrm"
+        },
+        {
+          "display_url": "pic.x.com/blEEVzeWrm",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+          "media_key": "3_1962091113424232448",
+          "start": 106,
+          "url": "https://t.co/blEEVzeWrm"
+        },
+        {
+          "display_url": "pic.x.com/blEEVzeWrm",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+          "media_key": "3_1962091113457881088",
+          "start": 106,
+          "url": "https://t.co/blEEVzeWrm"
+        },
+        {
+          "display_url": "pic.x.com/blEEVzeWrm",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+          "media_key": "3_1962091113415901184",
+          "start": 106,
+          "url": "https://t.co/blEEVzeWrm"
+        },
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1961906546281263250",
+          "start": 130,
+          "url": "https://t.co/o5PkwAHvD3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1962091588538282206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961906546281263250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "[带完整视频]\n苏州星巴克使用谷歌钱包配这张visa消费成功\n最终的结果是35块钱扣了4.91USD，卡片很好用，免费开卡免费实体卡，磨损只有把U充值进卡里的过程有链上磨损（官方表示后续会加入更多低磨损的新链） https://t.co/blEEVzeWrm https://t.co/o5PkwAHvD3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44666,
+        "height": 1918,
+        "media_key": "7_1962091113462030336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962091113462030336/pu/img/VXtNdU-yhDltoD7g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962091113462030336/pu/vid/avc1/320x702/yJsAcxT0sl8aHHgO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962091113462030336/pu/vid/avc1/480x1054/-70qa6ETElWAsOEL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962091113462030336/pu/vid/avc1/720x1582/1MPV8_LY11ls9BS-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962091113462030336/pu/pl/xEBZEgWnwZuOepjF.m3u8?tag=12"
+          }
+        ],
+        "width": 872
+      },
+      {
+        "height": 2268,
+        "media_key": "3_1962091113424232448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzq_eNiaIAAGfLp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962091113457881088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzq_eNqbkAAEKnE.jpg",
+        "width": 931
+      },
+      {
+        "height": 1835,
+        "media_key": "3_1962091113415901184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzq_eNgbAAA6vWZ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961906543395581952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzoXm0mbsAAHQTw.jpg",
+        "width": 931
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962091113462030336",
+            "3_1962091113424232448",
+            "3_1962091113457881088",
+            "3_1962091113415901184"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1962091588538282206",
+        "created_at": "2025-08-31T09:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962091588538282206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blEEVzeWrm",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+              "media_key": "7_1962091113462030336",
+              "start": 106,
+              "url": "https://t.co/blEEVzeWrm"
+            },
+            {
+              "display_url": "pic.x.com/blEEVzeWrm",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+              "media_key": "3_1962091113424232448",
+              "start": 106,
+              "url": "https://t.co/blEEVzeWrm"
+            },
+            {
+              "display_url": "pic.x.com/blEEVzeWrm",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+              "media_key": "3_1962091113457881088",
+              "start": 106,
+              "url": "https://t.co/blEEVzeWrm"
+            },
+            {
+              "display_url": "pic.x.com/blEEVzeWrm",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1962091588538282206/video/1",
+              "media_key": "3_1962091113415901184",
+              "start": 106,
+              "url": "https://t.co/blEEVzeWrm"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1961906546281263250",
+              "start": 130,
+              "url": "https://t.co/o5PkwAHvD3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1962091588538282206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961906546281263250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[带完整视频]\n苏州星巴克使用谷歌钱包配这张visa消费成功\n最终的结果是35块钱扣了4.91USD，卡片很好用，免费开卡免费实体卡，磨损只有把U充值进卡里的过程有链上磨损（官方表示后续会加入更多低磨损的新链） https://t.co/blEEVzeWrm https://t.co/o5PkwAHvD3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961906543395581952"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1961906546281263250",
+        "created_at": "2025-08-30T21:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T22:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961906546281263250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cn0GKAFNz7",
+              "end": 48,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961906546281263250/photo/1",
+              "media_key": "3_1961906543395581952",
+              "start": 25,
+              "url": "https://t.co/Cn0GKAFNz7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1961906546281263250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5460,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶我操爽到我了\n免费实体VISA申请/开卡费全返 https://t.co/Cn0GKAFNz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 1291,
+          "like_count": 4796,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

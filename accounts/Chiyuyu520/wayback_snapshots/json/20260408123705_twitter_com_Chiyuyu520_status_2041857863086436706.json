@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2041857863086436706",
+    "created_at": "2026-04-08T12:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041857863086436706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starnekovo/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/starnekovo/status/2041842129681719533",
+          "start": 41,
+          "url": "https://t.co/N2sIBCnnTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041857863086436706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041842129681719533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一张 七八年前的梗图原封不动发过来流量比认真发内容的还高 我只能说你推特是这样的 https://t.co/N2sIBCnnTY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2041857863086436706",
+        "created_at": "2026-04-08T12:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041857863086436706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starnekovo/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/starnekovo/status/2041842129681719533",
+              "start": 41,
+              "url": "https://t.co/N2sIBCnnTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041857863086436706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041842129681719533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一张 七八年前的梗图原封不动发过来流量比认真发内容的还高 我只能说你推特是这样的 https://t.co/N2sIBCnnTY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2041842129681719533",
+        "created_at": "2026-04-08T11:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041842129681719533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041842129681719533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首页非蓝勾号的平均质量比蓝勾号高\n\n哦又有一堆自媒体营销号复读机对着没亲手用过的东西大吹特吹\n\n这样跟搞不懂 token 多语义硬翻译成词元的央视有什么区别，比香港记者水平低到不知道哪里去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmhz7W"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1956753378090119454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 1235,
+          "like_count": 5782,
+          "listed_count": 4,
+          "media_count": 290,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/ueqIkmhz7W",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🐰🪼🍥系统 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sT95"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "牛奶喵",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4582,
+          "following_count": 2436,
+          "like_count": 37718,
+          "listed_count": 19,
+          "media_count": 1466,
+          "tweet_count": 12708
+        },
+        "url": "https://t.co/9NEqS9sT95",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

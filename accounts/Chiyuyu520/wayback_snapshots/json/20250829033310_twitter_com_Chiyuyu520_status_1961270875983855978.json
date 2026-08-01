@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961270872418963456"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1961270875983855978",
+    "created_at": "2025-08-29T03:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T04:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961270875983855978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKb9pN72m0",
+          "end": 49,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1961270875983855978/photo/1",
+          "media_key": "3_1961270872418963456",
+          "start": 26,
+          "url": "https://t.co/MKb9pN72m0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1961270875983855978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前赶路时看见的520公交车\n祝所有宝宝们七夕快乐 https://t.co/MKb9pN72m0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1961270872418963456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfVd5raUAAp2H_.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961270872418963456"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1961270875983855978",
+        "created_at": "2025-08-29T03:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961270875983855978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKb9pN72m0",
+              "end": 49,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1961270875983855978/photo/1",
+              "media_key": "3_1961270872418963456",
+              "start": 26,
+              "url": "https://t.co/MKb9pN72m0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1961270875983855978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前赶路时看见的520公交车\n祝所有宝宝们七夕快乐 https://t.co/MKb9pN72m0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1941853604966764980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 1290,
+          "like_count": 4730,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

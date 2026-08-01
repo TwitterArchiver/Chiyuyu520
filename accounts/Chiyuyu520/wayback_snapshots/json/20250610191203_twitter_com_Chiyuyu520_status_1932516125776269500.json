@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1932440315786559988",
+    "created_at": "2025-06-10T19:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932516125776269500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416991798770102273",
+          "start": 0,
+          "username": "vegetable_ccai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Hello World",
+          "display_url": "chiyu.it",
+          "end": 39,
+          "expanded_url": "http://chiyu.it",
+          "start": 16,
+          "status": 200,
+          "title": "池鱼小栈",
+          "unwound_url": "http://chiyu.it",
+          "url": "https://t.co/bETzpktw6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932516125776269500",
+    "in_reply_to_user_id": "1416991798770102273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932514062556148125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vegetable_ccai https://t.co/bETzpktw6w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1932440315786559988",
+        "created_at": "2025-06-10T19:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932516125776269500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416991798770102273",
+              "start": 0,
+              "username": "vegetable_ccai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Hello World",
+              "display_url": "chiyu.it",
+              "end": 39,
+              "expanded_url": "http://chiyu.it",
+              "start": 16,
+              "status": 200,
+              "title": "池鱼小栈",
+              "unwound_url": "http://chiyu.it",
+              "url": "https://t.co/bETzpktw6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932516125776269500",
+        "in_reply_to_user_id": "1416991798770102273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932514062556148125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vegetable_ccai https://t.co/bETzpktw6w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416991798770102273",
+        "conversation_id": "1932440315786559988",
+        "created_at": "2025-06-10T19:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932514062556148125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932514062556148125",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932440315786559988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 好奇是什么主题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 697,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T05:22:43.000Z",
+        "description": "主页 https://t.co/l5aQZtaWc3\n可以叫我菜菜（暂时没想好新名字）/欢迎互fo哦~想和大家成为朋友（长时间没回fo请私信）最喜欢的宝宝@XIAOLINGDANG520 会翻滚的可爱小猫@fangunmao /不会主动出击被骚扰请举报zyn假冒号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "XIAOLINGDANG520"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fangunmao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vegecai.moe",
+                "end": 26,
+                "expanded_url": "http://vegecai.moe",
+                "start": 3,
+                "url": "https://t.co/l5aQZtaWc3"
+              }
+            ]
+          }
+        },
+        "id": "1416991798770102273",
+        "location": "菜星",
+        "name": "${name}🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1840241644827984027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889000441029214209/YwLs4wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 980,
+          "like_count": 3360,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 1801
+        },
+        "username": "vegetable_ccai",
+        "verified": false
+      }
+    ]
+  }
+}

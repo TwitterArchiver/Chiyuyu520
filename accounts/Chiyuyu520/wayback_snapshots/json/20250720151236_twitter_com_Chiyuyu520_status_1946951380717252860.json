@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1946951380717252860",
+    "created_at": "2025-07-20T15:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T16:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946951380717252860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momo_yu_333/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/momo_yu_333/status/1946946679779074395",
+          "start": 19,
+          "url": "https://t.co/RouPTQ1tzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946951380717252860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946946679779074395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最典型的例子\n超市货架上的健达奇趣蛋 https://t.co/RouPTQ1tzC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1946951380717252860",
+        "created_at": "2025-07-20T15:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T16:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946951380717252860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_333/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/momo_yu_333/status/1946946679779074395",
+              "start": 19,
+              "url": "https://t.co/RouPTQ1tzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946951380717252860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946946679779074395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最典型的例子\n超市货架上的健达奇趣蛋 https://t.co/RouPTQ1tzC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "1946946679779074395",
+        "created_at": "2025-07-20T14:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946946679779074395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/1946927591362838687",
+              "start": 131,
+              "url": "https://t.co/9e3e8qUOjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946946679779074395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946927591362838687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来这么小的时候都在经历这个…\n那么我死的一点也不冤屈\n很多时候家里人对你很好，处在 \n被允许不动的状态\n自己也就不敢“要这要那”的\n家里人不懂，只是一味的猜疑\n可是这样的人生一点都不好\n我不知道我真心喜欢什么\n我曾经喜欢的东西想要的东西\n现在已经不喜欢了\n… https://t.co/9e3e8qUOjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939728580105445794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 1209,
+          "like_count": 3499,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄｜生活无助天残党｜是家里全职女儿（逃｜ 门槛80接线下｜寻找人生重开的方式｜想要做文媛！会出原味！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumm86474",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumm86474",
+                "start": 0,
+                "url": "https://t.co/V2G2a8h0oH"
+              }
+            ]
+          }
+        },
+        "id": "1505851491734720515",
+        "location": "ApplePark",
+        "name": "雨茉茉 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593281701626748929/bju9heh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 202,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/V2G2a8h0oH",
+        "username": "momo_yu_333",
+        "verified": false
+      }
+    ]
+  }
+}

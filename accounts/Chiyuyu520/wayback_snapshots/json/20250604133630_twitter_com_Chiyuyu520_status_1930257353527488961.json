@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930257353527488961",
+    "created_at": "2025-06-04T13:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930257353527488961"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930257353527488961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "另外，推特的账号权重也很重要。最能增加权重的是使用时间，发布内容越老的号越不容易被风控\n长期发广告/被举报的多/平台认为你是机器人，不可能会给你推流的，因为平台认为用户都不喜欢你\n不信你们可以用临时邮箱注册一个新推特号，注册好之后每次打开都切IP，一天用不了就给你封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930257353527488961",
+        "created_at": "2025-06-04T13:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930257353527488961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930257353527488961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另外，推特的账号权重也很重要。最能增加权重的是使用时间，发布内容越老的号越不容易被风控\n长期发广告/被举报的多/平台认为你是机器人，不可能会给你推流的，因为平台认为用户都不喜欢你\n不信你们可以用临时邮箱注册一个新推特号，注册好之后每次打开都切IP，一天用不了就给你封了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 489,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

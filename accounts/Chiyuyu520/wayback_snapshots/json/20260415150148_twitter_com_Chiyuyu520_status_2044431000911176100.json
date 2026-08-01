@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2044431000911176100",
+    "created_at": "2026-04-15T15:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044431000911176100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044431000911176100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "话说 Dario Amodei 在百度硅谷 AI 实验室任职时，他的经理有天把他叫进办公室，说：\n“Amodei，Robin 刚传达了最新指示。你知道，咱们百度一切都要讲‘尺度’——但 Robin 特别强调，真正的 Scaling Law 不是堆算力，是堆‘实名认证’的精度。账号规模每提升一个量级，认证环节就得增加一个因子。这才是中国互联网的幂律分布。”\nAmodei 将信将疑，回到工位盯着 loss 曲线发呆，心想：我明明在拟合数据，怎么经理总在拟合身份证？\n多年后，Amodei 创立 Anthropic，推出 Claude Code。工程师问：“我们要对 API 调用施加什么样的安全约束？”\nAmodei 沉思片刻，眼前突然浮现出当年百度经理笃定的面容，耳边回响起 Robin 关于“尺度”的教诲。\n于是他缓缓开口：\n“听好了，用户每提交一次 git commit，我们必须验证其肉身存续性。身份证扫描件、活体眨眼、三个月水电账单——记住，模型能力每提升 10 倍，实名流程的步骤数必须呈对数线性增长。”\n工程师不解：“可是 Dario，这跟安全有什么关系？”\nAmodei 露出深邃的微笑：\n“你不懂。这才是终极的 Scaling Law——当实名认证的难度逼近无穷，误触键盘的用户将趋近于零。而一个无人敢用的产品，永远不会被滥用。”\n“这是 Robin 当年想教我，而我终于学会的东西。”\n工程师沉默半晌，在文档里写下第一行：\nClaude Code requires government-issued photo ID to execute ls."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说 Dario Amodei 在百度硅谷 AI 实验室任职时，他的经理有天把他叫进办公室，说：\n“Amodei，Robin 刚传达了最新指示。你知道，咱们百度一切都要讲‘尺度’——但 Robin 特别强调，真正的 Scaling Law"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2044431000911176100",
+        "created_at": "2026-04-15T15:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044431000911176100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044431000911176100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "话说 Dario Amodei 在百度硅谷 AI 实验室任职时，他的经理有天把他叫进办公室，说：\n“Amodei，Robin 刚传达了最新指示。你知道，咱们百度一切都要讲‘尺度’——但 Robin 特别强调，真正的 Scaling Law 不是堆算力，是堆‘实名认证’的精度。账号规模每提升一个量级，认证环节就得增加一个因子。这才是中国互联网的幂律分布。”\nAmodei 将信将疑，回到工位盯着 loss 曲线发呆，心想：我明明在拟合数据，怎么经理总在拟合身份证？\n多年后，Amodei 创立 Anthropic，推出 Claude Code。工程师问：“我们要对 API 调用施加什么样的安全约束？”\nAmodei 沉思片刻，眼前突然浮现出当年百度经理笃定的面容，耳边回响起 Robin 关于“尺度”的教诲。\n于是他缓缓开口：\n“听好了，用户每提交一次 git commit，我们必须验证其肉身存续性。身份证扫描件、活体眨眼、三个月水电账单——记住，模型能力每提升 10 倍，实名流程的步骤数必须呈对数线性增长。”\n工程师不解：“可是 Dario，这跟安全有什么关系？”\nAmodei 露出深邃的微笑：\n“你不懂。这才是终极的 Scaling Law——当实名认证的难度逼近无穷，误触键盘的用户将趋近于零。而一个无人敢用的产品，永远不会被滥用。”\n“这是 Robin 当年想教我，而我终于学会的东西。”\n工程师沉默半晌，在文档里写下第一行：\nClaude Code requires government-issued photo ID to execute ls."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说 Dario Amodei 在百度硅谷 AI 实验室任职时，他的经理有天把他叫进办公室，说：\n“Amodei，Robin 刚传达了最新指示。你知道，咱们百度一切都要讲‘尺度’——但 Robin 特别强调，真正的 Scaling Law"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 1251,
+          "like_count": 6033,
+          "listed_count": 5,
+          "media_count": 299,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

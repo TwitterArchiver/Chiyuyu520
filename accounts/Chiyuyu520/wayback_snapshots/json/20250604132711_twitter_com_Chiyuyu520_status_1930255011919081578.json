@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T13:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930255011919081578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717459856385593344",
+          "start": 0,
+          "username": "SiovenStars"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930255011919081578",
+    "in_reply_to_user_id": "1717459856385593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930254299998613603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiovenStars 建议更换"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930254287096975360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsmkDBSXEAA7q3a.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930255011919081578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717459856385593344",
+              "start": 0,
+              "username": "SiovenStars"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930255011919081578",
+        "in_reply_to_user_id": "1717459856385593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930254299998613603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiovenStars 建议更换"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930254287096975360"
+          ]
+        },
+        "author_id": "1717459856385593344",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930254299998613603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vhqbCdvcE",
+              "end": 37,
+              "expanded_url": "https://x.com/SiovenStars/status/1930254299998613603/photo/1",
+              "media_key": "3_1930254287096975360",
+              "start": 14,
+              "url": "https://t.co/8vhqbCdvcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930254299998613603",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 😥 https://t.co/8vhqbCdvcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 488,
+          "like_count": 388,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:35:24.000Z",
+        "description": "海底热泉",
+        "id": "1717459856385593344",
+        "location": "Internet",
+        "name": "栞",
+        "pinned_tweet_id": "1919687856693424411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928841558071091200/HtRT429m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 483,
+          "like_count": 4767,
+          "listed_count": 4,
+          "media_count": 142,
+          "tweet_count": 1286
+        },
+        "username": "SiovenStars",
+        "verified": false
+      }
+    ]
+  }
+}

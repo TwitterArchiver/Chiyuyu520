@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-17T19:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T20:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935058246001410291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1258737918362828800",
+          "start": 0,
+          "username": "zebwqfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935058246001410291",
+    "in_reply_to_user_id": "1258737918362828800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935056952343855169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zebwqfox 我靠土著"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935056945339318277",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtq0ChcaQAUNA2n.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-17T19:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T20:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935058246001410291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1258737918362828800",
+              "start": 0,
+              "username": "zebwqfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935058246001410291",
+        "in_reply_to_user_id": "1258737918362828800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935056952343855169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zebwqfox 我靠土著"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935056945339318277"
+          ]
+        },
+        "author_id": "1258737918362828800",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-17T19:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T20:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935056952343855169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga7h0Ik2vx",
+              "end": 42,
+              "expanded_url": "https://x.com/zebwqfox/status/1935056952343855169/photo/1",
+              "media_key": "3_1935056945339318277",
+              "start": 19,
+              "url": "https://t.co/Ga7h0Ik2vx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935056952343855169",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 那很棒了（x https://t.co/Ga7h0Ik2vx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 973,
+          "like_count": 1397,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-08T12:38:25.000Z",
+        "description": "丧钟为谁而鸣\n English&Mandarin OK MBTI:ENFJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rr.imfurry.com/roll",
+                "end": 23,
+                "expanded_url": "http://rr.imfurry.com/roll",
+                "start": 0,
+                "url": "https://t.co/yelAQSCKcG"
+              }
+            ]
+          }
+        },
+        "id": "1258737918362828800",
+        "name": "中二是只狐狸",
+        "pinned_tweet_id": "1887526195820175743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802836821833134080/siceYT3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 850,
+          "like_count": 3132,
+          "listed_count": 6,
+          "media_count": 552,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/yelAQSCKcG",
+        "username": "zebwqfox",
+        "verified": false
+      }
+    ]
+  }
+}

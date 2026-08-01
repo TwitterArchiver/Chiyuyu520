@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2046487608508002413",
+    "created_at": "2026-04-21T07:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046487608508002413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/txttext404/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/txttext404/status/2046487523254542769",
+          "start": 7,
+          "url": "https://t.co/42qFLCFNIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046487608508002413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046487523254542769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是古董（ https://t.co/42qFLCFNIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046487513351802880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaVjPabUAAacMe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2046487608508002413",
+        "created_at": "2026-04-21T07:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046487608508002413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/txttext404/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/txttext404/status/2046487523254542769",
+              "start": 7,
+              "url": "https://t.co/42qFLCFNIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046487608508002413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046487523254542769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是古董（ https://t.co/42qFLCFNIc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046487513351802880"
+          ]
+        },
+        "author_id": "2008278731782320129",
+        "conversation_id": "2046487523254542769",
+        "created_at": "2026-04-21T07:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046487523254542769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904873292366036992",
+              "start": 3,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ME9OmrsOCP",
+              "end": 49,
+              "expanded_url": "https://x.com/TxtText404/status/2046487523254542769/photo/1",
+              "media_key": "3_2046487513351802880",
+              "start": 26,
+              "url": "https://t.co/ME9OmrsOCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046487523254542769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢 @Chiyuyu520 赞助的500GB硬盘 https://t.co/ME9OmrsOCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 1270,
+          "like_count": 6176,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T20:45:52.000Z",
+        "description": "",
+        "id": "2008278731782320129",
+        "name": "Txt-Text",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037526310801874944/yFe9G3Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "TxtText404",
+        "verified": false
+      }
+    ]
+  }
+}

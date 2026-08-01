@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1996147883125743955",
+    "created_at": "2025-12-03T09:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996147883125743955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1448187795571286017",
+          "start": 3,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996147883125743955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995375284716179551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuiyebush1: 大家好，我是清水（前)，因为自杀还在住院，在男病房度过了两个月的孤独岁月，我的医生替我争取到了拿手机的机会，她说我没有精神问题，之前的药全吃错了，我现在不需要吃药，以后也不需要吃药，状态比三年前还要好，让大家担心了，我不会再离开了\n清水确实死了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1996147883125743955",
+        "created_at": "2025-12-03T09:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996147883125743955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1448187795571286017",
+              "start": 3,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996147883125743955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995375284716179551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuiyebush1: 大家好，我是清水（前)，因为自杀还在住院，在男病房度过了两个月的孤独岁月，我的医生替我争取到了拿手机的机会，她说我没有精神问题，之前的药全吃错了，我现在不需要吃药，以后也不需要吃药，状态比三年前还要好，让大家担心了，我不会再离开了\n清水确实死了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448187795571286017",
+        "conversation_id": "1995375284716179551",
+        "created_at": "2025-12-01T06:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995375284716179551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995375284716179551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1653,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是清水（前)，因为自杀还在住院，在男病房度过了两个月的孤独岁月，我的医生替我争取到了拿手机的机会，她说我没有精神问题，之前的药全吃错了，我现在不需要吃药，以后也不需要吃药，状态比三年前还要好，让大家担心了，我不会再离开了\n清水确实死了，我跟她完全是不一样的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "「含糖2025.3.24  雷见证蛆抽象人\n跨过晨昏线，便是永夜。」\n账号我先拿去用了，反正放着也是放着；\n目前用于发送重要事项。",
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼#通知bot",
+        "pinned_tweet_id": "1982347631746847206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 1271,
+          "like_count": 5838,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1113
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "重来",
+        "id": "1448187795571286017",
+        "name": "莺",
+        "pinned_tweet_id": "1922213803669741679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995374741419597824/1m08Q1cv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5008,
+          "following_count": 570,
+          "like_count": 46145,
+          "listed_count": 17,
+          "media_count": 2388,
+          "tweet_count": 16636
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

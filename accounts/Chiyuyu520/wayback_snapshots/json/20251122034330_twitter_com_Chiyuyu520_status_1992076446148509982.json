@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991998615414579200",
+        "3_1991998614395310080",
+        "3_1991998614521139201",
+        "3_1991998614760214528"
+      ],
+      "media_source_tweet_id": [
+        "1991998618581311986",
+        "1991998618581311986",
+        "1991998618581311986",
+        "1991998618581311986"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992076446148509982",
+    "created_at": "2025-11-22T03:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992076446148509982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894622523033358336",
+          "start": 3,
+          "username": "QXY_WARD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kZtXsP7RPV",
+          "end": 132,
+          "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+          "media_key": "3_1991998615414579200",
+          "start": 109,
+          "url": "https://t.co/kZtXsP7RPV"
+        },
+        {
+          "display_url": "pic.x.com/kZtXsP7RPV",
+          "end": 132,
+          "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+          "media_key": "3_1991998614395310080",
+          "start": 109,
+          "url": "https://t.co/kZtXsP7RPV"
+        },
+        {
+          "display_url": "pic.x.com/kZtXsP7RPV",
+          "end": 132,
+          "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+          "media_key": "3_1991998614521139201",
+          "start": 109,
+          "url": "https://t.co/kZtXsP7RPV"
+        },
+        {
+          "display_url": "pic.x.com/kZtXsP7RPV",
+          "end": 132,
+          "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+          "media_key": "3_1991998614760214528",
+          "start": 109,
+          "url": "https://t.co/kZtXsP7RPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992076446148509982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991998618581311986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QXY_WARD: 有人知道冬麦发生了什么吗？\n昨天（11月20）是跨性别悼念日，我正好和他说把歌送给他，但是那天晚上我生病了，肠胃炎就睡觉了，今天早上醒来发消息发现他把我删了？？然后推特也是点不开，成这样了 https://t.co/kZtXsP7RPV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992076446148509982].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992076446148509982",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992076446148509982"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991998615414579200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UAL8jbIAA-x8k.jpg",
+        "width": 916
+      },
+      {
+        "height": 1915,
+        "media_key": "3_1991998614395310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UAL4waUAAuW2t.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991998614521139201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UAL5OaUAE1Qlz.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991998614760214528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UAL6HaUAATzcV.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991998615414579200",
+            "3_1991998614395310080",
+            "3_1991998614521139201",
+            "3_1991998614760214528"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991998618581311986",
+        "created_at": "2025-11-21T22:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T23:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991998618581311986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZtXsP7RPV",
+              "end": 118,
+              "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+              "media_key": "3_1991998615414579200",
+              "start": 95,
+              "url": "https://t.co/kZtXsP7RPV"
+            },
+            {
+              "display_url": "pic.x.com/kZtXsP7RPV",
+              "end": 118,
+              "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+              "media_key": "3_1991998614395310080",
+              "start": 95,
+              "url": "https://t.co/kZtXsP7RPV"
+            },
+            {
+              "display_url": "pic.x.com/kZtXsP7RPV",
+              "end": 118,
+              "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+              "media_key": "3_1991998614521139201",
+              "start": 95,
+              "url": "https://t.co/kZtXsP7RPV"
+            },
+            {
+              "display_url": "pic.x.com/kZtXsP7RPV",
+              "end": 118,
+              "expanded_url": "https://x.com/QXY_WARD/status/1991998618581311986/photo/1",
+              "media_key": "3_1991998614760214528",
+              "start": 95,
+              "url": "https://t.co/kZtXsP7RPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991998618581311986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道冬麦发生了什么吗？\n昨天（11月20）是跨性别悼念日，我正好和他说把歌送给他，但是那天晚上我生病了，肠胃炎就睡觉了，今天早上醒来发消息发现他把我删了？？然后推特也是点不开，成这样了 https://t.co/kZtXsP7RPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "「含糖2025.3.24  雷见证蛆抽象人\n跨过晨昏线，便是永夜。」\n账号我先拿去用了，反正放着也是放着；\n目前用于发送重要事项。",
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼#通知bot",
+        "pinned_tweet_id": "1982347631746847206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 1274,
+          "like_count": 5842,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1053
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "我是小怡丨热爱音乐的翻唱歌手丨受ZARD坂井泉水影响，以“WARD UNLIMITED”为名，展开音乐旅程。\n用声音传递情感丨用旋律刻下梦想丨同类互fo 浏览我会主动fo丨🍥HRT2025.8.4丨好闺闺：@Yavaoiia_falao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "Yavaoiia_falao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYn0T"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀",
+        "pinned_tweet_id": "1991316452134253044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988568998276182016/uGkLaefb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1006,
+          "like_count": 1458,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/JUQFpsYn0T",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

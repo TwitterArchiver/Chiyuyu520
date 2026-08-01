@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953370928513220608"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953370931935756753",
+    "created_at": "2025-08-07T08:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T09:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953370931935756753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1847025525610762240",
+          "start": 2,
+          "username": "KS_Nitori"
+        },
+        {
+          "end": 24,
+          "id": "1645741990729089025",
+          "start": 13,
+          "username": "laojin1454"
+        },
+        {
+          "end": 38,
+          "id": "1461017973599186944",
+          "start": 25,
+          "username": "xiaoyinyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X6hB8gVWvm",
+          "end": 62,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1953370931935756753/photo/1",
+          "media_key": "3_1953370928513220608",
+          "start": 39,
+          "url": "https://t.co/X6hB8gVWvm"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1953370931935756753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面 @KS_Nitori @laojin1454 @xiaoyinyu520 https://t.co/X6hB8gVWvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_1953370928513220608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvEgpSbAAAV_wi.jpg",
+        "width": 2080
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953370928513220608"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953370931935756753",
+        "created_at": "2025-08-07T08:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953370931935756753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1847025525610762240",
+              "start": 2,
+              "username": "KS_Nitori"
+            },
+            {
+              "end": 24,
+              "id": "1645741990729089025",
+              "start": 13,
+              "username": "laojin1454"
+            },
+            {
+              "end": 38,
+              "id": "1461017973599186944",
+              "start": 25,
+              "username": "xiaoyinyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6hB8gVWvm",
+              "end": 62,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1953370931935756753/photo/1",
+              "media_key": "3_1953370928513220608",
+              "start": 39,
+              "url": "https://t.co/X6hB8gVWvm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1953370931935756753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面 @KS_Nitori @laojin1454 @xiaoyinyu520 https://t.co/X6hB8gVWvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939963852235391150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 1284,
+          "like_count": 4346,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "工作号： @Nitori_Service\n\n可以以头像叫我荷取\n最爱 @Chiyuyu520 \n双相/ASD/不登校|\n友跨顺男（HRT 250611）|\nBI9CJE/机械爱好者/火车迷/尼康/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|\n成分非常复杂的说喵，很友善，欢迎来找我聊天喵～😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Nitori_Service"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2mcys"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Shaanxi,China",
+        "name": "_",
+        "pinned_tweet_id": "1952227956249465288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 770,
+          "like_count": 4680,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/8rmha2mcys",
+        "username": "KS_Nitori",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T10:54:29.000Z",
+        "description": "自己好笨…！｜10年1月出厂｜永远最爱@crochaq16616｜家长党…？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "crochaq16616"
+              }
+            ]
+          }
+        },
+        "id": "1645741990729089025",
+        "location": "苏州太仓",
+        "name": "QCmiao🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940738000503357440/aBd7a_e4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 47,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "laojin1454",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年在校大学生，不割手，不抽烟不喝酒，重度社恐不擅长说话，没有精神问题，2025.3.13开始hrt，深柜中",
+        "id": "1461017973599186944",
+        "name": "小银鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 138,
+          "like_count": 3816,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 470
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      }
+    ]
+  }
+}

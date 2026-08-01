@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930291803917562056",
+    "created_at": "2025-06-05T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930523702749540630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505851491734720515",
+          "start": 0,
+          "username": "momo_yu_333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930523702749540630",
+    "in_reply_to_user_id": "1505851491734720515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930523598084846031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo_yu_333 我倒是不是很在意资费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930291803917562056",
+        "created_at": "2025-06-05T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930523702749540630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505851491734720515",
+              "start": 0,
+              "username": "momo_yu_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930523702749540630",
+        "in_reply_to_user_id": "1505851491734720515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930523598084846031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo_yu_333 我倒是不是很在意资费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "1930291803917562056",
+        "created_at": "2025-06-05T07:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930523598084846031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930523598084846031",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930523313224421606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 1美元终身保号还是不错的…\n因为esim保号估计每年一换"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 509,
+          "like_count": 546,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "MTF三年家长党准备术｜She/her｜Apple全生态用户｜喜欢收集Apple著名产品｜MC老玩家联机可｜臭学cs的前端next.jsVue不太会｜zh-cn，en-us可｜想要和人贴贴｜我很好看快来给我处对象（划｜04年大姐姐｜主人：@ggd2xiaojie｜主人不管党｜门槛30用于交友｜努力接线下活ing价格合适",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "ggd2xiaojie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumm86474",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumm86474",
+                "start": 0,
+                "url": "https://t.co/V2G2a8h0oH"
+              }
+            ]
+          }
+        },
+        "id": "1505851491734720515",
+        "location": "wuhan",
+        "name": "小圆甜饼🏳️‍⚧️",
+        "pinned_tweet_id": "1923405897017053249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593281701626748929/bju9heh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 48,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/V2G2a8h0oH",
+        "username": "momo_yu_333",
+        "verified": false
+      }
+    ]
+  }
+}

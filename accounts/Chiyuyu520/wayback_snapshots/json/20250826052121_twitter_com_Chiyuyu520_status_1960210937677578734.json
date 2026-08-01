@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960210933827121152"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1960210937677578734",
+    "created_at": "2025-08-26T05:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960210937677578734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pVO6Mc0PCE",
+          "end": 26,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1960210937677578734/photo/1",
+          "media_key": "3_1960210933827121152",
+          "start": 3,
+          "url": "https://t.co/pVO6Mc0PCE"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "1315b8e69a2d1511"
+    },
+    "id": "1960210937677578734",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新卡 https://t.co/pVO6Mc0PCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_1960210933827121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQRdWuaMAAlApf.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Armenia",
+        "country_code": "AM",
+        "full_name": "Armenia",
+        "geo": {
+          "bbox": [
+            43.4473768,
+            38.8305282,
+            46.6300278,
+            41.3018341
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "1315b8e69a2d1511",
+        "name": "Armenia",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960210933827121152"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960210937677578734",
+        "created_at": "2025-08-26T05:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960210937677578734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVO6Mc0PCE",
+              "end": 26,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1960210937677578734/photo/1",
+              "media_key": "3_1960210933827121152",
+              "start": 3,
+              "url": "https://t.co/pVO6Mc0PCE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1315b8e69a2d1511"
+        },
+        "id": "1960210937677578734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新卡 https://t.co/pVO6Mc0PCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1949401462414393412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 1291,
+          "like_count": 4689,
+          "listed_count": 3,
+          "media_count": 261,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1915629966831870286",
+    "created_at": "2025-04-26T03:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T04:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915974099261853918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830129345899188224",
+          "start": 0,
+          "username": "y6302448844989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915974099261853918",
+    "in_reply_to_user_id": "1830129345899188224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915937000844337345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y6302448844989 啵啵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1915629966831870286",
+        "created_at": "2025-04-26T03:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915974099261853918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830129345899188224",
+              "start": 0,
+              "username": "y6302448844989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915974099261853918",
+        "in_reply_to_user_id": "1830129345899188224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915937000844337345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y6302448844989 啵啵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830129345899188224",
+        "conversation_id": "1915629966831870286",
+        "created_at": "2025-04-26T01:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T02:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915937000844337345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915937000844337345",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915918261381959786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 好吧当我没说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 168,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 105
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "我是小翌，10的蓝孩纸，抑郁症，轻度健忘症（表达能力和理解能力很差）不反对任何思想。100%互fo 小號@XiMaoMao630244。最让我搞笑的好朋友@saonanaa 提问箱https://t.co/wTGVRYBaRj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "XiMaoMao630244"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "saonanaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/y6302448844989/",
+                "end": 113,
+                "expanded_url": "https://ngl.link/y6302448844989/",
+                "start": 90,
+                "url": "https://t.co/wTGVRYBaRj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%9B%9E%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%9B%9E%E5%BE%A9%E4%B8%AD%E3%81%AE%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8eJS8orLhn"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "location": "IP地址:福建省",
+        "name": "小翌同学(≖_≖ )✨🎊",
+        "pinned_tweet_id": "1902374026250744034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908735765741527041/qrrC7-sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 4227,
+          "like_count": 10323,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 3884
+        },
+        "url": "https://t.co/8eJS8orLhn",
+        "username": "y6302448844989",
+        "verified": false
+      }
+    ]
+  }
+}

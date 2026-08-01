@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T02:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930450693157986679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746504520522489856",
+          "start": 0,
+          "username": "Tom_Chicken114"
+        },
+        {
+          "end": 25,
+          "id": "1799452729565200384",
+          "start": 16,
+          "username": "XiaLiu_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930450693157986679",
+    "in_reply_to_user_id": "1746504520522489856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930441751891980480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_Chicken114 @XiaLiu_6 广播原生可能没那么重要，但原生肯定比广播好。IDC机房IP容易被当成robot是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T02:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930450693157986679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746504520522489856",
+              "start": 0,
+              "username": "Tom_Chicken114"
+            },
+            {
+              "end": 25,
+              "id": "1799452729565200384",
+              "start": 16,
+              "username": "XiaLiu_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930450693157986679",
+        "in_reply_to_user_id": "1746504520522489856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930441751891980480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_Chicken114 @XiaLiu_6 广播原生可能没那么重要，但原生肯定比广播好。IDC机房IP容易被当成robot是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746504520522489856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T01:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T02:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930441751891980480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799452729565200384",
+              "start": 0,
+              "username": "XiaLiu_6"
+            },
+            {
+              "end": 21,
+              "id": "1904873292366036992",
+              "start": 10,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930441751891980480",
+        "in_reply_to_user_id": "1799452729565200384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930260233303015460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaLiu_6 @Chiyuyu520 日本aws我一直在用 不能直接斩定原生ip比广播好 还是得看实际情况（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 475,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T12:08:29.000Z",
+        "description": "意义不明的主页懒得打理，爱咋咋地吧xwx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.tomchicken.icu",
+                "end": 23,
+                "expanded_url": "https://blog.tomchicken.icu/",
+                "start": 0,
+                "url": "https://t.co/3e6YnjQBX2"
+              }
+            ]
+          }
+        },
+        "id": "1746504520522489856",
+        "name": "Chicken Tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758801445279981568/Uqpr23Ux_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 162,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/3e6YnjQBX2",
+        "username": "Tom_Chicken114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T14:46:02.000Z",
+        "description": "一个普通不活跃的中国中学生🤓X不常看🤔国内平台包有号的👍",
+        "id": "1799452729565200384",
+        "location": "China,Heilongjiang",
+        "name": "WuMing_5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888973015284891648/BJwhWY34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 71,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 106
+        },
+        "username": "XiaLiu_6",
+        "verified": false
+      }
+    ]
+  }
+}

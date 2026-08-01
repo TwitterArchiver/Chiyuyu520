@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973222811910152192",
+        "3_1973222812723847172",
+        "3_1973222811608162312",
+        "3_1973222812979757056"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1973222818327437467",
+    "created_at": "2025-10-01T03:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T04:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973222818327437467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uOQTWvitlJ",
+          "end": 104,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+          "media_key": "3_1973222811910152192",
+          "start": 81,
+          "url": "https://t.co/uOQTWvitlJ"
+        },
+        {
+          "display_url": "pic.x.com/uOQTWvitlJ",
+          "end": 104,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+          "media_key": "3_1973222812723847172",
+          "start": 81,
+          "url": "https://t.co/uOQTWvitlJ"
+        },
+        {
+          "display_url": "pic.x.com/uOQTWvitlJ",
+          "end": 104,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+          "media_key": "3_1973222811608162312",
+          "start": 81,
+          "url": "https://t.co/uOQTWvitlJ"
+        },
+        {
+          "display_url": "pic.x.com/uOQTWvitlJ",
+          "end": 104,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+          "media_key": "3_1973222812979757056",
+          "start": 81,
+          "url": "https://t.co/uOQTWvitlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973222818327437467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "觉得256不太够上了512的，反正我对颜色无所谓\n正好线下有现货，就直接去拿了\n手表也到了，AirPodspro3小恒支付帮我闪购送家来了 数据迁移完用就可以了 https://t.co/uOQTWvitlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1973222811910152192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JLsV6aIAAdeLc.jpg",
+        "width": 2450
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1973222812723847172",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JLsY8aIAQ8lCk.jpg",
+        "width": 2367
+      },
+      {
+        "height": 3168,
+        "media_key": "3_1973222811608162312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JLsUyaIAg_Gqx.jpg",
+        "width": 1440
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1973222812979757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JLsZ5bAAAUwtv.jpg",
+        "width": 2460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973222811910152192",
+            "3_1973222812723847172",
+            "3_1973222811608162312",
+            "3_1973222812979757056"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973222818327437467",
+        "created_at": "2025-10-01T03:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973222818327437467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOQTWvitlJ",
+              "end": 104,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+              "media_key": "3_1973222811910152192",
+              "start": 81,
+              "url": "https://t.co/uOQTWvitlJ"
+            },
+            {
+              "display_url": "pic.x.com/uOQTWvitlJ",
+              "end": 104,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+              "media_key": "3_1973222812723847172",
+              "start": 81,
+              "url": "https://t.co/uOQTWvitlJ"
+            },
+            {
+              "display_url": "pic.x.com/uOQTWvitlJ",
+              "end": 104,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+              "media_key": "3_1973222811608162312",
+              "start": 81,
+              "url": "https://t.co/uOQTWvitlJ"
+            },
+            {
+              "display_url": "pic.x.com/uOQTWvitlJ",
+              "end": 104,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1973222818327437467/photo/1",
+              "media_key": "3_1973222812979757056",
+              "start": 81,
+              "url": "https://t.co/uOQTWvitlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973222818327437467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得256不太够上了512的，反正我对颜色无所谓\n正好线下有现货，就直接去拿了\n手表也到了，AirPodspro3小恒支付帮我闪购送家来了 数据迁移完用就可以了 https://t.co/uOQTWvitlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 1296,
+          "like_count": 5774,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 1158
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

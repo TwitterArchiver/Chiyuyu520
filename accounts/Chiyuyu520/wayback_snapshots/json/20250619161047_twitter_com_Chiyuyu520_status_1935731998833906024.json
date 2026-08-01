@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935729836531806338",
+    "created_at": "2025-06-19T16:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935731998833906024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1574926726895108096",
+          "start": 0,
+          "username": "crooes2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935731998833906024",
+    "in_reply_to_user_id": "1574926726895108096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935731572667514880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crooes2 日雌是综合经济成本最低的，大部分mtf家境不宽裕，自制涉及到安全性和可靠性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935729836531806338",
+        "created_at": "2025-06-19T16:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935731998833906024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1574926726895108096",
+              "start": 0,
+              "username": "crooes2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935731998833906024",
+        "in_reply_to_user_id": "1574926726895108096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935731572667514880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crooes2 日雌是综合经济成本最低的，大部分mtf家境不宽裕，自制涉及到安全性和可靠性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574926726895108096",
+        "conversation_id": "1935729836531806338",
+        "created_at": "2025-06-19T16:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935731572667514880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935731572667514880",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935729836531806338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 其实方舟健客还在卖补和克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1030,
+          "like_count": 1598,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-28T00:59:51.000Z",
+        "description": "hrt 2023.1.31｜mtf｜手术攒钱中｜分享有趣推文｜可能是地雷女？｜轻微严男｜中文母语者｜挚爱是@hoshroin❤️｜现实生活幸福，淡推～｜可爱小动物喜爱｜备用帐号是@TianzunWarlord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "hoshroin"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "TianzunWarlord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+LY-e4e-sYawxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+LY-e4e-sYawxMWE1",
+                "start": 0,
+                "url": "https://t.co/1Uh3oxRWwT"
+              }
+            ]
+          }
+        },
+        "id": "1574926726895108096",
+        "location": "克克屯",
+        "name": "克洛兹crooes🏳️‍⚧️",
+        "pinned_tweet_id": "1886330201610879132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925665833394610176/I9_N9d9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 396,
+          "like_count": 7672,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 6407
+        },
+        "url": "https://t.co/1Uh3oxRWwT",
+        "username": "crooes2",
+        "verified": false
+      }
+    ]
+  }
+}

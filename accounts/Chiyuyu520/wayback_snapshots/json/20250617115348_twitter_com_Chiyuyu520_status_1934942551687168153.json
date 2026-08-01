@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934905540582453411",
+    "created_at": "2025-06-17T11:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934942551687168153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631475185021755394",
+          "start": 0,
+          "username": "qqauk92516241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934942551687168153",
+    "in_reply_to_user_id": "1631475185021755394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934941229562864095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqauk92516241 是的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934905540582453411",
+        "created_at": "2025-06-17T11:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934942551687168153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631475185021755394",
+              "start": 0,
+              "username": "qqauk92516241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934942551687168153",
+        "in_reply_to_user_id": "1631475185021755394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934941229562864095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqauk92516241 是的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631475185021755394",
+        "conversation_id": "1934905540582453411",
+        "created_at": "2025-06-17T11:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934941229562864095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934941229562864095",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934905540582453411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 这人不就是满脑子要别人钱自己啥也不干只会骗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 960,
+          "like_count": 1351,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-03T02:03:03.000Z",
+        "description": "烂人一个，没什么好看的",
+        "id": "1631475185021755394",
+        "name": "西见椎花",
+        "pinned_tweet_id": "1902861607719539186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893452139059437568/eQHLm00g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 29,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 121
+        },
+        "username": "qqauk92516241",
+        "verified": false
+      }
+    ]
+  }
+}

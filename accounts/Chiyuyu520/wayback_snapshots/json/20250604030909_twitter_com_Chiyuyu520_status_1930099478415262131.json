@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930098295608881619",
+    "created_at": "2025-06-04T03:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T04:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930099478415262131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "AutismBerry"
+        },
+        {
+          "end": 25,
+          "id": "1878681729407356928",
+          "start": 13,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930099478415262131",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930099386048229575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutismBerry @HYuusui1999"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930098295608881619",
+        "created_at": "2025-06-04T03:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930099478415262131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "AutismBerry"
+            },
+            {
+              "end": 25,
+              "id": "1878681729407356928",
+              "start": 13,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930099478415262131",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930099386048229575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutismBerry @HYuusui1999"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1930098295608881619",
+        "created_at": "2025-06-04T03:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930099386048229575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "祐穗",
+              "probability": 0.6694,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930099386048229575",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930098295608881619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 祐穗是谁a？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 爱一辈子的恋人: @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 472,
+          "like_count": 366,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Bipolar Disorder//Social Anxiety Disorder丨跨性别友好🏳️‍⚧️丨Kards//Minecraft丨不介意私聊丨Telegram: https://t.co/zqTPAQVwkL丨匿名提问: https://t.co/D25ASqutFq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/B0u1rr2y3",
+                "end": 109,
+                "expanded_url": "https://t.me/B0u1rr2y3",
+                "start": 86,
+                "url": "https://t.co/zqTPAQVwkL"
+              },
+              {
+                "display_url": "ngl.link/Autismberry700…",
+                "end": 139,
+                "expanded_url": "https://ngl.link/Autismberry70077",
+                "start": 116,
+                "url": "https://t.co/D25ASqutFq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BgYtllH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BgYtllH",
+                "start": 0,
+                "url": "https://t.co/W4UmUAk9cg"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Nakano-ku, Tokyo",
+        "name": "奶莓Berry (静默)",
+        "pinned_tweet_id": "1929578602774888759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 943,
+          "like_count": 10670,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/W4UmUAk9cg",
+        "username": "AutismBerry",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 1093,
+          "like_count": 20905,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 4722
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974567706486824960",
+        "3_1974567706469998593",
+        "3_1974567706461708288",
+        "3_1974567706449018881"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1974567714384757207",
+    "created_at": "2025-10-04T20:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T21:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974567714384757207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1645741990729089025",
+          "start": 27,
+          "username": "QC_miao"
+        },
+        {
+          "end": 51,
+          "id": "1768856226492801024",
+          "start": 36,
+          "username": "CodingXiaoheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/plZW8wXh0X",
+          "end": 124,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+          "media_key": "3_1974567706486824960",
+          "start": 101,
+          "url": "https://t.co/plZW8wXh0X"
+        },
+        {
+          "display_url": "pic.x.com/plZW8wXh0X",
+          "end": 124,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+          "media_key": "3_1974567706469998593",
+          "start": 101,
+          "url": "https://t.co/plZW8wXh0X"
+        },
+        {
+          "display_url": "pic.x.com/plZW8wXh0X",
+          "end": 124,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+          "media_key": "3_1974567706461708288",
+          "start": 101,
+          "url": "https://t.co/plZW8wXh0X"
+        },
+        {
+          "display_url": "pic.x.com/plZW8wXh0X",
+          "end": 124,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+          "media_key": "3_1974567706449018881",
+          "start": 101,
+          "url": "https://t.co/plZW8wXh0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974567714384757207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很久没有发日常了\n最近和朋友赶到上海逛了趟黑色博物馆\n@QC_miao @CodingXiaoheng 陪我的QCmiao和小恒\n黑色博物馆很有趣 各位在上海的可以去尝试一下 上海站步行500m就到了 https://t.co/plZW8wXh0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1974567706486824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cS3goa4AAwaLs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1974567706469998593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cS3gkaIAEGdLL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1974567706461708288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cS3giboAApALU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1974567706449018881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cS3gfaAAEQKbc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974567706486824960",
+            "3_1974567706469998593",
+            "3_1974567706461708288",
+            "3_1974567706449018881"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1974567714384757207",
+        "created_at": "2025-10-04T20:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T21:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974567714384757207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1645741990729089025",
+              "start": 27,
+              "username": "QC_miao"
+            },
+            {
+              "end": 51,
+              "id": "1768856226492801024",
+              "start": 36,
+              "username": "CodingXiaoheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/plZW8wXh0X",
+              "end": 124,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+              "media_key": "3_1974567706486824960",
+              "start": 101,
+              "url": "https://t.co/plZW8wXh0X"
+            },
+            {
+              "display_url": "pic.x.com/plZW8wXh0X",
+              "end": 124,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+              "media_key": "3_1974567706469998593",
+              "start": 101,
+              "url": "https://t.co/plZW8wXh0X"
+            },
+            {
+              "display_url": "pic.x.com/plZW8wXh0X",
+              "end": 124,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+              "media_key": "3_1974567706461708288",
+              "start": 101,
+              "url": "https://t.co/plZW8wXh0X"
+            },
+            {
+              "display_url": "pic.x.com/plZW8wXh0X",
+              "end": 124,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1974567714384757207/photo/1",
+              "media_key": "3_1974567706449018881",
+              "start": 101,
+              "url": "https://t.co/plZW8wXh0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974567714384757207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久没有发日常了\n最近和朋友赶到上海逛了趟黑色博物馆\n@QC_miao @CodingXiaoheng 陪我的QCmiao和小恒\n黑色博物馆很有趣 各位在上海的可以去尝试一下 上海站步行500m就到了 https://t.co/plZW8wXh0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3755,
+          "following_count": 1289,
+          "like_count": 5784,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-11T10:54:29.000Z",
+        "description": "自己好笨…！｜10年1月出厂｜永远最爱@LoveQC_miao｜家长党…？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "LoveQC_miao"
+              }
+            ]
+          }
+        },
+        "id": "1645741990729089025",
+        "location": "苏州太仓",
+        "name": "QCmiao🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940738000503357440/aBd7a_e4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 81,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "QC_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T04:26:49.000Z",
+        "description": "",
+        "id": "1768856226492801024",
+        "name": "Xiaoheng Coding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895682905520947200/Db1pSPm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 32,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "CodingXiaoheng",
+        "verified": false
+      }
+    ]
+  }
+}

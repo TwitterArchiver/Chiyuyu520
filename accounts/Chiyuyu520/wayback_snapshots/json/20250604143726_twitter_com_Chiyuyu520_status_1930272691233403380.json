@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930272608492368207",
+    "created_at": "2025-06-04T14:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T15:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930272691233403380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "MikuMiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930272691233403380",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930272608492368207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMiku3648 羡慕，给我用用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930272601173307397",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsm0tCiasAUEC9Z.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930272608492368207",
+        "created_at": "2025-06-04T14:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930272691233403380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "MikuMiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930272691233403380",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930272608492368207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMiku3648 羡慕，给我用用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930272601173307397"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "1930272608492368207",
+        "created_at": "2025-06-04T14:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930272608492368207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wZ23AGxkz",
+              "end": 26,
+              "expanded_url": "https://x.com/MikuMiku3648/status/1930272608492368207/photo/1",
+              "media_key": "3_1930272601173307397",
+              "start": 3,
+              "url": "https://t.co/7wZ23AGxkz"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1930179943717318918",
+              "start": 27,
+              "url": "https://t.co/Y6RiBYhKwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930272608492368207",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✌️ https://t.co/7wZ23AGxkz https://t.co/Y6RiBYhKwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 495,
+          "like_count": 406,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Reisa_Music"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/UQGnaLaq5q"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "原来是生命，而非死亡，才是没有止境的",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929565119228653568/LoTiRdbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 1264,
+          "like_count": 33926,
+          "listed_count": 13,
+          "media_count": 1910,
+          "tweet_count": 12443
+        },
+        "url": "https://t.co/UQGnaLaq5q",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

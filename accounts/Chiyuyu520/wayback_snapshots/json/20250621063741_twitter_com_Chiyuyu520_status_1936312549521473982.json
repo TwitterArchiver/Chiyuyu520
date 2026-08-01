@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1936312549521473982",
+    "created_at": "2025-06-21T06:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T07:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936312549521473982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1262311550116696066",
+          "start": 3,
+          "username": "yaoniangmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936312549521473982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936189299890045124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaoniangmao: 喵喵会关注这件事，并希望大家为自己的利益发声\n\n日雌的供货商一个个考量风险后决定撤资，这种跨性别的必须药物却遭到政府的控制和打压\n\n目前来看，大部分糖商的供应商选择逃避风险\n\n而跨性别群体如果不能团结起来维护自己的权益和力量，必然遭到更全面的禁…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1936312549521473982",
+        "created_at": "2025-06-21T06:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936312549521473982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1262311550116696066",
+              "start": 3,
+              "username": "yaoniangmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936312549521473982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936189299890045124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaoniangmao: 喵喵会关注这件事，并希望大家为自己的利益发声\n\n日雌的供货商一个个考量风险后决定撤资，这种跨性别的必须药物却遭到政府的控制和打压\n\n目前来看，大部分糖商的供应商选择逃避风险\n\n而跨性别群体如果不能团结起来维护自己的权益和力量，必然遭到更全面的禁…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262311550116696066",
+        "conversation_id": "1936189299890045124",
+        "created_at": "2025-06-20T22:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T23:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936189299890045124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1935729836531806338",
+              "start": 126,
+              "url": "https://t.co/8mQxBZLdTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936189299890045124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935729836531806338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵喵会关注这件事，并希望大家为自己的利益发声\n\n日雌的供货商一个个考量风险后决定撤资，这种跨性别的必须药物却遭到政府的控制和打压\n\n目前来看，大部分糖商的供应商选择逃避风险\n\n而跨性别群体如果不能团结起来维护自己的权益和力量，必然遭到更全面的禁药风波 https://t.co/8mQxBZLdTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 1052,
+          "like_count": 1721,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-18T09:19:42.000Z",
+        "description": "色谱龙/补/日雌/减肥药/美白丸/在线销售 telegram客服https://t.co/77dgFQFlHJ（暂不可用） discord客服添加好友yaoniangmao 商品介绍https://t.co/GWrDV0TLZV 商品特殊，请耐心等待喵喵回复，协助客服@Imagawanobunaga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 134,
+                "username": "Imagawanobunaga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yaoniangmiao",
+                "end": 55,
+                "expanded_url": "http://t.me/yaoniangmiao",
+                "start": 32,
+                "url": "https://t.co/77dgFQFlHJ"
+              },
+              {
+                "display_url": "matters.news/@urcity",
+                "end": 114,
+                "expanded_url": "http://matters.news/@urcity",
+                "start": 91,
+                "url": "https://t.co/GWrDV0TLZV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "matters.news/@urcity",
+                "end": 23,
+                "expanded_url": "https://matters.news/@urcity",
+                "start": 0,
+                "url": "https://t.co/kbHYvxp5px"
+              }
+            ]
+          }
+        },
+        "id": "1262311550116696066",
+        "location": "缅北 柬埔寨 中南海 马上就到你家门口",
+        "name": "藥娘貓（糖商）🏳️‍⚧️（邮全球）",
+        "pinned_tweet_id": "1639234345889308672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880288042914836482/7uPg4mOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11883,
+          "following_count": 6644,
+          "like_count": 9228,
+          "listed_count": 43,
+          "media_count": 327,
+          "tweet_count": 4332
+        },
+        "url": "https://t.co/kbHYvxp5px",
+        "username": "yaoniangmao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940022612995788800",
+        "3_1940022613318737920"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1940022616389296635",
+    "created_at": "2025-07-01T12:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940022616389296635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qd4hPE4sw",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1940022616389296635/photo/1",
+          "media_key": "3_1940022612995788800",
+          "start": 31,
+          "url": "https://t.co/4qd4hPE4sw"
+        },
+        {
+          "display_url": "pic.x.com/4qd4hPE4sw",
+          "end": 54,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1940022616389296635/photo/1",
+          "media_key": "3_1940022613318737920",
+          "start": 31,
+          "url": "https://t.co/4qd4hPE4sw"
+        },
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1939963852235391150",
+          "start": 55,
+          "url": "https://t.co/v3qq98c31X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940022616389296635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939963852235391150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，王孝天又出来骗人了，而我这种真正需要帮助的却一分钱没有。 https://t.co/4qd4hPE4sw https://t.co/v3qq98c31X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940022616389296635].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940022616389296635",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940022616389296635"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940022612995788800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxYSa_W0AA09UC.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940022613318737920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxYScMWoAAQSGk.jpg",
+        "width": 931
+      },
+      {
+        "height": 2030,
+        "media_key": "3_1939963847890079744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guwi116WkAAvA9U.jpg",
+        "width": 1490
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1939963848296980480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guwi13bXYAAPr5J.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939963847890079744",
+            "3_1939963848296980480"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1939963852235391150",
+        "created_at": "2025-07-01T08:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939963852235391150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYYFrbGIi6",
+              "end": 77,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1939963852235391150/photo/1",
+              "media_key": "3_1939963847890079744",
+              "start": 54,
+              "url": "https://t.co/wYYFrbGIi6"
+            },
+            {
+              "display_url": "pic.x.com/wYYFrbGIi6",
+              "end": 77,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1939963852235391150/photo/1",
+              "media_key": "3_1939963848296980480",
+              "start": 54,
+              "url": "https://t.co/wYYFrbGIi6"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1939959918766747668",
+              "start": 78,
+              "url": "https://t.co/hxpHmoOejr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939963852235391150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2641,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939959918766747668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然很厌恶这样，但我还是听朋友们的把收款码挂出来吧。\n我不想被说成卖惨骗钱的恶心b，但我实在生活所迫。抱歉 https://t.co/wYYFrbGIi6 https://t.co/hxpHmoOejr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 1102,
+          "like_count": 2099,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

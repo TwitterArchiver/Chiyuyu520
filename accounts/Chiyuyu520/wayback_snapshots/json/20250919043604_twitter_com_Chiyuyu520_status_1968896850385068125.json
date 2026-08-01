@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1968896850385068125",
+    "created_at": "2025-09-19T04:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T05:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968896850385068125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekomakiQAQ/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/nekomakiQAQ/status/1968868399150518442",
+          "start": 37,
+          "url": "https://t.co/kOmxNBoAhz"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1968896850385068125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968868399150518442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和猫卷是一家的（雾）\n区别就是我这边便宜几块钱罢了\n当然欢迎去支持猫卷 https://t.co/kOmxNBoAhz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968868389289680896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LTXlkbYAAzdzR.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968868389264441344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LTXleaQAA-l_N.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968868389277028352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LTXlhaUAAZ5xI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968868389272846336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LTXlgagAAX55g.jpg",
+        "width": 945
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968896850385068125",
+        "created_at": "2025-09-19T04:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968896850385068125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekomakiQAQ/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/nekomakiQAQ/status/1968868399150518442",
+              "start": 37,
+              "url": "https://t.co/kOmxNBoAhz"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1968896850385068125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968868399150518442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和猫卷是一家的（雾）\n区别就是我这边便宜几块钱罢了\n当然欢迎去支持猫卷 https://t.co/kOmxNBoAhz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968868389289680896",
+            "3_1968868389264441344",
+            "3_1968868389277028352",
+            "3_1968868389272846336"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1968868399150518442",
+        "created_at": "2025-09-19T02:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T03:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968868399150518442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dh1CyO9Xud",
+              "end": 159,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968868399150518442/photo/1",
+              "media_key": "3_1968868389289680896",
+              "start": 136,
+              "url": "https://t.co/Dh1CyO9Xud"
+            },
+            {
+              "display_url": "pic.x.com/Dh1CyO9Xud",
+              "end": 159,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968868399150518442/photo/1",
+              "media_key": "3_1968868389264441344",
+              "start": 136,
+              "url": "https://t.co/Dh1CyO9Xud"
+            },
+            {
+              "display_url": "pic.x.com/Dh1CyO9Xud",
+              "end": 159,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968868399150518442/photo/1",
+              "media_key": "3_1968868389277028352",
+              "start": 136,
+              "url": "https://t.co/Dh1CyO9Xud"
+            },
+            {
+              "display_url": "pic.x.com/Dh1CyO9Xud",
+              "end": 159,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968868399150518442/photo/1",
+              "media_key": "3_1968868389272846336",
+              "start": 136,
+              "url": "https://t.co/Dh1CyO9Xud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968868399150518442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "hrt.coffee",
+                "end": 1332,
+                "expanded_url": "http://hrt.coffee",
+                "start": 1309,
+                "url": "https://t.co/obg8VJ5EqU"
+              },
+              {
+                "display_url": "hrtcafe.net",
+                "end": 1356,
+                "expanded_url": "http://hrtcafe.net",
+                "start": 1333,
+                "url": "https://t.co/eviwJHJQev"
+              }
+            ]
+          },
+          "text": "长文：猫卷做药商，到底在干嘛？\n下有图片版⬇️\n\nDisclaimer: \n首先我说明一点，我们（我和池鱼）和其他药商现在没有合作关系，我不知道TA们从哪里进货，也不知道TA们的渠道是什么，更不知道TA们进的多少钱。别说我掀他们桌子——我就算想掀，我也真不知道啊QAQ。\n原因二更重要的是这个买卖本来就很脆弱，不会说的太详细是为了规避风险。被条子查了大伙都别想吃了😭\n\nQ: 那么，我的380都去了哪里？\n\n其中不可避免的是物流。根据政策不同，我们从泰国、日本等国家进货需要用不同的方式，有些是EMS，有些是药品专线，运费都不便宜。一两百块（当然可不是一盒一两百块啊😨是一批啦）。\n\n因为有的包税包清关有的不包，所以如果运气不好的话税费也是一项大头。看运气，有的十块钱不到，有的四十（较少）。\n\n到了我手里以后，我发给你们的京东快递属于比较高质量的，13-17元左右。\n\n其他的，再抛去药品本身的进货价格，就落入猫卷的口袋啦。\n\nQ: HRT药物的来源是什么之——“我知道这个自己买，不就不用药商赚差价了吗？”\n\n很有道理，确实可以自己买，而且跨境电商代购这个事情已经非常成熟了，所以如果你自己买到了更便宜的药物，猫卷也会为你高兴哦～\n\n言归正传，HRT药物的来源是泰国和日本的药店或者医药公司。泰国管理不严格，所以相对容易购买到廉价药物；日本相对严格一些，因此处方药日雌更加谨慎，医药公司自己从药厂拿药赚钱，再卖给药店也就是我们——当然也可以是实体的药店啦。因为跨国的原因，这里可以走compliance的漏洞。\n\nQ: 为什么你会这么定价？\n\n因为这是市场价，我不想恶意竞争做predatory pricing的策略——药商更多，渠道越广，市场越具稳定性。如果我随意降价，别人要么不做了（稳定性下降），要么跟我撕破脸一起降价（何苦呢）。\n\nQ: 你做了什么？为什么你赚这么多？\n\n猫卷可以透露一下自己做了什么事情，这些会成为隐形成本。猫卷的作用包括但不限于：\nSourcing & KYC: 寻找不止一家合适的供应商（比如日雌就有4家）\nSupplier RM: 用ChatGPT各国语言和他们沟通联系\nHandover: 确保交付流程顺利，从xx运送到xx可以过海关，xx海关的税费最低，xx的线路会被海关退回\nQuality Assurance: 简单来说确保样品是真货\nPayment: 支付（Wise外币转账等）\nInventory Mgmt: 确保随时有货（供应商不稳定就需要另寻货源）\nCustomer RM: 其实就是当客服啦～和姐妹们聊天也很开心的～喵呜～\n\n接下来讲硬货：根据汇率波动那我一盒泰补可以赚到40-50左右，一盒日雌则是70-90之间。除此之外，再减去我们承担了法律风险（抓药商不抓买家呜呜）、时间成本（猫卷花那么多精力，就是为了让你下单后三天送达的～），所以这就是猫卷的真实收入。\n\nQ: 我不想被药商坑，我怎么自己买，你能指导吗？\n\n虽然猫卷真的很想赚你的钱（支持一下嘛🥺～），但猫卷从“帮助跨性别社区更好”这个出发点，不介意告诉你还有哪些渠道购买。\n\n如果你在海外，首先可以参考https://t.co/obg8VJ5EqU和https://t.co/eviwJHJQev看看有没有便宜且适合你的药店。\n\n如果你在国内想帮身边的姐妹们廉价进货，可以自己去尝试联系药品产地国家负责医药销售经营的公司。如果英语不好/不会检索，我教你，去Google Maps上搜索药店，然后跟他们发信息问他们买……（笑）\n\n一点点猫卷想说的话\n\n猫卷做药商也有一年多了。首先猫卷必须承认，卖药确实是赚钱的。\n\n了解猫卷的人知道，猫卷长期在新加坡纸醉金迷，虽然有时候也会惊恐发现家里老登爆的金币怎么已经被我花光了😨，但大多数时候，猫卷不缺钱。\n\n卖日雌的初衷是在中国的时候我认识了不少小跨妹当朋友，当时的市场价还是430左右。后来我就在想，既然我有海外的支付方式和联系方式，那我看看能不能弄一批日雌回来。\n\n这也是我第一批日雌的来源。当我在成都的快递站拿到第一批的两个样品时，我真的非常高兴（虽然那次被狠狠收了40块钱一盒的税😡）。我把这两个样品送给了滢（altaz），让她拿她自己测试（那时候我已经不在成都了）并测激素六项，成功了。后来，有朋友向朋友的朋友推荐我，越来越多人知道我有日雌，我再决定在推上卖的。\n\n我必须不虚伪地承认我确实赚钱了，但我想说我的另一部分初心确实是帮小跨妹搞到来源稳定价格合理的HRT药物。\n\n这也是为什么，熟人我会给低价，经济情况特殊的人我也会给低价。\n\n猫卷自己的故事就讲完啦。有什么问题可以在评论区问猫卷哦～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 399,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长文：猫卷做药商，到底在干嘛？\n下有图片版⬇️\n\nDisclaimer: \n首先我说明一点，我们（我和池鱼）和其他药商现在没有合作关系，我不知道TA们从哪里进货，也不知道TA们的渠道是什么，更不知道TA们进的多少钱。别说我掀他们桌子——我就算想掀，我也真不知道啊QAQ。 https://t.co/Dh1CyO9Xud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3444,
+          "following_count": 1300,
+          "like_count": 5605,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": ":: system booting... ~ root@Luminux ➤ org: @NUSingapore 💻 ➤ in love with: @HobartR6 💌 ➤ connected to: @_FurryFur_ 🐱 ➤ powered by: @Chiyuyu520 OS :: 言語体系構築中..",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "HobartR6"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/G1MwAq1wRu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ 猫卷（日雌380",
+        "pinned_tweet_id": "1968050536634257659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968524636435763200/Zgwh-TT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 968,
+          "like_count": 28056,
+          "listed_count": 15,
+          "media_count": 1214,
+          "tweet_count": 14578
+        },
+        "url": "https://t.co/G1MwAq1wRu",
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1915629966831870286",
+    "created_at": "2025-04-25T04:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T05:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915630449264910394"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915630449264910394",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915629966831870286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有安慰奖，给你个抱抱～🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_1915629962197078017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpWvTRnaEAEHqUs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1915629966831870286",
+        "created_at": "2025-04-25T04:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T05:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915630449264910394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915630449264910394",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915629966831870286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有安慰奖，给你个抱抱～🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915629962197078017"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1915629966831870286",
+        "created_at": "2025-04-25T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915629966831870286"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "池鱼今天干什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtHSrjmOg3",
+              "end": 180,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1915629966831870286/photo/1",
+              "media_key": "3_1915629962197078017",
+              "start": 157,
+              "url": "https://t.co/AtHSrjmOg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915629966831870286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#池鱼今天干什么\n100fo了诶 咱也搞个抽奖吧\n（虽然不知道有没有人参与）\n一等：steam一份游戏订阅 价值随机掉落 或者折成30元  x1\n二等：几十张自己印的照片 邮政寄出 x1 （没有你想要的，只是咱自己拍的各种照片而已）\n三等：给你买罐糖吧（b站糖果兄弟糖果铺） x1\n评论参与。满30人开抽（暂定） https://t.co/AtHSrjmOg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 92,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 77
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

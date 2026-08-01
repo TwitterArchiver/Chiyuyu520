@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1931556118528139451",
+    "created_at": "2025-06-08T06:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T07:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931596562599448997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1904971795205353472",
+          "start": 0,
+          "username": "imcuupa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931596562599448997",
+    "in_reply_to_user_id": "1904971795205353472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931595334830190947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imcuupa 你算盘打到苏州来了，还飞我脸上了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1931556118528139451",
+        "created_at": "2025-06-08T06:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T07:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931596562599448997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1904971795205353472",
+              "start": 0,
+              "username": "imcuupa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931596562599448997",
+        "in_reply_to_user_id": "1904971795205353472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931595334830190947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imcuupa 你算盘打到苏州来了，还飞我脸上了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904971795205353472",
+        "conversation_id": "1931556118528139451",
+        "created_at": "2025-06-08T06:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T07:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931595334830190947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931595334830190947",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931556118528139451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我感觉它有点问题，寄过来我帮你看看😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 617,
+          "like_count": 736,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T19:01:00.000Z",
+        "description": "芝士改变命运，所以我要了双层的。\n\n还是牛肉面好吃\n\n我是沃尔玛购物袋",
+        "id": "1904971795205353472",
+        "name": "im",
+        "pinned_tweet_id": "1918204482581872807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925150131802030080/NELxt1jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 24,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 197
+        },
+        "username": "imcuupa",
+        "verified": false
+      }
+    ]
+  }
+}

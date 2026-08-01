@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1973221687874429280",
+    "created_at": "2025-10-01T03:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T04:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973221687874429280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5pr1ng6rIdge/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/5pr1ng6rIdge/status/1973195654899077573",
+          "start": 17,
+          "url": "https://t.co/XILtrFOeeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973221687874429280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973195654899077573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢支持 日雌370/盒京东包邮 https://t.co/XILtrFOeeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1973195622397386755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Iy9tFaIAM9J76.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1973221687874429280",
+        "created_at": "2025-10-01T03:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973221687874429280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5pr1ng6rIdge/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/5pr1ng6rIdge/status/1973195654899077573",
+              "start": 17,
+              "url": "https://t.co/XILtrFOeeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973221687874429280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973195654899077573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢支持 日雌370/盒京东包邮 https://t.co/XILtrFOeeo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973195622397386755"
+          ]
+        },
+        "author_id": "1700512333100126208",
+        "conversation_id": "1973195654899077573",
+        "created_at": "2025-10-01T01:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T02:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973195654899077573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904873292366036992",
+              "start": 2,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q18JXZpNXp",
+              "end": 62,
+              "expanded_url": "https://x.com/5pr1ng6rIdge/status/1973195654899077573/photo/1",
+              "media_key": "3_1973195622397386755",
+              "start": 39,
+              "url": "https://t.co/Q18JXZpNXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973195654899077573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@Chiyuyu520的超快发货包邮包装仔细低于市场价的日雌喵 喜欢这个 https://t.co/Q18JXZpNXp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 1296,
+          "like_count": 5774,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "My thoughts will follow you into your dreams ｜🟨⬜️🟪⬛️  🏳️‍⚧️ enby (it || she || they)｜ (@4SakennSpiral 是最重要的人喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "4SakennSpiral"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge.🍥 ～NIHIL//EUPH～",
+        "pinned_tweet_id": "1962891589501726893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950793842590187520/bdOblZxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 633,
+          "like_count": 7267,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 130
+        },
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935012717469065349",
+    "created_at": "2025-06-18T10:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T11:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935289695610749191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "fuckpregabalin"
+        },
+        {
+          "end": 26,
+          "id": "1880325371280912386",
+          "start": 16,
+          "username": "genya1976"
+        },
+        {
+          "end": 41,
+          "id": "1810940278468964352",
+          "start": 27,
+          "username": "27rainyseason"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935289695610749191",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935289492031897968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin @genya1976 @27rainyseason 我看不见他发了什么，给我屏蔽了，可以发图片给我看吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935012717469065349",
+        "created_at": "2025-06-18T10:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935289695610749191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "fuckpregabalin"
+            },
+            {
+              "end": 26,
+              "id": "1880325371280912386",
+              "start": 16,
+              "username": "genya1976"
+            },
+            {
+              "end": 41,
+              "id": "1810940278468964352",
+              "start": 27,
+              "username": "27rainyseason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935289695610749191",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935289492031897968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin @genya1976 @27rainyseason 我看不见他发了什么，给我屏蔽了，可以发图片给我看吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915723009161375744",
+        "conversation_id": "1935012717469065349",
+        "created_at": "2025-06-18T10:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935289492031897968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 25,
+              "id": "1810940278468964352",
+              "start": 11,
+              "username": "27rainyseason"
+            },
+            {
+              "end": 37,
+              "id": "1904873292366036992",
+              "start": 26,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935289492031897968",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935288943404339585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @27rainyseason @Chiyuyu520 不错，自嘲完美😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 996,
+          "like_count": 1475,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "恋人@VicoOci｜亲友@yangaaa111｜我的互fo都是很好很好的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "VicoOci"
+              },
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yangaaa111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/lHPjNxQ3qk"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "累到想要一直睡睡睡睡睡",
+        "pinned_tweet_id": "1933358753388376570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931211674155139072/LWRVQ942_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 286,
+          "like_count": 7990,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 3599
+        },
+        "url": "https://t.co/lHPjNxQ3qk",
+        "username": "fuckpregabalin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "圣彼得堡/莫斯科/新西伯利亚/喀山/叶卡捷琳堡/阿拉木图 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时活跃或视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "name": "茳菁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 413,
+          "like_count": 58439,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1611
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "1933049247592857793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932849962511183872/a_jyUvKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 433,
+          "like_count": 6304,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 4576
+        },
+        "username": "27rainyseason",
+        "verified": false
+      }
+    ]
+  }
+}

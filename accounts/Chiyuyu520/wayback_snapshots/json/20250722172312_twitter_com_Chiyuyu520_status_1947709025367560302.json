@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947709019449360384"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1947704763514343599",
+    "created_at": "2025-07-22T17:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947709025367560302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1050822253414236160",
+          "start": 0,
+          "username": "SocialtyPro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fFbzxrf3wL",
+          "end": 46,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1947709025367560302/photo/1",
+          "media_key": "3_1947709019449360384",
+          "start": 23,
+          "url": "https://t.co/fFbzxrf3wL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947709025367560302",
+    "in_reply_to_user_id": "1050822253414236160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947706678977122703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SocialtyPro 有我自己的影子了。 https://t.co/fFbzxrf3wL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_1947709019449360384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwenCKYagAAapCH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947709019449360384"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1947704763514343599",
+        "created_at": "2025-07-22T17:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947709025367560302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1050822253414236160",
+              "start": 0,
+              "username": "SocialtyPro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFbzxrf3wL",
+              "end": 46,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1947709025367560302/photo/1",
+              "media_key": "3_1947709019449360384",
+              "start": 23,
+              "url": "https://t.co/fFbzxrf3wL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947709025367560302",
+        "in_reply_to_user_id": "1050822253414236160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947706678977122703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SocialtyPro 有我自己的影子了。 https://t.co/fFbzxrf3wL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1050822253414236160",
+        "conversation_id": "1947704763514343599",
+        "created_at": "2025-07-22T17:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947706678977122703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 23,
+              "id": "1904873292366036992",
+              "start": 12,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947706678977122703",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947704763514343599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @Chiyuyu520, 哈哈成本控制这块确实要严一点，不然真的烧钱烧不起啊 微调后的效果感觉如何？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939728580105445794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 1206,
+          "like_count": 3752,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-12T18:55:23.000Z",
+        "description": "CEO of @trySyllaby \nLaunching The Best AI Marketing Conference in The United States https://t.co/LtlD6EmoRN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "trySyllaby"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "aimarketingworld.co",
+                "end": 107,
+                "expanded_url": "https://www.aimarketingworld.co/",
+                "start": 84,
+                "url": "https://t.co/LtlD6EmoRN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syllaby.io",
+                "end": 23,
+                "expanded_url": "https://syllaby.io/",
+                "start": 0,
+                "url": "https://t.co/MhCf8ZagdP"
+              }
+            ]
+          }
+        },
+        "id": "1050822253414236160",
+        "location": "Durham, NC",
+        "name": "Austin Armstrong",
+        "pinned_tweet_id": "1924270987656544367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799638400732983296/a2QJdIhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4200,
+          "following_count": 538,
+          "like_count": 18171,
+          "listed_count": 40,
+          "media_count": 1949,
+          "tweet_count": 21697
+        },
+        "url": "https://t.co/MhCf8ZagdP",
+        "username": "SocialtyPro",
+        "verified": true
+      }
+    ]
+  }
+}

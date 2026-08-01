@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2058906102478286850",
+    "created_at": "2026-05-25T21:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059031020138315849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688015387663949824",
+          "start": 0,
+          "username": "TOWinZH_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059031020138315849",
+    "in_reply_to_user_id": "1688015387663949824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059028213905654070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOWinZH_CN 高难度，高强度，高痛苦，非必要无意义，我觉得没事干还是别折磨自己了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2058906102478286850",
+        "created_at": "2026-05-25T21:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059031020138315849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688015387663949824",
+              "start": 0,
+              "username": "TOWinZH_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059031020138315849",
+        "in_reply_to_user_id": "1688015387663949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059028213905654070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOWinZH_CN 高难度，高强度，高痛苦，非必要无意义，我觉得没事干还是别折磨自己了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688015387663949824",
+        "conversation_id": "2058906102478286850",
+        "created_at": "2026-05-25T21:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059028213905654070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059028213905654070",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058906102478286850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 其实好玩的点在，你可以吃氰化物，然后打亚硝酸钠，然后打亚甲基蓝，然后打vc，然后就什么事都没有了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 1286,
+          "like_count": 6784,
+          "listed_count": 7,
+          "media_count": 399,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T02:33:34.000Z",
+        "description": "某19INFP/双相情感障碍/休学中/自学各种东西中/日常推~/计算机领域笨蛋大猫咪/不可以鉴证/缺觉但睡不着ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.towdesite.top",
+                "end": 23,
+                "expanded_url": "https://blog.towdesite.top/",
+                "start": 0,
+                "url": "https://t.co/8qsI49I7s3"
+              }
+            ]
+          }
+        },
+        "id": "1688015387663949824",
+        "name": "TOW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906937186551058432/aIBGuDqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 199,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/8qsI49I7s3",
+        "username": "TOWinZH_CN",
+        "verified": false
+      }
+    ]
+  }
+}

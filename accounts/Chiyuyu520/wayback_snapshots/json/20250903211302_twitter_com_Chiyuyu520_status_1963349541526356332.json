@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963349538259046403",
+        "3_1963349538519027712",
+        "3_1963349538254848001",
+        "3_1963349538569424902"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1963349541526356332",
+    "created_at": "2025-09-03T21:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T22:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963349541526356332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C3TyAGxGBY",
+          "end": 185,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+          "media_key": "3_1963349538259046403",
+          "start": 162,
+          "url": "https://t.co/C3TyAGxGBY"
+        },
+        {
+          "display_url": "pic.x.com/C3TyAGxGBY",
+          "end": 185,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+          "media_key": "3_1963349538519027712",
+          "start": 162,
+          "url": "https://t.co/C3TyAGxGBY"
+        },
+        {
+          "display_url": "pic.x.com/C3TyAGxGBY",
+          "end": 185,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+          "media_key": "3_1963349538254848001",
+          "start": 162,
+          "url": "https://t.co/C3TyAGxGBY"
+        },
+        {
+          "display_url": "pic.x.com/C3TyAGxGBY",
+          "end": 185,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+          "media_key": "3_1963349538569424902",
+          "start": 162,
+          "url": "https://t.co/C3TyAGxGBY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1963349541526356332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我大概说一下薅Netfilx土耳其低价区的方法\n1.netfilx付款好像不挑银行卡，只要不是太烂基本都能付\n2.netfilx非常挑IP质量，注册失败多试几次\n3.必须要土耳其手机号，去接码平台低价买一个就行\n我用我的visa卡+土耳其IP+接码手机号成功注册netfilx，一个月只要66块钱就可以看netfilx4K https://t.co/C3TyAGxGBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1963349538259046403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz84ALXbkAMiYBp.jpg",
+        "width": 873
+      },
+      {
+        "height": 1676,
+        "media_key": "3_1963349538519027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz84AMVakAAFXiy.jpg",
+        "width": 2138
+      },
+      {
+        "height": 729,
+        "media_key": "3_1963349538254848001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz84ALWbgAEBY92.png",
+        "width": 849
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1963349538569424902",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz84AMhbkAYtCBK.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963349538259046403",
+            "3_1963349538519027712",
+            "3_1963349538254848001",
+            "3_1963349538569424902"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1963349541526356332",
+        "created_at": "2025-09-03T21:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T22:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963349541526356332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3TyAGxGBY",
+              "end": 185,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+              "media_key": "3_1963349538259046403",
+              "start": 162,
+              "url": "https://t.co/C3TyAGxGBY"
+            },
+            {
+              "display_url": "pic.x.com/C3TyAGxGBY",
+              "end": 185,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+              "media_key": "3_1963349538519027712",
+              "start": 162,
+              "url": "https://t.co/C3TyAGxGBY"
+            },
+            {
+              "display_url": "pic.x.com/C3TyAGxGBY",
+              "end": 185,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+              "media_key": "3_1963349538254848001",
+              "start": 162,
+              "url": "https://t.co/C3TyAGxGBY"
+            },
+            {
+              "display_url": "pic.x.com/C3TyAGxGBY",
+              "end": 185,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1963349541526356332/photo/1",
+              "media_key": "3_1963349538569424902",
+              "start": 162,
+              "url": "https://t.co/C3TyAGxGBY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1963349541526356332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大概说一下薅Netfilx土耳其低价区的方法\n1.netfilx付款好像不挑银行卡，只要不是太烂基本都能付\n2.netfilx非常挑IP质量，注册失败多试几次\n3.必须要土耳其手机号，去接码平台低价买一个就行\n我用我的visa卡+土耳其IP+接码手机号成功注册netfilx，一个月只要66块钱就可以看netfilx4K https://t.co/C3TyAGxGBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 1290,
+          "like_count": 4836,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

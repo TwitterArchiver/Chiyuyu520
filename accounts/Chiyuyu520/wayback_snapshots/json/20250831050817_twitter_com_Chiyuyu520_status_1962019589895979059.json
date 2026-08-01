@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1961872771136520378",
+    "created_at": "2025-08-31T05:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T06:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962019589895979059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        },
+        {
+          "end": 26,
+          "id": "1894622523033358336",
+          "start": 17,
+          "username": "QXY_WARD"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1962019589895979059",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961988568223776791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 @QXY_WARD 四次了"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1961872771136520378",
+        "created_at": "2025-08-31T05:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962019589895979059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            },
+            {
+              "end": 26,
+              "id": "1894622523033358336",
+              "start": 17,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1962019589895979059",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961988568223776791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 @QXY_WARD 四次了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "1961872771136520378",
+        "created_at": "2025-08-31T03:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961988568223776791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 21,
+              "id": "1894622523033358336",
+              "start": 12,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961988568223776791",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961872771136520378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @QXY_WARD 66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 1290,
+          "like_count": 4787,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有双相情感障碍纯疯子一个💀～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳\n求互粉\n并未吃糖🍥\n主播的神秘小老妹儿：@LiciiQAQ  @yingyang_MTF\n逃生舱：@zhoyhng276158\n引路人：@Lianshufa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "yingyang_MTF"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Lianshufa"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈（我爱福瑞🥵🐾）互Of至少有头像）",
+        "pinned_tweet_id": "1949569082938081444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958985099825094656/cJURlWyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1404,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1814
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "我是小怡丨热爱音乐的翻唱歌手丨受ZARD坂井泉水影响，以“WARD UNLIMITED”为名，展开音乐旅程。\n用声音传递情感丨用旋律刻下梦想。\n0作品/私密用户丨婉拒点赞、评论、私信互动丨我们要交的是真人，而不是机器人丨🍥始于2025.8.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "日本",
+        "name": "是小怡呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952627286303457280/NxPmz-xV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 673,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

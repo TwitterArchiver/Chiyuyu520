@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T02:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930449858579837356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892223971237801984",
+          "start": 0,
+          "username": "BrisaTuCoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930449858579837356",
+    "in_reply_to_user_id": "1892223971237801984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930395706860417481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrisaTuCoco 2x倍率就是你用1G流量算你用2G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930395696366268417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsokqH3asAELrue.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T02:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930449858579837356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892223971237801984",
+              "start": 0,
+              "username": "BrisaTuCoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930449858579837356",
+        "in_reply_to_user_id": "1892223971237801984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930395706860417481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrisaTuCoco 2x倍率就是你用1G流量算你用2G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930395696366268417"
+          ]
+        },
+        "author_id": "1892223971237801984",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T22:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T23:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930395706860417481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X24XsFTrCr",
+              "end": 90,
+              "expanded_url": "https://x.com/BrisaTuCoco/status/1930395706860417481/photo/1",
+              "media_key": "3_1930395696366268417",
+              "start": 67,
+              "url": "https://t.co/X24XsFTrCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930395706860417481",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 之前完全不知道还有这个问题 感谢感谢😭对这玩意基本上一窍不通可以问下小火箭里节点名后面写的倍率是什么意思吗🤔 https://t.co/X24XsFTrCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 464,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T14:45:36.000Z",
+        "description": "Hello 这里风早归露，欢迎互关 🏳️‍🌈🇺🇦🇵🇸 中文/Eng OK//Biromantic/Lesbian-leaning/Genital-specific aversion toward males 🌈About me：T/0.2/m/sub/brat/女高",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/brisatucoco",
+                "end": 23,
+                "expanded_url": "https://ngl.link/brisatucoco",
+                "start": 0,
+                "url": "https://t.co/CMCecMibzr"
+              }
+            ]
+          }
+        },
+        "id": "1892223971237801984",
+        "location": "苏",
+        "name": "風早帰露",
+        "pinned_tweet_id": "1929182144838111256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892239697411235840/ZyMnaQHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 103,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/CMCecMibzr",
+        "username": "BrisaTuCoco",
+        "verified": false
+      }
+    ]
+  }
+}

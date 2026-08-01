@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T14:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T15:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930267287489261850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1427796015034232832",
+          "start": 0,
+          "username": "JHaveatry"
+        },
+        {
+          "end": 20,
+          "id": "1632943664497324034",
+          "start": 11,
+          "username": "WDAFZ001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930267287489261850",
+    "in_reply_to_user_id": "1427796015034232832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930267207407419559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHaveatry @WDAFZ001 我用的就是实体卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930267287489261850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1427796015034232832",
+              "start": 0,
+              "username": "JHaveatry"
+            },
+            {
+              "end": 20,
+              "id": "1632943664497324034",
+              "start": 11,
+              "username": "WDAFZ001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930267287489261850",
+        "in_reply_to_user_id": "1427796015034232832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930267207407419559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHaveatry @WDAFZ001 我用的就是实体卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427796015034232832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930267207407419559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 21,
+              "id": "1632943664497324034",
+              "start": 12,
+              "username": "WDAFZ001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930267207407419559",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930264372083077369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @WDAFZ001 giffgaff有实体英国电话卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 493,
+          "like_count": 403,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T00:55:09.000Z",
+        "description": "意识形态自由包容，不管什么意见我们都可以相处愉快~🌍请不要block我🥺 | ヨルシカ◂Ⓘ▸🎶🥰 | 喜欢自由🐦，喜欢无政府主义✊ | 信仰去中心化、crypto、web3🔗💻 | 对于墙无所谓，反正困不住我~ | Minecraft | NGL提问箱：https://t.co/oUiU97nrxB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jhaveatry",
+                "end": 150,
+                "expanded_url": "https://ngl.link/jhaveatry",
+                "start": 127,
+                "url": "https://t.co/oUiU97nrxB"
+              }
+            ]
+          }
+        },
+        "id": "1427796015034232832",
+        "location": "🇨🇳",
+        "name": "风铃凌风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924684993235910656/IM15tD_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 908,
+          "like_count": 2535,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2865
+        },
+        "username": "JHaveatry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T03:18:28.000Z",
+        "description": "一般路过巧克力🍫，心脏应为幸福跳动！            \n\n me(눈‸눈)@IseriNina1\n@Andechs_\nAono🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "IseriNina1"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Andechs_"
+              }
+            ]
+          }
+        },
+        "id": "1632943664497324034",
+        "location": "WDAFZ-CH",
+        "name": "ℬ𝒶𝓉𝑒𝓁 𝓋𝑜𝓃 𝒜𝓃𝒹𝒶𝓍",
+        "pinned_tweet_id": "1765800459170619673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929791776757633024/WOY7RlkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 935,
+          "like_count": 9054,
+          "listed_count": 6,
+          "media_count": 2564,
+          "tweet_count": 7584
+        },
+        "username": "WDAFZ001",
+        "verified": false
+      }
+    ]
+  }
+}

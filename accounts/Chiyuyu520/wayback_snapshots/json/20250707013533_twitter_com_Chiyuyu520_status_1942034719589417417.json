@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1942034515356172436",
+    "created_at": "2025-07-07T01:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T02:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942034719589417417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942034719589417417",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942034515356172436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一张照片230mm，大约相当于放大10x的效果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2260,
+        "media_key": "3_1942034490613972993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvN-FHKaQAE0vtb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942034490639183872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvN-FHQa8AAv_kF.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1942034515356172436",
+        "created_at": "2025-07-07T01:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T02:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942034719589417417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942034719589417417",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942034515356172436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一张照片230mm，大约相当于放大10x的效果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942034490613972993",
+            "3_1942034490639183872"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1942034515356172436",
+        "created_at": "2025-07-07T01:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T02:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942034515356172436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MJDDapDvM",
+              "end": 196,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942034515356172436/photo/1",
+              "media_key": "3_1942034490613972993",
+              "start": 173,
+              "url": "https://t.co/3MJDDapDvM"
+            },
+            {
+              "display_url": "pic.x.com/3MJDDapDvM",
+              "end": 196,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942034515356172436/photo/1",
+              "media_key": "3_1942034490639183872",
+              "start": 173,
+              "url": "https://t.co/3MJDDapDvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942034515356172436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐送的vivo X200 Ultra初体验：\n性能：IQOO13也是8至尊用习惯了 蓝厂调教就不用担心什么了\n拍照：没得喷\n续航：个人感觉IQOO13和200U平起平坐吧 一个6000一个6150\n其他：发热比IQOO13严重 户外亮度没IQOO13高 别的都很好\n信号和13差不多 但是频段多\n缺点：摄像头真的太你妈大了，放桌子上翘起来那种 https://t.co/3MJDDapDvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 1128,
+          "like_count": 2629,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

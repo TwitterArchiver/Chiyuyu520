@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1953123152017670167",
+    "created_at": "2025-08-06T16:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953125172929806583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1461017973599186944",
+          "start": 0,
+          "username": "xiaoyinyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953125172929806583",
+    "in_reply_to_user_id": "1461017973599186944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953123152017670167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyinyu520 快进到我再也不玩抽象了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1953123152017670167",
+        "created_at": "2025-08-06T16:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953125172929806583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1461017973599186944",
+              "start": 0,
+              "username": "xiaoyinyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953125172929806583",
+        "in_reply_to_user_id": "1461017973599186944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953123152017670167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyinyu520 快进到我再也不玩抽象了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461017973599186944",
+        "conversation_id": "1953123152017670167",
+        "created_at": "2025-08-06T15:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953123152017670167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953123152017670167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人的目标是985，211，为什么我是411或者更好的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939963852235391150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 1285,
+          "like_count": 4335,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年在校大学生，不割手，不抽烟不喝酒，重度社恐不擅长说话，没有精神疾病（看过医生了，只是焦虑抑郁状态，6月30：压力来源被解决掉了，我好了），2025.3.13开始hrt，深柜中",
+        "id": "1461017973599186944",
+        "name": "小银鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 138,
+          "like_count": 3801,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 466
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      }
+    ]
+  }
+}

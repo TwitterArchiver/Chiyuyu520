@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1968977072912556150",
+    "created_at": "2025-09-19T09:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T10:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968977072912556150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekomakiQAQ/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/nekomakiQAQ/status/1968946424315301933",
+          "start": 8,
+          "url": "https://t.co/1J7xDFG8xJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968977072912556150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968946424315301933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老一辈艺术家👍 https://t.co/1J7xDFG8xJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56470,
+        "height": 1920,
+        "media_key": "13_1968946265707933696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968946265707933696/img/8B35rWO441rlYhik.jpg",
+        "public_metrics": {
+          "view_count": 243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/1080x1920/2ma32KrxrIcvP_wk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/pl/gBYjOQPu2Tmx_bgU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/720x1280/fep1HjnZOPSlPp3N.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/320x568/BbNvUgouFLxKEJjz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/480x852/QHOQ1l_eiGOMfAX5.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968977072912556150",
+        "created_at": "2025-09-19T09:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968977072912556150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekomakiQAQ/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nekomakiQAQ/status/1968946424315301933",
+              "start": 8,
+              "url": "https://t.co/1J7xDFG8xJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968977072912556150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968946424315301933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老一辈艺术家👍 https://t.co/1J7xDFG8xJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968946265707933696"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1968946424315301933",
+        "created_at": "2025-09-19T07:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T08:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968946424315301933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQWaMgXLmj",
+              "end": 110,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968946424315301933/video/1",
+              "media_key": "13_1968946265707933696",
+              "start": 87,
+              "url": "https://t.co/aQWaMgXLmj"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1968903528564342959",
+              "start": 111,
+              "url": "https://t.co/3AOBqIf6y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968946424315301933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 803,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968903528564342959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来来来给你爹把麦打开\n你这种上Curtin的属于是脑子有笨家里又穷，不然怎么会去那种业绩地方混学历\n来NUS Comp找啊我啊我求你了，哦你被赶回国了啊，原来你是滞纳护照啊 https://t.co/aQWaMgXLmj https://t.co/3AOBqIf6y6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 1300,
+          "like_count": 5614,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": ":: system booting... ~ root@Luminux ➤ org: @NUSingapore 💻 ➤ in love with: @HobartR6 💌 ➤ connected to: @_FurryFur_ 🐱 ➤ powered by: @Chiyuyu520 OS :: 言語体系構築中..",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "HobartR6"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/G1MwAq1wRu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ 猫卷（日雌380",
+        "pinned_tweet_id": "1968050536634257659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968524636435763200/Zgwh-TT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3200,
+          "following_count": 970,
+          "like_count": 28061,
+          "listed_count": 15,
+          "media_count": 1218,
+          "tweet_count": 14607
+        },
+        "url": "https://t.co/G1MwAq1wRu",
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

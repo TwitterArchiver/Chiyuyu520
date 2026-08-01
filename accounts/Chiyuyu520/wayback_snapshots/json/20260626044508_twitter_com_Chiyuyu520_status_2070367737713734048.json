@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070367724749123584",
+        "3_2070367725378285568",
+        "3_2070367724744945664"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070367737713734048",
+    "created_at": "2026-06-26T04:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070367737713734048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1660586167807664129",
+          "start": 9,
+          "username": "ttttk567"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EnuKedPzdu",
+          "end": 42,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2070367737713734048/photo/1",
+          "media_key": "3_2070367724749123584",
+          "start": 19,
+          "url": "https://t.co/EnuKedPzdu"
+        },
+        {
+          "display_url": "pic.x.com/EnuKedPzdu",
+          "end": 42,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2070367737713734048/photo/1",
+          "media_key": "3_2070367725378285568",
+          "start": 19,
+          "url": "https://t.co/EnuKedPzdu"
+        },
+        {
+          "display_url": "pic.x.com/EnuKedPzdu",
+          "end": 42,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2070367737713734048/photo/1",
+          "media_key": "3_2070367724744945664",
+          "start": 19,
+          "url": "https://t.co/EnuKedPzdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070367737713734048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "北京工业大学\n面 @ttttk567 https://t.co/EnuKedPzdu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070367724749123584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtsefQa8AA1dHS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070367725378285568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtsehmbMAACeiR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070367724744945664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtsefPbMAAccpe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070367724749123584",
+            "3_2070367725378285568",
+            "3_2070367724744945664"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070367737713734048",
+        "created_at": "2026-06-26T04:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070367737713734048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1660586167807664129",
+              "start": 9,
+              "username": "ttttk567"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnuKedPzdu",
+              "end": 42,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2070367737713734048/photo/1",
+              "media_key": "3_2070367724749123584",
+              "start": 19,
+              "url": "https://t.co/EnuKedPzdu"
+            },
+            {
+              "display_url": "pic.x.com/EnuKedPzdu",
+              "end": 42,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2070367737713734048/photo/1",
+              "media_key": "3_2070367725378285568",
+              "start": 19,
+              "url": "https://t.co/EnuKedPzdu"
+            },
+            {
+              "display_url": "pic.x.com/EnuKedPzdu",
+              "end": 42,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2070367737713734048/photo/1",
+              "media_key": "3_2070367724744945664",
+              "start": 19,
+              "url": "https://t.co/EnuKedPzdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070367737713734048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京工业大学\n面 @ttttk567 https://t.co/EnuKedPzdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4326,
+          "following_count": 1292,
+          "like_count": 7182,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066369584224198656/N9WKr45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 1411,
+          "like_count": 3165,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1009
+        },
+        "url": "",
+        "username": "ttttk567",
+        "verified": true
+      }
+    ]
+  }
+}

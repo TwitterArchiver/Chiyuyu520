@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1914607371495559507",
+    "created_at": "2025-04-22T23:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T00:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914821733556814253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914773886752972801",
+          "start": 0,
+          "username": "Yukihana1082392"
+        },
+        {
+          "end": 27,
+          "id": "1479696561302999042",
+          "start": 17,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914821733556814253",
+    "in_reply_to_user_id": "1914773886752972801",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914788325912920363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukihana1082392 @quitee123 😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1914607371495559507",
+        "created_at": "2025-04-22T23:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T00:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914821733556814253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914773886752972801",
+              "start": 0,
+              "username": "Yukihana1082392"
+            },
+            {
+              "end": 27,
+              "id": "1479696561302999042",
+              "start": 17,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914821733556814253",
+        "in_reply_to_user_id": "1914773886752972801",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914788325912920363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukihana1082392 @quitee123 😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914773886752972801",
+        "conversation_id": "1914607371495559507",
+        "created_at": "2025-04-22T21:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T22:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914788325912920363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 22,
+              "id": "1479696561302999042",
+              "start": 12,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914788325912920363",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914607371495559507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @quitee123 偷偷视奸😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 26,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 43
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T20:10:54.000Z",
+        "description": "男生，🚫鉴证只涩涩，大概是ISTP？无药可救且整天都想0721的FW肥宅，会回复看到的每一条私信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukihana_07211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukihana_07211",
+                "start": 0,
+                "url": "https://t.co/CYeOvEsDMM"
+              }
+            ]
+          }
+        },
+        "id": "1914773886752972801",
+        "name": "Yukihana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914774804500242433/ODToLlOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/CYeOvEsDMM",
+        "username": "Yukihana1082392",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 120,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 97,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（卖泰补凝胶克龄蒙药商版）",
+        "pinned_tweet_id": "1910999755334832267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 2514,
+          "like_count": 25214,
+          "listed_count": 16,
+          "media_count": 605,
+          "tweet_count": 11686
+        },
+        "username": "quitee123",
+        "verified": true
+      }
+    ]
+  }
+}

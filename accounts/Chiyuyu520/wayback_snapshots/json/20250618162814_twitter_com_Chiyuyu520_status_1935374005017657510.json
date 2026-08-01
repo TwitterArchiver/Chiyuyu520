@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935243370827497744",
+    "created_at": "2025-06-18T16:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T17:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935374005017657510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1314252292917350400",
+          "start": 0,
+          "username": "DFNY10697450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935374005017657510",
+    "in_reply_to_user_id": "1314252292917350400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935373556533313676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DFNY10697450 谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935373553605419008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvT_jJWIAAVhzP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935243370827497744",
+        "created_at": "2025-06-18T16:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935374005017657510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1314252292917350400",
+              "start": 0,
+              "username": "DFNY10697450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935374005017657510",
+        "in_reply_to_user_id": "1314252292917350400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935373556533313676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DFNY10697450 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935373553605419008"
+          ]
+        },
+        "author_id": "1314252292917350400",
+        "conversation_id": "1935243370827497744",
+        "created_at": "2025-06-18T16:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935373556533313676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCgJU5ji7X",
+              "end": 35,
+              "expanded_url": "https://x.com/DFNY10697450/status/1935373556533313676/photo/1",
+              "media_key": "3_1935373553605419008",
+              "start": 12,
+              "url": "https://t.co/dCgJU5ji7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935373556533313676",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935243370827497744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 https://t.co/dCgJU5ji7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1004,
+          "like_count": 1526,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-08T17:12:29.000Z",
+        "description": "xp探索者 隐蔽拉满的侦查猫猫头",
+        "id": "1314252292917350400",
+        "name": "巨型猫猫头",
+        "pinned_tweet_id": "1931006134783217879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316059203266662400/ysvkb-6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 119,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 72
+        },
+        "username": "DFNY10697450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1965607236409217445",
+    "created_at": "2025-09-10T03:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T04:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965621443221467216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385659420722487300",
+          "start": 0,
+          "username": "huahuachaotian"
+        },
+        {
+          "end": 31,
+          "id": "1879338554511495168",
+          "start": 16,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "1965621443221467216",
+    "in_reply_to_user_id": "1385659420722487300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965617622260846944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuachaotian @BAshirasu_1226 没用"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1965607236409217445",
+        "created_at": "2025-09-10T03:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965621443221467216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385659420722487300",
+              "start": 0,
+              "username": "huahuachaotian"
+            },
+            {
+              "end": 31,
+              "id": "1879338554511495168",
+              "start": 16,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1965621443221467216",
+        "in_reply_to_user_id": "1385659420722487300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965617622260846944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuachaotian @BAshirasu_1226 没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385659420722487300",
+        "conversation_id": "1965607236409217445",
+        "created_at": "2025-09-10T03:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965617622260846944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965617622260846944",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965607236409217445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 这个有用吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964891189427216384/hQ4Cdsy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 1289,
+          "like_count": 5131,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-23T18:18:54.000Z",
+        "description": "一个有超强少女心的可爱无性恋女孩子，梦想就是变甜变可爱，不要问性别问就是女孩子，我天赋党/年龄党/家长党/家庭党/中奖党（五党不沾一点的卑微xyn🤕🤕），持证含糖。手术什么的不如自己来，自己动手丰衣足食，利多卡因是我最后的倔强。",
+        "id": "1385659420722487300",
+        "name": "华华超甜吖🍥（抽象玩意）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721337619811078144/P-2abQnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 98,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 135
+        },
+        "username": "huahuachaotian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年 Mtf or MtX |翻车顺男|家长党|175cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游入（底力恢复ing）|HRT2024.4.22|自切时间2025.6.10|BA厨小梓，舟厨特蕾西娅|闲散人员一只|永远爱@Takina_Jimato|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/wlKM5cp85J"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️🇹🇼🇯🇵 1989.6.4",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11761,
+          "following_count": 340,
+          "like_count": 1168,
+          "listed_count": 13,
+          "media_count": 183,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/wlKM5cp85J",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

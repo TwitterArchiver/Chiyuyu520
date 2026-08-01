@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930251033671799092",
+    "created_at": "2025-06-05T03:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T04:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930469359413277123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286152429965160448",
+          "start": 0,
+          "username": "ckyf1134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930469359413277123",
+    "in_reply_to_user_id": "1286152429965160448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930468645081157832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ckyf1134 插将军家里去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930251033671799092",
+        "created_at": "2025-06-05T03:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930469359413277123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286152429965160448",
+              "start": 0,
+              "username": "ckyf1134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930469359413277123",
+        "in_reply_to_user_id": "1286152429965160448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930468645081157832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckyf1134 插将军家里去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286152429965160448",
+        "conversation_id": "1930251033671799092",
+        "created_at": "2025-06-05T03:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930468645081157832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930468645081157832",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930251033671799092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 ？甚至不是广播IP😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 516,
+          "like_count": 510,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T04:13:40.000Z",
+        "description": "印象派人类 或者是沃尔玛购物袋 勿忘我\n//已dets的半个女高（？）//\n小账兼逃生舱 随缘放:@lianfanqiyu\n//语言伤到您很抱歉 我争取不攻击人 希望您也不攻击我\n无线电专用号@BI3BCD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "lianfanqiyu"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "BI3BCD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.icu",
+                "end": 23,
+                "expanded_url": "https://yufan.icu",
+                "start": 0,
+                "url": "https://t.co/BVmHUKCjRA"
+              }
+            ]
+          }
+        },
+        "id": "1286152429965160448",
+        "location": "白日梦",
+        "name": "涟帆祈雨",
+        "pinned_tweet_id": "1823046780977823908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923908126295605248/_zMyPGWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 271,
+          "like_count": 59669,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/BVmHUKCjRA",
+        "username": "ckyf1134",
+        "verified": false
+      }
+    ]
+  }
+}

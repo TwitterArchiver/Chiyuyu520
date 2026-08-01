@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063921366219571200"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2063921401091014739",
+    "created_at": "2026-06-08T09:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063921401091014739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cC9s20iezG",
+          "end": 32,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2063921401091014739/photo/1",
+          "media_key": "3_2063921366219571200",
+          "start": 9,
+          "url": "https://t.co/cC9s20iezG"
+        },
+        {
+          "display_url": "x.com/jiaoyanboluooo…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2063753254669107344",
+          "start": 33,
+          "url": "https://t.co/IqgeiOX0px"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063921401091014739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063753254669107344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓死了还来找我了 https://t.co/cC9s20iezG https://t.co/IqgeiOX0px"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2063921366219571200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSFjCXbQAAk954.jpg",
+        "width": 987
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063744743016968192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPk6NqbMAAiSUc.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063744744057159680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPk6RibQAAYs6M.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063744744052883456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPk6RhaAAAWei3.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063744743016943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPk6Nqa0AAx-aH.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063921366219571200"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2063921401091014739",
+        "created_at": "2026-06-08T09:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063921401091014739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cC9s20iezG",
+              "end": 32,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2063921401091014739/photo/1",
+              "media_key": "3_2063921366219571200",
+              "start": 9,
+              "url": "https://t.co/cC9s20iezG"
+            },
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2063753254669107344",
+              "start": 33,
+              "url": "https://t.co/IqgeiOX0px"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063921401091014739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063753254669107344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓死了还来找我了 https://t.co/cC9s20iezG https://t.co/IqgeiOX0px"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063744743016968192",
+            "3_2063744744057159680",
+            "3_2063744744052883456",
+            "3_2063744743016943616"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2063753254669107344",
+        "created_at": "2026-06-07T22:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:04:59.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063744053884370950",
+          "2063744670379958421",
+          "2063744757910900976",
+          "2063753254669107344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LOA7QE5dO",
+              "end": 122,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2063753254669107344/photo/1",
+              "media_key": "3_2063744743016968192",
+              "start": 99,
+              "url": "https://t.co/1LOA7QE5dO"
+            },
+            {
+              "display_url": "pic.x.com/1LOA7QE5dO",
+              "end": 122,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2063753254669107344/photo/1",
+              "media_key": "3_2063744744057159680",
+              "start": 99,
+              "url": "https://t.co/1LOA7QE5dO"
+            },
+            {
+              "display_url": "pic.x.com/1LOA7QE5dO",
+              "end": 122,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2063753254669107344/photo/1",
+              "media_key": "3_2063744744052883456",
+              "start": 99,
+              "url": "https://t.co/1LOA7QE5dO"
+            },
+            {
+              "display_url": "pic.x.com/1LOA7QE5dO",
+              "end": 122,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2063753254669107344/photo/1",
+              "media_key": "3_2063744743016943616",
+              "start": 99,
+              "url": "https://t.co/1LOA7QE5dO"
+            },
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/2042358190340522118",
+              "start": 123,
+              "url": "https://t.co/TRTIXRjrll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063753254669107344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2570,
+          "like_count": 51,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042358190340522118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我极大概率又被骗了\n这次是著名的骗子王孝天\n拖了我一个月，先是说发货发错了，再说号被封了，总之就是不发货也不退款，就一直拖着\n现在我的糖也快没了\n我没有经济来源，352块都是我省吃俭用攒下来的药钱 https://t.co/1LOA7QE5dO https://t.co/TRTIXRjrll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 1290,
+          "like_count": 6854,
+          "listed_count": 5,
+          "media_count": 421,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 3774,
+          "like_count": 26777,
+          "listed_count": 11,
+          "media_count": 1402,
+          "tweet_count": 5727
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

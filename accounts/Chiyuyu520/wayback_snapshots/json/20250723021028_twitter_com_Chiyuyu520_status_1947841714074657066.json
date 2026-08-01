@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1947716585252393319",
+    "created_at": "2025-07-23T02:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T03:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947841714074657066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "921003533218000896",
+          "start": 0,
+          "username": "MoeQike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947841714074657066",
+    "in_reply_to_user_id": "921003533218000896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947779008432930984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoeQike 其实本来只打算复刻成第二个我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1947716585252393319",
+        "created_at": "2025-07-23T02:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T03:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947841714074657066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "921003533218000896",
+              "start": 0,
+              "username": "MoeQike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947841714074657066",
+        "in_reply_to_user_id": "921003533218000896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947779008432930984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoeQike 其实本来只打算复刻成第二个我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921003533218000896",
+        "conversation_id": "1947716585252393319",
+        "created_at": "2025-07-22T22:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T23:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947779008432930984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947779008432930984",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947716585252393319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 这个训练回复的，有点yn味过重了感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947726595684503627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 1248,
+          "like_count": 3781,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-19T13:22:08.000Z",
+        "description": "INFJ-T | Bipolar disorder | A nobody | Knows Nothing | Record Daily Life | Network Engineer | Traveler | Train and Aircraft Photographer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "moeqike.com",
+                "end": 23,
+                "expanded_url": "https://moeqike.com",
+                "start": 0,
+                "url": "https://t.co/Nhcj6m4xEs"
+              }
+            ]
+          }
+        },
+        "id": "921003533218000896",
+        "location": "Mainland, China",
+        "name": "琪可🫧",
+        "pinned_tweet_id": "1922870981250457814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936747687895875584/I5OymnTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 362,
+          "like_count": 1121,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/Nhcj6m4xEs",
+        "username": "MoeQike",
+        "verified": true
+      }
+    ]
+  }
+}

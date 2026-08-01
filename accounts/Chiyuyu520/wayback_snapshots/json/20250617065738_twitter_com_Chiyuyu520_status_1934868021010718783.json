@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934866831711600692",
+    "created_at": "2025-06-17T06:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T07:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934868021010718783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3223080709",
+          "start": 0,
+          "username": "maid___m"
+        },
+        {
+          "end": 23,
+          "id": "1461017973599186944",
+          "start": 10,
+          "username": "xiaoyinyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934868021010718783",
+    "in_reply_to_user_id": "3223080709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934867516972773653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maid___m @xiaoyinyu520 你觉得Berry发的有任何逻辑嘛？纯粹为了急而黑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934866831711600692",
+        "created_at": "2025-06-17T06:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934868021010718783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3223080709",
+              "start": 0,
+              "username": "maid___m"
+            },
+            {
+              "end": 23,
+              "id": "1461017973599186944",
+              "start": 10,
+              "username": "xiaoyinyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934868021010718783",
+        "in_reply_to_user_id": "3223080709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934867516972773653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maid___m @xiaoyinyu520 你觉得Berry发的有任何逻辑嘛？纯粹为了急而黑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3223080709",
+        "conversation_id": "1934866831711600692",
+        "created_at": "2025-06-17T06:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934867516972773653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1461017973599186944",
+              "start": 0,
+              "username": "xiaoyinyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934867516972773653",
+        "in_reply_to_user_id": "1461017973599186944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934866831711600692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyinyu520 看你们两个一直在互相黑，根本不知道谁对谁错啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 950,
+          "like_count": 1324,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-22T07:07:28.000Z",
+        "description": "哒哒哒哒哒！",
+        "id": "3223080709",
+        "location": "罗德岛厨房",
+        "name": "妹抖maid",
+        "pinned_tweet_id": "1902633313703215323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925236631197687809/W0GjkJHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 473,
+          "like_count": 6293,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 101
+        },
+        "username": "maid___m",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年在校大学生，不od割手，不抽烟不喝酒，重度社恐不擅长说话，没有精神疾病（没去看医生没确诊就是没有），2025.3.13开始hrt，深柜中",
+        "id": "1461017973599186944",
+        "name": "小银鱼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 85,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 243
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      }
+    ]
+  }
+}

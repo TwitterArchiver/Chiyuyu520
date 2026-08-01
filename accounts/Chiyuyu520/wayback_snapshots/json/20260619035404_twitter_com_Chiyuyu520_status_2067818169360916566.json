@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067818160389230592"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2067818169360916566",
+    "created_at": "2026-06-19T03:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067818169360916566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lghdv6yXEN",
+          "end": 26,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2067818169360916566/photo/1",
+          "media_key": "3_2067818160389230592",
+          "start": 3,
+          "url": "https://t.co/Lghdv6yXEN"
+        },
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2067730062397600134",
+          "start": 27,
+          "url": "https://t.co/uY9oeV9CFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067818169360916566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067730062397600134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开心 https://t.co/Lghdv6yXEN https://t.co/uY9oeV9CFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2067818160389230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJdqT4aEAAa55v.jpg",
+        "width": 1136
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067730045926596608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLINhX7bYAAxAkS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067818160389230592"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2067818169360916566",
+        "created_at": "2026-06-19T03:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067818169360916566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lghdv6yXEN",
+              "end": 26,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2067818169360916566/photo/1",
+              "media_key": "3_2067818160389230592",
+              "start": 3,
+              "url": "https://t.co/Lghdv6yXEN"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2067730062397600134",
+              "start": 27,
+              "url": "https://t.co/uY9oeV9CFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067818169360916566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067730062397600134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开心 https://t.co/Lghdv6yXEN https://t.co/uY9oeV9CFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067730045926596608"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2067730062397600134",
+        "created_at": "2026-06-18T22:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067730062397600134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHtPAN73T2",
+              "end": 94,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2067730062397600134/photo/1",
+              "media_key": "3_2067730045926596608",
+              "start": 71,
+              "url": "https://t.co/zHtPAN73T2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067730062397600134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3819,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是有座位的，但是我边上有一对小情侣买票没买到一起去，所以我就把我的位置让出来给他们坐了\n由于列车严重超员所以确实也没座位，站着到南京了 https://t.co/zHtPAN73T2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 1293,
+          "like_count": 7050,
+          "listed_count": 5,
+          "media_count": 482,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

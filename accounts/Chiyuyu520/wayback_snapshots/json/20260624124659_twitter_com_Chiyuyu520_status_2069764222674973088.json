@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069764059444985856"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2069764222674973088",
+    "created_at": "2026-06-24T12:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069764222674973088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TDNLR9JMv3",
+          "end": 56,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2069764222674973088/video/1",
+          "media_key": "13_2069764059444985856",
+          "start": 33,
+          "url": "https://t.co/TDNLR9JMv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069764222674973088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "北京地铁8号线 10:10分左右 地铁上偷拍被抓现行 王府井下车 https://t.co/TDNLR9JMv3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45098,
+        "height": 1920,
+        "media_key": "13_2069764059444985856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069764059444985856/img/OMpXFqagSIRwGwkb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069764059444985856/vid/avc1/720x1280/QmY4V1XgII99fAJV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069764059444985856/vid/avc1/1080x1920/DnmsjfmsR2JfMw6A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069764059444985856/vid/avc1/480x852/4bHN87Y6QVlqERal.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069764059444985856/vid/avc1/320x568/8hQ9t4Wd5wU9IQ7V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069764059444985856/pl/0Lk3e8iCSaRGQ_i2.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069764059444985856"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2069764222674973088",
+        "created_at": "2026-06-24T12:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069764222674973088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDNLR9JMv3",
+              "end": 56,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2069764222674973088/video/1",
+              "media_key": "13_2069764059444985856",
+              "start": 33,
+              "url": "https://t.co/TDNLR9JMv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069764222674973088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京地铁8号线 10:10分左右 地铁上偷拍被抓现行 王府井下车 https://t.co/TDNLR9JMv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 1289,
+          "like_count": 7162,
+          "listed_count": 5,
+          "media_count": 517,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2066755476558319986",
+    "created_at": "2026-06-16T05:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066755476558319986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yg_xyn/status/…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/yg_xyn/status/2064655474444886461",
+          "start": 77,
+          "url": "https://t.co/LktK0XvuPw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066755476558319986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064655474444886461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你除了炒作炒作炒作搞烂活之外还能干点什么\n整天搞个 b13 岁咋的了买个 8000 粉账号给我看脑梗了关注没几个人装什么高大上老资历\n差不多得了，真服了 https://t.co/LktK0XvuPw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064655459894915072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKchM6abcAAS1nx.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2066755476558319986",
+        "created_at": "2026-06-16T05:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066755476558319986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yg_xyn/status/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/yg_xyn/status/2064655474444886461",
+              "start": 77,
+              "url": "https://t.co/LktK0XvuPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066755476558319986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064655474444886461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你除了炒作炒作炒作搞烂活之外还能干点什么\n整天搞个 b13 岁咋的了买个 8000 粉账号给我看脑梗了关注没几个人装什么高大上老资历\n差不多得了，真服了 https://t.co/LktK0XvuPw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064655459894915072"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2064655474444886461",
+        "created_at": "2026-06-10T10:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064655474444886461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNKDqd1FQq",
+              "end": 41,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2064655474444886461/photo/1",
+              "media_key": "3_2064655459894915072",
+              "start": 18,
+              "url": "https://t.co/XNKDqd1FQq"
+            },
+            {
+              "display_url": "x.com/unkmtx/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/unkmtx/status/2064652950438654196",
+              "start": 42,
+              "url": "https://t.co/ZXjk4scdRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064655474444886461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 765,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064652950438654196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "账号封禁后就一直曝光量下滑了😭😭😭 https://t.co/XNKDqd1FQq https://t.co/ZXjk4scdRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 1291,
+          "like_count": 6954,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 8,
+          "like_count": 2194,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

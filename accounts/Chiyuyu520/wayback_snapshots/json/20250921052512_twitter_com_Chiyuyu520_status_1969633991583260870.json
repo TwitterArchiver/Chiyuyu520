@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1969633991583260870",
+    "created_at": "2025-09-21T05:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969633991583260870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luo_12168735/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/luo_12168735/status/1969618393612632148",
+          "start": 20,
+          "url": "https://t.co/ictt7c52YU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969633991583260870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969618393612632148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢支持喵\n日雌370一盒京东快递包邮 https://t.co/ictt7c52YU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1969618381226852355",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1V9e3QbQAMY5u-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1969633991583260870",
+        "created_at": "2025-09-21T05:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969633991583260870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luo_12168735/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/luo_12168735/status/1969618393612632148",
+              "start": 20,
+              "url": "https://t.co/ictt7c52YU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969633991583260870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969618393612632148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢支持喵\n日雌370一盒京东快递包邮 https://t.co/ictt7c52YU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969618381226852355"
+          ]
+        },
+        "author_id": "1690638204356214784",
+        "conversation_id": "1969618393612632148",
+        "created_at": "2025-09-21T04:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969618393612632148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QZudC8OAc",
+              "end": 35,
+              "expanded_url": "https://x.com/luo_12168735/status/1969618393612632148/photo/1",
+              "media_key": "3_1969618381226852355",
+              "start": 12,
+              "url": "https://t.co/4QZudC8OAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969618393612632148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌到了，孩子很喜欢😋 https://t.co/4QZudC8OAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 1300,
+          "like_count": 5674,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T08:15:53.000Z",
+        "description": "华风夏韵，洛水天依/INFP/hrt25.5.14/是个超大只的xyn哦/🏳️‍⚧️/最好的朋友:@yifengluo_dream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "yifengluo_dream"
+              }
+            ]
+          }
+        },
+        "id": "1690638204356214784",
+        "location": "休伯利安",
+        "name": "雨天🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960561177630490624/vbZe5FUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 481,
+          "like_count": 1682,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 798
+        },
+        "username": "luo_12168735",
+        "verified": false
+      }
+    ]
+  }
+}

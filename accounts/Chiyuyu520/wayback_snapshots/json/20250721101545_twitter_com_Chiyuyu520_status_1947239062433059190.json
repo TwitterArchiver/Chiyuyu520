@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947186676930916352",
+        "3_1947186676771786752"
+      ],
+      "media_source_tweet_id": [
+        "1947186687576285651",
+        "1947186687576285651"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1947239062433059190",
+    "created_at": "2025-07-21T10:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T11:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947239062433059190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545293682731089921",
+          "start": 3,
+          "username": "MAEJ45"
+        },
+        {
+          "end": 23,
+          "id": "1882424383224029184",
+          "start": 12,
+          "username": "wanbodaoba"
+        },
+        {
+          "end": 35,
+          "id": "1904873292366036992",
+          "start": 24,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92nY54StwV",
+          "end": 132,
+          "expanded_url": "https://x.com/MAEJ45/status/1947186687576285651/photo/1",
+          "media_key": "3_1947186676930916352",
+          "start": 109,
+          "url": "https://t.co/92nY54StwV"
+        },
+        {
+          "display_url": "pic.x.com/92nY54StwV",
+          "end": 132,
+          "expanded_url": "https://x.com/MAEJ45/status/1947186687576285651/photo/1",
+          "media_key": "3_1947186676771786752",
+          "start": 109,
+          "url": "https://t.co/92nY54StwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947239062433059190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947186687576285651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MAEJ45: @wanbodaoba @Chiyuyu520 网络上的极品现实中的🍃🪝 完美的展现了什么叫做现实不如意 网络线上凑  不过仍然无法改变你毕业找不到工作 腐木暴力的事实 底层人这一块 😁😁🤗🤗 https://t.co/92nY54StwV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1947186676930916352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXL903XMAAMjrV.jpg",
+        "width": 1170
+      },
+      {
+        "height": 539,
+        "media_key": "3_1947186676771786752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXL90RbEAAMwwg.jpg",
+        "width": 429
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947186676930916352",
+            "3_1947186676771786752"
+          ],
+          "media_source_tweet_id": [
+            "1947186687576285651",
+            "1947186687576285651"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1947239062433059190",
+        "created_at": "2025-07-21T10:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947239062433059190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545293682731089921",
+              "start": 3,
+              "username": "MAEJ45"
+            },
+            {
+              "end": 23,
+              "id": "1882424383224029184",
+              "start": 12,
+              "username": "wanbodaoba"
+            },
+            {
+              "end": 35,
+              "id": "1904873292366036992",
+              "start": 24,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92nY54StwV",
+              "end": 132,
+              "expanded_url": "https://x.com/MAEJ45/status/1947186687576285651/photo/1",
+              "media_key": "3_1947186676930916352",
+              "start": 109,
+              "url": "https://t.co/92nY54StwV"
+            },
+            {
+              "display_url": "pic.x.com/92nY54StwV",
+              "end": 132,
+              "expanded_url": "https://x.com/MAEJ45/status/1947186687576285651/photo/1",
+              "media_key": "3_1947186676771786752",
+              "start": 109,
+              "url": "https://t.co/92nY54StwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947239062433059190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947186687576285651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MAEJ45: @wanbodaoba @Chiyuyu520 网络上的极品现实中的🍃🪝 完美的展现了什么叫做现实不如意 网络线上凑  不过仍然无法改变你毕业找不到工作 腐木暴力的事实 底层人这一块 😁😁🤗🤗 https://t.co/92nY54StwV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947186676930916352",
+            "3_1947186676771786752"
+          ]
+        },
+        "author_id": "1545293682731089921",
+        "conversation_id": "1947165552583254276",
+        "created_at": "2025-07-21T06:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947186687576285651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882424383224029184",
+              "start": 0,
+              "username": "wanbodaoba"
+            },
+            {
+              "end": 23,
+              "id": "1904873292366036992",
+              "start": 12,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92nY54StwV",
+              "end": 120,
+              "expanded_url": "https://x.com/MAEJ45/status/1947186687576285651/photo/1",
+              "media_key": "3_1947186676930916352",
+              "start": 97,
+              "url": "https://t.co/92nY54StwV"
+            },
+            {
+              "display_url": "pic.x.com/92nY54StwV",
+              "end": 120,
+              "expanded_url": "https://x.com/MAEJ45/status/1947186687576285651/photo/1",
+              "media_key": "3_1947186676771786752",
+              "start": 97,
+              "url": "https://t.co/92nY54StwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947186687576285651",
+        "in_reply_to_user_id": "1882424383224029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947166192063648051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanbodaoba @Chiyuyu520 网络上的极品现实中的🍃🪝 完美的展现了什么叫做现实不如意 网络线上凑  不过仍然无法改变你毕业找不到工作 腐木暴力的事实 底层人这一块 😁😁🤗🤗 https://t.co/92nY54StwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939728580105445794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 1209,
+          "like_count": 3627,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T06:28:29.000Z",
+        "description": "爱穆TV / 爱支tv",
+        "id": "1545293682731089921",
+        "location": "Istanbul🇹🇷",
+        "name": "🇹🇷Kemal 🇹🇷",
+        "pinned_tweet_id": "1864268753674097029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946541796814712832/1eWBlY7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 89,
+          "like_count": 21131,
+          "listed_count": 1,
+          "media_count": 596,
+          "tweet_count": 1477
+        },
+        "username": "MAEJ45",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "波波～我的弯刀会杀光所有人，手起刀落，多么爽快，",
+        "id": "1882424383224029184",
+        "name": "哥萨克",
+        "pinned_tweet_id": "1947173925802414318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947162127535329280/EJysv3TA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 5622,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "wanbodaoba",
+        "verified": false
+      }
+    ]
+  }
+}

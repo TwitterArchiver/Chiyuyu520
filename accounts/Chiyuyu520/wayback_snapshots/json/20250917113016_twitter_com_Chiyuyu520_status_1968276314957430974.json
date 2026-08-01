@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1968224432318812430",
+    "created_at": "2025-09-17T11:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968276314957430974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "881844856770904065",
+          "start": 0,
+          "username": "yyl04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968276314957430974",
+    "in_reply_to_user_id": "881844856770904065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968276079912882494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyl04 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968224432318812430",
+        "created_at": "2025-09-17T11:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968276314957430974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "881844856770904065",
+              "start": 0,
+              "username": "yyl04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968276314957430974",
+        "in_reply_to_user_id": "881844856770904065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968276079912882494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyl04 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881844856770904065",
+        "conversation_id": "1968224432318812430",
+        "created_at": "2025-09-17T11:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968276079912882494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968276079912882494",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968224432318812430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 恭喜咯，是对象吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 1294,
+          "like_count": 5457,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-03T11:59:32.000Z",
+        "description": "xp展示，🇨🇳🏳️‍🌈⚤中文/En，男孩子20↑，玩原神，霉粉🧡✨，最喜欢的人、BFF @Stapx_Happy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Stapx_Happy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yyl04.…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/yyl04.stapxs.cn",
+                "start": 0,
+                "url": "https://t.co/waBzyoON1L"
+              }
+            ]
+          }
+        },
+        "id": "881844856770904065",
+        "location": "云南 昆明",
+        "name": "林霂凌yyl",
+        "pinned_tweet_id": "1705263229658861670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953418575076843520/ily0l4ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 3350,
+          "like_count": 131516,
+          "listed_count": 5,
+          "media_count": 949,
+          "tweet_count": 10267
+        },
+        "url": "https://t.co/waBzyoON1L",
+        "username": "yyl04",
+        "verified": false
+      }
+    ]
+  }
+}

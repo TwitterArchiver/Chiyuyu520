@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1929935542931861847",
+    "created_at": "2025-06-05T07:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T08:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930523441490538731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "BipolarBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930523441490538731",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930523234199580879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BipolarBP 打的时候私信告诉我什么时候，哪张卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1929935542931861847",
+        "created_at": "2025-06-05T07:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930523441490538731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "BipolarBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930523441490538731",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930523234199580879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BipolarBP 打的时候私信告诉我什么时候，哪张卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918261520817065984",
+        "conversation_id": "1929935542931861847",
+        "created_at": "2025-06-05T07:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930523234199580879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930523234199580879",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929935542931861847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 那我打电话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 509,
+          "like_count": 545,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，取向男，友跨，看见了会回Fo，能和我交朋友吗 SHE/THEY/THEM",
+        "id": "1918261520817065984",
+        "location": "坐标河南",
+        "name": "双相情感障碍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921442393619935232/GutosocN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 180,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "username": "BipolarBP",
+        "verified": false
+      }
+    ]
+  }
+}

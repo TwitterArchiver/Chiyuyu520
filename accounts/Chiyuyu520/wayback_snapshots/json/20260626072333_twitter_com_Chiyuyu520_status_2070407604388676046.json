@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070407596838899712"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2070335171946303943",
+    "created_at": "2026-06-26T07:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070407604388676046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476448742622449664",
+          "start": 0,
+          "username": "l93374231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/87T7SNWcD8",
+          "end": 40,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2070407604388676046/photo/1",
+          "media_key": "3_2070407596838899712",
+          "start": 17,
+          "url": "https://t.co/87T7SNWcD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070407604388676046",
+    "in_reply_to_user_id": "1476448742622449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070406158159089929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l93374231 因为在🐢大 https://t.co/87T7SNWcD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2070407596838899712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuQvWXaUAAoLk6.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070407596838899712"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2070335171946303943",
+        "created_at": "2026-06-26T07:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070407604388676046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476448742622449664",
+              "start": 0,
+              "username": "l93374231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87T7SNWcD8",
+              "end": 40,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2070407604388676046/photo/1",
+              "media_key": "3_2070407596838899712",
+              "start": 17,
+              "url": "https://t.co/87T7SNWcD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070407604388676046",
+        "in_reply_to_user_id": "1476448742622449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070406158159089929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l93374231 因为在🐢大 https://t.co/87T7SNWcD8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476448742622449664",
+        "conversation_id": "2070335171946303943",
+        "created_at": "2026-06-26T07:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070406158159089929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070406158159089929",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070335171946303943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 为什么是沙河高教园"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4326,
+          "following_count": 1292,
+          "like_count": 7185,
+          "listed_count": 5,
+          "media_count": 531,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T07:03:30.000Z",
+        "description": "Beijing 热爱自由，喜欢冒险和尝试新鲜事物，记录生活～欢迎交流（生活/学术皆可），请礼貌温柔对待🥰 友跨🍥🌍🪐 认出我的可以私信但不要传播🥺",
+        "id": "1476448742622449664",
+        "location": "Mars",
+        "name": "等风来/～\\",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015069783423586304/y0d2AtNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1038,
+          "like_count": 23035,
+          "listed_count": 5,
+          "media_count": 881,
+          "tweet_count": 2901
+        },
+        "url": "",
+        "username": "l93374231",
+        "verified": false
+      }
+    ]
+  }
+}

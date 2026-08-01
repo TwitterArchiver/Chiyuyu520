@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934260295163371769",
+    "created_at": "2025-06-15T19:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T20:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934328209769918869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1730923014471180288",
+          "start": 0,
+          "username": "sta_3120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934328209769918869",
+    "in_reply_to_user_id": "1730923014471180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934316615937712431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sta_3120 可以来当编辑写自己的文档，加qq群讲就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934260295163371769",
+        "created_at": "2025-06-15T19:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T20:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934328209769918869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "sta_3120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934328209769918869",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934316615937712431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sta_3120 可以来当编辑写自己的文档，加qq群讲就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "1934260295163371769",
+        "created_at": "2025-06-15T18:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T19:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934316615937712431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934316615937712431",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934260295163371769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 希望能加入女性倾向非二元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @feimiaonya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "feimiaonya"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 873,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "Transfem non-binary/any pronouns/@Sydney_Uni and @UNSW alumni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 54,
+                "start": 49,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Science Museum",
+        "name": "不屈の3120ST🏳️‍⚧️",
+        "pinned_tweet_id": "1927267567657255181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919359639818477568/If6l9MN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 205,
+          "like_count": 292,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 2977
+        },
+        "username": "sta_3120",
+        "verified": false
+      }
+    ]
+  }
+}

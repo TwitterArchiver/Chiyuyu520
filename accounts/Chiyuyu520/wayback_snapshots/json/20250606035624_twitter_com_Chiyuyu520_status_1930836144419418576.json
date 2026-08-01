@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930836144419418576",
+    "created_at": "2025-06-06T03:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T04:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930836144419418576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gura201189578/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/gura201189578/status/1921423815780807148",
+          "start": 42,
+          "url": "https://t.co/nQKOr5BfmA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930836144419418576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921423815780807148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这也一堆骚扰我的，但都是问我约不约/想免费超皮的\n我也才14岁口牙😰被你们搞怕了 https://t.co/nQKOr5BfmA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930836144419418576",
+        "created_at": "2025-06-06T03:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930836144419418576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gura201189578/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/gura201189578/status/1921423815780807148",
+              "start": 42,
+              "url": "https://t.co/nQKOr5BfmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930836144419418576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921423815780807148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这也一堆骚扰我的，但都是问我约不约/想免费超皮的\n我也才14岁口牙😰被你们搞怕了 https://t.co/nQKOr5BfmA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890699652003209216",
+        "conversation_id": "1921423815780807148",
+        "created_at": "2025-05-11T04:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T05:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921423815780807148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921423815780807148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭傻逼片姐你野爹我没满14周不能操你那臭骚逼天天关注私信骚扰你爹我让我操你那烂逼小心线下之后我用未成年身份一个110讹死你妈了逼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 550,
+          "like_count": 632,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T09:48:31.000Z",
+        "description": "13周岁顺直精神祖国亚特兰蒂斯（政治立场通吃反mc和极端支黑极端神神极端网左极端反贼还有极端粉红跟纳粹坐一桌😋）",
+        "id": "1890699652003209216",
+        "location": "上海黄金海岸大厦",
+        "name": "Gawrgura2011",
+        "pinned_tweet_id": "1909038185386303660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890699836674215936/6i5nX5oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 267,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 978
+        },
+        "username": "gura201189578",
+        "verified": false
+      }
+    ]
+  }
+}

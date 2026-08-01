@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1994642947393081531",
+    "created_at": "2025-11-29T05:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994642947393081531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1356583549",
+          "start": 3,
+          "username": "kagurazakayashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994642947393081531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994618708971663549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagurazakayashi: 大槻真希演出一半被拉闸；滨崎步在没有观众的情况下独自完成演出；某些社交网站上全都是全国各地各种日本团队演出活动的“不可抗力”紧急取消的铺天盖地的信息；外交部已明确表明暂停日本电影在华的上映审批，多个城市取消20多场日本音乐人演唱会。下一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1934,
+        "media_key": "3_1994613560568365056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65KdyXawAAkOsw.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1994642947393081531",
+        "created_at": "2025-11-29T05:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994642947393081531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1356583549",
+              "start": 3,
+              "username": "kagurazakayashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994642947393081531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994618708971663549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagurazakayashi: 大槻真希演出一半被拉闸；滨崎步在没有观众的情况下独自完成演出；某些社交网站上全都是全国各地各种日本团队演出活动的“不可抗力”紧急取消的铺天盖地的信息；外交部已明确表明暂停日本电影在华的上映审批，多个城市取消20多场日本音乐人演唱会。下一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994613560568365056"
+          ]
+        },
+        "author_id": "1356583549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1994618708971663549",
+        "created_at": "2025-11-29T04:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994618708971663549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23S4EbvDHl",
+              "end": 156,
+              "expanded_url": "https://x.com/kagurazakayashi/status/1994618708971663549/photo/1",
+              "media_key": "3_1994613560568365056",
+              "start": 133,
+              "url": "https://t.co/23S4EbvDHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994618708971663549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1115,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大槻真希演出一半被拉闸；滨崎步在没有观众的情况下独自完成演出；某些社交网站上全都是全国各地各种日本团队演出活动的“不可抗力”紧急取消的铺天盖地的信息；外交部已明确表明暂停日本电影在华的上映审批，多个城市取消20多场日本音乐人演唱会。下一步是不是要拆除全国的舞萌机了 https://t.co/23S4EbvDHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "「含糖2025.3.24  雷见证蛆抽象人\n跨过晨昏线，便是永夜。」\n账号我先拿去用了，反正放着也是放着；\n目前用于发送重要事项。",
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼#通知bot",
+        "pinned_tweet_id": "1982347631746847206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 1272,
+          "like_count": 5833,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1111
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没有头像和推文的、或广告人乐子人别点关注会被拉黑。女装不发R18（但有擦边的）。友跨顺男，撑跨。大龄女装爱好者。喜欢无性SM（Switch）。G+难民。曾脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14704,
+          "following_count": 5589,
+          "like_count": 19376,
+          "listed_count": 60,
+          "media_count": 505,
+          "tweet_count": 4027
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

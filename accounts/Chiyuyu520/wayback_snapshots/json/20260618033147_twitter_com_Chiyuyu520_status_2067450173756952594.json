@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067450169231314944"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2067450173756952594",
+    "created_at": "2026-06-18T03:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067450173756952594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cy5sKtb2Ne",
+          "end": 39,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2067450173756952594/photo/1",
+          "media_key": "3_2067450169231314944",
+          "start": 16,
+          "url": "https://t.co/Cy5sKtb2Ne"
+        },
+        {
+          "display_url": "x.com/zhsy211427/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/zhsy211427/status/2066885350585520544",
+          "start": 40,
+          "url": "https://t.co/FJk4ei9s89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067450173756952594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066885350585520544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我无坐绿皮算什么，算屁股硬吗 https://t.co/Cy5sKtb2Ne https://t.co/FJk4ei9s89"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2067450169231314944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEO-Z_akAAf0XG.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067450169231314944"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2067450173756952594",
+        "created_at": "2026-06-18T03:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067450173756952594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cy5sKtb2Ne",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2067450173756952594/photo/1",
+              "media_key": "3_2067450169231314944",
+              "start": 16,
+              "url": "https://t.co/Cy5sKtb2Ne"
+            },
+            {
+              "display_url": "x.com/zhsy211427/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/zhsy211427/status/2066885350585520544",
+              "start": 40,
+              "url": "https://t.co/FJk4ei9s89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067450173756952594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066885350585520544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我无坐绿皮算什么，算屁股硬吗 https://t.co/Cy5sKtb2Ne https://t.co/FJk4ei9s89"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780642673713356800",
+        "conversation_id": "2066746807976354194",
+        "created_at": "2026-06-16T14:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066885350585520544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066885350585520544",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066746807976354194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 那我无坐绿皮算什么，算屁股硬吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 1291,
+          "like_count": 6972,
+          "listed_count": 5,
+          "media_count": 463,
+          "tweet_count": 1588
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-17T17:01:27.000Z",
+        "description": "|我重新好了,开始新的生活|多功能画手|会搞抽象|会安慰人|mtf🏳️‍⚧️|每天开始自律生活|不负韶华｜有证含糖｜一起加油一起努力!!!|欢迎互fo| || only love: @TristaH34974 |||||||a match made in heaven",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "TristaH34974"
+              }
+            ]
+          }
+        },
+        "id": "1780642673713356800",
+        "name": "咕咕不哭",
+        "pinned_tweet_id": "1960748936685347232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960638562615091203/yhGVtsW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 240,
+          "like_count": 395,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "zhsy211427",
+        "verified": false
+      }
+    ]
+  }
+}

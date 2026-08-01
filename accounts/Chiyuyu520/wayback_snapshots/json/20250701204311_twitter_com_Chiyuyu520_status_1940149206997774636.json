@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940149021273718785"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1940149206997774636",
+    "created_at": "2025-07-01T20:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T21:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940149206997774636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1415940321058332676",
+          "start": 2,
+          "username": "ReaVes_SaiV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pUdAh4nWgE",
+          "end": 59,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1940149206997774636/photo/1",
+          "media_key": "3_1940149021273718785",
+          "start": 36,
+          "url": "https://t.co/pUdAh4nWgE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940149206997774636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和 @ReaVes_SaiV 在一起的机械动力联机w\n凌晨玩到好晚了呢 https://t.co/pUdAh4nWgE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1940149021273718785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuzLQWhXgAEkPC7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940149021273718785"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940149206997774636",
+        "created_at": "2025-07-01T20:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T21:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940149206997774636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1415940321058332676",
+              "start": 2,
+              "username": "ReaVes_SaiV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUdAh4nWgE",
+              "end": 59,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1940149206997774636/photo/1",
+              "media_key": "3_1940149021273718785",
+              "start": 36,
+              "url": "https://t.co/pUdAh4nWgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940149206997774636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和 @ReaVes_SaiV 在一起的机械动力联机w\n凌晨玩到好晚了呢 https://t.co/pUdAh4nWgE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 1102,
+          "like_count": 2131,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-16T07:44:29.000Z",
+        "description": "你好喔，我是若叶\n09年🏳️‍⚧️高中生/生日🍰是5.13 目前重度抑郁休学在家/MBTI是ISFP-T/喜欢东方Project 推的是水桥帕露西|•'-'•)و✧/音游喜欢玩Arcaea和Maimai DX🎵/IP：温州\n不键政，不要发广告 请速速来和我交朋友哦\n                    赞助码↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/ReaVes_SaiV/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/ReaVes_SaiV/status/1906312269522477368?t=56TgSFkocANZB3VE9Mecow&s=19",
+                "start": 0,
+                "url": "https://t.co/hQcR8U6jWz"
+              }
+            ]
+          }
+        },
+        "id": "1415940321058332676",
+        "location": "Venus",
+        "name": "🏳️‍⚧️ReaVes_Parsee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906398665041928192/x6vIM8tQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 343,
+          "like_count": 2040,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/hQcR8U6jWz",
+        "username": "ReaVes_SaiV",
+        "verified": false
+      }
+    ]
+  }
+}

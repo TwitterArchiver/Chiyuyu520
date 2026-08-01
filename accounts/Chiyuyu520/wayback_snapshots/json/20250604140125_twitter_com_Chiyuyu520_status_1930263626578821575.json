@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T14:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T15:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930263626578821575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "993493604",
+          "start": 0,
+          "username": "boris_zhao_93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930263626578821575",
+    "in_reply_to_user_id": "993493604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930263203998773720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boris_zhao_93 把账号的内容做好，少发广告什么的，其实也不会差到哪去😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930263197229166596",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsmsJqHasAQoe0a.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930263626578821575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "993493604",
+              "start": 0,
+              "username": "boris_zhao_93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930263626578821575",
+        "in_reply_to_user_id": "993493604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930263203998773720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boris_zhao_93 把账号的内容做好，少发广告什么的，其实也不会差到哪去😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930263197229166596"
+          ]
+        },
+        "author_id": "993493604",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T13:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930263203998773720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoBJyADkmp",
+              "end": 73,
+              "expanded_url": "https://x.com/boris_zhao_93/status/1930263203998773720/photo/1",
+              "media_key": "3_1930263197229166596",
+              "start": 50,
+              "url": "https://t.co/ZoBJyADkmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930263203998773720",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 算了，反正发推也没人看，懒得折腾了……而且搞干净的家庭IP又是一笔钱吧…… https://t.co/ZoBJyADkmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 491,
+          "like_count": 397,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-06T17:28:20.000Z",
+        "description": "Programmer/Engineer/Blogger Chinese | zh-CN/en-US/ja-JP https://t.co/nZbTSvwAfb | https://t.co/TzSbshybsi | https://t.co/PO1x2Qm5mR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/boris1993",
+                "end": 79,
+                "expanded_url": "http://github.com/boris1993",
+                "start": 56,
+                "url": "https://t.co/nZbTSvwAfb"
+              },
+              {
+                "display_url": "instagram.com/boris.zhao/",
+                "end": 105,
+                "expanded_url": "http://instagram.com/boris.zhao/",
+                "start": 82,
+                "url": "https://t.co/TzSbshybsi"
+              },
+              {
+                "display_url": "ngl.link/boris1993",
+                "end": 131,
+                "expanded_url": "https://ngl.link/boris1993",
+                "start": 108,
+                "url": "https://t.co/PO1x2Qm5mR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boris1993.com",
+                "end": 23,
+                "expanded_url": "https://www.boris1993.com",
+                "start": 0,
+                "url": "https://t.co/Nlmhu0aOj6"
+              }
+            ]
+          }
+        },
+        "id": "993493604",
+        "name": "boris1993",
+        "pinned_tweet_id": "1889540230723805670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1014585662161342464/QkPWFgJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 237,
+          "like_count": 71422,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 6939
+        },
+        "url": "https://t.co/Nlmhu0aOj6",
+        "username": "boris_zhao_93",
+        "verified": false
+      }
+    ]
+  }
+}

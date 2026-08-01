@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931716089316261888",
+        "3_1931716086489382912",
+        "3_1931716086757769216",
+        "3_1931716086812258304"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "1931716093372244305",
+    "created_at": "2025-06-08T14:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T15:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931716093372244305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgfM1Qv7kD",
+          "end": 189,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+          "media_key": "3_1931716089316261888",
+          "start": 166,
+          "url": "https://t.co/hgfM1Qv7kD"
+        },
+        {
+          "display_url": "pic.x.com/hgfM1Qv7kD",
+          "end": 189,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+          "media_key": "3_1931716086489382912",
+          "start": 166,
+          "url": "https://t.co/hgfM1Qv7kD"
+        },
+        {
+          "display_url": "pic.x.com/hgfM1Qv7kD",
+          "end": 189,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+          "media_key": "3_1931716086757769216",
+          "start": 166,
+          "url": "https://t.co/hgfM1Qv7kD"
+        },
+        {
+          "display_url": "pic.x.com/hgfM1Qv7kD",
+          "end": 189,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+          "media_key": "3_1931716086812258304",
+          "start": 166,
+          "url": "https://t.co/hgfM1Qv7kD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931716093372244305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "香港HAHA SIM卡使用体验：\n优势：极度低廉的保号成本\n10HKD（9RMB）就可以保一年\n适用于以下人群：\n只是想长期持有一个852的HK电话卡，注册WeChat Alipay HK\n需要低保号成本，那么HAHA SIM绝对适合你。如果要用流量、国外上网、打电话接电话 那么HAHA SIM可能不太适合你\n中国大陆漫游资费：\n  收短信：免费\n  发短信：3.5hkd/条\n  打电话：6hkd/分钟\n  接电话：8hkd/分钟\n流量费用：年费248hkd包含33G高速流量 有效期365天 也有月付日付\n说明：\n如果你没有实名，可以漫游上网、接打电话以及发送短信，但是无法接收短信，解决方式是实名\n我遇到的问题：\n刚插上手机自动注册到中国电信，但是显示无网络覆盖，手动切换到中国联通解决，目前中国CU5G很稳。可能换个地方就能用CT漫游了（也可能是因为我没漫游流量的问题）\n缺点如下：\n流量打电话费用不便宜，对比CTM还贵，如果有这方面需求建议CTM（5G SA支持速度快）或者中国电信香港/澳门 都比这个更好\n漫游可能不太稳定（现在3HK已经解决漫游问题，可以稳定使用）\n接收短信需要实名，可能对于部分用户来说困难 我找的代实名 需要加钱\n价格参考：\n单卡 88人民币\n卡+实名 118人民币\n注意：卡内自带50HKD余额！！！\n我求求你们别拿不带余额的裸卡和我带余额的预付卡比了，拿着淘宝四五十一张的裸卡跟我说淘宝更便宜。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香港HAHA SIM卡使用体验：\n优势：极度低廉的保号成本\n10HKD（9RMB）就可以保一年\n适用于以下人群：\n只是想长期持有一个852的HK电话卡，注册WeChat Alipay HK\n需要低保号成本，那么HAHA SIM绝对适合你。如果要用流量、国外上网、打电话接电话 那么HAHA SIM可能不太适合你\n中国大陆漫游资费： https://t.co/hgfM1Qv7kD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1931716089316261888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7VjG6aQAAu2f6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931716086489382912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7Vi8YbgAAPxyF.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931716086757769216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7Vi9YawAAp3B5.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931716086812258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7Vi9laMAAStKB.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931716089316261888",
+            "3_1931716086489382912",
+            "3_1931716086757769216",
+            "3_1931716086812258304"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "1931716093372244305",
+        "created_at": "2025-06-08T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931716093372244305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgfM1Qv7kD",
+              "end": 189,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+              "media_key": "3_1931716089316261888",
+              "start": 166,
+              "url": "https://t.co/hgfM1Qv7kD"
+            },
+            {
+              "display_url": "pic.x.com/hgfM1Qv7kD",
+              "end": 189,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+              "media_key": "3_1931716086489382912",
+              "start": 166,
+              "url": "https://t.co/hgfM1Qv7kD"
+            },
+            {
+              "display_url": "pic.x.com/hgfM1Qv7kD",
+              "end": 189,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+              "media_key": "3_1931716086757769216",
+              "start": 166,
+              "url": "https://t.co/hgfM1Qv7kD"
+            },
+            {
+              "display_url": "pic.x.com/hgfM1Qv7kD",
+              "end": 189,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1931716093372244305/photo/1",
+              "media_key": "3_1931716086812258304",
+              "start": 166,
+              "url": "https://t.co/hgfM1Qv7kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931716093372244305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "香港HAHA SIM卡使用体验：\n优势：极度低廉的保号成本\n10HKD（9RMB）就可以保一年\n适用于以下人群：\n只是想长期持有一个852的HK电话卡，注册WeChat Alipay HK\n需要低保号成本，那么HAHA SIM绝对适合你。如果要用流量、国外上网、打电话接电话 那么HAHA SIM可能不太适合你\n中国大陆漫游资费：\n  收短信：免费\n  发短信：3.5hkd/条\n  打电话：6hkd/分钟\n  接电话：8hkd/分钟\n流量费用：年费248hkd包含33G高速流量 有效期365天 也有月付日付\n说明：\n如果你没有实名，可以漫游上网、接打电话以及发送短信，但是无法接收短信，解决方式是实名\n我遇到的问题：\n刚插上手机自动注册到中国电信，但是显示无网络覆盖，手动切换到中国联通解决，目前中国CU5G很稳。可能换个地方就能用CT漫游了（也可能是因为我没漫游流量的问题）\n缺点如下：\n流量打电话费用不便宜，对比CTM还贵，如果有这方面需求建议CTM（5G SA支持速度快）或者中国电信香港/澳门 都比这个更好\n漫游可能不太稳定（现在3HK已经解决漫游问题，可以稳定使用）\n接收短信需要实名，可能对于部分用户来说困难 我找的代实名 需要加钱\n价格参考：\n单卡 88人民币\n卡+实名 118人民币\n注意：卡内自带50HKD余额！！！\n我求求你们别拿不带余额的裸卡和我带余额的预付卡比了，拿着淘宝四五十一张的裸卡跟我说淘宝更便宜。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港HAHA SIM卡使用体验：\n优势：极度低廉的保号成本\n10HKD（9RMB）就可以保一年\n适用于以下人群：\n只是想长期持有一个852的HK电话卡，注册WeChat Alipay HK\n需要低保号成本，那么HAHA SIM绝对适合你。如果要用流量、国外上网、打电话接电话 那么HAHA SIM可能不太适合你\n中国大陆漫游资费： https://t.co/hgfM1Qv7kD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 627,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1935243370827497744",
+    "created_at": "2025-06-18T13:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935330569606537700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824678795200139264",
+          "start": 0,
+          "username": "XdOwo88134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935330569606537700",
+    "in_reply_to_user_id": "1824678795200139264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935329422888022365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XdOwo88134 谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_1935329399462854656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtur1cJagAAxoLW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1935243370827497744",
+        "created_at": "2025-06-18T13:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935330569606537700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824678795200139264",
+              "start": 0,
+              "username": "XdOwo88134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935330569606537700",
+        "in_reply_to_user_id": "1824678795200139264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935329422888022365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XdOwo88134 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935329399462854656"
+          ]
+        },
+        "author_id": "1824678795200139264",
+        "conversation_id": "1935243370827497744",
+        "created_at": "2025-06-18T13:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935329422888022365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHL55TxX2w",
+              "end": 35,
+              "expanded_url": "https://x.com/XdOwo88134/status/1935329422888022365/photo/1",
+              "media_key": "3_1935329399462854656",
+              "start": 12,
+              "url": "https://t.co/mHL55TxX2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935329422888022365",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935243370827497744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 https://t.co/mHL55TxX2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 997,
+          "like_count": 1498,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:25:13.000Z",
+        "description": "晚安，無論你是誰",
+        "id": "1824678795200139264",
+        "location": "永恒之地",
+        "name": "xd owo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824678851236044800/9Mr_zO5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 659
+        },
+        "username": "XdOwo88134",
+        "verified": false
+      }
+    ]
+  }
+}

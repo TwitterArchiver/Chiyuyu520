@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1941873399346950253",
+    "created_at": "2025-07-06T14:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T15:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941873399346950253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1941853604966764980",
+          "start": 38,
+          "url": "https://t.co/8wS8gEjjUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941873399346950253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941853604966764980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天发生的事对我来讲实在太沉重\n吃了1t氯硝\n关机吧 晚安\n谢谢姐姐的氯硝 https://t.co/8wS8gEjjUo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2030,
+        "media_key": "3_1941853600839340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLZj8PXkAA7vip.jpg",
+        "width": 1490
+      },
+      {
+        "height": 2240,
+        "media_key": "3_1941853600507944960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLZj7AW4AAkgv1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1941873399346950253",
+        "created_at": "2025-07-06T14:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941873399346950253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1941853604966764980",
+              "start": 38,
+              "url": "https://t.co/8wS8gEjjUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941873399346950253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941853604966764980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天发生的事对我来讲实在太沉重\n吃了1t氯硝\n关机吧 晚安\n谢谢姐姐的氯硝 https://t.co/8wS8gEjjUo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941853600839340032",
+            "3_1941853600507944960"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1941853604966764980",
+        "created_at": "2025-07-06T13:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941853604966764980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vyrxb9g5Fg",
+              "end": 29,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1941853604966764980/photo/1",
+              "media_key": "3_1941853600839340032",
+              "start": 6,
+              "url": "https://t.co/Vyrxb9g5Fg"
+            },
+            {
+              "display_url": "pic.x.com/Vyrxb9g5Fg",
+              "end": 29,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1941853604966764980/photo/1",
+              "media_key": "3_1941853600507944960",
+              "start": 6,
+              "url": "https://t.co/Vyrxb9g5Fg"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1941716643140469040",
+              "start": 30,
+              "url": "https://t.co/xyUdwHWcGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941853604966764980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941716643140469040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你们。 https://t.co/Vyrxb9g5Fg https://t.co/xyUdwHWcGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 1128,
+          "like_count": 2597,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

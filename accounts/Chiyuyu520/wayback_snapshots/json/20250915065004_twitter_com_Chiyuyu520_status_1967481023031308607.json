@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967477945641119744"
+      ],
+      "media_source_tweet_id": [
+        "1967478356619984995"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1967481023031308607",
+    "created_at": "2025-09-15T06:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T07:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967481023031308607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.me/hydrogenneko_B",
+          "end": 75,
+          "expanded_url": "https://t.me/hydrogenneko_B",
+          "start": 52,
+          "status": 200,
+          "title": "Telegram: Contact @hydrogenneko_B",
+          "unwound_url": "https://t.me/hydrogenneko_B",
+          "url": "https://t.co/0BdDV85hR7"
+        },
+        {
+          "description": "Catgirl Electrical and Electronics Engineers Association縮寫為CEEE，為計算機和電子工程愛好貓娘的交流場所w",
+          "display_url": "t.me/hydrogenneko_A",
+          "end": 103,
+          "expanded_url": "https://t.me/hydrogenneko_A",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1967478361720242176/gPVQlzOd?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1967478361720242176/gPVQlzOd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "東京AH綜合病院",
+          "unwound_url": "https://t.me/hydrogenneko_A",
+          "url": "https://t.co/Swn2FESAgL"
+        },
+        {
+          "display_url": "pic.x.com/m5BDtvszxP",
+          "end": 127,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1967478356619984995/photo/1",
+          "media_key": "3_1967477945641119744",
+          "start": 104,
+          "url": "https://t.co/m5BDtvszxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967481023031308607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967478356619984995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 各位欢迎来玩w！\nQQ群-水素小窝 1040170880\nTG频道 https://t.co/0BdDV85hR7\nTG群 https://t.co/Swn2FESAgL https://t.co/m5BDtvszxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2283,
+        "media_key": "3_1967477945641119744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G03ixHVasAAZTUp.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967477945641119744"
+          ],
+          "media_source_tweet_id": [
+            "1967478356619984995"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1967481023031308607",
+        "created_at": "2025-09-15T06:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967481023031308607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/hydrogenneko_B",
+              "end": 75,
+              "expanded_url": "https://t.me/hydrogenneko_B",
+              "start": 52,
+              "status": 200,
+              "title": "Telegram: Contact @hydrogenneko_B",
+              "unwound_url": "https://t.me/hydrogenneko_B",
+              "url": "https://t.co/0BdDV85hR7"
+            },
+            {
+              "description": "Catgirl Electrical and Electronics Engineers Association縮寫為CEEE，為計算機和電子工程愛好貓娘的交流場所w",
+              "display_url": "t.me/hydrogenneko_A",
+              "end": 103,
+              "expanded_url": "https://t.me/hydrogenneko_A",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1967478361720242176/gPVQlzOd?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967478361720242176/gPVQlzOd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "東京AH綜合病院",
+              "unwound_url": "https://t.me/hydrogenneko_A",
+              "url": "https://t.co/Swn2FESAgL"
+            },
+            {
+              "display_url": "pic.x.com/m5BDtvszxP",
+              "end": 127,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1967478356619984995/photo/1",
+              "media_key": "3_1967477945641119744",
+              "start": 104,
+              "url": "https://t.co/m5BDtvszxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967481023031308607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967478356619984995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 各位欢迎来玩w！\nQQ群-水素小窝 1040170880\nTG频道 https://t.co/0BdDV85hR7\nTG群 https://t.co/Swn2FESAgL https://t.co/m5BDtvszxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967477945641119744"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1967478356619984995",
+        "created_at": "2025-09-15T06:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967478356619984995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "t.me/hydrogenneko_B",
+              "end": 57,
+              "expanded_url": "https://t.me/hydrogenneko_B",
+              "start": 34,
+              "status": 200,
+              "title": "Telegram: Contact @hydrogenneko_B",
+              "unwound_url": "https://t.me/hydrogenneko_B",
+              "url": "https://t.co/0BdDV85hR7"
+            },
+            {
+              "description": "Catgirl Electrical and Electronics Engineers Association縮寫為CEEE，為計算機和電子工程愛好貓娘的交流場所w",
+              "display_url": "t.me/hydrogenneko_A",
+              "end": 85,
+              "expanded_url": "https://t.me/hydrogenneko_A",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1967478361720242176/gPVQlzOd?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967478361720242176/gPVQlzOd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "東京AH綜合病院",
+              "unwound_url": "https://t.me/hydrogenneko_A",
+              "url": "https://t.co/Swn2FESAgL"
+            },
+            {
+              "display_url": "pic.x.com/m5BDtvszxP",
+              "end": 109,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1967478356619984995/photo/1",
+              "media_key": "3_1967477945641119744",
+              "start": 86,
+              "url": "https://t.co/m5BDtvszxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967478356619984995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位欢迎来玩w！\nQQ群-水素小窝 1040170880\nTG频道 https://t.co/0BdDV85hR7\nTG群 https://t.co/Swn2FESAgL https://t.co/m5BDtvszxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | Lover ❤️ @HydrogenNeko | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HydrogenNeko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 1293,
+          "like_count": 5327,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・余命1年 ・Wife @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🍥",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 208,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 426
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

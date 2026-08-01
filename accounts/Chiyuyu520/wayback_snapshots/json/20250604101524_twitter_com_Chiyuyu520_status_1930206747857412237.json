@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930206744879476739"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T10:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T11:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930206747857412237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/18SDf0ohIF",
+          "end": 162,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1930206747857412237/photo/1",
+          "media_key": "3_1930206744879476739",
+          "start": 139,
+          "url": "https://t.co/18SDf0ohIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930206747857412237",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930179943717318918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "优秀IP示例 极度纯净的原生家庭宽带IP通常不容易被各种网站风控 如果你使用邮箱注册Google FaceBook 推特让你必须绑手机号验证或者做大量的人机验证 那你可以尝试换成更干净的IP，IDC机房和广播高风险IP注册的账号很容易被风控，封禁，不给推流，shadowban https://t.co/18SDf0ohIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930206744879476739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsl4zsuasAMpWBC.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930179939766284294",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gslgbb5asAYHoGb.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930179938965172226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GslgbY6asAIe0kx.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930206744879476739"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T10:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T11:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930206747857412237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18SDf0ohIF",
+              "end": 162,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930206747857412237/photo/1",
+              "media_key": "3_1930206744879476739",
+              "start": 139,
+              "url": "https://t.co/18SDf0ohIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930206747857412237",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "优秀IP示例 极度纯净的原生家庭宽带IP通常不容易被各种网站风控 如果你使用邮箱注册Google FaceBook 推特让你必须绑手机号验证或者做大量的人机验证 那你可以尝试换成更干净的IP，IDC机房和广播高风险IP注册的账号很容易被风控，封禁，不给推流，shadowban https://t.co/18SDf0ohIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930179939766284294",
+            "3_1930179938965172226"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T08:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T09:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930179943717318918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b5t3Lbor1",
+              "end": 75,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930179943717318918/photo/1",
+              "media_key": "3_1930179939766284294",
+              "start": 52,
+              "url": "https://t.co/9b5t3Lbor1"
+            },
+            {
+              "display_url": "pic.x.com/9b5t3Lbor1",
+              "end": 75,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930179943717318918/photo/1",
+              "media_key": "3_1930179938965172226",
+              "start": 52,
+              "url": "https://t.co/9b5t3Lbor1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930179943717318918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 371,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发帖没流量的可以去看看自己IP，机房IP风控值拉满还到处换IP的发帖不给推流也正常\n图1为优秀IP示例 https://t.co/9b5t3Lbor1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 475,
+          "like_count": 373,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

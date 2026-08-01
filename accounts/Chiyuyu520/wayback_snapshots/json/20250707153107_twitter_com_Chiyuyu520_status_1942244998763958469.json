@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942244994867253248"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1942244998763958469",
+    "created_at": "2025-07-07T15:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942244998763958469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "跨过晨昏线，便是永夜。",
+          "display_url": "chiyu.it",
+          "end": 43,
+          "expanded_url": "https://chiyu.it",
+          "start": 20,
+          "status": 200,
+          "title": "池鱼小栈",
+          "unwound_url": "https://chiyu.it",
+          "url": "https://t.co/0uEbejAuBC"
+        },
+        {
+          "display_url": "pic.x.com/Q2v1yG0She",
+          "end": 67,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1942244998763958469/photo/1",
+          "media_key": "3_1942244994867253248",
+          "start": 44,
+          "url": "https://t.co/Q2v1yG0She"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942244998763958469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "池鱼IT 百+IP 全国深绿\n欢迎来访\nhttps://t.co/0uEbejAuBC https://t.co/Q2v1yG0She"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942244994867253248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQ9iEnX0AATS_0.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942244994867253248"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1942244998763958469",
+        "created_at": "2025-07-07T15:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942244998763958469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "跨过晨昏线，便是永夜。",
+              "display_url": "chiyu.it",
+              "end": 43,
+              "expanded_url": "https://chiyu.it",
+              "start": 20,
+              "status": 200,
+              "title": "池鱼小栈",
+              "unwound_url": "https://chiyu.it",
+              "url": "https://t.co/0uEbejAuBC"
+            },
+            {
+              "display_url": "pic.x.com/Q2v1yG0She",
+              "end": 67,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1942244998763958469/photo/1",
+              "media_key": "3_1942244994867253248",
+              "start": 44,
+              "url": "https://t.co/Q2v1yG0She"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942244998763958469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "池鱼IT 百+IP 全国深绿\n欢迎来访\nhttps://t.co/0uEbejAuBC https://t.co/Q2v1yG0She"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1939963852235391150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 1122,
+          "like_count": 2673,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

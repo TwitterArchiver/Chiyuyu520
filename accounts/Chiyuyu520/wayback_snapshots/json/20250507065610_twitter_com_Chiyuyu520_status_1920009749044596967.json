@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1919927546906345719",
+    "created_at": "2025-05-07T06:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T07:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920009749044596967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908466480485961728",
+          "start": 0,
+          "username": "ratbbit3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920009749044596967",
+    "in_reply_to_user_id": "1908466480485961728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919932590485864570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratbbit3000 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1919927546906345719",
+        "created_at": "2025-05-07T06:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920009749044596967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908466480485961728",
+              "start": 0,
+              "username": "ratbbit3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920009749044596967",
+        "in_reply_to_user_id": "1908466480485961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919932590485864570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratbbit3000 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908466480485961728",
+        "conversation_id": "1919927546906345719",
+        "created_at": "2025-05-07T01:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919932590485864570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919932590485864570",
+        "in_reply_to_user_id": "1908466480485961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919931913751449840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 可是关系变成没关系问题是没问题\n于是我们继续～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 238,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 157
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T10:27:30.000Z",
+        "description": "即使身处不见光的角落，我们也要向阳而生。\n2009.07.22/双相休学中/INFP-T/",
+        "id": "1908466480485961728",
+        "name": "兔鼠煲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915112162714120192/clFXjeSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 195,
+          "like_count": 3256,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 340
+        },
+        "username": "ratbbit3000",
+        "verified": false
+      }
+    ]
+  }
+}

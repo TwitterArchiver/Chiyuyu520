@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937564012377759744",
+        "3_1937564013703102466"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1937564329228009976",
+    "created_at": "2025-06-24T17:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T18:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937564329228009976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513794140508631041",
+          "start": 2,
+          "username": "hoshroin"
+        },
+        {
+          "end": 20,
+          "id": "1574926726895108096",
+          "start": 12,
+          "username": "crooes2"
+        },
+        {
+          "end": 33,
+          "id": "1415940321058332676",
+          "start": 21,
+          "username": "ReaVes_SaiV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/udTWpQmvyk",
+          "end": 64,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1937564329228009976/photo/1",
+          "media_key": "3_1937564012377759744",
+          "start": 41,
+          "url": "https://t.co/udTWpQmvyk"
+        },
+        {
+          "display_url": "pic.x.com/udTWpQmvyk",
+          "end": 64,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1937564329228009976/photo/1",
+          "media_key": "3_1937564013703102466",
+          "start": 41,
+          "url": "https://t.co/udTWpQmvyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937564329228009976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和 @hoshroin @crooes2 @ReaVes_SaiV  的四人联机 https://t.co/udTWpQmvyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1009,
+        "media_key": "3_1937564012377759744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOcNB9bYAApTyn.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1009,
+        "media_key": "3_1937564013703102466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOcNG5agAIBXcE.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937564012377759744",
+            "3_1937564013703102466"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937564329228009976",
+        "created_at": "2025-06-24T17:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T18:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937564329228009976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513794140508631041",
+              "start": 2,
+              "username": "hoshroin"
+            },
+            {
+              "end": 20,
+              "id": "1574926726895108096",
+              "start": 12,
+              "username": "crooes2"
+            },
+            {
+              "end": 33,
+              "id": "1415940321058332676",
+              "start": 21,
+              "username": "ReaVes_SaiV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/udTWpQmvyk",
+              "end": 64,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1937564329228009976/photo/1",
+              "media_key": "3_1937564012377759744",
+              "start": 41,
+              "url": "https://t.co/udTWpQmvyk"
+            },
+            {
+              "display_url": "pic.x.com/udTWpQmvyk",
+              "end": 64,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1937564329228009976/photo/1",
+              "media_key": "3_1937564013703102466",
+              "start": 41,
+              "url": "https://t.co/udTWpQmvyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937564329228009976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和 @hoshroin @crooes2 @ReaVes_SaiV  的四人联机 https://t.co/udTWpQmvyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1064,
+          "like_count": 1814,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T08:20:36.000Z",
+        "description": "喜欢猫猫 | she/her | 生活清水推 | feminist | 不常上线 有时会发疯乱b人 谨慎关注 | 挚爱是 @crooes2 ❤ | 无意义日记发疯里号 @dacros4real",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "crooes2"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "dacros4real"
+              }
+            ]
+          }
+        },
+        "id": "1513794140508631041",
+        "location": "your cerebral cortex",
+        "name": "HoshRoin🍥",
+        "pinned_tweet_id": "1917925203977658636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839233363279806465/jfe-vP8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 682,
+          "like_count": 14546,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 2857
+        },
+        "username": "hoshroin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T00:59:51.000Z",
+        "description": "hrt 2023.1.31｜mtf｜手术攒钱中｜分享有趣推文｜可能是地雷女？｜轻微严男｜中文母语者｜挚爱是@hoshroin❤️｜现实生活幸福，淡推～｜可爱小动物喜爱｜备用帐号是@TianzunWarlord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "hoshroin"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "TianzunWarlord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+LY-e4e-sYawxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+LY-e4e-sYawxMWE1",
+                "start": 0,
+                "url": "https://t.co/1Uh3oxRWwT"
+              }
+            ]
+          }
+        },
+        "id": "1574926726895108096",
+        "location": "克克屯",
+        "name": "克洛兹crooes🏳️‍⚧️",
+        "pinned_tweet_id": "1886330201610879132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925665833394610176/I9_N9d9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 396,
+          "like_count": 7684,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 6408
+        },
+        "url": "https://t.co/1Uh3oxRWwT",
+        "username": "crooes2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-16T07:44:29.000Z",
+        "description": "你好喔，我是若叶\n09年🏳️‍⚧️高中生/生日🍰是5.13 目前重度抑郁休学在家/MBTI是ISFP-T/喜欢东方Project 推的是水桥帕露西|•'-'•)و✧/音游喜欢玩Arcaea和Maimai DX🎵/IP：温州\n不键政，不要发广告 请速速来和我交朋友哦\n                    赞助码↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/ReaVes_SaiV/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/ReaVes_SaiV/status/1906312269522477368?t=56TgSFkocANZB3VE9Mecow&s=19",
+                "start": 0,
+                "url": "https://t.co/hQcR8U6jWz"
+              }
+            ]
+          }
+        },
+        "id": "1415940321058332676",
+        "location": "Venus",
+        "name": "🏳️‍⚧️ReaVes_Parsee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906398665041928192/x6vIM8tQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 342,
+          "like_count": 2053,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/hQcR8U6jWz",
+        "username": "ReaVes_SaiV",
+        "verified": false
+      }
+    ]
+  }
+}

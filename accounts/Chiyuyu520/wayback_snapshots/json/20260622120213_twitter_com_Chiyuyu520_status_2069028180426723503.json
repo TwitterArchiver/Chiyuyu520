@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069028168955228160"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2069028180426723503",
+    "created_at": "2026-06-22T12:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069028180426723503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g12LAIySA8",
+          "end": 36,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2069028180426723503/photo/1",
+          "media_key": "3_2069028168955228160",
+          "start": 13,
+          "url": "https://t.co/g12LAIySA8"
+        },
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2068679697517715879",
+          "start": 37,
+          "url": "https://t.co/2VlHzZP28Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069028180426723503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068679697517715879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧星火站 依旧忘记携带 https://t.co/g12LAIySA8 https://t.co/2VlHzZP28Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069028168955228160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqKFDacAAPKtl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068679684058140673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVtNlpaUAEkLJj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069028168955228160"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2069028180426723503",
+        "created_at": "2026-06-22T12:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069028180426723503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g12LAIySA8",
+              "end": 36,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2069028180426723503/photo/1",
+              "media_key": "3_2069028168955228160",
+              "start": 13,
+              "url": "https://t.co/g12LAIySA8"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2068679697517715879",
+              "start": 37,
+              "url": "https://t.co/2VlHzZP28Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069028180426723503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068679697517715879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧星火站 依旧忘记携带 https://t.co/g12LAIySA8 https://t.co/2VlHzZP28Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068679684058140673"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2068679697517715879",
+        "created_at": "2026-06-21T12:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068679697517715879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vrjOlzsU9",
+              "end": 53,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2068679697517715879/photo/1",
+              "media_key": "3_2068679684058140673",
+              "start": 30,
+              "url": "https://t.co/9vrjOlzsU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068679697517715879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1159,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京朝阳站的临时证明竟然还是星火站 那时候这车站还只货运呢 https://t.co/9vrjOlzsU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4298,
+          "following_count": 1292,
+          "like_count": 7123,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

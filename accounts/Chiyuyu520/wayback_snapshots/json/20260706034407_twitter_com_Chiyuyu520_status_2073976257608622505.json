@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2073976257608622505",
+    "created_at": "2026-07-06T03:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:42:32.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073975861255225472",
+      "2073976257608622505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2073974084791361767",
+          "start": 61,
+          "url": "https://t.co/l6Q5cqrXBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073976257608622505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073974084791361767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尝试改座位值机人员：欸你没满 15 岁啊，我说我满了啊，值机人员：疑惑。核对年龄。哦 26 年了（改座位到安全出口靠窗） https://t.co/l6Q5cqrXBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2073974079766560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg8b-nagAAOM__.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2073975861255225472",
+        "created_at": "2026-07-06T03:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:42:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073975861255225472",
+          "2073976257608622505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2073974084791361767",
+              "start": 56,
+              "url": "https://t.co/l6Q5cqrXBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073975861255225472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073974084791361767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个人说，欸你没满 15 岁啊，我说我满了啊，值机人员：疑惑。核对年龄。哦 26 年了（改座位到安全出口靠窗） https://t.co/l6Q5cqrXBf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2073976257608622505",
+        "created_at": "2026-07-06T03:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:42:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073975861255225472",
+          "2073976257608622505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2073974084791361767",
+              "start": 61,
+              "url": "https://t.co/l6Q5cqrXBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073976257608622505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073974084791361767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尝试改座位值机人员：欸你没满 15 岁啊，我说我满了啊，值机人员：疑惑。核对年龄。哦 26 年了（改座位到安全出口靠窗） https://t.co/l6Q5cqrXBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073974079766560768"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073974084791361767",
+        "created_at": "2026-07-06T03:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073974084791361767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFYIYcM5NL",
+              "end": 37,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2073974084791361767/photo/1",
+              "media_key": "3_2073974079766560768",
+              "start": 14,
+              "url": "https://t.co/pFYIYcM5NL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073974084791361767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃的是机场头等舱休息室 https://t.co/pFYIYcM5NL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 1289,
+          "like_count": 7329,
+          "listed_count": 6,
+          "media_count": 582,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

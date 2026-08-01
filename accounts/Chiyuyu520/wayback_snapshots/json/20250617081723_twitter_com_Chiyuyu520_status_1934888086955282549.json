@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934888086955282549",
+    "created_at": "2025-06-17T08:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T09:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934888086955282549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chiyuyu520/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Chiyuyu520/status/1934882679436267700",
+          "start": 61,
+          "url": "https://t.co/RCquzB5mqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934888086955282549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934882679436267700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！！望转发扩散！！\n晚上七点左右去做笔录，然后把假死假自杀这些事曝光，推友可以在下面评论他做的一些事的证据，会一起提交的 https://t.co/RCquzB5mqx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934888086955282549",
+        "created_at": "2025-06-17T08:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934888086955282549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1934882679436267700",
+              "start": 61,
+              "url": "https://t.co/RCquzB5mqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934888086955282549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934882679436267700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！！望转发扩散！！\n晚上七点左右去做笔录，然后把假死假自杀这些事曝光，推友可以在下面评论他做的一些事的证据，会一起提交的 https://t.co/RCquzB5mqx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934882679436267700",
+        "created_at": "2025-06-17T07:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934882679436267700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934882679436267700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报警处理了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 951,
+          "like_count": 1332,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

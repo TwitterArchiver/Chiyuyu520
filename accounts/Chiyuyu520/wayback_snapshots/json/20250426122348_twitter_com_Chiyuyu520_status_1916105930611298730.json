@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1915830103701131368",
+    "created_at": "2025-04-26T12:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T13:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916105930611298730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239915471945838593",
+          "start": 0,
+          "username": "wtxycCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916105930611298730",
+    "in_reply_to_user_id": "1239915471945838593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916064703295721517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtxycCO 抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1915830103701131368",
+        "created_at": "2025-04-26T12:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916105930611298730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916105930611298730",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916064703295721517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO 抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239915471945838593",
+        "conversation_id": "1915830103701131368",
+        "created_at": "2025-04-26T09:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916064703295721517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916064703295721517",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916060648913703405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 抱抱^&gt;⸝⸝⸝⸝&lt;^੭ﾞ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 183,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 118
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T14:04:30.000Z",
+        "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学在读 会记录很多生活小感受 就当是个人日记好啦 不聊黄色也不聊政治(●'◡'●) 不要发黄图˃ʍ˂ （推特抱抱王(づ′▽`)づ 回fo请私信～",
+        "id": "1239915471945838593",
+        "location": "多瑙联邦",
+        "name": "☁️Cld🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 421,
+          "like_count": 2936,
+          "listed_count": 5,
+          "media_count": 60,
+          "tweet_count": 1046
+        },
+        "username": "wtxycCO",
+        "verified": false
+      }
+    ]
+  }
+}

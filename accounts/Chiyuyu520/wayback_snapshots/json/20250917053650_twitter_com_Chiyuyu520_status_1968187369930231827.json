@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968187366306353156"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1968187369930231827",
+    "created_at": "2025-09-17T05:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968187369930231827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xiTpKAAj4r",
+          "end": 172,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1968187369930231827/photo/1",
+          "media_key": "3_1968187366306353156",
+          "start": 149,
+          "url": "https://t.co/xiTpKAAj4r"
+        },
+        {
+          "display_url": "x.com/Red_6015/statu…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/Red_6015/status/1967229623537954927",
+          "start": 173,
+          "url": "https://t.co/lFVHXbVWxC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1968187369930231827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967229623537954927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整个推特的药商日雌我是最便宜的\n猫卷定价380我只卖370还包邮\n甚至发的都是京东快递\n要是不信我可以别买 你去问问在我这买的人有没有发货 拿到的东西是不是日雌\n微信收款码报风险很正常 原因是异地收款 要是用这个来判断是不是骗子那你大概率买不到药\n以我这个fo数要是卖假药骗钱早就被别人发帖锤爆了 https://t.co/xiTpKAAj4r https://t.co/lFVHXbVWxC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2648,
+        "media_key": "3_1968187366306353156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bn-1QaEAQN_ZO.jpg",
+        "width": 1436
+      },
+      {
+        "height": 1774,
+        "media_key": "3_1967229619993817088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00A6qNbsAA4dh3.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968187366306353156"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968187369930231827",
+        "created_at": "2025-09-17T05:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968187369930231827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiTpKAAj4r",
+              "end": 172,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1968187369930231827/photo/1",
+              "media_key": "3_1968187366306353156",
+              "start": 149,
+              "url": "https://t.co/xiTpKAAj4r"
+            },
+            {
+              "display_url": "x.com/Red_6015/statu…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/Red_6015/status/1967229623537954927",
+              "start": 173,
+              "url": "https://t.co/lFVHXbVWxC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1968187369930231827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967229623537954927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整个推特的药商日雌我是最便宜的\n猫卷定价380我只卖370还包邮\n甚至发的都是京东快递\n要是不信我可以别买 你去问问在我这买的人有没有发货 拿到的东西是不是日雌\n微信收款码报风险很正常 原因是异地收款 要是用这个来判断是不是骗子那你大概率买不到药\n以我这个fo数要是卖假药骗钱早就被别人发帖锤爆了 https://t.co/xiTpKAAj4r https://t.co/lFVHXbVWxC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967229619993817088"
+          ]
+        },
+        "author_id": "1709987456249171969",
+        "conversation_id": "1967229623537954927",
+        "created_at": "2025-09-14T14:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967229623537954927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OG2dDFVMWV",
+              "end": 29,
+              "expanded_url": "https://x.com/Red_6015/status/1967229623537954927/photo/1",
+              "media_key": "3_1967229619993817088",
+              "start": 6,
+              "url": "https://t.co/OG2dDFVMWV"
+            },
+            {
+              "display_url": "x.com/Chiyuyu520/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Chiyuyu520/status/1966469196256051391",
+              "start": 30,
+              "url": "https://t.co/cho4GXCjYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967229623537954927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3870,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966469196256051391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到啦 ~ https://t.co/OG2dDFVMWV https://t.co/cho4GXCjYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3340,
+          "following_count": 1290,
+          "like_count": 5392,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-05T17:42:42.000Z",
+        "description": "这里是小月月/红月，目前的坐标在保定附近活跃，MTF/小男娘，165cm/55Kg，胸部是有85a",
+        "id": "1709987456249171969",
+        "location": "月亮🌕",
+        "name": "Yue",
+        "pinned_tweet_id": "1817298101578924537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925453106567159809/zL0uH-3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 247,
+          "like_count": 841,
+          "listed_count": 5,
+          "media_count": 289,
+          "tweet_count": 1762
+        },
+        "username": "Red_6015",
+        "verified": false
+      }
+    ]
+  }
+}

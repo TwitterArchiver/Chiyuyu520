@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041745483807547392"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2041745491965427745",
+    "created_at": "2026-04-08T05:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041745491965427745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ehad5m4OHn",
+          "end": 38,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2041745491965427745/photo/1",
+          "media_key": "3_2041745483807547392",
+          "start": 15,
+          "url": "https://t.co/Ehad5m4OHn"
+        },
+        {
+          "display_url": "x.com/gowayslove520/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/gowayslove520/status/2041527280330318209",
+          "start": 39,
+          "url": "https://t.co/BYD6Ift3R4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041745491965427745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041527280330318209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如看看我的\n全是机器人（） https://t.co/Ehad5m4OHn https://t.co/BYD6Ift3R4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041745483807547392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW8sywbYAAVHBD.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041527277700390912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT2PhqaIAA7eQV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041745483807547392"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2041745491965427745",
+        "created_at": "2026-04-08T05:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041745491965427745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ehad5m4OHn",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2041745491965427745/photo/1",
+              "media_key": "3_2041745483807547392",
+              "start": 15,
+              "url": "https://t.co/Ehad5m4OHn"
+            },
+            {
+              "display_url": "x.com/gowayslove520/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/gowayslove520/status/2041527280330318209",
+              "start": 39,
+              "url": "https://t.co/BYD6Ift3R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041745491965427745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041527280330318209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如看看我的\n全是机器人（） https://t.co/Ehad5m4OHn https://t.co/BYD6Ift3R4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041527277700390912"
+          ]
+        },
+        "author_id": "1879219789601906688",
+        "conversation_id": "2041527280330318209",
+        "created_at": "2026-04-07T14:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041527280330318209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuLIBVEw7k",
+              "end": 28,
+              "expanded_url": "https://x.com/gowayslove520/status/2041527280330318209/photo/1",
+              "media_key": "3_2041527277700390912",
+              "start": 5,
+              "url": "https://t.co/SuLIBVEw7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041527280330318209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国？🤔 https://t.co/SuLIBVEw7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmhz7W"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1956753378090119454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3636,
+          "following_count": 1235,
+          "like_count": 5769,
+          "listed_count": 4,
+          "media_count": 290,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/ueqIkmhz7W",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-14T17:31:43.000Z",
+        "description": "2013の沃尔玛塑料袋🏳️‍⚧️🏳️‍🌈 mtx/酷儿 | 已出柜 | 家长党 | 友跨/LGBT | 曾HRT | Mild depression | INFP | 不见证 | AIGC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goway128.online",
+                "end": 23,
+                "expanded_url": "https://goway128.online",
+                "start": 0,
+                "url": "https://t.co/jDRagFSV6i"
+              }
+            ]
+          }
+        },
+        "id": "1879219789601906688",
+        "location": "我爱你们",
+        "name": "白🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2040585672550129957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024536299517202432/CHYmfNA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 131,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/jDRagFSV6i",
+        "username": "gowayslove520",
+        "verified": false
+      }
+    ]
+  }
+}

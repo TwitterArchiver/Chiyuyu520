@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1968206605033631798",
+    "created_at": "2025-09-17T06:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968206605033631798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LingluoWangxi/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/LingluoWangxi/status/1968203552830226434",
+          "start": 70,
+          "url": "https://t.co/22BabWN5yu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1968206605033631798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968203552830226434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢支持喵\n我们家的快递都是发京东快递包邮，不需要出钱，而且速度很快\n日雌370元一盒 全推特最低价 欢迎来买喵～\n感谢客户的信任和支持喵 https://t.co/22BabWN5yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1968203546123460608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1B2snxaYAAYtlt.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968206605033631798",
+        "created_at": "2025-09-17T06:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968206605033631798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingluoWangxi/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/LingluoWangxi/status/1968203552830226434",
+              "start": 70,
+              "url": "https://t.co/22BabWN5yu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1968206605033631798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968203552830226434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢支持喵\n我们家的快递都是发京东快递包邮，不需要出钱，而且速度很快\n日雌370元一盒 全推特最低价 欢迎来买喵～\n感谢客户的信任和支持喵 https://t.co/22BabWN5yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968203546123460608"
+          ]
+        },
+        "author_id": "752457120319205377",
+        "conversation_id": "1968203552830226434",
+        "created_at": "2025-09-17T06:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968203552830226434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904873292366036992",
+              "start": 5,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiGmkZIPru",
+              "end": 40,
+              "expanded_url": "https://x.com/LingluoWangxi/status/1968203552830226434/photo/1",
+              "media_key": "3_1968203546123460608",
+              "start": 17,
+              "url": "https://t.co/xiGmkZIPru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968203552830226434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速度好快👀@Chiyuyu520 https://t.co/xiGmkZIPru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 1291,
+          "like_count": 5392,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-11T10:58:52.000Z",
+        "description": "",
+        "id": "752457120319205377",
+        "name": "ShangQinqiaoxin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/969417709648740352/8_hz5fkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 482,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "username": "LingluoWangxi",
+        "verified": false
+      }
+    ]
+  }
+}

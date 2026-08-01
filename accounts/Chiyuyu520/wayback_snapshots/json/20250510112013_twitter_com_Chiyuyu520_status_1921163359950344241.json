@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1920257230944846076",
+    "created_at": "2025-05-10T11:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T12:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921163359950344241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892114764689805312",
+          "start": 0,
+          "username": "MrPan10_9008"
+        },
+        {
+          "end": 30,
+          "id": "1546069708218454016",
+          "start": 14,
+          "username": "star_star_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921163359950344241",
+    "in_reply_to_user_id": "1892114764689805312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921150331838169551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrPan10_9008 @star_star_chan_ 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1920257230944846076",
+        "created_at": "2025-05-10T11:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921163359950344241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892114764689805312",
+              "start": 0,
+              "username": "MrPan10_9008"
+            },
+            {
+              "end": 30,
+              "id": "1546069708218454016",
+              "start": 14,
+              "username": "star_star_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921163359950344241",
+        "in_reply_to_user_id": "1892114764689805312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921150331838169551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrPan10_9008 @star_star_chan_ 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114764689805312",
+        "conversation_id": "1920257230944846076",
+        "created_at": "2025-05-10T10:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921150331838169551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 28,
+              "id": "1546069708218454016",
+              "start": 12,
+              "username": "star_star_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921150331838169551",
+        "in_reply_to_user_id": "1892114764689805312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921150065160093838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @star_star_chan_ 看來我是你哥了（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 280,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 169
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:31:48.000Z",
+        "description": "",
+        "id": "1892114764689805312",
+        "name": "MrPan10-9008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892117756927184896/FLZJvSz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "MrPan10_9008",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T09:52:12.000Z",
+        "description": "10後 | INFP | 碎碎念 | 自殘 | 死宅 | maimai | 灣灣北部 | 歡迎互fo互轉 | @bendan555 最喜歡寶寶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "bendan555"
+              }
+            ]
+          }
+        },
+        "id": "1546069708218454016",
+        "name": "☆/星醬",
+        "pinned_tweet_id": "1891863468916998652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908916056904880128/PSQILLjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 297,
+          "like_count": 5471,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 2349
+        },
+        "username": "star_star_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

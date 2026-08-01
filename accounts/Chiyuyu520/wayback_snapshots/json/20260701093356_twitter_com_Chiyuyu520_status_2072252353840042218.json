@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072252339734671360"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2072252353840042218",
+    "created_at": "2026-07-01T09:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072252353840042218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNMMl8kz1y",
+          "end": 34,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072252353840042218/photo/1",
+          "media_key": "3_2072252339734671360",
+          "start": 11,
+          "url": "https://t.co/rNMMl8kz1y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072252353840042218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西藏拉萨邮戳说是😋👍 https://t.co/rNMMl8kz1y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072252339734671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIehhLbcAAPrXE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072252339734671360"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2072252353840042218",
+        "created_at": "2026-07-01T09:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072252353840042218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNMMl8kz1y",
+              "end": 34,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072252353840042218/photo/1",
+              "media_key": "3_2072252339734671360",
+              "start": 11,
+              "url": "https://t.co/rNMMl8kz1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072252353840042218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西藏拉萨邮戳说是😋👍 https://t.co/rNMMl8kz1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4325,
+          "following_count": 1293,
+          "like_count": 7252,
+          "listed_count": 5,
+          "media_count": 560,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

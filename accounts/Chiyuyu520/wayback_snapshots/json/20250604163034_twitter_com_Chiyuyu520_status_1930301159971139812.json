@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T16:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930301159971139812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1919326935303557120",
+          "start": 0,
+          "username": "bHZsMzUy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930301159971139812",
+    "in_reply_to_user_id": "1919326935303557120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930301112575504724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bHZsMzUy 质量不太好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T16:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930301159971139812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1919326935303557120",
+              "start": 0,
+              "username": "bHZsMzUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930301159971139812",
+        "in_reply_to_user_id": "1919326935303557120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930301112575504724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bHZsMzUy 质量不太好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919326935303557120",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T16:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930301112575504724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930301112575504724",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930297987839996391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 换了挺多的都是机房 我明天去找朋友看看怎么弄吧hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 505,
+          "like_count": 437,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T09:43:02.000Z",
+        "description": "シェフは☆私は所言即咎/日曜 ♂\nYisang🪶×Dongbaek🌼好き☆\n“チャンネルへようこそ！”\ntop：김기림（Kim Gi-rim）🦋",
+        "id": "1919326935303557120",
+        "location": "魔導士達の街",
+        "name": "所言即咎犯困中",
+        "pinned_tweet_id": "1920149146150764801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928481849770405888/suLl-VV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 88
+        },
+        "username": "bHZsMzUy",
+        "verified": false
+      }
+    ]
+  }
+}

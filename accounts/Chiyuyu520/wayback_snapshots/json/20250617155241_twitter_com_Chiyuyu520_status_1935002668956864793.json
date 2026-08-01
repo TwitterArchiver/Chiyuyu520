@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1934909156076736898",
+    "created_at": "2025-06-17T15:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935002668956864793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909157331583352832",
+          "start": 0,
+          "username": "Amiya_Meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935002668956864793",
+    "in_reply_to_user_id": "1909157331583352832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935000179477995992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiya_Meow 是协助他人，主谋不是他，他寄的快递"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1934909156076736898",
+        "created_at": "2025-06-17T15:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935002668956864793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909157331583352832",
+              "start": 0,
+              "username": "Amiya_Meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935002668956864793",
+        "in_reply_to_user_id": "1909157331583352832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935000179477995992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiya_Meow 是协助他人，主谋不是他，他寄的快递"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909157331583352832",
+        "conversation_id": "1934909156076736898",
+        "created_at": "2025-06-17T15:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935000179477995992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935000179477995992",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934909156076736898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 不太懂 甲基苯丙胺不是陰性嗎？而且販毒取保（幾乎不可能）大概率是證據有問題，肯定是不起訴決定的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 966,
+          "like_count": 1366,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T08:13:59.000Z",
+        "description": "甘柚/She/They | Pansexual | 友順跨女 | 持证 04/2025｜GAHT 02/2024",
+        "id": "1909157331583352832",
+        "name": "甘柚🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909158977323270144/jWmwbiY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 40,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 30
+        },
+        "username": "Amiya_Meow",
+        "verified": false
+      }
+    ]
+  }
+}

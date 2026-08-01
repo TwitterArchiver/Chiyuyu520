@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2042861043035070859",
+    "created_at": "2026-04-11T11:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042924717640946164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596695231717871616",
+          "start": 0,
+          "username": "dontbesilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042924717640946164",
+    "in_reply_to_user_id": "1596695231717871616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042861043035070859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontbesilent 我的北京联通😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2042861043035070859",
+        "created_at": "2026-04-11T11:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042924717640946164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596695231717871616",
+              "start": 0,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042924717640946164",
+        "in_reply_to_user_id": "1596695231717871616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861043035070859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontbesilent 我的北京联通😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596695231717871616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2042861043035070859",
+        "created_at": "2026-04-11T07:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042861043035070859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042861043035070859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13595,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚中国联通的人给我打电话，问我之前在北京注册的手机号，现在是不是在另外一个城市使用\n​\n​我说我在哪是我的隐私（难道不是吗？）\n​\n​这位业务员平时应该没少遇到难缠的顾客，可是听到这句话，他还是没忍住笑了\n​\n​打死他也想不到，在一个一切皆可被查的年代，竟然会有人认为地理位置是他自己的隐私"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmhz7W"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3665,
+          "following_count": 1240,
+          "like_count": 5924,
+          "listed_count": 5,
+          "media_count": 293,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/ueqIkmhz7W",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T02:39:52.000Z",
+        "description": "🔍 商业哲学爱好者\n💻 dbskill 作者｜开放了我的商业方法论\n📞 生活合伙人 @xiaoniantalk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "xiaoniantalk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/5cUwt83RnfV",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/5cUwt83RnfV",
+                "start": 0,
+                "url": "https://t.co/MENW4Tz4i5"
+              }
+            ]
+          }
+        },
+        "id": "1596695231717871616",
+        "name": "dontbesilent",
+        "pinned_tweet_id": "2042489990027108514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75143,
+          "following_count": 1225,
+          "like_count": 10797,
+          "listed_count": 747,
+          "media_count": 1667,
+          "tweet_count": 15163
+        },
+        "url": "https://t.co/MENW4Tz4i5",
+        "username": "dontbesilent",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T14:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T15:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930265984734245265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799452729565200384",
+          "start": 0,
+          "username": "XiaLiu_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930265984734245265",
+    "in_reply_to_user_id": "1799452729565200384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930265466133721377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaLiu_6 少于40风控就可以拿去注册网站了，但是IDC类型容易被当机器人\n比较明显的一点就是：注册的时候让你绑手机号or很多人机验证"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1930265457346654214",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsmuNNtasAYBWRn.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930265984734245265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799452729565200384",
+              "start": 0,
+              "username": "XiaLiu_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930265984734245265",
+        "in_reply_to_user_id": "1799452729565200384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930265466133721377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaLiu_6 少于40风控就可以拿去注册网站了，但是IDC类型容易被当机器人\n比较明显的一点就是：注册的时候让你绑手机号or很多人机验证"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930265457346654214"
+          ]
+        },
+        "author_id": "1799452729565200384",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T14:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930265466133721377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zpZGiLLUiA",
+              "end": 51,
+              "expanded_url": "https://x.com/XiaLiu_6/status/1930265466133721377/photo/1",
+              "media_key": "3_1930265457346654214",
+              "start": 28,
+              "url": "https://t.co/zpZGiLLUiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930265466133721377",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930260436286615682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 又换了一个，这个应该能勉强用吧 https://t.co/zpZGiLLUiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 491,
+          "like_count": 401,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T14:46:02.000Z",
+        "description": "一个普通不活跃的中国中学生🤓X不常看🤔国内平台包有号的👍",
+        "id": "1799452729565200384",
+        "location": "China,Heilongjiang",
+        "name": "WuMing_5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888973015284891648/BJwhWY34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 70,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 105
+        },
+        "username": "XiaLiu_6",
+        "verified": false
+      }
+    ]
+  }
+}

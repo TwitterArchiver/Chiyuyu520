@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072183659910844416",
+        "3_2072183661202718720",
+        "3_2072183661232029696",
+        "3_2072183659910877185"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072183679481512340",
+    "created_at": "2026-07-01T05:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072183679481512340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AuUyIi4VFt",
+          "end": 94,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+          "media_key": "3_2072183659910844416",
+          "start": 71,
+          "url": "https://t.co/AuUyIi4VFt"
+        },
+        {
+          "display_url": "pic.x.com/AuUyIi4VFt",
+          "end": 94,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+          "media_key": "3_2072183661202718720",
+          "start": 71,
+          "url": "https://t.co/AuUyIi4VFt"
+        },
+        {
+          "display_url": "pic.x.com/AuUyIi4VFt",
+          "end": 94,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+          "media_key": "3_2072183661232029696",
+          "start": 71,
+          "url": "https://t.co/AuUyIi4VFt"
+        },
+        {
+          "display_url": "pic.x.com/AuUyIi4VFt",
+          "end": 94,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+          "media_key": "3_2072183659910877185",
+          "start": 71,
+          "url": "https://t.co/AuUyIi4VFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072183679481512340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "午饭吃美了\n\n【西藏文旅厅宣】“一眼西藏 · 一生不忘” ，幸福西藏欢迎您。关注“文化西藏”新媒体账号，了解文旅第一资讯，开启幸福西藏之旅。 https://t.co/AuUyIi4VFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2072183659910844416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHgD05a0AAzZO_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2072183661202718720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHgD5tbQAANI5F.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2072183661232029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHgD50agAAxKFY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2072183659910877185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHgD05bUAEAyJJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072183659910844416",
+            "3_2072183661202718720",
+            "3_2072183661232029696",
+            "3_2072183659910877185"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072183679481512340",
+        "created_at": "2026-07-01T05:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072183679481512340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuUyIi4VFt",
+              "end": 94,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+              "media_key": "3_2072183659910844416",
+              "start": 71,
+              "url": "https://t.co/AuUyIi4VFt"
+            },
+            {
+              "display_url": "pic.x.com/AuUyIi4VFt",
+              "end": 94,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+              "media_key": "3_2072183661202718720",
+              "start": 71,
+              "url": "https://t.co/AuUyIi4VFt"
+            },
+            {
+              "display_url": "pic.x.com/AuUyIi4VFt",
+              "end": 94,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+              "media_key": "3_2072183661232029696",
+              "start": 71,
+              "url": "https://t.co/AuUyIi4VFt"
+            },
+            {
+              "display_url": "pic.x.com/AuUyIi4VFt",
+              "end": 94,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072183679481512340/photo/1",
+              "media_key": "3_2072183659910877185",
+              "start": 71,
+              "url": "https://t.co/AuUyIi4VFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072183679481512340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午饭吃美了\n\n【西藏文旅厅宣】“一眼西藏 · 一生不忘” ，幸福西藏欢迎您。关注“文化西藏”新媒体账号，了解文旅第一资讯，开启幸福西藏之旅。 https://t.co/AuUyIi4VFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328,
+          "following_count": 1293,
+          "like_count": 7242,
+          "listed_count": 5,
+          "media_count": 555,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

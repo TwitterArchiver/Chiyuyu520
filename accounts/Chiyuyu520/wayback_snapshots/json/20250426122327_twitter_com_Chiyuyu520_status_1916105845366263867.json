@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916036754588754385",
+    "created_at": "2025-04-26T12:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T13:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916105845366263867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1909250677303554048",
+          "start": 0,
+          "username": "TvT_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916105845366263867",
+    "in_reply_to_user_id": "1909250677303554048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916074646094680373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvT_QAQ 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916036754588754385",
+        "created_at": "2025-04-26T12:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916105845366263867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1909250677303554048",
+              "start": 0,
+              "username": "TvT_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916105845366263867",
+        "in_reply_to_user_id": "1909250677303554048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916074646094680373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvT_QAQ 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909250677303554048",
+        "conversation_id": "1916036754588754385",
+        "created_at": "2025-04-26T10:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916074646094680373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916074646094680373",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916036754588754385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 有抽奖就踢我一下qwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 183,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 116
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T14:23:43.000Z",
+        "description": "重新开始的青红🍥坐标广州🍥身材是162/53🍥🚪50🍥接线下🍥只是一起出来玩的话免费啦🍥欢迎进群：857673008",
+        "id": "1909250677303554048",
+        "name": "七宫青红（互fo）",
+        "pinned_tweet_id": "1911449938669817957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909250839094730752/mf4v6VBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 41,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 40
+        },
+        "username": "TvT_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

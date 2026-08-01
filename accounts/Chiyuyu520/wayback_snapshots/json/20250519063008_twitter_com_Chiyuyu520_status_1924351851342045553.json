@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924351848368009216"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1924336171263660291",
+    "created_at": "2025-05-19T06:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T07:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924351851342045553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbaj05oOYJ",
+          "end": 63,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1924351851342045553/photo/1",
+          "media_key": "3_1924351848368009216",
+          "start": 40,
+          "url": "https://t.co/fbaj05oOYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924351851342045553",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924336171263660291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更新：家长甚至连高速费都让我自己付。我的钱就不是钱了对吧🥺那我缺的谁给我补呢？ https://t.co/fbaj05oOYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924351848368009216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrSrz3jXcAAtqoF.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924351848368009216"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1924336171263660291",
+        "created_at": "2025-05-19T06:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T07:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924351851342045553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbaj05oOYJ",
+              "end": 63,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1924351851342045553/photo/1",
+              "media_key": "3_1924351848368009216",
+              "start": 40,
+              "url": "https://t.co/fbaj05oOYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924351851342045553",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924336171263660291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新：家长甚至连高速费都让我自己付。我的钱就不是钱了对吧🥺那我缺的谁给我补呢？ https://t.co/fbaj05oOYJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1924336171263660291",
+        "created_at": "2025-05-19T05:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T06:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924336171263660291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924336171263660291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在应该是已经在去扭转治疗学校的路上了，不知道会怎么样😢\n没有出柜，因为家人认为的网瘾问题打算过去…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 🥰❤️: @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 343,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

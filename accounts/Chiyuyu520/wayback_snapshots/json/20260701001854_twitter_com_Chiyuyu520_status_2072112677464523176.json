@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072112663531040768",
+        "3_2072112664525131776",
+        "3_2072112663526776832",
+        "3_2072112664508354560"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2072112677464523176",
+    "created_at": "2026-07-01T00:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072112677464523176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFaC7pWvX3",
+          "end": 98,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+          "media_key": "3_2072112663531040768",
+          "start": 75,
+          "url": "https://t.co/mFaC7pWvX3"
+        },
+        {
+          "display_url": "pic.x.com/mFaC7pWvX3",
+          "end": 98,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+          "media_key": "3_2072112664525131776",
+          "start": 75,
+          "url": "https://t.co/mFaC7pWvX3"
+        },
+        {
+          "display_url": "pic.x.com/mFaC7pWvX3",
+          "end": 98,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+          "media_key": "3_2072112663526776832",
+          "start": 75,
+          "url": "https://t.co/mFaC7pWvX3"
+        },
+        {
+          "display_url": "pic.x.com/mFaC7pWvX3",
+          "end": 98,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+          "media_key": "3_2072112664508354560",
+          "start": 75,
+          "url": "https://t.co/mFaC7pWvX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072112677464523176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那曲\n\n【那曲市林业和草原局】“您已进入那曲市色林错国际重要湿地范围，禁止一切破坏湿地生态系统行为，未经批准严禁擅自开展旅游探险活动”。拒收请回复R https://t.co/mFaC7pWvX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072112663531040768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGffSxbMAATZbD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072112664525131776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGffWeb0AAxBpW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072112663526776832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGffSwaIAAP5B7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072112664508354560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGffWab0AAgBf_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072112663531040768",
+            "3_2072112664525131776",
+            "3_2072112663526776832",
+            "3_2072112664508354560"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2072112677464523176",
+        "created_at": "2026-07-01T00:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072112677464523176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFaC7pWvX3",
+              "end": 98,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+              "media_key": "3_2072112663531040768",
+              "start": 75,
+              "url": "https://t.co/mFaC7pWvX3"
+            },
+            {
+              "display_url": "pic.x.com/mFaC7pWvX3",
+              "end": 98,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+              "media_key": "3_2072112664525131776",
+              "start": 75,
+              "url": "https://t.co/mFaC7pWvX3"
+            },
+            {
+              "display_url": "pic.x.com/mFaC7pWvX3",
+              "end": 98,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+              "media_key": "3_2072112663526776832",
+              "start": 75,
+              "url": "https://t.co/mFaC7pWvX3"
+            },
+            {
+              "display_url": "pic.x.com/mFaC7pWvX3",
+              "end": 98,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2072112677464523176/photo/1",
+              "media_key": "3_2072112664508354560",
+              "start": 75,
+              "url": "https://t.co/mFaC7pWvX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072112677464523176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那曲\n\n【那曲市林业和草原局】“您已进入那曲市色林错国际重要湿地范围，禁止一切破坏湿地生态系统行为，未经批准严禁擅自开展旅游探险活动”。拒收请回复R https://t.co/mFaC7pWvX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328,
+          "following_count": 1293,
+          "like_count": 7238,
+          "listed_count": 5,
+          "media_count": 553,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

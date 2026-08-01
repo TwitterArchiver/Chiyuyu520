@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931263355924488192"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "1931263358675943811",
+    "created_at": "2025-06-07T08:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T09:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931263358675943811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Alhvt6rpYM",
+          "end": 129,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1931263358675943811/photo/1",
+          "media_key": "3_1931263355924488192",
+          "start": 106,
+          "url": "https://t.co/Alhvt6rpYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931263358675943811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麻烦各位不要再问我手机卡哪买的卖不卖了。我不会卖，非熟人也不会告知任何方式。出事情我付不起责，任何在我回复下面打广告卖卡卖东西的等着吃我block吧\n稍微动点脑子，这种东西卖的人一堆您稍微搜一下了解一下不行吗？ https://t.co/Alhvt6rpYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_1931263355924488192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs05yjmboAAOGwY.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931263355924488192"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1931263358675943811",
+        "created_at": "2025-06-07T08:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931263358675943811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Alhvt6rpYM",
+              "end": 129,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1931263358675943811/photo/1",
+              "media_key": "3_1931263355924488192",
+              "start": 106,
+              "url": "https://t.co/Alhvt6rpYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931263358675943811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻烦各位不要再问我手机卡哪买的卖不卖了。我不会卖，非熟人也不会告知任何方式。出事情我付不起责，任何在我回复下面打广告卖卡卖东西的等着吃我block吧\n稍微动点脑子，这种东西卖的人一堆您稍微搜一下了解一下不行吗？ https://t.co/Alhvt6rpYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1930663452726735051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 602,
+          "like_count": 703,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

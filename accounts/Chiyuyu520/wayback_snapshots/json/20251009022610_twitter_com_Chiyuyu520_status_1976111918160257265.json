@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1976010672824779047",
+    "created_at": "2025-10-09T02:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T03:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976111918160257265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "Philosssss34350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976111918160257265",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976010672824779047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philosssss34350 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1976010672824779047",
+        "created_at": "2025-10-09T02:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976111918160257265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "Philosssss34350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976111918160257265",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976010672824779047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philosssss34350 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675081139684294656",
+        "conversation_id": "1976010672824779047",
+        "created_at": "2025-10-08T19:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976010672824779047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976010672824779047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是有人可以陪我一起死掉就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3779,
+          "following_count": 1291,
+          "like_count": 5796,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 1168
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "可以叫我小p喵/08喵/女同热恋中💖/坐标上海(明年霓虹留学/中度度抑郁重度焦虑/INFP(有时候是ENFP喵)/175.5cm 57kg/不敢出柜👉👈/抽象b/不稳定更新捏/同类互fo啦",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "Philosssss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675082593505607682/I3SxCBag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 282,
+          "like_count": 2411,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 894
+        },
+        "username": "Philosssss34350",
+        "verified": false
+      }
+    ]
+  }
+}

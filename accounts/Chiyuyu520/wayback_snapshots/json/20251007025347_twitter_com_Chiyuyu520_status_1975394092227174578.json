@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1975394092227174578",
+    "created_at": "2025-10-07T02:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T03:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975394092227174578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1675081139684294656",
+          "start": 9,
+          "username": "Philosssss34350"
+        },
+        {
+          "end": 36,
+          "id": "1659897439590158338",
+          "start": 26,
+          "username": "China3191"
+        },
+        {
+          "end": 44,
+          "id": "1646787615079927810",
+          "start": 37,
+          "username": "xxstxa"
+        },
+        {
+          "end": 60,
+          "id": "1176535991454064640",
+          "start": 48,
+          "username": "nekomakiQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/1970076731001504128",
+          "start": 68,
+          "url": "https://t.co/wWtN3VhoYf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975394092227174578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970076731001504128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日雌开奖 中奖者 @Philosssss34350 @China3191 @xxstxa 去找 @nekomakiQAQ 私聊要奖品喵 https://t.co/wWtN3VhoYf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1970076728149295105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ceWKmaQAE8-yM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1975394092227174578",
+        "created_at": "2025-10-07T02:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T03:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975394092227174578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1675081139684294656",
+              "start": 9,
+              "username": "Philosssss34350"
+            },
+            {
+              "end": 36,
+              "id": "1659897439590158338",
+              "start": 26,
+              "username": "China3191"
+            },
+            {
+              "end": 44,
+              "id": "1646787615079927810",
+              "start": 37,
+              "username": "xxstxa"
+            },
+            {
+              "end": 60,
+              "id": "1176535991454064640",
+              "start": 48,
+              "username": "nekomakiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/1970076731001504128",
+              "start": 68,
+              "url": "https://t.co/wWtN3VhoYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975394092227174578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970076731001504128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日雌开奖 中奖者 @Philosssss34350 @China3191 @xxstxa 去找 @nekomakiQAQ 私聊要奖品喵 https://t.co/wWtN3VhoYf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970076728149295105"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1970076731001504128",
+        "created_at": "2025-09-22T10:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970076731001504128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziGS1XkdY8",
+              "end": 177,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1970076731001504128/photo/1",
+              "media_key": "3_1970076728149295105",
+              "start": 154,
+              "url": "https://t.co/ziGS1XkdY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970076731001504128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 56432,
+          "like_count": 382,
+          "quote_count": 6,
+          "reply_count": 258,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "猫卷和我打算举办一个抽奖活动\n奖品是：三盒日雌 价值1200元\n抽三个人送出～\n\n参与方法：转贴（重要），评论，点赞\n\n我们会在14天之后（10月6日中秋节）开奖并送出\n\n一盒日雌可以使用70天，而且吸收率约等于100%（口服补佳乐的吸收率约5%）\n需要购买的话欢迎找我和猫卷购买～售价370/盒 京东包邮 https://t.co/ziGS1XkdY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 日雌370/盒 | 生日0907 | 雷见证蛆抽象人 | 🥰平等地爱所有人 | system powerd by @nekomakiQAQ | 姐姐 @quite8964 @proxynova712sec @_blueberrysauce | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "quite8964"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "proxynova712sec"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "_blueberrysauce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1968986377506447572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 1290,
+          "like_count": 5777,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "可以叫我小p喵/08喵/女同热恋中💖/坐标上海(明年霓虹留学/中度度抑郁重度焦虑/INFP(有时候是ENFP喵)/175.5cm 57kg/不敢出柜👉👈/抽象b/不稳定更新捏/同类互fo啦",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "Philosssss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675082593505607682/I3SxCBag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 281,
+          "like_count": 2287,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 845
+        },
+        "username": "Philosssss34350",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T12:22:51.000Z",
+        "description": "",
+        "id": "1659897439590158338",
+        "name": "时雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1971055886937526675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860492618658119681/b0Xr7-UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 372,
+          "like_count": 363,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 399
+        },
+        "username": "China3191",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T08:09:13.000Z",
+        "description": "木桶饭/INTP/不会社交但脑子有点好用的小阿斯/二型双相/编程魔方乒乓球/一个厨娘",
+        "id": "1646787615079927810",
+        "location": "Guangdong",
+        "name": "一只兮兮子（贪吃布偶猫）",
+        "pinned_tweet_id": "1670377880625483785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913246286335332352/_gE2v2bO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 339,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 326
+        },
+        "username": "xxstxa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "14岁初二休学 | 亲友: 💌@HobartR6/🐱@_FurryFur_/🐟@Chiyuyu520/姐姐@m1zukiqaqaqaq |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 53,
+                "username": "m1zukiqaqaqaq"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌380包邮",
+        "pinned_tweet_id": "1973460670713831937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973780420555927552/H4S6m_zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3557,
+          "following_count": 994,
+          "like_count": 28120,
+          "listed_count": 15,
+          "media_count": 1250,
+          "tweet_count": 15239
+        },
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916191520132370865",
+    "created_at": "2025-04-27T13:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T14:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916479600517058801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyuweiningzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916479600517058801",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916477752569417958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyuweiningzhi 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916191520132370865",
+        "created_at": "2025-04-27T13:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T14:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916479600517058801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyuweiningzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916479600517058801",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916477752569417958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyuweiningzhi 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694012668359634944",
+        "conversation_id": "1916191520132370865",
+        "created_at": "2025-04-27T13:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T14:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916477752569417958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916477752569417958",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916439633795354731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我会消好毒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 206,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 134
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "涩涩\nxnn\n08.3.9北京",
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 477,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 168
+        },
+        "username": "yeyuweiningzhi",
+        "verified": false
+      }
+    ]
+  }
+}

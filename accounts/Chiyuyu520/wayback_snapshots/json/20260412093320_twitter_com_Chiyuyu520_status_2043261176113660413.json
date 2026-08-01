@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2043261176113660413",
+    "created_at": "2026-04-12T09:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043261176113660413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quite8964/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/quite8964/status/1805108177194844499",
+          "start": 18,
+          "url": "https://t.co/iB5Y9n5H9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043261176113660413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805108177194844499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "钠的话就是吃止吐是 怎么吃的\n姐姐 https://t.co/iB5Y9n5H9a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2043261176113660413",
+        "created_at": "2026-04-12T09:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043261176113660413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quite8964/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/quite8964/status/1805108177194844499",
+              "start": 18,
+              "url": "https://t.co/iB5Y9n5H9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043261176113660413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805108177194844499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钠的话就是吃止吐是 怎么吃的\n姐姐 https://t.co/iB5Y9n5H9a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1804890307626156088",
+        "created_at": "2024-06-24T05:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T06:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805108177194844499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794425725111668737",
+              "start": 0,
+              "username": "zhiyuantzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805108177194844499",
+        "in_reply_to_user_id": "1794425725111668737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805105218495107175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyuantzz 配合止吐药？（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmhz7W"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 1247,
+          "like_count": 5952,
+          "listed_count": 5,
+          "media_count": 295,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/ueqIkmhz7W",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2039014410736529909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10558,
+          "following_count": 3036,
+          "like_count": 33603,
+          "listed_count": 25,
+          "media_count": 641,
+          "tweet_count": 14711
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

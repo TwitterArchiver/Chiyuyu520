@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T02:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930448137421758861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688083961384493056",
+          "start": 0,
+          "username": "Amnesia0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930448137421758861",
+    "in_reply_to_user_id": "1688083961384493056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930320720468566047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amnesia0518 固定IP不要乱变会好些"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930320716920238080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsngdvqbsAAKFzw.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T02:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930448137421758861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688083961384493056",
+              "start": 0,
+              "username": "Amnesia0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930448137421758861",
+        "in_reply_to_user_id": "1688083961384493056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930320720468566047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amnesia0518 固定IP不要乱变会好些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930320716920238080"
+          ]
+        },
+        "author_id": "1688083961384493056",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T17:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930320720468566047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1E0jqAmh1",
+              "end": 62,
+              "expanded_url": "https://x.com/Amnesia0518/status/1930320720468566047/photo/1",
+              "media_key": "3_1930320716920238080",
+              "start": 39,
+              "url": "https://t.co/L1E0jqAmh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930320720468566047",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 换了个节点就好啦🤔不过之前经常换ip，导致推流很差诶 https://t.co/L1E0jqAmh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T07:06:08.000Z",
+        "description": "这里是小时呀丨无证含糖MTF🏳‍⚧丨08高中生丨喜欢猫猫丨jk丨二次元丨或许不社恐丨地中党丨中度抑郁丨重度焦虑症丨最害怕胃疼丨爱分享吃瓜趣闻_内容虚实请自辨👈丨同类互fo喵～😘丨欢迎来交友呀🥰丨\nHRT🍥2023年9月\n\n最重要的人@sh_mily_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "sh_mily_"
+              }
+            ]
+          }
+        },
+        "id": "1688083961384493056",
+        "location": "来自新世界",
+        "name": "小时🍥（互fo～）",
+        "pinned_tweet_id": "1929295613822423359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914649452729753600/2UGB4Xv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 739,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 69
+        },
+        "username": "Amnesia0518",
+        "verified": true
+      }
+    ]
+  }
+}

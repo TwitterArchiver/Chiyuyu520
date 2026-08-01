@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930266165173203041",
+    "created_at": "2025-06-04T14:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T15:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930266382232625460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1909211769048088577",
+          "start": 0,
+          "username": "333999999999S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930266382232625460",
+    "in_reply_to_user_id": "1909211769048088577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930266165173203041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@333999999999S 这种属于自己作死，你用中国网注册个新qq到处加人一样被封。但是IP干净点总共是好处，类型是IDC机房就是容易被区别对待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930266165173203041",
+        "created_at": "2025-06-04T14:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930266382232625460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909211769048088577",
+              "start": 0,
+              "username": "333999999999S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930266382232625460",
+        "in_reply_to_user_id": "1909211769048088577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930266165173203041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@333999999999S 这种属于自己作死，你用中国网注册个新qq到处加人一样被封。但是IP干净点总共是好处，类型是IDC机房就是容易被区别对待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909211769048088577",
+        "conversation_id": "1930266165173203041",
+        "created_at": "2025-06-04T14:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930266165173203041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/1930179943717318918",
+              "start": 94,
+              "url": "https://t.co/3Dq8MrfUJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930266165173203041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ping0完全不具备任何参考价值\nIP干净不干净这是小的，主要是你干净的IP整体啊去别人下面刷评论刷存在感大量关注RT点赞疯狂私信陌生人不ban你ban谁，还有短期内流量异常爆了的也一样 https://t.co/3Dq8MrfUJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 493,
+          "like_count": 402,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T11:49:10.000Z",
+        "description": "你是我因为爱而坚定选择的，所以怎么会后悔呢。",
+        "id": "1909211769048088577",
+        "name": "づ♡ど",
+        "pinned_tweet_id": "1909223019693699435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909263927340572672/n-rkJx7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 177,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 142
+        },
+        "username": "333999999999S",
+        "verified": false
+      }
+    ]
+  }
+}

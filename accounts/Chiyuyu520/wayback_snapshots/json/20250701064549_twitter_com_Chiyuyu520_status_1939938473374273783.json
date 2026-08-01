@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1939935345228820904",
+    "created_at": "2025-07-01T06:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T07:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939938473374273783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1756865271057485824",
+          "start": 0,
+          "username": "qHanTinp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939938473374273783",
+    "in_reply_to_user_id": "1756865271057485824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939936886073561351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qHanTinp 只要是你善意的，欢迎任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1939935345228820904",
+        "created_at": "2025-07-01T06:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939938473374273783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1756865271057485824",
+              "start": 0,
+              "username": "qHanTinp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939938473374273783",
+        "in_reply_to_user_id": "1756865271057485824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939936886073561351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qHanTinp 只要是你善意的，欢迎任何人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756865271057485824",
+        "conversation_id": "1939935345228820904",
+        "created_at": "2025-07-01T06:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939936886073561351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939936886073561351",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939935345228820904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 顺男不好意思进群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 1095,
+          "like_count": 2043,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T02:18:32.000Z",
+        "description": "这里是HanTin，只要你是ppy民，我们就是好朋友，情商超低，珍惜着身边的朋友们，随缘fo人w，不擅长日文、基本使用机翻｜咱超可爱的妹妹@teyop129314 @xingyue80934591｜咱可爱的小星怒@Mikhail_712｜涩涩的可爱性奴@Haruhi_LAP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "teyop129314"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "xingyue80934591"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Mikhail_712"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "Haruhi_LAP"
+              }
+            ]
+          }
+        },
+        "id": "1756865271057485824",
+        "location": "无尽的音游之路",
+        "name": "HanTin喵喵酱",
+        "pinned_tweet_id": "1905048740215538012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922969079289348098/E6Hv8H9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 413,
+          "like_count": 27719,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 4188
+        },
+        "username": "qHanTinp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2044057807922835497",
+    "created_at": "2026-04-15T01:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044219263519732104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879219789601906688",
+          "start": 0,
+          "username": "gowayslove520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044219263519732104",
+    "in_reply_to_user_id": "1879219789601906688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044057807922835497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gowayslove520 没必要开的，机器人流量挺无所谓的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044057805666365440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3zvo8bsAAA7T9.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2044057807922835497",
+        "created_at": "2026-04-15T01:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044219263519732104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879219789601906688",
+              "start": 0,
+              "username": "gowayslove520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044219263519732104",
+        "in_reply_to_user_id": "1879219789601906688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044057807922835497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gowayslove520 没必要开的，机器人流量挺无所谓的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044057805666365440"
+          ]
+        },
+        "author_id": "1879219789601906688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044057807922835497",
+        "created_at": "2026-04-14T14:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044057807922835497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjG6259Dmh",
+              "end": 36,
+              "expanded_url": "https://x.com/gowayslove520/status/2044057807922835497/photo/1",
+              "media_key": "3_2044057805666365440",
+              "start": 13,
+              "url": "https://t.co/fjG6259Dmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044057807922835497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "托管质询开了之后变得好少 https://t.co/fjG6259Dmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3663,
+          "following_count": 1249,
+          "like_count": 6017,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-14T17:31:43.000Z",
+        "description": "2013の沃尔玛塑料袋🏳️‍⚧️🏳️‍🌈 mtx/酷儿 | 已出柜 | 家长党 | 友跨/LGBT | 曾HRT | Mild depression | INFP | 不见证 | AIGC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goway128.online",
+                "end": 23,
+                "expanded_url": "https://goway128.online",
+                "start": 0,
+                "url": "https://t.co/jDRagFSV6i"
+              }
+            ]
+          }
+        },
+        "id": "1879219789601906688",
+        "location": "我爱你们",
+        "name": "白🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2040585672550129957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024536299517202432/CHYmfNA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 129,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/jDRagFSV6i",
+        "username": "gowayslove520",
+        "verified": false
+      }
+    ]
+  }
+}

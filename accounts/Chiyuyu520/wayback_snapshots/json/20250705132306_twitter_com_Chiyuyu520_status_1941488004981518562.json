@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1941488004981518562",
+    "created_at": "2025-07-05T13:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941488004981518562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hulijiuxi70996…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/hulijiuxi70996/status/1941486761227714709",
+          "start": 46,
+          "url": "https://t.co/pJ1RQfBVBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941488004981518562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941486761227714709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您活得好，您吉祥。\n您这个细胞体也同理\n鸡巴插键盘上强奸键盘意淫高潮射精射出来的话有意思吗 https://t.co/pJ1RQfBVBv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1941488004981518562",
+        "created_at": "2025-07-05T13:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941488004981518562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hulijiuxi70996…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/hulijiuxi70996/status/1941486761227714709",
+              "start": 46,
+              "url": "https://t.co/pJ1RQfBVBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941488004981518562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941486761227714709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您活得好，您吉祥。\n您这个细胞体也同理\n鸡巴插键盘上强奸键盘意淫高潮射精射出来的话有意思吗 https://t.co/pJ1RQfBVBv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890695872561745920",
+        "conversation_id": "1941039514404999313",
+        "created_at": "2025-07-05T13:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941486761227714709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941486761227714709",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941039514404999313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 不就是想圈钱吗，又没钱又要特立独行就只能变成咱喵然后上网装可怜圈傻B的钱咯，有手有脚不能自己做事？不卖就是你的拿出来说明自己人格独立依据了？接受他人馈赠还一脸不情愿简直是又当又立，转眼一想你都这样了也不指望你是个正常人了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰姐姐 @Hoshroin | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 1126,
+          "like_count": 2502,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T09:33:26.000Z",
+        "description": "已觉醒，全天下中国最乱最坏，有一只哈基米的大手在搅动着哈礼鹿大旋风，所以还在犹豫什么我的朋友，赶紧移民吧，外面的空气是香甜的，自由的，是我不能呼吸的，是大麻味的，是学校里传来的pengpeng声，是执法记录仪忘开了的，是种族歧视的，是赚外汇花外汇的，是水电油物价低廉的，是枪支合法的，是中国共产党怎么这么坏的😡😡",
+        "id": "1890695872561745920",
+        "name": "hulijiuxi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899137035052691456/-TMPTJWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "hulijiuxi70996",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1968255225414013269",
+    "created_at": "2025-09-17T10:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T11:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968255225414013269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shushuyun321/s…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/shushuyun321/status/1968253599194239112",
+          "start": 91,
+          "url": "https://t.co/a93w1O5nu7"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1968255225414013269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968253599194239112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢支持，我们提供低价的日雌哦\n如果你无法负担370的费用，直接告诉我你的预算价格+无法负担的原因（别只写三五个字，比如“我是学生”“没钱”等等），我会低价卖，但请不要公开透露价格 https://t.co/a93w1O5nu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1968253595884871680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CkN5qaYAACkdb.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968255225414013269",
+        "created_at": "2025-09-17T10:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968255225414013269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shushuyun321/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/shushuyun321/status/1968253599194239112",
+              "start": 91,
+              "url": "https://t.co/a93w1O5nu7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1968255225414013269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968253599194239112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢支持，我们提供低价的日雌哦\n如果你无法负担370的费用，直接告诉我你的预算价格+无法负担的原因（别只写三五个字，比如“我是学生”“没钱”等等），我会低价卖，但请不要公开透露价格 https://t.co/a93w1O5nu7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968253595884871680"
+          ]
+        },
+        "author_id": "1839830744316686336",
+        "conversation_id": "1968253599194239112",
+        "created_at": "2025-09-17T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968253599194239112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1904873292366036992",
+              "start": 6,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8Z2olyFYs",
+              "end": 41,
+              "expanded_url": "https://x.com/shushuyun321/status/1968253599194239112/photo/1",
+              "media_key": "3_1968253595884871680",
+              "start": 18,
+              "url": "https://t.co/d8Z2olyFYs"
+            },
+            {
+              "display_url": "x.com/shushuyun321/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/shushuyun321/status/1966840204762989053",
+              "start": 42,
+              "url": "https://t.co/sS7Mz7SK43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968253599194239112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966840204762989053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不打但先囤😋@Chiyuyu520 https://t.co/d8Z2olyFYs https://t.co/sS7Mz7SK43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3349,
+          "following_count": 1293,
+          "like_count": 5424,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T00:53:37.000Z",
+        "description": "amab trans🏳️‍⚧️丨坐标魔都丨186/63丨无证含糖丨半炸柜 家长不管丨HRT:2017~2018 2025.3.21至今丨性取向正常🏳️‍🌈Pan丨同类互fo喵丨呜呜呜不要骂我qwq",
+        "id": "1839830744316686336",
+        "location": "🚪5201314",
+        "name": "芸舒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926064456888360960/MAGwaW4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 362,
+          "like_count": 370,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 1456
+        },
+        "username": "shushuyun321",
+        "verified": false
+      }
+    ]
+  }
+}

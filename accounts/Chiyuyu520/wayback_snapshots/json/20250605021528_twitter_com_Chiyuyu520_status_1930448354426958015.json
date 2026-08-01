@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-05T02:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930448354426958015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757264766949830656",
+          "start": 0,
+          "username": "youkonohimitsu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930448354426958015",
+    "in_reply_to_user_id": "1757264766949830656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930329037131657476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youkonohimitsu7 这个…早点换了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930329034317279235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnoB4YasAMvEFu.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-05T02:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930448354426958015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757264766949830656",
+              "start": 0,
+              "username": "youkonohimitsu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930448354426958015",
+        "in_reply_to_user_id": "1757264766949830656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930329037131657476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youkonohimitsu7 这个…早点换了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930329034317279235"
+          ]
+        },
+        "author_id": "1757264766949830656",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T18:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T19:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930329037131657476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLXfrd4jSq",
+              "end": 39,
+              "expanded_url": "https://x.com/youkonohimitsu7/status/1930329037131657476/photo/1",
+              "media_key": "3_1930329034317279235",
+              "start": 16,
+              "url": "https://t.co/SLXfrd4jSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930329037131657476",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 烂完了 https://t.co/SLXfrd4jSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 508,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T04:45:55.000Z",
+        "description": "转生/请称呼youko/坐标呼和浩特呼市/🚪60闲聊日常偶尔掉落瑟图/只收口令/非过门不回复",
+        "id": "1757264766949830656",
+        "name": "小蒼洋子",
+        "pinned_tweet_id": "1849798696491417926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757279200317452288/mMXkFGZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 8,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 578
+        },
+        "username": "youkonohimitsu7",
+        "verified": false
+      }
+    ]
+  }
+}

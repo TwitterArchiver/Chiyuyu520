@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064724367490383872"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2064724382040350767",
+    "created_at": "2026-06-10T15:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064724382040350767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kt92nJcBpt",
+          "end": 85,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2064724382040350767/photo/1",
+          "media_key": "3_2064724367490383872",
+          "start": 62,
+          "url": "https://t.co/kt92nJcBpt"
+        },
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2063344403155157489",
+          "start": 86,
+          "url": "https://t.co/Ze7t0h9VkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064724382040350767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063344403155157489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尝试找人工把无座改成有座\n\n他说没位置了，然后我刚转身，他说等下，别人退了张票\n让我给订单号和身份证改签到有座位\n甚至靠窗 https://t.co/kt92nJcBpt https://t.co/Ze7t0h9VkM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064724367490383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdf33NbgAA-KD6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063344394619793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJ4y3qbMAAtRIk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063344394967846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJ4y49aEAAbEFW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063344394569498624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJ4y3ebwAAIv85.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064724367490383872"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2064724382040350767",
+        "created_at": "2026-06-10T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064724382040350767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kt92nJcBpt",
+              "end": 85,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2064724382040350767/photo/1",
+              "media_key": "3_2064724367490383872",
+              "start": 62,
+              "url": "https://t.co/kt92nJcBpt"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2063344403155157489",
+              "start": 86,
+              "url": "https://t.co/Ze7t0h9VkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064724382040350767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063344403155157489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尝试找人工把无座改成有座\n\n他说没位置了，然后我刚转身，他说等下，别人退了张票\n让我给订单号和身份证改签到有座位\n甚至靠窗 https://t.co/kt92nJcBpt https://t.co/Ze7t0h9VkM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063344394619793408",
+            "3_2063344394967846912",
+            "3_2063344394569498624"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063344403155157489",
+        "created_at": "2026-06-06T19:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063344403155157489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5EEeZAOKX",
+              "end": 29,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2063344403155157489/photo/1",
+              "media_key": "3_2063344394619793408",
+              "start": 6,
+              "url": "https://t.co/c5EEeZAOKX"
+            },
+            {
+              "display_url": "pic.x.com/c5EEeZAOKX",
+              "end": 29,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2063344403155157489/photo/1",
+              "media_key": "3_2063344394967846912",
+              "start": 6,
+              "url": "https://t.co/c5EEeZAOKX"
+            },
+            {
+              "display_url": "pic.x.com/c5EEeZAOKX",
+              "end": 29,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2063344403155157489/photo/1",
+              "media_key": "3_2063344394569498624",
+              "start": 6,
+              "url": "https://t.co/c5EEeZAOKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063344403155157489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回北京了😭 https://t.co/c5EEeZAOKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 1288,
+          "like_count": 6872,
+          "listed_count": 6,
+          "media_count": 432,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916512055386898829",
+    "created_at": "2025-04-27T16:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T17:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916525072744952134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916525072744952134",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916512055386898829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 好吃🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1916512045736013825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjRjS3aMAEj091.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916512055386898829",
+        "created_at": "2025-04-27T16:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916525072744952134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916525072744952134",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916512055386898829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 好吃🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916512045736013825"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916512055386898829",
+        "created_at": "2025-04-27T15:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916512055386898829"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "白洲",
+              "probability": 0.527,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGtWxLU8DK",
+              "end": 31,
+              "expanded_url": "https://x.com/baizhouzi520/status/1916512055386898829/photo/1",
+              "media_key": "3_1916512045736013825",
+              "start": 8,
+              "url": "https://t.co/LGtWxLU8DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916512055386898829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白洲の深夜食堂 https://t.co/LGtWxLU8DK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 208,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 136
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "喵|这里是猫猫白洲|小证停糖🍥|HRT2024.12.11——2025.2.19|拿小证日期：2025.4.3|最好的妹妹@Yamanaka_Ame|双相|重度抑郁焦虑|最好的姐姐@lqx1104|休学带专生|在用药物：碳酸锂、喹硫平|强迫症|175cm/55kg|不时发疯，请见谅w|姐姐@2temisinin|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Yamanaka_Ame"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "username": "lqx1104"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "2temisinin"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "位置定位失败",
+        "name": "白洲不是白粥是白洲哦～（热气腾腾刚刚出炉版）",
+        "pinned_tweet_id": "1891326726560448730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907954302670483458/LYSXe2zh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 544,
+          "like_count": 10674,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 1312
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1916036754588754385",
+    "created_at": "2025-04-26T09:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916061063428342195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858908750347988992",
+          "start": 0,
+          "username": "yuuka_lynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916061063428342195",
+    "in_reply_to_user_id": "1858908750347988992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916060635080888335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuka_lynn 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1916036754588754385",
+        "created_at": "2025-04-26T09:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916061063428342195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858908750347988992",
+              "start": 0,
+              "username": "yuuka_lynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916061063428342195",
+        "in_reply_to_user_id": "1858908750347988992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916060635080888335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuka_lynn 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858908750347988992",
+        "conversation_id": "1916036754588754385",
+        "created_at": "2025-04-26T09:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916060635080888335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "恭喜",
+              "probability": 0.5409,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916060635080888335",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916036754588754385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 恭喜～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 183,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 114
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T16:23:07.000Z",
+        "description": "Give people wonderful tools. And they’ll do wonderful things.",
+        "id": "1858908750347988992",
+        "name": "旱獭邮箱📪",
+        "pinned_tweet_id": "1893261504020955380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886235437372686336/DEHU2SDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 266,
+          "like_count": 1563,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 560
+        },
+        "username": "yuuka_lynn",
+        "verified": true
+      }
+    ]
+  }
+}

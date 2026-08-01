@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "1914638451200176183",
+    "created_at": "2025-04-23T05:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T06:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914918375245156443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895166510743855104",
+          "start": 0,
+          "username": "MaoQi33394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914918375245156443",
+    "in_reply_to_user_id": "1895166510743855104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914918180096786697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoQi33394 咱在苏州 大城市有提前点映 可以提前看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "1914638451200176183",
+        "created_at": "2025-04-23T05:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T06:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914918375245156443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895166510743855104",
+              "start": 0,
+              "username": "MaoQi33394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914918375245156443",
+        "in_reply_to_user_id": "1895166510743855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914918180096786697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoQi33394 咱在苏州 大城市有提前点映 可以提前看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895166510743855104",
+        "conversation_id": "1914638451200176183",
+        "created_at": "2025-04-23T05:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T06:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914918180096786697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914918180096786697",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914903400342544573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 诶说起来我看官方海报25号上映，怎么大家都看完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 本人对任何政治意见不表态",
+        "id": "1904873292366036992",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 31,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 47
+        },
+        "username": "Chiyuyu520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T17:38:16.000Z",
+        "description": "性别是高达喵 ·\n这里会发自己的胡言乱语 ·\n不卖身不卖艺，不喜欢见证喵 ·\n想互fo，请大家狠狠灌注窝！ ·\n私信掉落QQ号，不过我不是很会主动聊天（） · \n不定时看推特，回fo回私信不及时请见谅",
+        "id": "1895166510743855104",
+        "location": "Avalon",
+        "name": "見崎貓🐾",
+        "pinned_tweet_id": "1898209430254334132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901335879228297217/V2GnnOfN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 263,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 254
+        },
+        "username": "MaoQi33394",
+        "verified": false
+      }
+    ]
+  }
+}
