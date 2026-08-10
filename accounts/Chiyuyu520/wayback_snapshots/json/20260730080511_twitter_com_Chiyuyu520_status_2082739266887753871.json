@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2082739266887753871",
+    "created_at": "2026-07-30T08:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082739266887753871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liki24003/stat…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/liki24003/status/1946533565686243652",
+          "start": 66,
+          "url": "https://t.co/bShNUxNv7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082739266887753871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946533565686243652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很想死，自毁心理max\n想od，想滥交，想自杀，想卖淫，一定一定要忍到q酱回来，毕竟是答应过的，要跟姐姐一起的，我要好好的（揉揉胸 https://t.co/bShNUxNv7X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2082739266887753871",
+        "created_at": "2026-07-30T08:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082739266887753871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liki24003/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/liki24003/status/1946533565686243652",
+              "start": 66,
+              "url": "https://t.co/bShNUxNv7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082739266887753871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946533565686243652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很想死，自毁心理max\n想od，想滥交，想自杀，想卖淫，一定一定要忍到q酱回来，毕竟是答应过的，要跟姐姐一起的，我要好好的（揉揉胸 https://t.co/bShNUxNv7X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773934439414018048",
+        "conversation_id": "1946533565686243652",
+        "created_at": "2025-07-19T11:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946533565686243652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946533565686243652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11663,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很想死，自毁心理max\n想od，想滥交，想自杀，想卖淫，一定一定要忍到周一住院，毕竟是答应过的，住院前不能自杀，我要好好的（揉揉胸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4369,
+          "following_count": 1281,
+          "like_count": 7620,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T04:45:15.000Z",
+        "description": "海鸥鸥，这里是海鸥鸥，非常温柔的一枚大龄mtf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liki240003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liki240003",
+                "start": 0,
+                "url": "https://t.co/zcBBVJJ8sO"
+              }
+            ]
+          }
+        },
+        "id": "1773934439414018048",
+        "location": "木卫六-冰川上狂奔",
+        "name": "海鸥鸥欧欧🍊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863038364779261952/IjUxzCXz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1770,
+          "like_count": 9280,
+          "listed_count": 9,
+          "media_count": 151,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/zcBBVJJ8sO",
+        "username": "liki24003",
+        "verified": false
+      }
+    ]
+  }
+}
