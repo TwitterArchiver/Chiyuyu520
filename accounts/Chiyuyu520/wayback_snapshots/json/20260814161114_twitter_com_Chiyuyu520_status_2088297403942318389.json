@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2088177291600015680",
+    "created_at": "2026-08-14T16:11:14.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088297403942318389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3888271693",
+          "start": 0,
+          "username": "HuohuoSan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088297403942318389",
+    "in_reply_to_user_id": "3888271693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088256843546325315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuohuoSan 麻醉老师帮忙插个胃管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2088177291600015680",
+        "created_at": "2026-08-14T16:11:14.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088297403942318389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3888271693",
+              "start": 0,
+              "username": "HuohuoSan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088297403942318389",
+        "in_reply_to_user_id": "3888271693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088256843546325315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuohuoSan 麻醉老师帮忙插个胃管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3888271693",
+        "conversation_id": "2088177291600015680",
+        "created_at": "2026-08-14T13:30:04.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088256843546325315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088256843546325315",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088177291600015680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 suzume好可怜的样子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2088297403942318389",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 1294,
+          "like_count": 7859,
+          "listed_count": 7,
+          "media_count": 709,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-14T05:07:42.000Z",
+        "description": "〇某非专业医学狗－目前在长沙\n〇死肥宅猛男一只〇欢迎线下抓我\n〇脑子只有mtf和色色〇上班上班上班上班 要s掉了\nvchat：huohuocyan1\nqq：1485381906",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huohuocyan",
+                "end": 23,
+                "expanded_url": "http://t.me/huohuocyan",
+                "start": 0,
+                "url": "https://t.co/evQmBe59fr"
+              }
+            ]
+          }
+        },
+        "id": "3888271693",
+        "is_identity_verified": false,
+        "location": "American Fork, UT",
+        "most_recent_tweet_id": "2088259911591539083",
+        "name": "火火さん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3888271693/1444903808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021894967707537408/1HQ-WYay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 430,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/evQmBe59fr",
+        "username": "HuohuoSan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

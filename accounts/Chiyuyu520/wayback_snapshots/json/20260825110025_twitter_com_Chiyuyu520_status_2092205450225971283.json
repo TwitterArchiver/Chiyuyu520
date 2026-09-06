@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092205383209435136",
+        "3_2092205383213588480",
+        "3_2092205384228626433"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092205450225971283",
+    "created_at": "2026-08-25T11:00:25.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092205450225971283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjV9F1y6Ax",
+          "end": 28,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2092205450225971283/photo/1",
+          "media_key": "3_2092205383209435136",
+          "start": 5,
+          "url": "https://t.co/mjV9F1y6Ax"
+        },
+        {
+          "display_url": "pic.x.com/mjV9F1y6Ax",
+          "end": 28,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2092205450225971283/photo/1",
+          "media_key": "3_2092205383213588480",
+          "start": 5,
+          "url": "https://t.co/mjV9F1y6Ax"
+        },
+        {
+          "display_url": "pic.x.com/mjV9F1y6Ax",
+          "end": 28,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2092205450225971283/photo/1",
+          "media_key": "3_2092205384228626433",
+          "start": 5,
+          "url": "https://t.co/mjV9F1y6Ax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092205450225971283",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092205383209435136"
+      },
+      {
+        "media_key": "3_2092205383213588480"
+      },
+      {
+        "media_key": "3_2092205384228626433"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃饭。。 https://t.co/mjV9F1y6Ax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092205383209435136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkBtgdbwAAu-JB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092205383213588480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkBtgebIAAdQQO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092205384228626433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkBtkQbYAEoUCi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092205383209435136",
+            "3_2092205383213588480",
+            "3_2092205384228626433"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092205450225971283",
+        "created_at": "2026-08-25T11:00:25.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092205450225971283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjV9F1y6Ax",
+              "end": 28,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2092205450225971283/photo/1",
+              "media_key": "3_2092205383209435136",
+              "start": 5,
+              "url": "https://t.co/mjV9F1y6Ax"
+            },
+            {
+              "display_url": "pic.x.com/mjV9F1y6Ax",
+              "end": 28,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2092205450225971283/photo/1",
+              "media_key": "3_2092205383213588480",
+              "start": 5,
+              "url": "https://t.co/mjV9F1y6Ax"
+            },
+            {
+              "display_url": "pic.x.com/mjV9F1y6Ax",
+              "end": 28,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2092205450225971283/photo/1",
+              "media_key": "3_2092205384228626433",
+              "start": 5,
+              "url": "https://t.co/mjV9F1y6Ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092205450225971283",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092205383209435136"
+          },
+          {
+            "media_key": "3_2092205383213588480"
+          },
+          {
+            "media_key": "3_2092205384228626433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭。。 https://t.co/mjV9F1y6Ax"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2092205450225971283",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 1307,
+          "like_count": 8067,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2093577249962565796",
+    "created_at": "2026-08-29T05:51:27.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093577249962565796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2093251914347741666",
+          "start": 135,
+          "url": "https://t.co/B3Q3RCw0RB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093577249962565796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093251914347741666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你真正需要你所说的药品，有正当的理由或者病状，那么医生也会给你开\n而医生不开则说明你不需要这个药品\n那么从其他地方买这种药品非法物质的人，你们的企图就很可疑了\n开药请前往正规医院找医生自己挂号，自己开药。请勿滥用药品做非法用途\n\n我已经给两个人发了当地的禁毒电话了 https://t.co/B3Q3RCw0RB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093251903639699456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQy5hA3awAAo0ww.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2093577249962565796",
+        "created_at": "2026-08-29T05:51:27.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093577249962565796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2093251914347741666",
+              "start": 135,
+              "url": "https://t.co/B3Q3RCw0RB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093577249962565796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093251914347741666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你真正需要你所说的药品，有正当的理由或者病状，那么医生也会给你开\n而医生不开则说明你不需要这个药品\n那么从其他地方买这种药品非法物质的人，你们的企图就很可疑了\n开药请前往正规医院找医生自己挂号，自己开药。请勿滥用药品做非法用途\n\n我已经给两个人发了当地的禁毒电话了 https://t.co/B3Q3RCw0RB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093251903639699456"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2093251914347741666",
+        "created_at": "2026-08-28T08:18:41.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093251914347741666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cwh6b1YpBt",
+              "end": 155,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093251914347741666/photo/1",
+              "media_key": "3_2093251903639699456",
+              "start": 132,
+              "url": "https://t.co/Cwh6b1YpBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093251914347741666",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093251903639699456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我没有，也没有渠道\n你买不到的，我也买不到\n你开不到的，我也开不到。\n不懂化学，不会制毒\n我非常疑惑有任何人私聊问我有没有xx药，有没有什么非法物质的人，他们私信我的理由是什么\n如果我卖这些物质，那么我会直接说我卖\n如果我有，而且我“偷着卖”，那么我肯定赚不到钱\n如果我有，但是我不卖，我也不会为了特殊的一单铤而走险\n以后再有这样的，我就先问他是哪里的人，然后找他们当地禁毒的电话，跟他说“我知道这里有，你能不能买得到就不知道了”\n需要药物请自行寻找医生，正规开方，合法用药"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1035,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有，也没有渠道\n你买不到的，我也买不到\n你开不到的，我也开不到。\n不懂化学，不会制毒\n我非常疑惑有任何人私聊问我有没有xx药，有没有什么非法物质的人，他们私信我的理由是什么\n如果我卖这些物质，那么我会直接说我卖\n如果我有，而且我“偷着卖”，那么我肯定赚不到钱 https://t.co/Cwh6b1YpBt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2093577249962565796",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4764,
+          "following_count": 1308,
+          "like_count": 8108,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 1975
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

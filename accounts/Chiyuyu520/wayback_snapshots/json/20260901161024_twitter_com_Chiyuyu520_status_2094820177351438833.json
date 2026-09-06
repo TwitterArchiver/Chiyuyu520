@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2094786815173742947",
+    "created_at": "2026-09-01T16:10:24.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094820177351438833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055675202550611968",
+          "start": 0,
+          "username": "9mxrbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094820177351438833",
+    "in_reply_to_user_id": "2055675202550611968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094788885075329357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9mxrbj 不要非法购药哦，请寻求正规医生的帮助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2094786815173742947",
+        "created_at": "2026-09-01T16:10:24.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094820177351438833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055675202550611968",
+              "start": 0,
+              "username": "9mxrbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094820177351438833",
+        "in_reply_to_user_id": "2055675202550611968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094788885075329357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9mxrbj 不要非法购药哦，请寻求正规医生的帮助"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055675202550611968",
+        "conversation_id": "2094786815173742947",
+        "created_at": "2026-09-01T14:06:04.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094788885075329357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094788885075329357",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094786815173742947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我有自治区级医院的心理检查报告实在不行 我就要找药贩子了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2094820177351438833",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 1306,
+          "like_count": 8205,
+          "listed_count": 6,
+          "media_count": 779,
+          "tweet_count": 2009
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T15:43:44.000Z",
+        "description": "mtf药娘（无证含糖）坐标宁夏过门主页截图过门68 越多越好喵长期接受各种投喂",
+        "id": "2055675202550611968",
+        "is_identity_verified": false,
+        "location": "宁夏",
+        "most_recent_tweet_id": "2094818585508278625",
+        "name": "徐小天🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2089974607650718170",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055690829700968448/Ejb03u0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 41,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "9mxrbj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

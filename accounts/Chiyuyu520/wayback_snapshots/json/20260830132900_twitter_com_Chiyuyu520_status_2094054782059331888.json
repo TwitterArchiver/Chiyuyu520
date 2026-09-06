@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2056635927024570461",
+    "created_at": "2026-08-30T13:29:00.000Z",
+    "display_text_range": [
+      10,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094054782059331888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041844618627600384",
+          "start": 0,
+          "username": "c841lmym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094054782059331888",
+    "in_reply_to_user_id": "2041844618627600384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094048202970554723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c841lmym 我没有被打，精神科被打一次，我拒了。精神科被打电话就换神经内科，基本一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2056635927024570461",
+        "created_at": "2026-08-30T13:29:00.000Z",
+        "display_text_range": [
+          10,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094054782059331888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041844618627600384",
+              "start": 0,
+              "username": "c841lmym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094054782059331888",
+        "in_reply_to_user_id": "2041844618627600384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094048202970554723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c841lmym 我没有被打，精神科被打一次，我拒了。精神科被打电话就换神经内科，基本一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041844618627600384",
+        "conversation_id": "2056635927024570461",
+        "created_at": "2026-08-30T13:02:51.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094048202970554723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094048202970554723",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056635927024570461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 未成年去开处方一定会被打电话嘛🫠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2094054782059331888",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 1305,
+          "like_count": 8161,
+          "listed_count": 6,
+          "media_count": 769,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T11:44:49.000Z",
+        "description": "BI 🏳️‍🌈",
+        "id": "2041844618627600384",
+        "is_identity_verified": false,
+        "location": "hell",
+        "most_recent_tweet_id": "2094048202970554723",
+        "name": "chhhhhy84",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092218154638581760/yzzmSygq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "c841lmym",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093575775727632384",
+        "3_2093575775727595520"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093575798557139005",
+    "created_at": "2026-08-29T05:45:41.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093575798557139005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1j63iTU55x",
+          "end": 32,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2093575798557139005/photo/1",
+          "media_key": "3_2093575775727632384",
+          "start": 9,
+          "url": "https://t.co/1j63iTU55x"
+        },
+        {
+          "display_url": "pic.x.com/1j63iTU55x",
+          "end": 32,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2093575798557139005/photo/1",
+          "media_key": "3_2093575775727595520",
+          "start": 9,
+          "url": "https://t.co/1j63iTU55x"
+        },
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2093499923606204921",
+          "start": 33,
+          "url": "https://t.co/ymv5xQJlzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093575798557139005",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093575775727632384"
+      },
+      {
+        "media_key": "3_2093575775727595520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093499923606204921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到公交公司充值的 https://t.co/1j63iTU55x https://t.co/ymv5xQJlzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2093575775727632384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3gE2abwAAzzNa.jpg",
+        "width": 1024
+      },
+      {
+        "height": 912,
+        "media_key": "3_2093575775727595520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3gE2abMAAkSE_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093499903121190912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2bEe7acAAOQk1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093499903121166336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2bEe7aEAAXmwx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093575775727632384",
+            "3_2093575775727595520"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093575798557139005",
+        "created_at": "2026-08-29T05:45:41.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093575798557139005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1j63iTU55x",
+              "end": 32,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093575798557139005/photo/1",
+              "media_key": "3_2093575775727632384",
+              "start": 9,
+              "url": "https://t.co/1j63iTU55x"
+            },
+            {
+              "display_url": "pic.x.com/1j63iTU55x",
+              "end": 32,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093575798557139005/photo/1",
+              "media_key": "3_2093575775727595520",
+              "start": 9,
+              "url": "https://t.co/1j63iTU55x"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2093499923606204921",
+              "start": 33,
+              "url": "https://t.co/ymv5xQJlzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093575798557139005",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093575775727632384"
+          },
+          {
+            "media_key": "3_2093575775727595520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093499923606204921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到公交公司充值的 https://t.co/1j63iTU55x https://t.co/ymv5xQJlzd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093499903121190912",
+            "3_2093499903121166336"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2093499923606204921",
+        "created_at": "2026-08-29T00:44:11.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093499923606204921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGa1X0qyTg",
+              "end": 107,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093499923606204921/photo/1",
+              "media_key": "3_2093499903121190912",
+              "start": 84,
+              "url": "https://t.co/lGa1X0qyTg"
+            },
+            {
+              "display_url": "pic.x.com/lGa1X0qyTg",
+              "end": 107,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093499923606204921/photo/1",
+              "media_key": "3_2093499903121166336",
+              "start": 84,
+              "url": "https://t.co/lGa1X0qyTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093499923606204921",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093499903121190912"
+          },
+          {
+            "media_key": "3_2093499903121166336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 677,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被琪可赠送了一张兰州交发建的交通联合卡\n卡余额是 0，无法线上充值，只能兰州本地线下去现金充值（因为是半张内部卡）\n想问一下各位推 u 们有没有什么邪招能往里面充钱的 https://t.co/lGa1X0qyTg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2093575798557139005",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4764,
+          "following_count": 1308,
+          "like_count": 8108,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

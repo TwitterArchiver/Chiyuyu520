@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095140188599304192"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095140219586834812",
+    "created_at": "2026-09-02T13:22:08.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095140219586834812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SqSkvKqEs",
+          "end": 39,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2095140219586834812/photo/1",
+          "media_key": "3_2095140188599304192",
+          "start": 16,
+          "url": "https://t.co/6SqSkvKqEs"
+        },
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2094752110852366377",
+          "start": 40,
+          "url": "https://t.co/i8ZYPEIlWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095140219586834812",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095140188599304192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094752110852366377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "屏幕上的每个中文都很炸裂 x2 https://t.co/6SqSkvKqEs https://t.co/i8ZYPEIlWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095140188599304192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNu5qgbQAA_ZYb.jpg",
+        "width": 943
+      },
+      {
+        "height": 928,
+        "media_key": "3_2094752085292331008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIN7FBbsAA3al5.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095140188599304192"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095140219586834812",
+        "created_at": "2026-09-02T13:22:08.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095140219586834812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SqSkvKqEs",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2095140219586834812/photo/1",
+              "media_key": "3_2095140188599304192",
+              "start": 16,
+              "url": "https://t.co/6SqSkvKqEs"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2094752110852366377",
+              "start": 40,
+              "url": "https://t.co/i8ZYPEIlWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095140219586834812",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095140188599304192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094752110852366377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "屏幕上的每个中文都很炸裂 x2 https://t.co/6SqSkvKqEs https://t.co/i8ZYPEIlWZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094752085292331008"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2094752110852366377",
+        "created_at": "2026-09-01T11:39:56.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094752110852366377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KornJh1lyo",
+              "end": 36,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2094752110852366377/photo/1",
+              "media_key": "3_2094752085292331008",
+              "start": 13,
+              "url": "https://t.co/KornJh1lyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094752110852366377",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094752085292331008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 28466,
+          "like_count": 291,
+          "quote_count": 2,
+          "reply_count": 67,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "屏幕上的每个中文都很炸裂 https://t.co/KornJh1lyo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2095140219586834812",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4841,
+          "following_count": 1306,
+          "like_count": 8231,
+          "listed_count": 6,
+          "media_count": 782,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

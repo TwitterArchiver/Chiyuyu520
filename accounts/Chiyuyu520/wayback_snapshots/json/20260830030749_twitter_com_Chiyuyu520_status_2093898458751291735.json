@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093898443542671360"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2093898458751291735",
+    "created_at": "2026-08-30T03:07:49.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093898458751291735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qF5hGNqnmg",
+          "end": 172,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2093898458751291735/photo/1",
+          "media_key": "3_2093898443542671360",
+          "start": 149,
+          "url": "https://t.co/qF5hGNqnmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093898458751291735",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093898443542671360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "15 岁把精神科半个毕业掉了\n广泛性焦虑障碍 腰痛\n我现在可以在神经内科和精神科凭借过往病历合法合规开出普瑞巴林等\n如果不出意外我在神内的氯硝最大量提到了 20mg/d 了\n机票有神票，处方有神方\n可惜这家医院不能同时开两个精二 普瑞也没有\n只能下午换一家补开\n（正规医嘱，无药物滥用，合理用药） https://t.co/qF5hGNqnmg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093898443542671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8FilsasAA_Jrf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093898443542671360"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2093898458751291735",
+        "created_at": "2026-08-30T03:07:49.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093898458751291735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qF5hGNqnmg",
+              "end": 172,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093898458751291735/photo/1",
+              "media_key": "3_2093898443542671360",
+              "start": 149,
+              "url": "https://t.co/qF5hGNqnmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093898458751291735",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093898443542671360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15 岁把精神科半个毕业掉了\n广泛性焦虑障碍 腰痛\n我现在可以在神经内科和精神科凭借过往病历合法合规开出普瑞巴林等\n如果不出意外我在神内的氯硝最大量提到了 20mg/d 了\n机票有神票，处方有神方\n可惜这家医院不能同时开两个精二 普瑞也没有\n只能下午换一家补开\n（正规医嘱，无药物滥用，合理用药） https://t.co/qF5hGNqnmg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2093898458751291735",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 1308,
+          "like_count": 8146,
+          "listed_count": 6,
+          "media_count": 764,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

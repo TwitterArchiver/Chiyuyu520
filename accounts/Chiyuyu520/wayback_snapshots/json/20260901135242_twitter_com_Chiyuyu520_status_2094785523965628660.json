@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094785483268395008"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2094785523965628660",
+    "created_at": "2026-09-01T13:52:42.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094785523965628660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ylHkG7irjo",
+          "end": 170,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2094785523965628660/photo/1",
+          "media_key": "3_2094785483268395008",
+          "start": 147,
+          "url": "https://t.co/ylHkG7irjo"
+        },
+        {
+          "display_url": "x.com/9mxrbj/status/…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/9mxrbj/status/2094777343349080532",
+          "start": 171,
+          "url": "https://t.co/UwGY5K9yuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094785523965628660",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094785483268395008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094777343349080532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "需要医生给你开神经痛的诊断，这是最快速的，如果靠焦虑来开限制条件苛刻\n1.你需要遇到一个愿意负责你的医生，不会把你打发到精神科\n2.医生敢超说明书用药，这个跟医生和医院都有关系，因为容易被罚出事\n3.医生认为你确实需要这个药，给你没有显著风险，有滥用风险不会开给你的\n4.你的地区对此药不敏感 https://t.co/ylHkG7irjo https://t.co/UwGY5K9yuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094785483268395008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIsTGLbkAAGvGg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094785483268395008"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2094785523965628660",
+        "created_at": "2026-09-01T13:52:42.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094785523965628660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylHkG7irjo",
+              "end": 170,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2094785523965628660/photo/1",
+              "media_key": "3_2094785483268395008",
+              "start": 147,
+              "url": "https://t.co/ylHkG7irjo"
+            },
+            {
+              "display_url": "x.com/9mxrbj/status/…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/9mxrbj/status/2094777343349080532",
+              "start": 171,
+              "url": "https://t.co/UwGY5K9yuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094785523965628660",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094785483268395008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094777343349080532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "需要医生给你开神经痛的诊断，这是最快速的，如果靠焦虑来开限制条件苛刻\n1.你需要遇到一个愿意负责你的医生，不会把你打发到精神科\n2.医生敢超说明书用药，这个跟医生和医院都有关系，因为容易被罚出事\n3.医生认为你确实需要这个药，给你没有显著风险，有滥用风险不会开给你的\n4.你的地区对此药不敏感 https://t.co/ylHkG7irjo https://t.co/UwGY5K9yuk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055675202550611968",
+        "conversation_id": "2094673846733586881",
+        "created_at": "2026-09-01T13:20:12.000Z",
+        "display_text_range": [
+          12,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094777343349080532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094777343349080532",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094673846733586881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 15岁 能不能单独首次开出来啊 我有重度自杀倾向 中度抑郁症中度焦虑症中度狂躁症轻度躯体化就是能不能单独的去开下来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2094785523965628660",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 1307,
+          "like_count": 8202,
+          "listed_count": 6,
+          "media_count": 777,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T15:43:44.000Z",
+        "description": "mtf药娘（无证含糖）坐标宁夏过门主页截图过门68 越多越好喵长期接受各种投喂",
+        "id": "2055675202550611968",
+        "is_identity_verified": false,
+        "location": "宁夏",
+        "most_recent_tweet_id": "2094777343349080532",
+        "name": "徐小天🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2089974607650718170",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055690829700968448/Ejb03u0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 40,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "9mxrbj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

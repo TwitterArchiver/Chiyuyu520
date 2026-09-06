@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092516661714972672",
+        "3_2092516661723275264"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2092516676835389870",
+    "created_at": "2026-08-26T07:37:07.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092516676835389870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QWkIMUF91D",
+          "end": 128,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2092516676835389870/photo/1",
+          "media_key": "3_2092516661714972672",
+          "start": 105,
+          "url": "https://t.co/QWkIMUF91D"
+        },
+        {
+          "display_url": "pic.x.com/QWkIMUF91D",
+          "end": 128,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2092516676835389870/photo/1",
+          "media_key": "3_2092516661723275264",
+          "start": 105,
+          "url": "https://t.co/QWkIMUF91D"
+        },
+        {
+          "display_url": "x.com/sanyueqiuqoji/…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/sanyueqiuqoji/status/2081449365370245189",
+          "start": 129,
+          "url": "https://t.co/bpG04yTBMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092516676835389870",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092516661714972672"
+      },
+      {
+        "media_key": "3_2092516661723275264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081449365370245189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事实上，三秋并没有死。\n某人在QQ空间发讣告，造成了这次的大范围传播\n但那位发讣告的“关荷”本身并没有求证过\n甚至说出类似于“mtf吃药活不过30岁所以我不吃药”\n这这样的神秘说法，\n各位期望她安然归来就好了 https://t.co/QWkIMUF91D https://t.co/bpG04yTBMh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092516661714972672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoc0TQbcAAkTZA.jpg",
+        "width": 190
+      },
+      {
+        "height": 1918,
+        "media_key": "3_2092516661723275264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoc0TSaIAAD932.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092516661714972672",
+            "3_2092516661723275264"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2092516676835389870",
+        "created_at": "2026-08-26T07:37:07.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092516676835389870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWkIMUF91D",
+              "end": 128,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2092516676835389870/photo/1",
+              "media_key": "3_2092516661714972672",
+              "start": 105,
+              "url": "https://t.co/QWkIMUF91D"
+            },
+            {
+              "display_url": "pic.x.com/QWkIMUF91D",
+              "end": 128,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2092516676835389870/photo/1",
+              "media_key": "3_2092516661723275264",
+              "start": 105,
+              "url": "https://t.co/QWkIMUF91D"
+            },
+            {
+              "display_url": "x.com/sanyueqiuqoji/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/sanyueqiuqoji/status/2081449365370245189",
+              "start": 129,
+              "url": "https://t.co/bpG04yTBMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092516676835389870",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092516661714972672"
+          },
+          {
+            "media_key": "3_2092516661723275264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081449365370245189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上，三秋并没有死。\n某人在QQ空间发讣告，造成了这次的大范围传播\n但那位发讣告的“关荷”本身并没有求证过\n甚至说出类似于“mtf吃药活不过30岁所以我不吃药”\n这这样的神秘说法，\n各位期望她安然归来就好了 https://t.co/QWkIMUF91D https://t.co/bpG04yTBMh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080653636418326528",
+        "conversation_id": "2081449365370245189",
+        "created_at": "2026-07-26T18:39:34.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081449365370245189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081449365370245189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 66103,
+          "like_count": 454,
+          "quote_count": 17,
+          "reply_count": 149,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n三秋@三秋🍥🏳️‍⚧️于2026年7月27日服用过量亚硝酸溶液死亡，很开心，终于结束了漫长的痛苦，愿她来世安宁，能当个真正的女孩\n\n最后一次拥抱大家，借着大家的体温死亡不再冰冷，愿我来世安宁。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2092516676835389870",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 1308,
+          "like_count": 8089,
+          "listed_count": 7,
+          "media_count": 742,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T14:05:53.000Z",
+        "description": "一只三秋，天然呆反应慢/社恐但是努力交友喵/终会和所有喜欢的人相见喵",
+        "id": "2080653636418326528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2081449365370245189",
+        "name": "三月秋🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080653636418326528/1784902421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080657562261663744/vzc9ZCOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 15,
+          "like_count": 7,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "sanyueqiuqoji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
