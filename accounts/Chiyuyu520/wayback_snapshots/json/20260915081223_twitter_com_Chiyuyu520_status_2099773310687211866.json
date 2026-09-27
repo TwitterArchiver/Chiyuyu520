@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099773290529378304",
+        "3_2099773290541977600"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "conversation_id": "2099773310687211866",
+    "created_at": "2026-09-15T08:12:23.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099773310687211866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bgWc4eeH7r",
+          "end": 43,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2099773310687211866/photo/1",
+          "media_key": "3_2099773290529378304",
+          "start": 20,
+          "url": "https://t.co/bgWc4eeH7r"
+        },
+        {
+          "display_url": "pic.x.com/bgWc4eeH7r",
+          "end": 43,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2099773310687211866/photo/1",
+          "media_key": "3_2099773290541977600",
+          "start": 20,
+          "url": "https://t.co/bgWc4eeH7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099773310687211866",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099773290529378304"
+      },
+      {
+        "media_key": "3_2099773290541977600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。。\n长期服药，唉卧槽，。\n我真神经痛 https://t.co/bgWc4eeH7r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099773290529378304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPkrsLbUAA1YaL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099773290541977600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPkrsObkAAM4gn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099773290529378304",
+            "3_2099773290541977600"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2099773310687211866",
+        "created_at": "2026-09-15T08:12:23.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099773310687211866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgWc4eeH7r",
+              "end": 43,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2099773310687211866/photo/1",
+              "media_key": "3_2099773290529378304",
+              "start": 20,
+              "url": "https://t.co/bgWc4eeH7r"
+            },
+            {
+              "display_url": "pic.x.com/bgWc4eeH7r",
+              "end": 43,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2099773310687211866/photo/1",
+              "media_key": "3_2099773290541977600",
+              "start": 20,
+              "url": "https://t.co/bgWc4eeH7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099773310687211866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099773290529378304"
+          },
+          {
+            "media_key": "3_2099773290541977600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。\n长期服药，唉卧槽，。\n我真神经痛 https://t.co/bgWc4eeH7r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2099773310687211866",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4911,
+          "following_count": 1305,
+          "like_count": 8540,
+          "listed_count": 6,
+          "media_count": 801,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
