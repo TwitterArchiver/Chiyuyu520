@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108490605517291520"
+      ]
+    },
+    "author_id": "1904873292366036992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "2108490617705951590",
+    "created_at": "2026-10-09T09:31:51.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T10:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108490617705951590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "107238136",
+          "start": 10,
+          "username": "duolingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qSe0FB6twK",
+          "end": 47,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2108490617705951590/photo/1",
+          "media_key": "3_2108490605517291520",
+          "start": 24,
+          "url": "https://t.co/qSe0FB6twK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108490617705951590",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108490605517291520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上个厕所也要逼我学吗@duolingo 你赢了 https://t.co/qSe0FB6twK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108490605517291520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULdCNIbQAA3iGt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108490605517291520"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2108490617705951590",
+        "created_at": "2026-10-09T09:31:51.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108490617705951590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "107238136",
+              "start": 10,
+              "username": "duolingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSe0FB6twK",
+              "end": 47,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2108490617705951590/photo/1",
+              "media_key": "3_2108490605517291520",
+              "start": 24,
+              "url": "https://t.co/qSe0FB6twK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108490617705951590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108490605517291520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上个厕所也要逼我学吗@duolingo 你赢了 https://t.co/qSe0FB6twK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": true,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2108490617705951590",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5007,
+          "following_count": 1306,
+          "like_count": 8878,
+          "listed_count": 6,
+          "media_count": 856,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "educated girl autumn 🎃🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duolingo.com",
+                "end": 23,
+                "expanded_url": "http://duolingo.com",
+                "start": 0,
+                "url": "https://t.co/rkZWsyHSRz"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108416231292219710",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2105687145889616149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107238136/1791383788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107841641071497216/55AdYa3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049456,
+          "following_count": 509,
+          "like_count": 24727,
+          "listed_count": 2790,
+          "media_count": 2146,
+          "tweet_count": 54387
+        },
+        "url": "https://t.co/rkZWsyHSRz",
+        "username": "duolingo",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1904873292366036992",
+    "conversation_id": "2106681459859669497",
+    "created_at": "2026-10-04T13:16:10.000Z",
+    "display_text_range": [
+      18,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106735129339347442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467659726",
+          "start": 0,
+          "username": "WorstCat"
+        },
+        {
+          "end": 17,
+          "id": "1959893383633358848",
+          "start": 10,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106735129339347442",
+    "in_reply_to_user_id": "467659726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106681459859669497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorstCat @Cbscfe 也把我b了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2106681424934047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxvmCQbkAAIfpu.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2106681438234124288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxvmzzaoAACxD4.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2106681451693674496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxvnl8bEAA1zu-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2106681459859669497",
+        "created_at": "2026-10-04T13:16:10.000Z",
+        "display_text_range": [
+          18,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106735129339347442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 17,
+              "id": "1959893383633358848",
+              "start": 10,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106735129339347442",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106681459859669497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @Cbscfe 也把我b了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106681424934047744",
+            "3_2106681438234124288",
+            "3_2106681451693674496"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2106681459859669497",
+        "created_at": "2026-10-04T09:42:54.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106681459859669497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pN3Du3Nosp",
+              "end": 44,
+              "expanded_url": "https://x.com/WorstCat/status/2106681459859669497/photo/1",
+              "media_key": "3_2106681424934047744",
+              "start": 21,
+              "url": "https://t.co/pN3Du3Nosp"
+            },
+            {
+              "display_url": "pic.x.com/pN3Du3Nosp",
+              "end": 44,
+              "expanded_url": "https://x.com/WorstCat/status/2106681459859669497/photo/1",
+              "media_key": "3_2106681438234124288",
+              "start": 21,
+              "url": "https://t.co/pN3Du3Nosp"
+            },
+            {
+              "display_url": "pic.x.com/pN3Du3Nosp",
+              "end": 44,
+              "expanded_url": "https://x.com/WorstCat/status/2106681459859669497/photo/1",
+              "media_key": "3_2106681451693674496",
+              "start": 21,
+              "url": "https://t.co/pN3Du3Nosp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106681459859669497",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106681424934047744"
+          },
+          {
+            "media_key": "3_2106681438234124288"
+          },
+          {
+            "media_key": "3_2106681451693674496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1681,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阿片鬼被嫌弃了，被很喜欢的互关ban了🥺 https://t.co/pN3Du3Nosp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2106735129339347442",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 1304,
+          "like_count": 8663,
+          "listed_count": 6,
+          "media_count": 828,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2106707198957265404",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 155,
+          "like_count": 22265,
+          "listed_count": 6,
+          "media_count": 344,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\nCbscfe？\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，不割，O，面基无伤人记录，有安全风险",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2106724093332803631",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 859,
+          "like_count": 26526,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 8129
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
